@@ -5,7 +5,7 @@ env.txt
 *.key
 
 # Pipeline outputs
-verify-results.csv
+# verify-results.csv is tracked - it is the audit record cited by RECONCILIATION.md
 
 # Reference photos are fetched/supplied locally, not redistributed.
 # The README in that directory is tracked; the images are not.

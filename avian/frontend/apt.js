@@ -2,16 +2,17 @@
   var PLACEHOLDER = [{ "sci": "Calypte anna", "com": "Anna's Hummingbird", "featured": true }, { "sci": "Passer domesticus", "com": "House Sparrow" }, { "sci": "Haemorhous mexicanus", "com": "House Finch" }, { "sci": "Turdus migratorius", "com": "American Robin" }, { "sci": "Zenaida macroura", "com": "Mourning Dove" }, { "sci": "Spinus psaltria", "com": "Lesser Goldfinch" }, { "sci": "Zonotrichia leucophrys", "com": "White-crowned Sparrow" }, { "sci": "Aphelocoma californica", "com": "California Scrub-Jay" }, { "sci": "Mimus polyglottos", "com": "Northern Mockingbird" }, { "sci": "Sayornis nigricans", "com": "Black Phoebe" }, { "sci": "Larus occidentalis", "com": "Western Gull" }, { "sci": "Corvus brachyrhynchos", "com": "American Crow" }];
   // Bumped whenever the offline sketch build changes, so the browser
   // doesn't keep a stale cache after we regenerate the sketches.
-  var SKETCH_VERSION = 'act1'; // act1: AU-VIC bundle (398 species) swapped in for the North American
-  // set, masks rebuilt for Canberra/ACT deployment. r12: 84 eastern NA birds (PR #23) refined + re-cut.
+  var SKETCH_VERSION = 'act2'; // act2: +5 ACT gap species (403 total, 806 images) - Australasian Pipit,
+  // Cattle Egret, Variegated Fairywren, Intermediate Egret, Barn Owl. act1: AU-VIC bundle (398 species)
+  // swapped in for the North American set, masks rebuilt for Canberra/ACT deployment.
   // Cache-bust for /api/img - bump whenever a bird gets re-rendered via
   // /api/regen or whenever you need every CF DC to drop its cached copy.
   // Cloudflare keys on the full URL incl. query, so bumping this is
   // equivalent to a global cache purge for /api/img. (caches.default
   // .delete() in the worker only affects ONE colo at a time, so a
   // versioned URL is the only reliable way to invalidate everywhere.)
-  var IMG_VERSION = 'act1'; // act1: every illustration replaced with the AU-VIC set, so drop every
-  // cached copy. r12: 84 eastern NA birds (PR #23) refined + re-cut.
+  var IMG_VERSION = 'act2'; // act2: +5 ACT gap species; Intermediate Egret and Australasian Pipit flight
+  // pose re-rendered. act1: every illustration replaced with the AU-VIC set, so drop every cached copy.
 
   // ---- Sliding pill helper ----
   // Each segmented control has a single .seg-pill element that we move via

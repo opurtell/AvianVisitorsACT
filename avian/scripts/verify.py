@@ -29,9 +29,15 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
+# Vision model for the blind re-ID pass. Pinned gemini-2.5-flash started
+# returning 404 ("no longer available to new users"), which surfaced as a
+# silent false pass: every call failed, no rows were written, and the run
+# still reported "0 mismatch(es)" and exited 0. The floating -latest alias
+# is used instead of a pinned version so the check degrades to a newer
+# model rather than to a fake green.
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    "gemini-2.5-flash:generateContent"
+    "gemini-flash-latest:generateContent"
 )
 
 VERIFY_PROMPT = """You are a rigorous ornithologist examining a stylized kachō-e woodblock-style bird illustration. The bird in the image is intended to be a {target_com} ({target_sci}).

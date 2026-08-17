@@ -12,8 +12,8 @@ derived independently and documented in **[RECONCILIATION.md](RECONCILIATION.md)
 
 ```
 avian/
-  assets/illustrations/    796 PNGs — 398 species, perched + flight
-  assets/references/       what to supply for generation (README only)
+  assets/illustrations/    806 PNGs — 403 species, perched + flight
+  assets/references/       manifest + README (images gitignored)
   frontend/                apt.js + dims.json + masks.json + index.html
   scripts/                 the four-stage generation pipeline
   api/                     PHP resolvers (cutout.php serves the art)

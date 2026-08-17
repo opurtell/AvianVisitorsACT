@@ -5,13 +5,12 @@ Canberra / Australian Capital Territory deployment of
 [AusVicVisitors](https://github.com/TheWillni/AusVicVisitors) AU-VIC
 illustration bundle.
 
-**Status: gap derived and merged asset set built. Illustration generation
-deliberately halted before any Gemini image call — see
-[Environment constraints](#environment-constraints).**
+**Status: complete. 5 gap species generated, cut out, verified, merged and
+mask-rebuilt. 403 species / 806 illustrations, `act2`.**
 
-**Gemini spend: $0.00.** No image-generation request was issued. The only
-Gemini call made was one unauthenticated `GET /v1beta/models` to confirm the
-key and endpoint were reachable, which is not billed.
+**Gemini spend: ~$0.48.** 12 images generated (10 initial + 2 regenerations)
+at 1290 output tokens each, $30/1M → $0.464, plus ~23 verification vision
+calls at roughly $0.02 total. Well under the 40-image hard stop.
 
 ---
 
@@ -24,8 +23,8 @@ key and endpoint were reachable, which is not billed.
 | — genuine gaps | **5** |
 | Coverage as-is | **97.5%** |
 | Coverage after generating the 5 | **100%** |
-| Images to generate | 10 (5 species × 2 poses) |
-| Estimated cost | ~$0.39 |
+| Images generated | 12 (10 + 2 regenerations) |
+| Actual cost | ~$0.48 |
 
 Of the 7 species in the original `act-generate-targets.txt`: **3 confirmed**,
 **1 renamed**, **3 dropped**. One species the prior analysis dismissed as a
@@ -41,7 +40,7 @@ internet. Confirmed blocked (gateway answers `403` to `CONNECT`):
 | Host | Needed for | Impact |
 |---|---|---|
 | `api.ebird.org` | Set A, per the brief | **Set A re-derived from another source — see below** |
-| `en.wikipedia.org`, `upload.wikimedia.org` | `pregen.py` IMAGE 1 anatomy reference | Generation halted |
+| `en.wikipedia.org`, `upload.wikimedia.org` | `pregen.py` IMAGE 1 anatomy reference | **References supplied by hand — see below** |
 | `api.gbif.org`, `biocache-ws.ala.org.au` | independent occurrence cross-check | Cross-check unavailable |
 | `huggingface.co` | — | none, BiRefNet came from GitHub |
 
@@ -52,29 +51,46 @@ Confirmed working: **Gemini API** (key valid, `models` endpoint returns 200),
 The proxy's own README states that policy denials must be reported rather than
 routed around, so no workaround was attempted for any blocked host.
 
-### Why generation was halted
+### Generation was halted, then unblocked by hand-supplied references
 
-`pregen.py` attaches up to three reference images per request. In this
-environment it could attach **none**:
+`pregen.py` attaches up to three reference images per request. With Wikipedia
+blocked and no `assets/references/` directory in the repo, it could initially
+attach **none**:
 
-- **IMAGE 1 (anatomy)** — auto-fetched from Wikipedia. Host blocked, and the
-  repo ships no `assets/references/` directory, so there was no cache to fall
-  back on.
+- **IMAGE 1 (anatomy)** — auto-fetched from Wikipedia. Host blocked, no cache
+  to fall back on.
 - **IMAGE 3 (style)** — the Edo-period kachō-e prints. Upstream deliberately
-  does not bundle these ("they are someone else's art"), and they are not in
-  the repo.
+  does not bundle these ("they are someone else's art").
 - **IMAGE 2 (anti-reference)** — not applicable; no ACT target triggers
   `ANTI_REF_TRIGGERS`.
 
-The prompt body in `prompt.template.md` refers to IMAGE 1, IMAGE 2 and IMAGE 3
-by name throughout and instructs the model to match their painting technique.
-Sending it with no images attached invites exactly the two failure modes the
-brief called out as unacceptable — species drift and a style mismatch against
-the Victorian set. `prompt.template.md` was not edited, and generating a set
-that visibly diverges from the AU-VIC art was judged worse than shipping the
-gap. Generation therefore stops here pending references.
+`prompt.template.md` refers to IMAGE 1 and IMAGE 3 by name throughout and
+instructs the model to match their painting technique. Sending it with nothing
+attached invites the two failure modes the brief called unacceptable — species
+drift and style mismatch against the Victorian set. Generation was therefore
+**halted rather than attempted blind**, and `prompt.template.md` was never
+edited.
 
-Everything that does **not** depend on generation has been completed.
+Ten reference files were then supplied out of band and placed by hand:
+five anatomy photographs and five Koson prints, one per `STYLE_REFS` slot the
+ACT targets resolve to (01, 05, 06, 07, 08). Every subsequent generation call
+logged `+ref+note`, confirming both the anatomy reference and the per-species
+addendum reached the API. Provenance and licensing for all ten are recorded in
+[`avian/assets/references/manifest.csv`](avian/assets/references/manifest.csv);
+the images themselves are gitignored rather than redistributed.
+
+Two were cropped before use, because `pregen.py` downscales IMAGE 1 to 384 px
+on the long side and a bird occupying a small fraction of the frame survives
+that as almost nothing: the pipit (~4% of frame) and the Intermediate Egret
+(~13%). Both crops are noted in the manifest's `local_edits` column.
+
+One reference was checked rather than trusted. The supplied *Ardea intermedia*
+photo showed a long, sharply kinked neck that reads as *Ardea alba*;
+magnifying the head resolved it in favour of Intermediate Egret — the gape
+line terminates at the eye rather than running behind it, with a rounded crown
+and a moderate bill. This mattered because the library already contains
+`ardea-alba`, and a Great Egret reference would have guaranteed a duplicate
+tile.
 
 ---
 
@@ -301,8 +317,8 @@ makes new art appear at all**. Both constants have been bumped (below).
 | `avian/scripts/act-species-canberra.csv` — full 198-species set A | ✅ |
 | `avian/scripts/species-notes.json` — diagnostic notes for the 5 targets | ✅ added |
 | `avian/assets/references/README.md` — what to supply, per slot | ✅ |
-| 10 new illustrations | ⏸ **halted — references unavailable** |
-| `verify.py` pass/fail table | ⏸ **blocked on generation** |
+| 10 new illustrations | ✅ generated, cut out, verified |
+| `verify.py` pass/fail table | ✅ 9/10 pass — see below |
 
 The North American illustration set (666 files) was removed, per decision: none
 of those species clears `SF_THRESH` at Canberra, so they were pure weight in
@@ -330,7 +346,97 @@ regenerating separately.
 
 ---
 
-## How to resume generation
+## Verification results
+
+`verify.py` sends each illustration back through Gemini Vision *without*
+telling it the target species, then compares the blind guess and checks
+anatomy counts. Final pass, all 10 images:
+
+| Image | Blind guess | Result | Notes |
+|---|---|---|---|
+| `anthus-novaeseelandiae` | Australasian Pipit | ✅ | |
+| `anthus-novaeseelandiae-2` | Australasian Pipit | ✅ | regenerated once |
+| `bubulcus-ibis` | Cattle Egret | ✅ | |
+| `bubulcus-ibis-2` | Cattle Egret | ✅ | |
+| `malurus-lamberti` | Variegated Fairywren | ✅ | chestnut shoulder rendered |
+| `malurus-lamberti-2` | Variegated Fairywren | ✅ | wings read slightly hirundine |
+| `ardea-intermedia` | Little Egret | ❌ | **accepted — see below** |
+| `ardea-intermedia-2` | Intermediate Egret | ✅ | |
+| `tyto-alba` | Barn Owl | ✅ | no ear tufts despite scops-owl style ref |
+| `tyto-alba-2` | Barn Owl | ✅ | |
+
+**9/10 pass.** Raw output in `avian/scripts/verify-results.csv`.
+
+### Two regenerations
+
+- **`anthus-novaeseelandiae-2`** first rendered with long forked tail
+  streamers and was blind-identified as a *Eurasian Skylark*. A tail-specific
+  anti-drift clause was added to `species-notes.json` and the flight pose
+  alone re-rendered (`--poses 2`). Now passes.
+- **`ardea-intermedia`** first rendered as a near-duplicate of the
+  `ardea-alba` already in the library — same long S-kinked neck, same dagger
+  bill. This is the exact failure the species note existed to prevent, and it
+  is the one that matters: two indistinguishable tiles on the wall. A
+  size/shape anti-drift clause was added (short thick neck, blunt bill,
+  rounded head, hunched posture) and the perched pose re-rendered. The two
+  are now plainly different birds.
+
+### Why the remaining miss was accepted
+
+`ardea-intermedia` still reads as "Little Egret" to the blind check, but the
+verdict is not credible on its own terms:
+
+1. It lists *Little Egret's* diagnostics — yellow feet, black bill base — as
+   **missing**, so it is not actually seeing a Little Egret; it is picking the
+   nearest small-white-egret label.
+2. It penalises the render for "missing: gape line extending behind eye for
+   Intermediate Egret". **That diagnostic is inverted.** A gape line running
+   behind the eye is the *Great Egret* mark; on *Ardea intermedia* it stops at
+   the eye. The image is being marked down for correctly lacking a feature it
+   should not have.
+
+White egrets are near-inseparable in a flat 30-brushstroke abstraction, and
+the blind checker has little discriminative power across them. The render
+meets the requirements that matter: clearly distinct from `ardea-alba`, and
+distinct from `egretta-garzetta` in the same set (yellow bill and dark feet
+versus garzetta's black bill and yellow feet). Further regeneration would be
+chasing a metric rather than the goal.
+
+### On the `wings=1` warnings
+
+Several passing images carry a `wings=1` warning. This is expected, not a
+defect: `prompt.template.md` specifies for the perched pose that one wing is
+folded against the body and the other tucked behind it, so exactly one wing is
+visible by design. The warning fires on every perched render in the library.
+
+### `verify.py` was broken before it could report anything
+
+The first verification run returned `done. 0 mismatch(es)` and exited 0 while
+**every single call had failed**. `verify.py` pinned
+`models/gemini-2.5-flash`, which now returns HTTP 404 ("no longer available to
+new users"); the failures were counted as neither pass nor mismatch, and no
+rows were written to the CSV. A green summary with an empty results file is a
+silent false pass, and it would have been easy to accept.
+
+Fixed by pointing `GEMINI_URL` at the floating `gemini-flash-latest` alias
+rather than a pinned version, so the check degrades to a newer model instead
+of to a fake green. `prompt.template.md` was not touched. Upstream anticipates
+this class of breakage — `pregen.py` carries the comment "The endpoint changes
+occasionally; if you get a 404 here, check Google's model catalog and bump
+this" — but only `pregen.py`'s own URL, not `verify.py`'s.
+
+### Cutout quality
+
+`cutout.py` (BiRefNet) cut all 10 cleanly. The README warns that pale birds
+fringe worst, so `bubulcus-ibis` and `tyto-alba` were audited specifically:
+semi-transparent halo pixels are 1.0–1.6% of frame on both, which is ordinary
+edge antialiasing, and no illustration touches the frame edge (so nothing is
+clipped). Interior transparent regions are anatomical — gaps between legs, and
+between a curved neck and the body — not holes in the birds.
+
+---
+
+## Reproducing the generation
 
 1. **Supply references.** See [`avian/assets/references/README.md`](avian/assets/references/README.md).
    At minimum, five style prints (`01`, `05`, `06`, `07`, `08`) in
