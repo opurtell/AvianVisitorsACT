@@ -1,0 +1,20 @@
+# Secrets — never commit API keys
+.env
+.env.*
+env.txt
+*.key
+
+# Pipeline outputs
+verify-results.csv
+
+# Reference photos are fetched/supplied locally, not redistributed.
+# The README in that directory is tracked; the images are not.
+avian/assets/references/*.jpg
+avian/assets/references/*.png
+avian/assets/references/styles/
+
+# Runtime photo-fallback cache, populated by cutout.php on the Pi
+avian/assets/cutouts/*.png
+
+__pycache__/
+*.pyc

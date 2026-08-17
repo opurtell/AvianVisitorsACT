@@ -1,0 +1,18 @@
+# ACT gap illustration targets — pipe-delimited Sci|Com, ready for pregen.py
+#
+# Scientific names are BirdNET_GLOBAL_6K_V2.4 LABELS, not current eBird names.
+# This matters: apt.js does slugify(detection.sci), and the detection's sci
+# comes straight from BirdNET's label file. A file named for the current
+# eBird name would never be found. See RECONCILIATION.md for the derivation.
+#
+# Common names are BirdNET's own (model/l18n/labels_en.json) so the pair
+# matches what BirdNET-Pi will store and display.
+#
+# Occurrence figures are from BirdNET's bundled MData V2 model at
+# Canberra (-35.28, 149.13), peak week, default SF_THRESH=0.03.
+
+Anthus novaeseelandiae|Australasian Pipit
+Bubulcus ibis|Cattle Egret
+Malurus lamberti|Variegated Fairywren
+Ardea intermedia|Intermediate Egret
+Tyto alba|Barn Owl
