@@ -1,0 +1,199 @@
+scientific_name,common_name,slug,occurrence_v1,occurrence_v2,in_auvic_bundle,status
+Gymnorhina tibicen,Australian Magpie,gymnorhina-tibicen,0.9989,0.9966,yes,covered
+Corvus coronoides,Australian Raven,corvus-coronoides,0.8219,0.9504,yes,covered
+Grallina cyanoleuca,Magpie-lark,grallina-cyanoleuca,0.8402,0.9063,yes,covered
+Malurus cyaneus,Superb Fairywren,malurus-cyaneus,0.8458,0.8924,yes,covered
+Eolophus roseicapilla,Galah,eolophus-roseicapilla,0.8290,0.8751,yes,covered
+Rhipidura leucophrys,Willie-wagtail,rhipidura-leucophrys,0.7293,0.8741,yes,covered
+Anthochaera carunculata,Red Wattlebird,anthochaera-carunculata,0.7788,0.8579,yes,covered
+Strepera graculina,Pied Currawong,strepera-graculina,0.8040,0.8131,yes,covered
+Platycercus elegans,Crimson Rosella,platycercus-elegans,0.7475,0.6813,yes,covered
+Hirundo neoxena,Welcome Swallow,hirundo-neoxena,0.6807,0.7376,yes,covered
+Rhipidura albiscapa,Gray Fantail,rhipidura-albiscapa,0.7336,0.6452,yes,covered
+Cacatua galerita,Sulphur-crested Cockatoo,cacatua-galerita,0.7008,0.7069,yes,covered
+Ocyphaps lophotes,Crested Pigeon,ocyphaps-lophotes,0.4966,0.7006,yes,covered
+Dacelo novaeguineae,Laughing Kookaburra,dacelo-novaeguineae,0.6286,0.6885,yes,covered
+Caligavis chrysops,Yellow-faced Honeyeater,caligavis-chrysops,0.6380,0.6772,yes,covered
+Anas superciliosa,Pacific Black Duck,anas-superciliosa,0.5613,0.6384,yes,covered
+Cormobates leucophaea,White-throated Treecreeper,cormobates-leucophaea,0.5839,0.6240,yes,covered
+Pachycephala rufiventris,Rufous Whistler,pachycephala-rufiventris,0.6135,0.4718,yes,covered
+Chenonetta jubata,Maned Duck,chenonetta-jubata,0.5538,0.6110,yes,covered
+Vanellus miles,Masked Lapwing,vanellus-miles,0.4175,0.6090,yes,covered
+Platycercus eximius,Eastern Rosella,platycercus-eximius,0.5059,0.6032,yes,covered
+Egretta novaehollandiae,White-faced Heron,egretta-novaehollandiae,0.4111,0.5810,yes,covered
+Coracina novaehollandiae,Black-faced Cuckooshrike,coracina-novaehollandiae,0.5629,0.4972,yes,covered
+Colluricincla harmonica,Gray Shrikethrush,colluricincla-harmonica,0.4535,0.5416,yes,covered
+Pardalotus punctatus,Spotted Pardalote,pardalotus-punctatus,0.4138,0.5346,yes,covered
+Sturnus vulgaris,European Starling,sturnus-vulgaris,0.4738,0.5260,yes,covered
+Acanthiza pusilla,Brown Thornbill,acanthiza-pusilla,0.5210,0.5038,yes,covered
+Manorina melanocephala,Noisy Miner,manorina-melanocephala,0.4146,0.5113,yes,covered
+Eopsaltria australis,Eastern Yellow Robin,eopsaltria-australis,0.4210,0.4958,yes,covered
+Sericornis frontalis,White-browed Scrubwren,sericornis-frontalis,0.4098,0.4957,yes,covered
+Anas gracilis,Gray Teal,anas-gracilis,0.3091,0.4907,yes,covered
+Fulica atra,Eurasian Coot,fulica-atra,0.3708,0.4782,yes,covered
+Ptilotula penicillata,White-plumed Honeyeater,ptilotula-penicillata,0.3329,0.4719,yes,covered
+Porphyrio melanotus,Australasian Swamphen,porphyrio-melanotus,0.2661,0.4684,yes,covered
+Acanthiza chrysorrhoa,Yellow-rumped Thornbill,acanthiza-chrysorrhoa,0.3203,0.4658,yes,covered
+Trichoglossus moluccanus,Rainbow Lorikeet,trichoglossus-moluccanus,0.3543,0.4607,yes,covered
+Passer domesticus,House Sparrow,passer-domesticus,0.2123,0.4555,yes,covered
+Pelecanus conspicillatus,Australian Pelican,pelecanus-conspicillatus,0.2491,0.4549,yes,covered
+Zosterops lateralis,Silvereye,zosterops-lateralis,0.4180,0.4513,yes,covered
+Acanthorhynchus tenuirostris,Eastern Spinebill,acanthorhynchus-tenuirostris,0.3984,0.4425,yes,covered
+Acanthiza lineata,Striated Thornbill,acanthiza-lineata,0.3132,0.4409,yes,covered
+Pachycephala pectoralis,Golden Whistler,pachycephala-pectoralis,0.3189,0.4328,yes,covered
+Neochmia temporalis,Red-browed Firetail,neochmia-temporalis,0.3423,0.4291,yes,covered
+Psephotus haematonotus,Red-rumped Parrot,psephotus-haematonotus,0.3189,0.4274,yes,covered
+Phalacrocorax carbo,Great Cormorant,phalacrocorax-carbo,0.1670,0.4242,yes,covered
+Threskiornis molucca,Australian Ibis,threskiornis-molucca,0.2971,0.4079,yes,covered
+Cygnus atratus,Black Swan,cygnus-atratus,0.1980,0.4051,yes,covered
+Cracticus torquatus,Gray Butcherbird,cracticus-torquatus,0.3413,0.4012,yes,covered
+Acanthiza nana,Yellow Thornbill,acanthiza-nana,0.1826,0.3985,yes,covered
+Alisterus scapularis,Australian King-Parrot,alisterus-scapularis,0.3251,0.3972,yes,covered
+Acridotheres tristis,Common Myna,acridotheres-tristis,0.2153,0.3965,yes,covered
+Gallinula tenebrosa,Dusky Moorhen,gallinula-tenebrosa,0.2742,0.3875,yes,covered
+Corcorax melanorhamphos,White-winged Chough,corcorax-melanorhamphos,0.2590,0.3819,yes,covered
+Turdus merula,Eurasian Blackbird,turdus-merula,0.3014,0.3767,yes,covered
+Pardalotus striatus,Striated Pardalote,pardalotus-striatus,0.3659,0.3343,yes,covered
+Philemon corniculatus,Noisy Friarbird,philemon-corniculatus,0.3630,0.3591,yes,covered
+Todiramphus sanctus,Sacred Kingfisher,todiramphus-sanctus,0.3630,0.3079,yes,covered
+Melithreptus lunatus,White-naped Honeyeater,melithreptus-lunatus,0.2163,0.3607,yes,covered
+Corvus mellori,Little Raven,corvus-mellori,0.2823,0.3602,yes,covered
+Tachybaptus novaehollandiae,Australasian Grebe,tachybaptus-novaehollandiae,0.1738,0.3568,yes,covered
+Acrocephalus australis,Australian Reed Warbler,acrocephalus-australis,0.3227,0.3512,yes,covered
+Cacatua sanguinea,Little Corella,cacatua-sanguinea,0.2895,0.3489,yes,covered
+Cacomantis flabelliformis,Fan-tailed Cuckoo,cacomantis-flabelliformis,0.1786,0.3484,yes,covered
+Acanthiza reguloides,Buff-rumped Thornbill,acanthiza-reguloides,0.1371,0.3449,yes,covered
+Nesoptilotis leucotis,White-eared Honeyeater,nesoptilotis-leucotis,0.1348,0.3434,yes,covered
+Anas castanea,Chestnut Teal,anas-castanea,0.1405,0.3374,yes,covered
+Chroicocephalus novaehollandiae,Silver Gull,chroicocephalus-novaehollandiae,0.1632,0.3050,yes,covered
+Ptilonorhynchus violaceus,Satin Bowerbird,ptilonorhynchus-violaceus,0.2887,0.3021,yes,covered
+Haliastur sphenurus,Whistling Kite,haliastur-sphenurus,0.0734,0.2986,yes,covered
+Phaps chalcoptera,Common Bronzewing,phaps-chalcoptera,0.0888,0.2842,yes,covered
+Artamus cyanopterus,Dusky Woodswallow,artamus-cyanopterus,0.1995,0.2751,yes,covered
+Ardea alba,Great Egret,ardea-alba,0.0543,0.2750,yes,covered
+Oriolus sagittatus,Olive-backed Oriole,oriolus-sagittatus,0.1917,0.2671,yes,covered
+Psophodes olivaceus,Eastern Whipbird,psophodes-olivaceus,0.2655,0.2472,yes,covered
+Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,calyptorhynchus-funereus,0.2578,0.2273,yes,covered
+Melithreptus brevirostris,Brown-headed Honeyeater,melithreptus-brevirostris,0.0260,0.2514,yes,covered
+Microeca fascinans,Jacky-winter,microeca-fascinans,0.0646,0.2462,yes,covered
+Dicaeum hirundinaceum,Mistletoebird,dicaeum-hirundinaceum,0.0747,0.2459,yes,covered
+Smicrornis brevirostris,Weebill,smicrornis-brevirostris,0.1334,0.2446,yes,covered
+Anhinga novaehollandiae,Australasian Darter,anhinga-novaehollandiae,0.0580,0.2422,yes,covered
+Meliphaga lewinii,Lewin's Honeyeater,meliphaga-lewinii,0.2391,0.1439,yes,covered
+Haliaeetus leucogaster,White-bellied Sea-Eagle,haliaeetus-leucogaster,0.0282,0.2388,yes,covered
+Elseyornis melanops,Black-fronted Dotterel,elseyornis-melanops,0.0446,0.2347,yes,covered
+Phylidonyris novaehollandiae,New Holland Honeyeater,phylidonyris-novaehollandiae,0.2317,0.2057,yes,covered
+Streptopelia chinensis,Spotted Dove,streptopelia-chinensis,0.0988,0.2297,yes,covered
+Climacteris picumnus,Brown Treecreeper,climacteris-picumnus,0.0605,0.2139,yes,covered
+Anthus novaeseelandiae,Australasian Pipit,anthus-novaeseelandiae,0.0864,0.2121,no,GAP
+Petrochelidon nigricans,Tree Martin,petrochelidon-nigricans,0.0740,0.2049,yes,covered
+Cracticus nigrogularis,Pied Butcherbird,cracticus-nigrogularis,0.0956,0.1999,yes,covered
+Menura novaehollandiae,Superb Lyrebird,menura-novaehollandiae,0.1633,0.1901,yes,covered
+Falco berigora,Brown Falcon,falco-berigora,0.0231,0.1900,yes,covered
+Cincloramphus mathewsi,Rufous Songlark,cincloramphus-mathewsi,0.1221,0.1874,yes,covered
+Ptilotula fusca,Fuscous Honeyeater,ptilotula-fusca,0.0618,0.1848,yes,covered
+Columba livia,Rock Pigeon,columba-livia,0.1000,0.1838,yes,covered
+Tadorna tadornoides,Australian Shelduck,tadorna-tadornoides,0.0402,0.1825,yes,covered
+Eudynamys orientalis,Pacific Koel,eudynamys-orientalis,0.1823,0.1730,yes,covered
+Geopelia placida,Peaceful Dove,geopelia-placida,0.0747,0.1804,yes,covered
+Malacorhynchus membranaceus,Pink-eared Duck,malacorhynchus-membranaceus,0.0428,0.1804,yes,covered
+Chrysococcyx lucidus,Shining Bronze-Cuckoo,chrysococcyx-lucidus,0.0580,0.1802,yes,covered
+Anthochaera chrysoptera,Little Wattlebird,anthochaera-chrysoptera,0.1785,0.1673,yes,covered
+Circus approximans,Swamp Harrier,circus-approximans,0.0644,0.1748,yes,covered
+Glossopsitta concinna,Musk Lorikeet,glossopsitta-concinna,0.0793,0.1748,yes,covered
+Himantopus leucocephalus,Pied Stilt,himantopus-leucocephalus,0.0411,0.1736,yes,covered
+Thalasseus bergii,Great Crested Tern,thalasseus-bergii,0.0123,0.1690,yes,covered
+Petroica rosea,Rose Robin,petroica-rosea,0.0460,0.1667,yes,covered
+Lichenostomus melanops,Yellow-tufted Honeyeater,lichenostomus-melanops,0.0574,0.1644,yes,covered
+Eurystomus orientalis,Dollarbird,eurystomus-orientalis,0.1630,0.1552,yes,covered
+Poodytes gramineus,Little Grassbird,poodytes-gramineus,0.0307,0.1625,yes,covered
+Petroica boodang,Scarlet Robin,petroica-boodang,0.1594,0.1090,yes,covered
+Cisticola exilis,Golden-headed Cisticola,cisticola-exilis,0.0240,0.1560,yes,covered
+Myiagra inquieta,Restless Flycatcher,myiagra-inquieta,0.0268,0.1544,yes,covered
+Falcunculus frontatus,Crested Shrike-tit,falcunculus-frontatus,0.0058,0.1505,yes,covered
+Daphoenositta chrysoptera,Varied Sittella,daphoenositta-chrysoptera,0.0125,0.1493,yes,covered
+Accipiter fasciatus,Brown Goshawk,accipiter-fasciatus,0.0160,0.1489,yes,covered
+Petrochelidon ariel,Fairy Martin,petrochelidon-ariel,0.0572,0.1463,yes,covered
+Chrysococcyx basalis,Horsfield's Bronze-Cuckoo,chrysococcyx-basalis,0.0094,0.1434,yes,covered
+Bubulcus ibis,Cattle Egret,bubulcus-ibis,0.0313,0.1415,no,GAP
+Hydroprogne caspia,Caspian Tern,hydroprogne-caspia,0.0138,0.1413,yes,covered
+Calidris ruficollis,Red-necked Stint,calidris-ruficollis,0.0069,0.1406,yes,covered
+Callocephalon fimbriatum,Gang-gang Cockatoo,callocephalon-fimbriatum,0.1404,0.1021,yes,covered
+Manorina melanophrys,Bell Miner,manorina-melanophrys,0.1401,0.0861,yes,covered
+Gerygone mouki,Brown Gerygone,gerygone-mouki,0.1400,0.1333,yes,covered
+Hirundapus caudacutus,White-throated Needletail,hirundapus-caudacutus,0.0156,0.1387,yes,covered
+Merops ornatus,Rainbow Bee-eater,merops-ornatus,0.0579,0.1359,yes,covered
+Biziura lobata,Musk Duck,biziura-lobata,0.0147,0.1348,yes,covered
+Petroica phoenicea,Flame Robin,petroica-phoenicea,0.1330,0.0736,yes,covered
+Egretta garzetta,Little Egret,egretta-garzetta,0.0087,0.1246,yes,covered
+Pyrrholaemus sagittatus,Speckled Warbler,pyrrholaemus-sagittatus,0.0552,0.1232,yes,covered
+Cacomantis pallidus,Pallid Cuckoo,cacomantis-pallidus,0.0041,0.1209,yes,covered
+Rhipidura rufifrons,Rufous Fantail,rhipidura-rufifrons,0.0752,0.1189,yes,covered
+Gallinago hardwickii,Latham's Snipe,gallinago-hardwickii,0.0067,0.1145,yes,covered
+Lalage tricolor,White-winged Triller,lalage-tricolor,0.0341,0.1145,yes,covered
+Leucosarcia melanoleuca,Wonga Pigeon,leucosarcia-melanoleuca,0.1145,0.1048,yes,covered
+Monarcha melanopsis,Black-faced Monarch,monarcha-melanopsis,0.0671,0.1103,yes,covered
+Synoicus ypsilophorus,Brown Quail,synoicus-ypsilophorus,0.0022,0.1089,yes,covered
+Myiagra rubecula,Leaden Flycatcher,myiagra-rubecula,0.0657,0.1075,yes,covered
+Calidris acuminata,Sharp-tailed Sandpiper,calidris-acuminata,0.0110,0.1040,yes,covered
+Parvipsitta pusilla,Little Lorikeet,parvipsitta-pusilla,0.0285,0.1027,yes,covered
+Accipiter cirrocephalus,Collared Sparrowhawk,accipiter-cirrocephalus,0.0016,0.1012,yes,covered
+Entomyzon cyanotis,Blue-faced Honeyeater,entomyzon-cyanotis,0.0724,0.1007,yes,covered
+Myzomela sanguinolenta,Scarlet Myzomela,myzomela-sanguinolenta,0.0804,0.0978,yes,covered
+Ceyx azureus,Azure Kingfisher,ceyx-azureus,0.0057,0.0915,yes,covered
+Gerygone fusca,Western Gerygone,gerygone-fusca,0.0217,0.0886,yes,covered
+Artamus leucorynchus,White-breasted Woodswallow,artamus-leucorynchus,0.0173,0.0874,yes,covered
+Numenius madagascariensis,Far Eastern Curlew,numenius-madagascariensis,0.0006,0.0839,yes,covered
+Gerygone olivacea,White-throated Gerygone,gerygone-olivacea,0.0810,0.0828,yes,covered
+Haematopus longirostris,Pied Oystercatcher,haematopus-longirostris,0.0202,0.0806,yes,covered
+Limosa lapponica,Bar-tailed Godwit,limosa-lapponica,0.0095,0.0782,yes,covered
+Podargus strigoides,Tawny Frogmouth,podargus-strigoides,0.0014,0.0775,yes,covered
+Carduelis carduelis,European Goldfinch,carduelis-carduelis,0.0499,0.0766,yes,covered
+Podiceps cristatus,Great Crested Grebe,podiceps-cristatus,0.0055,0.0748,yes,covered
+Charadrius bicinctus,Double-banded Plover,charadrius-bicinctus,0.0006,0.0689,yes,covered
+Geopelia humeralis,Bar-shouldered Dove,geopelia-humeralis,0.0154,0.0685,yes,covered
+Aegotheles cristatus,Australian Owlet-nightjar,aegotheles-cristatus,0.0021,0.0677,yes,covered
+Petroica goodenovii,Red-capped Robin,petroica-goodenovii,0.0117,0.0661,yes,covered
+Stizoptera bichenovii,Double-barred Finch,stizoptera-bichenovii,0.0286,0.0656,yes,covered
+Scythrops novaehollandiae,Channel-billed Cuckoo,scythrops-novaehollandiae,0.0174,0.0651,yes,covered
+Anas platyrhynchos,Mallard,anas-platyrhynchos,0.0638,0.0563,yes,covered
+Arenaria interpres,Ruddy Turnstone,arenaria-interpres,0.0063,0.0631,yes,covered
+Polytelis swainsonii,Superb Parrot,polytelis-swainsonii,0.0447,0.0609,yes,covered
+Pandion haliaetus,Osprey,pandion-haliaetus,0.0063,0.0604,yes,covered
+Haematopus fuliginosus,Sooty Oystercatcher,haematopus-fuliginosus,0.0006,0.0574,yes,covered
+Pomatostomus superciliosus,White-browed Babbler,pomatostomus-superciliosus,0.0072,0.0573,yes,covered
+Strepera versicolor,Gray Currawong,strepera-versicolor,0.0134,0.0567,yes,covered
+Malurus lamberti,Variegated Fairywren,malurus-lamberti,0.0555,0.0529,no,GAP
+Lichmera indistincta,Brown Honeyeater,lichmera-indistincta,0.0068,0.0552,yes,covered
+Ninox boobook,Southern Boobook,ninox-boobook,0.0022,0.0549,yes,covered
+Falco peregrinus,Peregrine Falcon,falco-peregrinus,0.0222,0.0528,yes,covered
+Artamus superciliosus,White-browed Woodswallow,artamus-superciliosus,0.0117,0.0519,yes,covered
+Alauda arvensis,Eurasian Skylark,alauda-arvensis,0.0230,0.0505,yes,covered
+Pluvialis fulva,Pacific Golden-Plover,pluvialis-fulva,0.0006,0.0504,yes,covered
+Ardea intermedia,Intermediate Egret,ardea-intermedia,0.0082,0.0502,no,GAP
+Gelochelidon nilotica,Gull-billed Tern,gelochelidon-nilotica,0.0027,0.0494,yes,covered
+Sphecotheres vieilloti,Australasian Figbird,sphecotheres-vieilloti,0.0226,0.0491,yes,covered
+Turnix varius,Painted Buttonquail,turnix-varius,0.0006,0.0488,yes,covered
+Calidris canutus,Red Knot,calidris-canutus,0.0070,0.0479,yes,covered
+Zoothera lunulata,Bassian Thrush,zoothera-lunulata,0.0137,0.0475,yes,covered
+Pycnonotus jocosus,Red-whiskered Bulbul,pycnonotus-jocosus,0.0006,0.0459,yes,covered
+Zapornia tabuensis,Spotless Crake,zapornia-tabuensis,0.0087,0.0447,yes,covered
+Melithreptus gularis,Black-chinned Honeyeater,melithreptus-gularis,0.0081,0.0440,yes,covered
+Cacomantis variolosus,Brush Cuckoo,cacomantis-variolosus,0.0028,0.0422,yes,covered
+Milvus migrans,Black Kite,milvus-migrans,0.0124,0.0421,yes,covered
+Philemon citreogularis,Little Friarbird,philemon-citreogularis,0.0419,0.0291,yes,covered
+Tyto alba,Barn Owl,tyto-alba,0.0159,0.0411,no,GAP
+Cinclosoma punctatum,Spotted Quail-thrush,cinclosoma-punctatum,0.0006,0.0387,yes,covered
+Calidris ferruginea,Curlew Sandpiper,calidris-ferruginea,0.0013,0.0385,yes,covered
+Acanthagenys rufogularis,Spiny-cheeked Honeyeater,acanthagenys-rufogularis,0.0177,0.0384,yes,covered
+Sternula albifrons,Little Tern,sternula-albifrons,0.0006,0.0382,yes,covered
+Coracina papuensis,White-bellied Cuckooshrike,coracina-papuensis,0.0019,0.0364,yes,covered
+Macropygia phasianella,Brown Cuckoo-Dove,macropygia-phasianella,0.0361,0.0327,yes,covered
+Coturnix pectoralis,Stubble Quail,coturnix-pectoralis,0.0086,0.0358,yes,covered
+Taeniopygia guttata,Zebra Finch,taeniopygia-guttata,0.0153,0.0353,yes,covered
+Pycnoptilus floccosus,Pilotbird,pycnoptilus-floccosus,0.0225,0.0349,yes,covered
+Vanellus tricolor,Banded Lapwing,vanellus-tricolor,0.0018,0.0346,yes,covered
+Sterna hirundo,Common Tern,sterna-hirundo,0.0060,0.0343,yes,covered
+Melanodryas cucullata,Hooded Robin,melanodryas-cucullata,0.0007,0.0335,yes,covered
+Pomatostomus temporalis,Gray-crowned Babbler,pomatostomus-temporalis,0.0176,0.0334,yes,covered
+Numenius phaeopus,Whimbrel,numenius-phaeopus,0.0204,0.0319,yes,covered
