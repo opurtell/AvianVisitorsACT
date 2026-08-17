@@ -68,10 +68,20 @@ def ink_silhouette(rgb, margin: float = 8.0):
 def build_alpha(rgb, matte, margin: float = 8.0, tol: float = 42.0):
     """Final alpha: outline silhouette when it is plausible, else matte repair.
 
-    The outline fill is trusted only if it agrees with the matting model on
-    overall area. If the ink contour has a gap the fill leaks into the body
-    and collapses to a few strokes, which the area check catches; in that
-    case we fall back to the matting model plus the raise-only colour repair.
+    The outline fill is trusted only if it keeps nearly all of what the
+    matting model called bird. Where the ink contour has a gap, the fill leaks
+    through it and eats whatever pale plumage lies beyond - a cattle egret's
+    white breast and belly, say, while the darker buff areas hold the line.
+    The result is a moth-eaten bird whose *total area* can still look
+    reasonable, so area alone does not catch it: coverage does.
+
+    Trimming genuine over-inclusion is expected and allowed (the outline is
+    right and the matte was wrong), so the bar is set to tolerate a modest
+    loss but reject a leak. Measured on this library: sound cuts keep
+    0.95-1.00 of the matte silhouette, a leak kept 0.67.
+
+    On rejection we fall back to the matting model plus the raise-only colour
+    repair, which cannot restore transparency but also cannot punch holes.
 
     Returns (alpha, mode, filled, cleared).
     """
@@ -80,11 +90,14 @@ def build_alpha(rgb, matte, margin: float = 8.0, tol: float = 42.0):
     from PIL import Image, ImageFilter
 
     bird = ink_silhouette(rgb, margin)
-    matte_area = int((matte > 127).sum())
+    matte_mask = matte > 127
+    matte_area = int(matte_mask.sum())
     ratio = bird.sum() / max(matte_area, 1)
-    if not (0.5 <= ratio <= 2.0):
+    coverage = float((bird & matte_mask).sum()) / max(matte_area, 1)
+    if coverage < 0.90 or ratio > 2.0:
         alpha, filled = repair_alpha(rgb, matte, tol)
-        return alpha, f"matte+repair (outline ratio {ratio:.2f})", filled, 0
+        return (alpha, f"matte+repair (outline coverage {coverage:.2f})",
+                filled, 0)
 
     filled = int(((matte < 128) & bird).sum())
     cleared = int(((matte > 128) & ~bird).sum())

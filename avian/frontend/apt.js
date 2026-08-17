@@ -2,7 +2,8 @@
   var PLACEHOLDER = [{ "sci": "Calypte anna", "com": "Anna's Hummingbird", "featured": true }, { "sci": "Passer domesticus", "com": "House Sparrow" }, { "sci": "Haemorhous mexicanus", "com": "House Finch" }, { "sci": "Turdus migratorius", "com": "American Robin" }, { "sci": "Zenaida macroura", "com": "Mourning Dove" }, { "sci": "Spinus psaltria", "com": "Lesser Goldfinch" }, { "sci": "Zonotrichia leucophrys", "com": "White-crowned Sparrow" }, { "sci": "Aphelocoma californica", "com": "California Scrub-Jay" }, { "sci": "Mimus polyglottos", "com": "Northern Mockingbird" }, { "sci": "Sayornis nigricans", "com": "Black Phoebe" }, { "sci": "Larus occidentalis", "com": "Western Gull" }, { "sci": "Corvus brachyrhynchos", "com": "American Crow" }];
   // Bumped whenever the offline sketch build changes, so the browser
   // doesn't keep a stale cache after we regenerate the sketches.
-  var SKETCH_VERSION = 'act4'; // act4: silhouettes taken from the ink outline, fixing both holes in pale bodies and
+  var SKETCH_VERSION = 'act5'; // act5: outline fill guarded by a coverage check - it had leaked through a gap in the
+  // Cattle Egret's contour and eaten its white breast. act4: silhouettes from the ink outline, fixing holes in pale bodies and
   // background wrongly kept as body. act3: alpha repair - holes through pale bodies (chests of
   // the three flight-pose egrets/fairywren). act2: +5 ACT gap species (403 total) - Australasian Pipit,
   // Cattle Egret, Variegated Fairywren, Intermediate Egret, Barn Owl. act1: AU-VIC bundle (398 species)
@@ -13,7 +14,7 @@
   // equivalent to a global cache purge for /api/img. (caches.default
   // .delete() in the worker only affects ONE colo at a time, so a
   // versioned URL is the only reliable way to invalidate everywhere.)
-  var IMG_VERSION = 'act4'; // act4: outline-based re-cut. act3: pale-body alpha repair re-cut. act2: +5 ACT gap species; Intermediate Egret and Australasian Pipit flight
+  var IMG_VERSION = 'act5'; // act5: Cattle Egret re-cut. act4: outline-based re-cut. act3: pale-body alpha repair re-cut. act2: +5 ACT gap species; Intermediate Egret and Australasian Pipit flight
   // pose re-rendered. act1: every illustration replaced with the AU-VIC set, so drop every cached copy.
 
   // ---- Sliding pill helper ----

@@ -6,7 +6,7 @@ Canberra / Australian Capital Territory deployment of
 illustration bundle.
 
 **Status: complete. 5 gap species generated, cut out, verified, merged and
-mask-rebuilt. 403 species / 806 illustrations, `act4`.**
+mask-rebuilt. 403 species / 806 illustrations, `act5`.**
 
 **Gemini spend: ~$0.48.** 12 images generated (10 initial + 2 regenerations)
 at 1290 output tokens each, $30/1M → $0.464, plus ~23 verification vision
@@ -453,6 +453,17 @@ for it". The defect was caught on visual review over a contrasting ground.
 **Compositing over saturated magenta is the check that works**; alpha
 statistics alone are not sufficient.
 
+And it has to be done at **full resolution**. The Cattle Egret leak above was
+reviewed in a 340 px contact-sheet cell and passed, because at that scale the
+holes blend into the surrounding brushwork. It was obvious the moment the
+illustration was viewed at its native size. Contact sheets are for spotting
+*which* image to look at, never for clearing one.
+
+An automated enclosed-hole count (`binary_fill_holes(alpha) & ~alpha`) is
+useful as a pointer but is not a verdict either: it flags legitimate
+anatomy — the space between a heron's leg and its belly is genuinely enclosed
+background and correctly transparent. Every flag needs an eye on it.
+
 #### The second defect: background kept as body
 
 A colour-based repair fixed the holes but could not fix the mirror-image
@@ -483,12 +494,30 @@ This is correct precisely where colour fails: the outline is unambiguous even
 when plumage and ground are the same colour. It fixes both defects at once —
 holes are filled *and* wrongly-kept background is cleared.
 
-**Guarded, not blindly trusted.** If the ink contour has a gap, the fill leaks
-into the body and collapses to a few strokes. `build_alpha` compares its area
-against the matting model's and falls back to matte-plus-colour-repair if the
-ratio leaves [0.5, 2.0]. Across the seven illustrations re-cut from their original renders
-the ratio ran 0.72–1.06; the two that fall back are ones whose pre-cutout
-original is not in git.
+**Guarded — and the first guard was not good enough.** If the ink contour has
+a gap, the fill leaks through it and eats whatever pale plumage lies beyond.
+The first guard compared total area against the matting model's and accepted
+anything in [0.5, 2.0]. That passed a leak on the perched **Cattle Egret** at
+0.72, which cost it most of its white breast, belly and wing panel while the
+darker buff areas held the line — a moth-eaten bird whose *total area* still
+looked plausible. Area cannot see this; **coverage** can.
+
+The guard now requires the outline silhouette to retain **≥90% of what the
+matting model called bird**. Trimming genuine over-inclusion is still allowed
+— the outline is right and the matte was wrong — but losing a tenth of the
+body means a leak. Measured across this library:
+
+| Illustration | Coverage | Outcome |
+|---|---|---|
+| `anthus-novaeseelandiae` | 1.000 | outline |
+| `malurus-lamberti-2` | 0.999 | outline |
+| `malurus-lamberti` | 0.996 | outline |
+| `bubulcus-ibis-2` | 0.993 | outline |
+| `ardea-intermedia-2` | 0.953 | outline (trimmed the neck/wing pocket) |
+| **`bubulcus-ibis`** | **0.674** | **rejected → matte + colour repair** |
+
+On rejection the fallback cannot restore transparency, but it also cannot
+punch holes — the safe direction to fail in.
 
 `scipy` was added to `requirements.txt` for connected components and hole
 filling.
