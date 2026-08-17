@@ -30,6 +30,12 @@ Of the 7 species in the original `act-generate-targets.txt`: **3 confirmed**,
 **1 renamed**, **3 dropped**. One species the prior analysis dismissed as a
 covered synonym turned out to be a genuine gap.
 
+> **Coverage is conditional on configuration.** These figures hold at
+> -35.28/149.13, `SF_THRESH=0.03`, `DATA_MODEL_VERSION=2`. The installer
+> defaults to **v1**, under which *Ardea intermedia* (0.0082) and *Tyto alba*
+> (0.0159) fall below threshold and can never be displayed. Set v2 — see
+> [the configuration contract](DEPLOYMENT.md#1-the-configuration-contract).
+
 ---
 
 ## Environment constraints
@@ -310,6 +316,7 @@ makes new art appear at all**. Both constants have been bumped (below).
 
 | Deliverable | Status |
 |---|---|
+| [`DEPLOYMENT.md`](DEPLOYMENT.md) — build guide + configuration contract | ✅ |
 | `avian/assets/illustrations/` — 796 PNGs, 398 species | ✅ built |
 | `avian/frontend/dims.json` + `masks.json` — 796 entries each | ✅ rebuilt via `build_masks.py` |
 | `avian/frontend/apt.js` — `SKETCH_VERSION` + `IMG_VERSION` → `act1` | ✅ bumped |
@@ -604,22 +611,21 @@ original render, never from a previous cutout.
 
 ---
 
-## Deploy to the Pi
+## Deploy
 
 ```bash
 rsync -avz --delete avian/ pi@birdnet.local:~/BirdNET-Pi/avian/
 ```
 
-Then hard-reload the kiosk (`Ctrl+Shift+R`). Drop `--delete` if anything else on
-the Pi writes into `avian/` — notably `assets/cutouts/`, which `cutout.php`
-populates at runtime with photo fallbacks for uncovered species.
+Full procedure — Pi provisioning, the configuration contract, verification
+checks, kiosk setup and operations — is in **[DEPLOYMENT.md](DEPLOYMENT.md)**.
 
-Verify after sync:
-
-```bash
-curl -s http://birdnet.local/avian/frontend/dims.json | head -c 200
-curl -sI "http://birdnet.local/avian/api/cutout.php?sci=Malurus%20cyaneus"
-```
+**One thing from that document belongs here**, because it decides whether this
+analysis holds at all: the installer ships `DATA_MODEL_VERSION=1`, and under
+v1 two of the five species generated here sit below `SF_THRESH` and can never
+be displayed (*Ardea intermedia* 0.0082, *Tyto alba* 0.0159). The set assumes
+**`DATA_MODEL_VERSION=2`** at `SF_THRESH=0.03` and -35.28/149.13. Change any of
+those and the gap must be re-derived.
 
 ---
 
