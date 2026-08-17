@@ -6,7 +6,7 @@ Canberra / Australian Capital Territory deployment of
 illustration bundle.
 
 **Status: complete. 5 gap species generated, cut out, verified, merged and
-mask-rebuilt. 403 species / 806 illustrations, `act2`.**
+mask-rebuilt. 403 species / 806 illustrations, `act3`.**
 
 **Gemini spend: ~$0.48.** 12 images generated (10 initial + 2 regenerations)
 at 1290 output tokens each, $30/1M → $0.464, plus ~23 verification vision
@@ -425,14 +425,66 @@ this class of breakage — `pregen.py` carries the comment "The endpoint changes
 occasionally; if you get a 404 here, check Google's model catalog and bump
 this" — but only `pregen.py`'s own URL, not `verify.py`'s.
 
-### Cutout quality
+### Cutout quality, and a real defect that was initially missed
 
-`cutout.py` (BiRefNet) cut all 10 cleanly. The README warns that pale birds
-fringe worst, so `bubulcus-ibis` and `tyto-alba` were audited specifically:
-semi-transparent halo pixels are 1.0–1.6% of frame on both, which is ordinary
-edge antialiasing, and no illustration touches the frame edge (so nothing is
-clipped). Interior transparent regions are anatomical — gaps between legs, and
-between a curved neck and the body — not holes in the birds.
+Fringing was not the problem — edges are clean on every illustration,
+including the two near-white birds. **Holes were.** BiRefNet cut straight
+through the pale bodies of the three flight poses, removing most of the chest:
+
+| Image | Body pixels wrongly removed |
+|---|---|
+| `bubulcus-ibis-2` | 2,305 |
+| `malurus-lamberti-2` | 1,992 |
+| `ardea-intermedia-2` | 1,317 |
+
+This is the failure mode the upstream README warns about — pale bodies against
+the pale cream ground give the matting model too little contrast — and it is
+**invisible until the illustration is composited over a non-cream
+background**, which is exactly what the collage does.
+
+My first audit missed it. It counted only *fully enclosed* transparent
+regions, so a chest opening that reaches the outline through a gap scored
+zero, and I wrongly reported "interior transparency only where anatomy calls
+for it". The defect was caught on visual review over a contrasting ground.
+**Compositing over saturated magenta is the check that works**; alpha
+statistics alone are not sufficient.
+
+#### Fix: an alpha repair pass in `cutout.py`
+
+Rather than patch the three files by hand, the root cause is now handled in
+`cutout.py` (`repair_alpha`, on by default, `--no-repair` to disable):
+
+1. Sample the flat cream ground from the frame border.
+2. Flood-fill inward from the border through cream-like pixels only.
+3. Anything the fill cannot reach is bird — **however pale it is**.
+4. Drop paper-noise specks, fill enclosed regions, force those pixels opaque.
+
+The guarantee that makes this sound: the ground is uniform and
+border-connected, and every bird is ringed by ink outlines, so a border-seeded
+fill physically cannot leak into a body. It only ever *raises* alpha, so the
+matting model's soft antialiased edges survive intact. This is precisely why
+`pregen.py` renders on a flat known ground in the first place.
+
+`scipy` was added to `requirements.txt` for connected components and hole
+filling.
+
+#### The safety commit paid for itself
+
+Repair in place was impossible: rembg **zeroes the RGB channels** under
+transparent pixels, so the missing chests were not recoverable from the cut
+files. They were recovered from the pre-cutout cream-ground renders preserved
+in the WIP safety commit (`14959f6`), and re-cut through the fixed pipeline —
+no regeneration, no additional Gemini spend.
+
+Two illustrations have no pre-cutout original in git (`ardea-intermedia` and
+`anthus-novaeseelandiae-2` were regenerated and cut in the same step). Both
+were checked over a contrasting ground and are clean, so nothing was lost —
+but it is worth committing renders before cutting them.
+
+**Related hazard:** re-running `cutout.py --force` over an already-cut file is
+lossy. `im.convert("RGB")` discards the alpha channel of an RGBA input,
+leaving the zeroed background baked in as black. Always re-cut from the
+original render, never from a previous cutout.
 
 ---
 

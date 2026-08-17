@@ -4,5 +4,6 @@
 # BiRefNet matting model. build_masks.py needs Pillow. verify.py is
 # standard-library only.
 Pillow>=10.0
+scipy>=1.10          # cutout.py alpha repair (connected components + hole fill)
 rembg>=2.0.76
 onnxruntime>=1.16

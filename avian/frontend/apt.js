@@ -2,7 +2,8 @@
   var PLACEHOLDER = [{ "sci": "Calypte anna", "com": "Anna's Hummingbird", "featured": true }, { "sci": "Passer domesticus", "com": "House Sparrow" }, { "sci": "Haemorhous mexicanus", "com": "House Finch" }, { "sci": "Turdus migratorius", "com": "American Robin" }, { "sci": "Zenaida macroura", "com": "Mourning Dove" }, { "sci": "Spinus psaltria", "com": "Lesser Goldfinch" }, { "sci": "Zonotrichia leucophrys", "com": "White-crowned Sparrow" }, { "sci": "Aphelocoma californica", "com": "California Scrub-Jay" }, { "sci": "Mimus polyglottos", "com": "Northern Mockingbird" }, { "sci": "Sayornis nigricans", "com": "Black Phoebe" }, { "sci": "Larus occidentalis", "com": "Western Gull" }, { "sci": "Corvus brachyrhynchos", "com": "American Crow" }];
   // Bumped whenever the offline sketch build changes, so the browser
   // doesn't keep a stale cache after we regenerate the sketches.
-  var SKETCH_VERSION = 'act2'; // act2: +5 ACT gap species (403 total, 806 images) - Australasian Pipit,
+  var SKETCH_VERSION = 'act3'; // act3: alpha repair - BiRefNet had cut holes through pale bodies (chests of
+  // the three flight-pose egrets/fairywren). act2: +5 ACT gap species (403 total) - Australasian Pipit,
   // Cattle Egret, Variegated Fairywren, Intermediate Egret, Barn Owl. act1: AU-VIC bundle (398 species)
   // swapped in for the North American set, masks rebuilt for Canberra/ACT deployment.
   // Cache-bust for /api/img - bump whenever a bird gets re-rendered via
@@ -11,7 +12,7 @@
   // equivalent to a global cache purge for /api/img. (caches.default
   // .delete() in the worker only affects ONE colo at a time, so a
   // versioned URL is the only reliable way to invalidate everywhere.)
-  var IMG_VERSION = 'act2'; // act2: +5 ACT gap species; Intermediate Egret and Australasian Pipit flight
+  var IMG_VERSION = 'act3'; // act3: pale-body alpha repair re-cut. act2: +5 ACT gap species; Intermediate Egret and Australasian Pipit flight
   // pose re-rendered. act1: every illustration replaced with the AU-VIC set, so drop every cached copy.
 
   // ---- Sliding pill helper ----

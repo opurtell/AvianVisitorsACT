@@ -27,6 +27,53 @@ import sys
 from pathlib import Path
 
 
+def repair_alpha(rgb, alpha, tol: float = 42.0):
+    """Restore opacity to body areas the matting model wrongly cut away.
+
+    BiRefNet judges the bird by contrast against the ground. Where a pale
+    body sits against the pale cream field - a white egret's chest, a
+    fairywren's buff breast - it can punch a hole straight through the
+    bird, sometimes taking the whole breast with it. The README warns that
+    pale birds fare worst; this is that failure, and it is invisible until
+    the collage composites the illustration over a non-cream background.
+
+    The ground is a flat, uniform, border-connected field and the bird is
+    ringed by ink outlines, so a border-seeded fill through cream-like
+    pixels physically cannot leak into the body. Whatever the fill does not
+    reach is bird, however pale it is. Enclosed cream regions are never
+    reached either, so they are filled rather than punched out.
+
+    Soft edges from the matting model are preserved: this only ever raises
+    alpha, and only inside the recovered silhouette.
+
+    Returns (repaired_alpha, pixels_recovered).
+    """
+    import numpy as np
+    from scipy import ndimage
+
+    ring = np.concatenate([rgb[0:6].reshape(-1, 3), rgb[-6:].reshape(-1, 3),
+                           rgb[:, 0:6].reshape(-1, 3), rgb[:, -6:].reshape(-1, 3)])
+    ground = ring.mean(axis=0)
+    creamish = np.linalg.norm(rgb.astype(np.float32) - ground, axis=2) < tol
+
+    lab, _ = ndimage.label(creamish)
+    border = set(np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]])))
+    border.discard(0)
+    fg = ~np.isin(lab, list(border))
+
+    # Drop paper-noise specks floating in the ground; they are not the bird
+    # and would otherwise inflate the crop box to the whole frame.
+    lab2, n = ndimage.label(fg)
+    if n:
+        sizes = ndimage.sum(fg, lab2, range(1, n + 1))
+        keep = np.where(sizes >= sizes.max() * 0.01)[0] + 1
+        fg = np.isin(lab2, keep)
+    fg = ndimage.binary_fill_holes(fg)
+
+    recovered = int(((alpha < 128) & fg).sum())
+    return np.where(fg, 255, alpha).astype(np.uint8), recovered
+
+
 def main() -> int:
     here = Path(__file__).resolve().parents[1]
     ap = argparse.ArgumentParser(description=__doc__,
@@ -42,6 +89,11 @@ def main() -> int:
                          "long side (default: 0.02)")
     ap.add_argument("--force", action="store_true",
                     help="Re-cut illustrations that already have transparency")
+    ap.add_argument("--no-repair", action="store_true",
+                    help="Skip the pale-body alpha repair (raw matting output)")
+    ap.add_argument("--ground-tol", type=float, default=42.0,
+                    help="Colour distance from the cream ground still counted as "
+                         "background, for the repair pass (default: 42)")
     args = ap.parse_args()
 
     try:
@@ -76,7 +128,15 @@ def main() -> int:
         if not args.force and im.mode == "RGBA" and im.getchannel("A").getextrema()[0] == 0:
             skipped += 1
             continue
-        cut = remove(im.convert("RGB"), session=session)  # RGBA, ground -> transparent
+        src = im.convert("RGB")
+        cut = remove(src, session=session)  # RGBA, ground -> transparent
+        recovered = 0
+        if not args.no_repair:
+            import numpy as np
+            rgb = np.array(src)
+            fixed, recovered = repair_alpha(rgb, np.array(cut.getchannel("A")),
+                                            tol=args.ground_tol)
+            cut = Image.fromarray(np.dstack([rgb, fixed]), "RGBA")
         bbox = cut.getchannel("A").getbbox()
         if bbox:
             pad = round(args.margin * max(bbox[2] - bbox[0], bbox[3] - bbox[1]))
@@ -85,7 +145,8 @@ def main() -> int:
             cut = cut.crop((x0, y0, x1, y1))
         cut.save(p)
         done += 1
-        print(f"  [cut]  {p.name}  -> {cut.width}x{cut.height}")
+        tag = f"  +{recovered}px recovered" if recovered > 200 else ""
+        print(f"  [cut]  {p.name}  -> {cut.width}x{cut.height}{tag}")
 
     print(f"\ncut {done} · skipped {skipped} (already transparent)")
     return 0
