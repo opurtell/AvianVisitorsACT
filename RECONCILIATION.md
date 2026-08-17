@@ -6,7 +6,7 @@ Canberra / Australian Capital Territory deployment of
 illustration bundle.
 
 **Status: complete. 5 gap species generated, cut out, verified, merged and
-mask-rebuilt. 403 species / 806 illustrations, `act3`.**
+mask-rebuilt. 403 species / 806 illustrations, `act4`.**
 
 **Gemini spend: ~$0.48.** 12 images generated (10 initial + 2 regenerations)
 at 1290 output tokens each, $30/1M → $0.464, plus ~23 verification vision
@@ -437,6 +437,10 @@ through the pale bodies of the three flight poses, removing most of the chest:
 | `malurus-lamberti-2` | 1,992 |
 | `ardea-intermedia-2` | 1,317 |
 
+After the final outline-based re-cut the corrections were larger still, and in
+both directions — e.g. `bubulcus-ibis` recovered 7,006 body pixels and shed
+48,530 pixels of background the matting model had claimed as bird.
+
 This is the failure mode the upstream README warns about — pale bodies against
 the pale cream ground give the matting model too little contrast — and it is
 **invisible until the illustration is composited over a non-cream
@@ -449,24 +453,52 @@ for it". The defect was caught on visual review over a contrasting ground.
 **Compositing over saturated magenta is the check that works**; alpha
 statistics alone are not sufficient.
 
-#### Fix: an alpha repair pass in `cutout.py`
+#### The second defect: background kept as body
 
-Rather than patch the three files by hand, the root cause is now handled in
-`cutout.py` (`repair_alpha`, on by default, `--no-repair` to disable):
+A colour-based repair fixed the holes but could not fix the mirror-image
+error, which review then surfaced on the Intermediate Egret's flight pose: a
+slab of **feather-coloured fill between the neck and the raised wing, where
+there should be transparency**. That pocket is genuine background, and
+BiRefNet had wrongly claimed it as bird. A repair that only ever *raises*
+alpha cannot undo that.
 
-1. Sample the flat cream ground from the frame border.
-2. Flood-fill inward from the border through cream-like pixels only.
-3. Anything the fill cannot reach is bird — **however pale it is**.
-4. Drop paper-noise specks, fill enclosed regions, force those pixels opaque.
+The obvious fix — clear pixels that match the ground colour — **destroys this
+bird**. A white egret's plumage sits within a few luminance levels of the
+cream field, so clearing "background-coloured" pixels dissolves the body and
+leaves only ink strokes. Colour cannot separate the two.
 
-The guarantee that makes this sound: the ground is uniform and
-border-connected, and every bird is ringed by ink outlines, so a border-seeded
-fill physically cannot leak into a body. It only ever *raises* alpha, so the
-matting model's soft antialiased edges survive intact. This is precisely why
-`pregen.py` renders on a flat known ground in the first place.
+#### Fix: take the silhouette from the ink outline
+
+`cutout.py` now derives the silhouette from the drawing's own contour
+(`ink_silhouette` + `build_alpha`, on by default):
+
+1. Threshold ink as luminance below the frame's median (the ground dominates).
+2. Flood-fill inward from the border through non-ink pixels.
+3. The fill reaches all true background — including concave pockets like the
+   neck/wing gap — but **cannot cross the outline into the body**.
+4. Keep the largest blob, fill enclosed regions, feather by 0.6 px so edges
+   stay antialiased.
+
+This is correct precisely where colour fails: the outline is unambiguous even
+when plumage and ground are the same colour. It fixes both defects at once —
+holes are filled *and* wrongly-kept background is cleared.
+
+**Guarded, not blindly trusted.** If the ink contour has a gap, the fill leaks
+into the body and collapses to a few strokes. `build_alpha` compares its area
+against the matting model's and falls back to matte-plus-colour-repair if the
+ratio leaves [0.5, 2.0]. Across the seven illustrations re-cut from their original renders
+the ratio ran 0.72–1.06; the two that fall back are ones whose pre-cutout
+original is not in git.
 
 `scipy` was added to `requirements.txt` for connected components and hole
 filling.
+
+#### A bug in `cutout.py`'s slug expansion
+
+Passing a base slug also queues its `-2` flight pose. Naming both `x` and
+`x-2` therefore queued `x-2` twice, and the second pass ran over the first
+pass's own output — destructive, for the reason in the hazard note below. Now
+de-duplicated.
 
 #### The safety commit paid for itself
 

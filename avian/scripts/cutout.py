@@ -27,6 +27,73 @@ import sys
 from pathlib import Path
 
 
+def ink_silhouette(rgb, margin: float = 8.0):
+    """Silhouette taken from the drawing's own ink outline, not from colour.
+
+    Every bird is drawn with a closed ink contour on a flat cream ground.
+    Flood-filling inward from the frame border through non-ink pixels reaches
+    all true background - including concave pockets a matting model tends to
+    swallow, such as the gap between a tucked neck and a raised wing - but it
+    cannot cross the outline into the body.
+
+    This is the only test that works when the plumage is the same colour as
+    the ground. A white egret's body sits within a few levels of the cream
+    field, so a colour test either keeps the background (leaving a
+    feather-coloured slab where there should be a hole) or dissolves the bird
+    outright. The outline is unambiguous where colour is not.
+
+    Returns a boolean mask of the bird.
+    """
+    import numpy as np
+    from scipy import ndimage
+
+    g = rgb.mean(axis=2).astype(np.float32)
+    ground = float(np.median(g))          # the ground dominates the frame
+    ink = g < (ground - margin)
+    lab, _ = ndimage.label(~ink)
+    border = set(np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]])))
+    border.discard(0)
+    outside = np.isin(lab, list(border))
+    bird = ndimage.binary_fill_holes(~outside)
+
+    # Largest blob only - drops paper-edge strips and scan noise, which would
+    # otherwise inflate the crop box to the whole frame.
+    lab2, n = ndimage.label(bird)
+    if n:
+        sizes = ndimage.sum(bird, lab2, range(1, n + 1))
+        bird = lab2 == (int(np.argmax(sizes)) + 1)
+    return bird
+
+
+def build_alpha(rgb, matte, margin: float = 8.0, tol: float = 42.0):
+    """Final alpha: outline silhouette when it is plausible, else matte repair.
+
+    The outline fill is trusted only if it agrees with the matting model on
+    overall area. If the ink contour has a gap the fill leaks into the body
+    and collapses to a few strokes, which the area check catches; in that
+    case we fall back to the matting model plus the raise-only colour repair.
+
+    Returns (alpha, mode, filled, cleared).
+    """
+    import numpy as np
+    from scipy import ndimage
+    from PIL import Image, ImageFilter
+
+    bird = ink_silhouette(rgb, margin)
+    matte_area = int((matte > 127).sum())
+    ratio = bird.sum() / max(matte_area, 1)
+    if not (0.5 <= ratio <= 2.0):
+        alpha, filled = repair_alpha(rgb, matte, tol)
+        return alpha, f"matte+repair (outline ratio {ratio:.2f})", filled, 0
+
+    filled = int(((matte < 128) & bird).sum())
+    cleared = int(((matte > 128) & ~bird).sum())
+    # Feather the hard mask by a sub-pixel blur so edges stay antialiased.
+    alpha = np.array(Image.fromarray((bird * 255).astype(np.uint8))
+                     .filter(ImageFilter.GaussianBlur(0.6)))
+    return alpha, "outline", filled, cleared
+
+
 def repair_alpha(rgb, alpha, tol: float = 42.0):
     """Restore opacity to body areas the matting model wrongly cut away.
 
@@ -90,7 +157,10 @@ def main() -> int:
     ap.add_argument("--force", action="store_true",
                     help="Re-cut illustrations that already have transparency")
     ap.add_argument("--no-repair", action="store_true",
-                    help="Skip the pale-body alpha repair (raw matting output)")
+                    help="Skip alpha correction entirely (raw matting output)")
+    ap.add_argument("--ink-margin", type=float, default=8.0,
+                    help="How far below the ground's luminance a pixel counts "
+                         "as ink, for the outline silhouette (default: 8)")
     ap.add_argument("--ground-tol", type=float, default=42.0,
                     help="Colour distance from the cream ground still counted as "
                          "background, for the repair pass (default: 42)")
@@ -111,6 +181,9 @@ def main() -> int:
             flight = args.dir / f"{slug}-2.png"
             if not slug.endswith("-2") and flight.exists():
                 paths.append(flight)
+        # Dedupe: naming both "x" and "x-2" would otherwise queue x-2 twice,
+        # and the second pass would run over the first pass's own output.
+        paths = list(dict.fromkeys(paths))
         missing = [p for p in paths if not p.exists()]
         if missing:
             print("error: not found: " + ", ".join(p.name for p in missing), file=sys.stderr)
@@ -130,13 +203,17 @@ def main() -> int:
             continue
         src = im.convert("RGB")
         cut = remove(src, session=session)  # RGBA, ground -> transparent
-        recovered = 0
+        note = ""
         if not args.no_repair:
             import numpy as np
             rgb = np.array(src)
-            fixed, recovered = repair_alpha(rgb, np.array(cut.getchannel("A")),
-                                            tol=args.ground_tol)
-            cut = Image.fromarray(np.dstack([rgb, fixed]), "RGBA")
+            alpha, mode, filled, cleared = build_alpha(
+                rgb, np.array(cut.getchannel("A")),
+                margin=args.ink_margin, tol=args.ground_tol)
+            cut = Image.fromarray(np.dstack([rgb, alpha]), "RGBA")
+            bits = [b for b in (f"+{filled}px" if filled > 200 else "",
+                                f"-{cleared}px" if cleared > 200 else "") if b]
+            note = f"  [{mode}{' ' + ' '.join(bits) if bits else ''}]"
         bbox = cut.getchannel("A").getbbox()
         if bbox:
             pad = round(args.margin * max(bbox[2] - bbox[0], bbox[3] - bbox[1]))
@@ -145,8 +222,7 @@ def main() -> int:
             cut = cut.crop((x0, y0, x1, y1))
         cut.save(p)
         done += 1
-        tag = f"  +{recovered}px recovered" if recovered > 200 else ""
-        print(f"  [cut]  {p.name}  -> {cut.width}x{cut.height}{tag}")
+        print(f"  [cut]  {p.name}  -> {cut.width}x{cut.height}{note}")
 
     print(f"\ncut {done} · skipped {skipped} (already transparent)")
     return 0
