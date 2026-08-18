@@ -37,6 +37,7 @@ Derived data, all tracked:
 | File | Contents |
 |---|---|
 | `avian/scripts/act-species-canberra.csv` | All 198 species BirdNET will attempt at Canberra, with occurrence scores and coverage status |
+| `avian/scripts/act-include-species-list.txt` | The 197 attempted species as a BirdNET-Pi allow-list, ready to drop in as `include_species_list.txt` |
 | `avian/scripts/act-targets.txt` | The 5 generated species, under BirdNET label names |
 | `avian/scripts/verify-results.csv` | Blind species re-ID and anatomy audit for the 10 new illustrations |
 | `avian/assets/references/manifest.csv` | Source, author, licence and local edits for every reference image |
@@ -69,9 +70,13 @@ Blind verification passes 9/10; the single dissent is examined in
 
 ```bash
 rsync -avz --delete avian/ pi@birdnet.local:~/BirdNET-Pi/avian/
+scp avian/scripts/act-include-species-list.txt \
+  pi@birdnet.local:~/BirdNET-Pi/include_species_list.txt
 ```
 
-Then hard-reload the kiosk. Bump `SKETCH_VERSION` and `IMG_VERSION` in
+`--delete` is what removes the upstream North American art; the allow-list is
+what stops anything outside the 197 reaching the database. Then hard-reload
+the kiosk. Bump `SKETCH_VERSION` and `IMG_VERSION` in
 `avian/frontend/apt.js` whenever the art changes, or browsers serve stale
 images from cache indefinitely. Full procedure and verification checks in
 [DEPLOYMENT.md](DEPLOYMENT.md).

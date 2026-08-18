@@ -101,8 +101,7 @@ Either way coverage is complete; v2 simply listens for 70 more species.
 The installer ships the upstream North American art. Replace it with this set:
 
 ```bash
-git clone -b claude/act-bird-illustrations-b625bc \
-  https://github.com/opurtell/AvianVisitorsACT
+git clone https://github.com/opurtell/AvianVisitorsACT
 cd AvianVisitorsACT
 
 rsync -avz --delete avian/ pi@birdnet.local:~/BirdNET-Pi/avian/
@@ -110,10 +109,14 @@ rsync -avz --delete avian/ pi@birdnet.local:~/BirdNET-Pi/avian/
 
 Then hard-reload the kiosk browser (`Ctrl+Shift+R`).
 
-**On `--delete`:** it is correct for a first sync, but drop it once the Pi is
-live. `avian/assets/cutouts/` is a runtime cache that `cutout.php` populates
-on the Pi with photo fallbacks for uncovered species; `--delete` wipes it each
-time.
+**On `--delete`:** keep it on every sync. It is what makes this an ACT-only
+build rather than an ACT-plus-North-America one — it removes the 622 upstream
+illustrations, the 152 bundled North American photo cutouts in
+`avian/assets/cutouts/`, and the 76 orphaned files in `avian/assets/sketches/`
+(a directory nothing in the codebase reads). None of that is a runtime cache:
+`cutout.php` writes its dynamic photo fallbacks to
+`~/BirdSongs/Extracted/cutouts/`, which is outside `~/BirdNET-Pi/avian/` and
+which rsync never touches.
 
 ### How the overlay is served
 
@@ -145,6 +148,73 @@ every illustration URL carries `&v=IMG_VERSION`. **Both must be bumped
 whenever pixels change**, or the Surface serves stale art from cache
 indefinitely. Current value: `act5` (both constants, `avian/frontend/apt.js`).
 
+### Hard-lock the species set
+
+The configuration contract in §1 is a *soft* boundary: `SF_THRESH` and the
+occurrence model decide what BirdNET will attempt, and both can drift if
+anyone touches Settings. If a species outside the ACT set is ever recorded, it
+gets a Wikipedia photo cutout on the wall instead of an illustration.
+
+BirdNET-Pi has a hard allow-list. `scripts/utils/analysis.py:141` loads
+`~/BirdNET-Pi/include_species_list.txt`, and **if that file is non-empty, only
+the species named in it are ever written to the detections database** — the
+check runs after confidence and before the occurrence filter, so it overrides
+location, threshold and model version alike.
+
+`avian/scripts/act-include-species-list.txt` in this repo is exactly the 197
+species from the coverage table, in the file's required `Scientific
+name_Common Name` form, with common names taken from
+`model/l18n/labels_en.json` so they match what BirdNET-Pi stores:
+
+```bash
+scp avian/scripts/act-include-species-list.txt \
+  pi@birdnet.local:~/BirdNET-Pi/include_species_list.txt
+ssh pi@birdnet.local 'sudo systemctl restart birdnet_analysis.service'
+```
+
+The file is also editable in the web UI at *Tools → Settings → Included
+Species*, which reads and writes the same path through the
+`scripts/include_species_list.txt` symlink.
+
+Consequences worth accepting deliberately:
+
+- **Nothing outside the 197 is ever recorded**, not even a genuine vagrant.
+  The detection is logged as excluded and discarded. Empty the file to hear
+  everything the occurrence model offers again.
+- The list is keyed to `DATA_MODEL_VERSION=2`. Under v1, 70 of the 197 are
+  never attempted anyway, so the list is a superset and harmless.
+- Regenerate it if the species set changes:
+
+  ```bash
+  python3 - <<'EOF'
+  import csv, json
+  lab = json.load(open('model/l18n/labels_en.json'))   # from the BirdNET-Pi tree
+  rows = csv.DictReader(open('avian/scripts/act-species-canberra.csv'))
+  sel = sorted((r for r in rows if float(r['occurrence_v2']) >= 0.03),
+               key=lambda r: r['scientific_name'])
+  with open('avian/scripts/act-include-species-list.txt', 'w') as f:
+      for r in sel:
+          f.write(f"{r['scientific_name']}_{lab[r['scientific_name']]}\n")
+  EOF
+  ```
+
+### What "ACT only" does and does not mean
+
+Three separate sets are in play; conflating them is the easy mistake:
+
+| Set | Size | Controlled by |
+|---|---|---|
+| Illustrations installed on the Pi | 403 species / 806 PNGs | what `rsync --delete` puts in `avian/assets/illustrations/` |
+| Species BirdNET will attempt | 197 | `LATITUDE`/`LONGITUDE`, `SF_THRESH`, `DATA_MODEL_VERSION` |
+| Species that can reach the database | 197, if the allow-list is installed | `include_species_list.txt` |
+
+The 206-species surplus in the first row is the rest of the AU-VIC bundle —
+Victorian and wider-Australian birds below threshold at Canberra. They cost
+about 40 MB of SD card and are never displayed. Keeping them is the right
+default: they are the buffer if you lower `SF_THRESH`, move the Pi, or a
+species' occurrence score shifts between model versions. Pruning to exactly
+197 buys nothing but a re-derivation cost the next time anything changes.
+
 ---
 
 ## 4. Verify the deployment
@@ -163,11 +233,18 @@ curl -sI "http://birdnet.local/avian/api/cutout.php?sci=Tyto%20alba" | head -3
 # cache version actually served
 curl -s http://birdnet.local/apt.js | grep -m2 "_VERSION = "
 
+# no North American art left behind (expect 806, and no upstream slugs)
+ssh pi@birdnet.local 'ls ~/BirdNET-Pi/avian/assets/illustrations | wc -l;
+  ls ~/BirdNET-Pi/avian/assets/illustrations | grep -c "^junco-\|^turdus-migratorius\|^cyanocitta-"'
+
+# allow-list in place (expect 197)
+ssh pi@birdnet.local 'wc -l < ~/BirdNET-Pi/include_species_list.txt'
+
 # what BirdNET will listen for at this location
-cd ~/BirdNET-Pi && python3 scripts/species.py --threshold 0.03 | head -30
+cd ~/BirdNET-Pi/scripts && ~/BirdNET-Pi/birdnet/bin/python3 species.py --threshold 0.03 | head -30
 ```
 
-That last command is the real acceptance test: it prints the species list
+That last command must run from `scripts/` under the BirdNET venv python — the system `python3` has no `tflite_runtime`, and `utils.helpers` only imports with `scripts/` as the working directory. It is the real acceptance test: it prints the species list
 BirdNET will attempt, straight from the occurrence model. Every species in it
 should have art — cross-check against
 [`avian/scripts/act-species-canberra.csv`](avian/scripts/act-species-canberra.csv).
