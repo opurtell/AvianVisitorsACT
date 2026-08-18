@@ -87,3 +87,10 @@ images from cache indefinitely. Full procedure and verification checks in
 - 398 of the 403 species — [TheWillni/AusVicVisitors](https://github.com/TheWillni/AusVicVisitors)
 - Style references — Ohara Koson, public domain, via Wikimedia Commons and the Rijksmuseum
 - Anatomy references — Wikimedia Commons contributors; see `avian/assets/references/manifest.csv` for per-file attribution
+
+## Licence
+
+[CC-BY-NC-SA-4.0](LICENSE), inherited from BirdNET-Pi via AvianVisitors.
+Non-commercial use only, and the ShareAlike condition carries to anything
+derived from this bundle — including a bundle for another region built on top
+of it.
