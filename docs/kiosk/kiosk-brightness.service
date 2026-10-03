@@ -1,0 +1,7 @@
+[Unit]
+Description=Set kiosk backlight from sun elevation
+After=systemd-backlight@backlight:intel_backlight.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/kiosk-brightness

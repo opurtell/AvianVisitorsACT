@@ -132,6 +132,29 @@ Applied, in root's crontab (`sudo crontab -e`):
 0 4 * * * /sbin/reboot
 ```
 
+### 9. Brightness follows the sun
+
+The Surface 3's ambient light sensor does not work under Linux. Plain sysfs reads
+always return 0, buffered reads return no samples, and the kernel logs
+`hid-sensor-hub: No report with id 0xffffffff found`. The backlight therefore
+follows the sun's elevation at the site, not the room: **90%** when the sun is
+above +6°, **10%** below −6° (civil twilight), and a linear fade in between. The
+fade takes about an hour (05:14→06:13 and 17:34→18:33 in early October).
+
+Source: [`kiosk/`](kiosk/). Install (applied 2026-10-03):
+
+```bash
+sudo install -m 755 kiosk-brightness.py /usr/local/bin/kiosk-brightness
+sudo install -m 644 kiosk-brightness.conf /etc/default/kiosk-brightness
+sudo install -m 644 kiosk-brightness.service kiosk-brightness.timer /etc/systemd/system/
+sudo systemctl daemon-reload && sudo systemctl enable --now kiosk-brightness.timer
+```
+
+The timer runs every 2 minutes and 20 s after boot. That boot run overrides the
+level `systemd-backlight` restores, which may be a night value saved before the
+04:00 reboot. Levels and the fade band are in `/etc/default/kiosk-brightness`
+and take effect on the next run, with no restart needed.
+
 ---
 
 ## Maintenance
@@ -146,6 +169,8 @@ Connect by IP or `.local` rather than `.nbn`: the host key is saved under those 
 | Change the URL | `sudo -u kiosk nano /home/kiosk/.bash_profile`, then restart the kiosk |
 | Update | `sudo apt update && sudo apt full-upgrade -y` |
 | Battery check (should sit ~50%) | `cat /sys/class/power_supply/*/capacity` |
+| Change brightness levels | `sudo nano /etc/default/kiosk-brightness` (`DAY`, `NIGHT`, `ELEV_LOW`/`ELEV_HIGH`) |
+| See what brightness it would set now | `kiosk-brightness --dry-run`; history: `journalctl -u kiosk-brightness -n 20` |
 
 ---
 
