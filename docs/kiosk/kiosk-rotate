@@ -1,0 +1,28 @@
+#!/bin/sh
+# Rotation hotkey handler (triggerhappy). Usage: kiosk-rotate cw|ccw|reset
+# Steps the live cage output 90 degrees and saves the transform to
+# /var/lib/kiosk-rotation, which .bash_profile reads so the 04:00 reboot keeps it.
+STATE=/var/lib/kiosk-rotation
+DEFAULT=90
+KIOSK_UID=$(id -u kiosk)
+
+randr() {
+  runuser -u kiosk -- env XDG_RUNTIME_DIR=/run/user/$KIOSK_UID WAYLAND_DISPLAY=wayland-0 wlr-randr "$@"
+}
+
+OUT=$(randr | head -n1 | cut -d" " -f1)
+[ -n "$OUT" ] || { echo "kiosk-rotate: no cage session" >&2; exit 1; }
+cur=$(randr | sed -n 's/^ *Transform: //p' | head -n1)
+[ "$cur" = normal ] && cur=0
+case "$cur" in 0|90|180|270) ;; *) cur=$DEFAULT ;; esac
+
+case "$1" in
+  cw)    new=$(( (cur + 270) % 360 )) ;;  # Wayland transforms turn anticlockwise
+  ccw)   new=$(( (cur + 90) % 360 )) ;;
+  reset) new=$DEFAULT ;;
+  *)     echo "usage: $0 cw|ccw|reset" >&2; exit 2 ;;
+esac
+[ "$new" = 0 ] && new=normal
+
+randr --output "$OUT" --transform "$new"
+echo "$new" > "$STATE"

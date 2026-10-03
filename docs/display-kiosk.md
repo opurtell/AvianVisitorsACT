@@ -79,7 +79,7 @@ if [ "$(tty)" = "/dev/tty1" ]; then
   while true; do
     cage -- sh -c '
       OUT=$(wlr-randr | head -n1 | cut -d" " -f1)
-      wlr-randr --output "$OUT" --transform 90
+      wlr-randr --output "$OUT" --transform "$(cat /var/lib/kiosk-rotation 2>/dev/null || echo 90)"
       exec chromium --kiosk --ozone-platform=wayland \
         --noerrdialogs --disable-infobars --incognito \
         --disable-features=Translate \
@@ -94,8 +94,8 @@ fi
 - The `while` loop relaunches Chromium if it crashes.
 - **Portrait rotation.** Current cage has **removed** the old `-r` flag.
   Rotation is done with `wlr-randr` inside the cage session, with the output
-  name detected automatically. If the picture is upside down, use
-  `--transform 270` instead of `90`.
+  name detected automatically. The angle comes from `/var/lib/kiosk-rotation`
+  (default `90`), which the rotation hotkeys (§11) write.
 
 ### 6. Touch rotation — `/etc/udev/rules.d/99-touch-rotate.rules`
 
@@ -189,6 +189,31 @@ sudo install -D -m 644 triggerhappy-root.conf /etc/systemd/system/triggerhappy.s
 sudo systemctl daemon-reload && sudo systemctl enable --now triggerhappy
 ```
 
+### 11. Rotation hotkeys
+
+The orientation sensors on the Surface 3 are as dead as the light sensor (§9):
+`accel_3d` always reads `0 0 -1000`, `dev_rotation` stays at the identity
+quaternion, and buffered reads return nothing. Auto-rotate is therefore not possible.
+Instead, Windows-style hotkeys on any plugged-in keyboard rotate the screen:
+
+| Keys | Action |
+|---|---|
+| Ctrl+Alt+→ | rotate 90° clockwise |
+| Ctrl+Alt+← | rotate 90° anticlockwise |
+| Ctrl+Alt+↑ | back to default portrait (`90`) |
+
+[`kiosk-rotate`](kiosk/kiosk-rotate) changes the live cage output with `wlr-randr`
+(running as `kiosk` in its Wayland session) and saves the angle to
+`/var/lib/kiosk-rotation`, so the 04:00 reboot keeps it. Triggerhappy's udev rule
+picks up keyboards plugged in after boot. Install (applied 2026-10-03):
+
+```bash
+sudo install -m 755 kiosk-rotate /usr/local/bin/kiosk-rotate
+sudo install -m 644 rotate.conf /etc/triggerhappy/triggers.d/rotate.conf
+echo 90 | sudo tee /var/lib/kiosk-rotation
+sudo systemctl restart triggerhappy
+```
+
 ---
 
 ## Maintenance
@@ -213,7 +238,7 @@ Connect by IP or `.local` rather than `.nbn`: the host key is saved under those 
 
 | Symptom | Fix |
 |---|---|
-| Picture upside down | Use `--transform 270` in `.bash_profile` instead of `90`. Change the touch matrix to match. |
+| Picture upside down or sideways | Ctrl+Alt+arrows (§11), or over SSH: `sudo kiosk-rotate cw` / `ccw` / `reset`. |
 | Touch mirrored or rotated wrong | Check the `Calibration` line in `sudo libinput list-devices`, and watch input with `sudo libinput debug-events`. Other matrices to try: `0 1 0 -1 0 1`, `0 1 0 1 0 0`, `0 -1 1 -1 0 1`. **Reboot** after each change. |
 | Touch rule edited but nothing changed | Reboot fully. Reloading udev is not enough (§6). |
 | Blank page or "can't reach" | Check `getent hosts birdnet.local` on the Surface, and that the Pi is up. |
