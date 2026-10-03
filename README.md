@@ -19,6 +19,7 @@ verified and merged.
 |---|---|
 | **[DEPLOYMENT.md](DEPLOYMENT.md)** | Fresh Pi → birds on the wall. Configuration contract, install, sync, verification, kiosk, operations, and how to change the illustration set later. **Start here to build.** |
 | **[RECONCILIATION.md](RECONCILIATION.md)** | Why the species set contains exactly what it does. Set derivation, taxonomy resolutions, per-species verification, cutout defects and fixes, actual spend. **Read before changing the species list.** |
+| **[docs/display-kiosk.md](docs/display-kiosk.md)** | The Surface 3 wall display: Debian 13 + cage + Chromium kiosk. Firmware, install, rotation, never-sleep, maintenance. |
 | [avian/assets/references/README.md](avian/assets/references/README.md) | What reference images `pregen.py` needs and where to get them. |
 
 ## Contents

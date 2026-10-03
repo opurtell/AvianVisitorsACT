@@ -253,23 +253,13 @@ should have art — cross-check against
 
 ## 5. Surface kiosk
 
-1. **Confirm the Surface model and generation first** — it determines whether
-   a UEFI battery limit exists and whether Linux drivers are viable.
+The display is a Surface 3 running Debian 13 + cage + Chromium in kiosk mode,
+pointed at `http://birdnet.local/` in portrait. Full reproducible setup
+(firmware, install, auto-login, rotation, touch, never-sleep, nightly reboot)
+and maintenance: **[docs/display-kiosk.md](docs/display-kiosk.md)**.
 
-2. **Try Windows Assigned Access before reinstalling.** *Settings → Accounts →
-   Other users → Set up a kiosk* → Edge, full-screen, `http://birdnet.local/`.
-   Reversible, keeps the ambient light sensor, zero driver risk.
-
-3. **Suppress interruptions:** never sleep on AC, display never off, wide
-   active hours, defer feature updates, disable the lock screen and
-   notifications on the kiosk account.
-
-4. **Set portrait orientation.** 3:2 rotated is close to A4 — the reason a
-   Surface suits this better than any 16:9 panel.
-
-5. **Fall back to Porteus Kiosk only if Windows fights you.** Read-only,
-   auto-reconnects on network loss. Verify Wi-Fi and touch from the live image
-   before committing.
+The battery is capped at 50% in UEFI (Battery Limit Mode), which satisfies §6
+item 1.
 
 ---
 
