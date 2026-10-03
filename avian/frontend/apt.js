@@ -269,8 +269,8 @@
       minTileAreaFrac: n <= 8 ? 0.0100 :
         n <= 20 ? 0.0075 :
           0.0055,
-      // Wider clusters for landscape viewports, more so as n grows.
-      ellipseAspectBias: 2.1,
+      // Landscape ellipse width per unit of viewport aspect (W/H).
+      ellipseAspectBias: 1.1,
     };
   }
   var GRID_STRIDE = 4; // viewport px per occupancy cell; smaller = slower
@@ -472,11 +472,12 @@
     // pack densities for 6 vs 48 birds.
     var T = tuning(items.length);
     var vpArea = W * H;
-    // Tall, wide-enough screens (the portrait wall kiosk) get a larger budget,
-    // growing with how tall the viewport is: the vertical ellipse below leaves
-    // the corners empty, so the birds can be bigger before anything overflows.
-    var tall = W > 700 && H > W;
-    var budget = vpArea * T.packingBudgetFrac * (tall ? Math.min(1.6, H / W) : 1);
+    // Anything wider than a phone gets a larger budget: the ellipse below is
+    // stretched to the viewport's own aspect, so the cluster reaches both edges
+    // and leaves only the corners empty. 1.8 fills ~75-90% of the long axis in
+    // either orientation of the wall kiosk without the fit loop shrinking it.
+    var narrow = W <= 700;
+    var budget = vpArea * T.packingBudgetFrac * (narrow ? 1 : 1.8);
     var minArea = vpArea * T.minTileAreaFrac;
 
     // Step 1: build tiles + assign each a count-weighted SCORE (not a
@@ -535,15 +536,12 @@
       t.fullH = t.fullW / t.ar;
     });
 
-    // Shape follows the viewport: wide screens get a horizontal ellipse at full
-    // padding; phones a vertical ellipse with slightly tighter padding; tall
-    // screens wider than a phone (portrait kiosk, 1280px wide - which the old
-    // width-only test treated as landscape) a vertical ellipse scaled to the
-    // viewport's aspect, so the cluster fills the height instead of a band.
-    var narrow = W <= 700;
-    var xBias = narrow || tall ? 1 : T.ellipseAspectBias;
-    var yBias = tall ? (H / W) * 1.6 :
-      narrow ? 1.7 : 1;   // phones: gentler, so the cluster stays a bit wider
+    // Shape follows the viewport's aspect, so a rotated kiosk re-fills its new
+    // dimensions on the resize: landscape gets a horizontal ellipse, portrait a
+    // vertical one (biased harder, since the birds themselves are wider than
+    // tall), phones a gentle vertical one with slightly tighter padding.
+    var xBias = narrow || H > W ? 1 : Math.max(1, (W / H) * T.ellipseAspectBias);
+    var yBias = narrow ? 1.7 : H > W ? (H / W) * 1.6 : 1;
     var pad = narrow ? Math.max(1, COLLAGE_PAD - 1) : COLLAGE_PAD;
     var placed = maskPack(tiles, W, H, xBias, yBias, pad);
 

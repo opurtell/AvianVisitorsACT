@@ -496,7 +496,7 @@
      this view's content is just the cluster of bird cutouts which fills
      the remaining viewport height. */
   .gcollage {
-    flex: 1 1 auto; width: 100%; max-width: 1300px; margin: 0 auto;
+    flex: 1 1 auto; width: 100%;
     position: relative; min-height: 0;
   }
   /* Centre-out bloom: each tile fades + scales in; JS staggers the
