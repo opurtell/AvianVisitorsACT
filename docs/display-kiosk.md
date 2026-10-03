@@ -37,7 +37,7 @@ power on → getty autologin (kiosk, tty1) → .bash_profile loop
    | Prompt | Answer |
    |---|---|
    | "No Ethernet card" | **No**. The Surface 3 has no Ethernet. Wi-Fi was then detected and connected first try on the 2.4 GHz network. |
-   | Hostname | `avian-kiosk` |
+   | Hostname | `bird-display` |
    | Root password | **blank**, so the admin user gets sudo |
    | User | an admin user (not the kiosk user) |
    | Partitioning | guided, whole disk |
@@ -50,7 +50,7 @@ sudo apt update && sudo apt full-upgrade
 sudo apt install avahi-daemon libnss-mdns iw nano cage chromium wlr-randr libinput-tools
 ```
 
-`avahi-daemon` and `libnss-mdns` make `avian-kiosk.local` reachable over SSH
+`avahi-daemon` and `libnss-mdns` make `bird-display.local` reachable over SSH
 and let the Surface resolve `birdnet.local`. Verify:
 
 ```bash
@@ -136,7 +136,9 @@ Applied, in root's crontab (`sudo crontab -e`):
 
 ## Maintenance
 
-All over SSH: `ssh <admin>@avian-kiosk.local`.
+All over SSH: `ssh <admin>@bird-display.local`. If mDNS is not answering, the
+router also names it `bird-display.nbn` (192.168.1.241 at the time of writing).
+Connect by IP or `.local` rather than `.nbn`: the host key is saved under those names.
 
 | Task | Command |
 |---|---|
@@ -155,4 +157,4 @@ All over SSH: `ssh <admin>@avian-kiosk.local`.
 | Touch mirrored or rotated wrong | Check the `Calibration` line in `sudo libinput list-devices`, and watch input with `sudo libinput debug-events`. Other matrices to try: `0 1 0 -1 0 1`, `0 1 0 1 0 0`, `0 -1 1 -1 0 1`. **Reboot** after each change. |
 | Touch rule edited but nothing changed | Reboot fully. Reloading udev is not enough (§6). |
 | Blank page or "can't reach" | Check `getent hosts birdnet.local` on the Surface, and that the Pi is up. |
-| Wi-Fi dropouts | Turn off Wi-Fi power save (Marvell chip). **Not applied, since dropouts haven't happened so far.** In `/etc/network/interfaces`, add this under the `wlp…` block: `post-up /usr/sbin/iw dev $IFACE set power_save off` |
+| Wi-Fi dropouts | Turn off Wi-Fi power save (Marvell chip). **Applied 2026-10-03** after the kiosk dropped off the network (no ARP reply, needed a power cycle). Under `iface wlp1s0` in `/etc/network/interfaces` (root-only, it holds the PSK): `post-up /usr/sbin/iw dev $IFACE set power_save off`. Check with `/usr/sbin/iw dev wlp1s0 get power_save` → `off`. |
