@@ -472,7 +472,11 @@
     // pack densities for 6 vs 48 birds.
     var T = tuning(items.length);
     var vpArea = W * H;
-    var budget = vpArea * T.packingBudgetFrac;
+    // Tall, wide-enough screens (the portrait wall kiosk) get a larger budget,
+    // growing with how tall the viewport is: the vertical ellipse below leaves
+    // the corners empty, so the birds can be bigger before anything overflows.
+    var tall = W > 700 && H > W;
+    var budget = vpArea * T.packingBudgetFrac * (tall ? Math.min(1.6, H / W) : 1);
     var minArea = vpArea * T.minTileAreaFrac;
 
     // Step 1: build tiles + assign each a count-weighted SCORE (not a
@@ -531,12 +535,15 @@
       t.fullH = t.fullW / t.ar;
     });
 
-    // Width-responsive: wide screens get a horizontal ellipse at full padding;
-    // narrow/portrait screens a vertical ellipse with slightly tighter padding.
+    // Shape follows the viewport: wide screens get a horizontal ellipse at full
+    // padding; phones a vertical ellipse with slightly tighter padding; tall
+    // screens wider than a phone (portrait kiosk, 1280px wide - which the old
+    // width-only test treated as landscape) a vertical ellipse scaled to the
+    // viewport's aspect, so the cluster fills the height instead of a band.
     var narrow = W <= 700;
-    var xBias = narrow ? 1 : T.ellipseAspectBias;
-    var yBias = narrow ? 1.7 : 1;   // gentler than the desktop bias so the
-    // portrait cluster stays a bit wider / less tall
+    var xBias = narrow || tall ? 1 : T.ellipseAspectBias;
+    var yBias = tall ? (H / W) * 1.6 :
+      narrow ? 1.7 : 1;   // phones: gentler, so the cluster stays a bit wider
     var pad = narrow ? Math.max(1, COLLAGE_PAD - 1) : COLLAGE_PAD;
     var placed = maskPack(tiles, W, H, xBias, yBias, pad);
 
