@@ -1,0 +1,10 @@
+#!/bin/sh
+# Volume rocker handler (triggerhappy). Usage: kiosk-volume up|down
+# Steps the Speaker control 2 of 39 (3 dB) and saves it so the 04:00 reboot keeps it.
+case "$1" in
+  up)   step=2+ ;;
+  down) step=2- ;;
+  *)    echo "usage: $0 up|down" >&2; exit 2 ;;
+esac
+amixer -q -c 0 sset Speaker "$step" unmute
+alsactl store 0

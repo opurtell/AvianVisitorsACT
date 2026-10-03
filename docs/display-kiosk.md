@@ -155,6 +155,40 @@ level `systemd-backlight` restores, which may be a night value saved before the
 04:00 reboot. Levels and the fade band are in `/etc/default/kiosk-brightness`
 and take effect on the next run, with no restart needed.
 
+### 10. Speakers
+
+Out of the box the speakers are silent. The audio DSP needs firmware from
+`non-free-firmware` (`intel/fw_sst_22a8.bin`; without it, `dmesg` shows
+`intel_sst_acpi … FW download fail -2`). There is no PipeWire or PulseAudio, so
+the UCM speaker routing has to be applied by hand once, then saved:
+
+```bash
+sudo apt install firmware-intel-sound alsa-utils
+sudo reboot                                    # the DSP loads firmware only at boot
+sudo alsaucm -c chtrt5645 set _verb HiFi set _enadev Speaker
+sudo amixer -c 0 sset Speaker 39 unmute        # max, +12 dB (default 31 = 0 dB)
+sudo amixer -c 0 sset 'Speaker ClassD' 6       # amp gain 0-7 (default 4)
+sudo alsactl store 0                           # restored at boot by 90-alsa-restore.rules
+```
+
+Applied 2026-10-03. Chromium plays through ALSA's default device (card 0), and
+logind's seat ACL gives the `kiosk` user access to `/dev/snd` without the
+`audio` group. Test with `speaker-test -D plughw:0,0 -c 2 -t pink -l 1`.
+
+**Volume rocker.** No desktop listens for the buttons (`gpio-keys`, KEY_VOLUMEUP/DOWN),
+so `triggerhappy` runs [`kiosk-volume`](kiosk/kiosk-volume) on each press or repeat. It
+steps `Speaker` by 2 of 39 (3 dB) and runs `alsactl store` so the level survives
+reboots. The packaged unit drops to `nobody`, which cannot set the mixer, so a
+drop-in runs it as root:
+
+```bash
+sudo apt install triggerhappy
+sudo install -m 755 kiosk-volume /usr/local/bin/kiosk-volume
+sudo install -m 644 volume.conf /etc/triggerhappy/triggers.d/volume.conf
+sudo install -D -m 644 triggerhappy-root.conf /etc/systemd/system/triggerhappy.service.d/root.conf
+sudo systemctl daemon-reload && sudo systemctl enable --now triggerhappy
+```
+
 ---
 
 ## Maintenance
@@ -169,6 +203,7 @@ Connect by IP or `.local` rather than `.nbn`: the host key is saved under those 
 | Change the URL | `sudo -u kiosk nano /home/kiosk/.bash_profile`, then restart the kiosk |
 | Update | `sudo apt update && sudo apt full-upgrade -y` |
 | Battery check (should sit ~50%) | `cat /sys/class/power_supply/*/capacity` |
+| Change speaker volume | Volume rocker on the side. Range: `Speaker` 0-39; amp gain: `sudo amixer -c 0 sset 'Speaker ClassD' 0-7 && sudo alsactl store 0` |
 | Change brightness levels | `sudo nano /etc/default/kiosk-brightness` (`DAY`, `NIGHT`, `ELEV_LOW`/`ELEV_HIGH`) |
 | See what brightness it would set now | `kiosk-brightness --dry-run`; history: `journalctl -u kiosk-brightness -n 20` |
 
