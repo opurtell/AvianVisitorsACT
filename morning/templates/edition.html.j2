@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Dawn Chorus · {{ ed.date.strftime('%-d %B %Y') }}</title>
+<meta name="description" content="{{ prose.headline }}. The birds of the last 24 hours in {{ ed.place }}.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="sheet">
+
+<header class="masthead">
+  <div class="ears">
+    <span>No. {{ ed.number }}</span>
+    <span>{{ ed.place }}</span>
+    <span><a href="archive.html">Archive</a></span>
+  </div>
+  <h1>The Dawn Chorus</h1>
+  <p class="motto">All the birds fit to print</p>
+  <div class="dateline">
+    <span>{{ ed.date.strftime('%A %-d %B %Y') }}</span>
+    <span>First light {{ ed.civil_dawn|clock }}</span>
+    <span>Sunrise {{ ed.sunrise|clock }}</span>
+    <span>{{ ed.credible|length }} species</span>
+  </div>
+</header>
+
+<main>
+<section class="front">
+  {% if ed.lead %}
+  {% set s = ed.lead %}
+  <article class="lead">
+    <p class="kicker">{% if s.first_ever %}Station first{% elif s.returning_after_days %}Return{% elif s.record_day %}Record day{% elif s.arrived_on %}New arrival{% else %}Lead story{% endif %}</p>
+    <h2>{{ prose.headline }}</h2>
+    <p class="standfirst">{{ prose.standfirst }}</p>
+    {% if art[s.slug] %}
+    <figure class="lead-art">
+      <img src="{{ art[s.slug] }}" alt="{{ s.com }}, in the style of a Japanese kachō-e print" width="560">
+      <figcaption>{{ s.com }} <i>{{ s.sci }}</i></figcaption>
+    </figure>
+    {% endif %}
+    <div class="body">
+      {% for p in prose.lead_story %}<p>{{ prose_html(p) }}</p>{% endfor %}
+    </div>
+    <dl class="factbox">
+      <div><dt>Calls</dt><dd>{{ s.n }}</dd></div>
+      <div><dt>First heard</dt><dd>{{ when(s.first_at) }}</dd></div>
+      <div><dt>Best call</dt><dd>{{ s.best_conf|pct }}</dd></div>
+      <div><dt>Days heard</dt><dd>{{ s.days_total }} of {{ ed.station_days }}</dd></div>
+    </dl>
+  </article>
+  {% else %}
+  <article class="lead">
+    <h2>{{ prose.headline }}</h2>
+    <p class="standfirst">{{ prose.standfirst }}</p>
+  </article>
+  {% endif %}
+
+  <aside class="sidebar">
+    <section class="box dawn">
+      <h3>The Dawn Chorus</h3>
+      <p>{{ prose.dawn_paragraph }}</p>
+      {% if ed.dawn_chorus %}
+      <ol class="timeline">
+        {% for s in ed.dawn_chorus %}<li><time>{{ s.dawn_first_at|clock }}</time> {{ s.com }}</li>{% endfor %}
+      </ol>
+      {% endif %}
+    </section>
+
+    <section class="box">
+      <h3>After Dark</h3>
+      {% if ed.night_shift %}
+      <ol class="timeline">
+        {% for s in ed.night_shift %}<li><time>{{ s.night_first_at|clock }}</time> {{ s.com }}{% if s.night_n > 1 %} <span class="muted">×{{ s.night_n }}</span>{% endif %}</li>{% endfor %}
+      </ol>
+      {% else %}
+      <p class="muted">A silent night: nothing heard between dusk and first light.</p>
+      {% endif %}
+    </section>
+
+    <section class="box stats">
+      <h3>By the Numbers</h3>
+      <dl>
+        <div><dt>Calls detected</dt><dd>{{ ed.total_detections }}{% if ed.avg7_detections is not none %} <span class="muted">· week avg {{ ed.avg7_detections|round|int }}</span>{% endif %}</dd></div>
+        <div><dt>Species</dt><dd>{{ ed.credible|length }}{% if ed.avg7_species is not none %} <span class="muted">· week avg {{ '%.0f'|format(ed.avg7_species) }}</span>{% endif %}</dd></div>
+        <div><dt>Busiest hour</dt><dd>{{ hour_range(ed.busiest_hour) }} <span class="muted">· {{ ed.busiest_hour_n }} calls</span></dd></div>
+        <div><dt>Station day</dt><dd>{{ ed.station_days }}</dd></div>
+      </dl>
+    </section>
+  </aside>
+</section>
+
+<section class="second">
+  {% if ed.regular %}
+  {% set s = ed.regular %}
+  <article class="regular">
+    <p class="kicker">The Regular</p>
+    <h3>{{ s.com }}</h3>
+    {% if art[s.slug] %}<img class="regular-art" src="{{ art[s.slug] }}" alt="{{ s.com }}, kachō-e illustration" width="220">{% endif %}
+    {% for p in prose.regular_column %}<p>{{ prose_html(p) }}</p>{% endfor %}
+  </article>
+  {% endif %}
+
+  <section class="box arrivals">
+    <h3>Arrivals &amp; Returns</h3>
+    {% if ed.arrivals %}
+    <ul>
+      {% for s in ed.arrivals %}<li><b>{{ s.com }}</b> <span class="muted">{% if s.arrived_after_days %}back {{ s.arrived_on.strftime('%a %-d %b') }}, after {{ s.arrived_after_days }} days away{% else %}first heard {{ s.arrived_on.strftime('%a %-d %b') }}{% endif %}</span></li>{% endfor %}
+    </ul>
+    {% else %}
+    <p class="muted">No newcomers this week.</p>
+    {% endif %}
+    {% if prose.did_you_know %}
+    <h3 class="dyk">Did You Know?</h3>
+    <ul>{% for f in prose.did_you_know %}<li>{{ f }}</li>{% endfor %}</ul>
+    {% endif %}
+  </section>
+</section>
+
+<section class="rollcall">
+  <h3>Roll Call <span class="muted">· the last 24 hours, {{ ed.window_start|clock }} to {{ ed.window_end|clock }}</span></h3>
+  <table>
+    <thead><tr><th>Species</th><th class="n">Calls</th><th class="chart">By hour <span class="key">dawn shaded</span></th><th class="t">First heard</th></tr></thead>
+    <tbody>
+    {% for s in ed.credible %}
+      <tr>
+        <td>{% if art[s.slug] %}<img class="thumb" src="{{ art[s.slug] }}" alt="" width="40" loading="lazy">{% endif %}<span class="com">{{ s.com }}</span> <i class="sci">{{ s.sci }}</i></td>
+        <td class="n">{{ s.n }}</td>
+        <td class="chart">{{ sparkline(s, ed) }}</td>
+        <td class="t">{{ when(s.first_at) }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+{% if ed.unconfirmed %}
+<section class="box unconfirmed">
+  <h3>Heard, Unconfirmed</h3>
+  <p class="muted">Faint or one-off detections. BirdNET may have misheard, so these birds don't make the news until they're heard again.</p>
+  <ul>
+    {% for s in ed.unconfirmed %}<li>{{ s.com }} <span class="muted">· {{ s.n }} call{{ 's' if s.n != 1 }}, best {{ s.best_conf|pct }}, {{ when(s.first_at) }}</span></li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+</main>
+
+<footer>
+  <p><b>About this paper.</b> The Dawn Chorus is written each morning from a microphone in {{ ed.place }} running BirdNET, which identifies birds by their calls. Counts are calls detected, not individual birds. Times are local; the edition covers the 24 hours to {{ ed.window_end|clock }}.</p>
+  <p>Illustrations: AvianVisitors ACT, CC BY-NC-SA 4.0. Range scores: BirdNET (K. Lisa Yang Center for Conservation Bioacoustics &amp; Chemnitz University of Technology).{% if prose.source == 'template' %} Text set by the house template.{% endif %}</p>
+  <p><a href="archive.html">Past editions</a></p>
+</footer>
+</div>
+</body>
+</html>

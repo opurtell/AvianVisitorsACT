@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Dawn Chorus · Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="sheet">
+<header class="masthead">
+  <div class="ears"><span>Archive</span><span></span><span><a href="index.html">Today</a></span></div>
+  <h1>The Dawn Chorus</h1>
+  <p class="motto">Past editions</p>
+</header>
+<main>
+  <ol class="archive">
+    {% for day, e in editions.items() %}
+    <li><a href="{{ day }}.html"><time>{{ day }}</time> <span class="muted">No. {{ e.number }}</span> <b>{{ e.headline }}</b> <span class="muted">· {{ e.species }} species</span></a></li>
+    {% endfor %}
+  </ol>
+</main>
+</div>
+</body>
+</html>

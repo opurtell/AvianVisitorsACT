@@ -5,6 +5,12 @@
 run_time = "08:30"                 # local Canberra time, HH:MM
 timezone = "Australia/Sydney"
 
+[location]
+# City-level only: used for dawn/sunrise maths, never printed on the page.
+name = "Canberra"
+latitude = -35.28
+longitude = 149.13
+
 [source]
 # ssh alias for the Pi. On greg it points at the Pi's tailnet address and
 # the restricted snapshot key; on the Mac, the LAN alias works as-is.

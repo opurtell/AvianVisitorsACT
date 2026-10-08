@@ -2,3 +2,8 @@
 data/
 state/
 editions/
+
+# Local
+.venv/
+private-terms.txt
+.pytest_cache/

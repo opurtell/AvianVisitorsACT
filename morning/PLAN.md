@@ -6,7 +6,7 @@ short stories about specific birds (rare ones first, common ones in rotation)
 and sourced fun facts. Prose is written by `glm-5.3-flash` from facts the
 pipeline computes; the model never supplies numbers or facts of its own.
 
-Status: phase 0 done 2026-10-09; phase 1 next (plan written 2026-10-09). Decided 2026-10-09:
+Status: phases 0 and 1 done 2026-10-09; phase 2 (knowledge base) next (plan written 2026-10-09). Decided 2026-10-09:
 public on GitHub Pages; the Pi joins the tailnet for greg's DB fetch.
 
 ## Constraints this must respect
@@ -198,6 +198,22 @@ the edition's folder.
 
 **Done when** `run.py --no-llm --date D` renders a correct edition for each
 of the last 7 days.
+
+Progress (2026-10-09): done. `run.py --backtest 7` renders 3–9 Oct from
+real data; 18 tests pass (window edges, midnight crossover, credibility,
+arrivals and returns, night window, winter dawn clipping, lead hold-back,
+scrub). Checked by screenshot at desktop and 390 px, light and dark.
+Changes from the plan above:
+
+- `state/featured.json` and the lead/regular rotation came forward from
+  phase 3, as without it the same bird led every day.
+- Added **After Dark** (last night's civil dusk to civil dawn): owls, and
+  pre-dawn singers such as the 05:04 Magpie.
+- Added **busiest day yet** (needs ≥ 3 earlier days) and arrivals that stay
+  listed for 7 days. "Arrivals" uses the 30-day gap rule, so a bird present
+  on and off since August (the Oriole) is not an arrival.
+- Times outside the edition's date are shown with the day ("Thu 5:30 pm").
+- `--no-llm` isn't needed yet; phase 3 adds it.
 
 ### 2 · Knowledge base (one-off, 09:00–17:00 Canberra)
 
