@@ -11,6 +11,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python run.py --host birdnet --backtest 7   # Mac, over the LAN
 .venv/bin/python run.py --no-fetch --date 2026-10-09  # rebuild one edition
 .venv/bin/python run.py --no-fetch --dry-run          # temp output, no state
+.venv/bin/python run.py --no-fetch --no-llm --date 2026-10-09  # template prose only
 .venv/bin/python -m dawnchorus.analyse 2026-10-09     # the facts, as text
 .venv/bin/python -m pytest
 ```
@@ -63,6 +64,11 @@ the top of `dawnchorus/analyse.py`.
    well-established bird featured least recently (`state/featured.json`).
    Did You Know takes 2 facts for the lead and 1 for the Regular from the
    knowledge base, skipping any printed in the last 60 days.
-4. `write.py`: prose. Template-only for now; GLM arrives in phase 3 with the
-   same keys, and this becomes its fallback.
+4. Prose: `glm_write.py` gives `glm-5.3-flash` a JSON brief of the computed
+   facts (plus knowledge-base facts and the month's `seasonal.toml` notes)
+   and validates the reply: every number, time, gap and bird must trace to
+   the brief, and comparisons, guesses and place words are refused. Three
+   attempts, with the problems fed back; then `write.py`'s template. Keys:
+   `GLM_API_KEY`, `GLM_BASE_URL` (environment or `~/.hermes/.env`).
+   `--no-llm` skips the model.
 5. `render.py`: Jinja2 page, scrub check, archive, index.

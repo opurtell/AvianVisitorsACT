@@ -45,7 +45,8 @@ def chat_json(model, system, user, temperature=0.3, timeout=120):
         if e.code == 429 or re.search(r'"code"\s*:\s*"?13(?:02|08|10)\b|usage limit|quota', detail, re.I):
             raise QuotaError(f"HTTP {e.code}: {detail}") from e
         raise RuntimeError(f"HTTP {e.code}: {detail}") from e
-    m = re.search(r"\{.*\}", text, re.S)
-    if not m:
+    start = text.find("{")
+    if start < 0:
         raise ValueError(f"no JSON object in reply: {text[:200]}")
-    return json.loads(m.group(0))
+    obj, _ = json.JSONDecoder().raw_decode(text[start:])   # ignores anything after the object
+    return obj

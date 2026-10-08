@@ -174,6 +174,22 @@ def template_prose(ed):
         "lead_story": lead_story(ed) if ed.lead else [],
         "dawn_paragraph": dawn_paragraph(ed),
         "regular_column": regular_column(ed),
-        "did_you_know": [{"com": s.com, "text": f["text"], "source_url": f["source_url"]} for s, f in ed.facts],
+        "facts_used": [],
         "source": "template",
     }
+
+
+DYK_FROM_LEAD, DYK_FROM_REGULAR = 2, 1
+
+
+def finish(ed, prose):
+    """Did You Know: knowledge-base facts, verbatim, that the stories didn't
+    already use. Sets prose["did_you_know"] and prose["fact_ids"] (everything
+    printed, for the 60-day no-repeat rule)."""
+    used = set(prose.get("facts_used", []))
+    dyk = []
+    for who, cap in ((ed.lead, DYK_FROM_LEAD), (ed.regular, DYK_FROM_REGULAR)):
+        dyk += [(s, f) for s, f in ed.facts if s is who and f["id"] not in used][:cap]
+    prose["did_you_know"] = [{"com": s.com, "text": f["text"], "source_url": f["source_url"]} for s, f in dyk]
+    prose["fact_ids"] = [f["id"] for s, f in ed.facts if f["id"] in used] + [f["id"] for _, f in dyk]
+    return prose

@@ -6,7 +6,7 @@ short stories about specific birds (rare ones first, common ones in rotation)
 and sourced fun facts. Prose is written by `glm-5.3-flash` from facts the
 pipeline computes; the model never supplies numbers or facts of its own.
 
-Status: phases 0, 1 and 2 done 2026-10-09; phase 3 (GLM writer) next. Decided 2026-10-09:
+Status: phases 0–3 done 2026-10-09; phase 4 (deploy on greg) next. Decided 2026-10-09:
 public on GitHub Pages; the Pi joins the tailnet for greg's DB fetch.
 
 ## Constraints this must respect
@@ -313,6 +313,54 @@ every quote in the cached source. Changes from the plan above:
   repeats within 60 days and common birds take turns.
 - **Done when** a 7-day backtest has been read through and judged free of
   invented facts.
+
+Progress (2026-10-09): done. `dawnchorus/glm_write.py` builds the brief,
+makes the call and validates the result; `run.write` falls back to the
+template on a failed validation, a quota error or a missing key, and
+`run.py --no-llm` skips the model. 46 tests pass (13 for the writer, with
+no network). Seven backtests were read against their briefs; the last one
+had 7/7 days in GLM prose (five on the first attempt) with no invented
+number, time, date, species or fact. What's left is style: an occasional
+muddled sentence or mild overstatement ("a tern passes over Canberra" before
+that phrase was banned). Changes from the plan above:
+
+- **Did You Know stays verbatim knowledge-base text.** The model uses at
+  most one fact per story and lists the ids in `facts_used`; Did You Know
+  shows the lead's and Regular's other facts (3 and 2 are offered). Both
+  are recorded in `state/featured.json`.
+- **The brief does the arithmetic.** Times come with their day ("5:30 pm
+  yesterday"), `today`/`yesterday` dates, "heard on N of the M days the
+  station has been listening", and offsets ("eight minutes before
+  sunrise"). Early drafts got these wrong when left to the model: "both"
+  for four calls, the wrong day, "day 5 of 51", "an hour and fifty
+  minutes after that hour". Unconfirmed birds are left out entirely.
+- **Validation is wider than the plan's four checks**, each added after a
+  real failure in a backtest:
+  numbers (digits and number words to "ninety"/"hundred") and clock times
+  must be in the brief; a sentence with a time must name a bird heard at
+  that time (sentences naming no bird belong to the section's bird; sunrise
+  and window times are exempt); "yesterday" can't describe calls that were
+  all today; "after dark/overnight" only for birds in `after_dark`;
+  gaps ("a minute later", "sixteen minutes after") must match an offset in
+  the brief; species names must be heard or in the brief; no comparisons
+  ("usual", "as ever"), rankings ("most reliable", "rarest"), presence words
+  ("fixture", "reliable") unless the bird is heard on ≥ 75% of days,
+  guesses ("passing through"), place words ("garden", "street"), talk about
+  the inputs ("the brief", "the record can say"), BirdNET or confidence;
+  arrival words in the headline only for a real arrival; length limits
+  (10% grace); and `scrub.py` on every field.
+- **Output HTML** is escaped, then scientific names re-italicised.
+- **Testing used greg's key in the Mac process environment** for the
+  backtests only. Phase 4 runs it on greg, where `glm.env` reads
+  `~/.hermes/.env`.
+
+**For Oscar — credibility, before going public.** The Caspian Tern led
+6 Oct as "a rare visitor to the ACT" (ALA: 243 ACT records in 20 years), yet
+this station has "heard" it on 26 of 48 days. That pattern looks like a
+BirdNET misidentification rather than a resident tern. The prose now says
+only what the brief says, but the brief inherits the analysis: consider a
+higher confidence bar for species that are rare regionally yet frequent at
+the station (phase 1's credibility gate), or excluding the tern.
 
 ### 4 · Deploy on greg
 

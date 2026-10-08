@@ -34,8 +34,8 @@ MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 MONTH_NAMES = ("January February March April May June July August September October "
                "November December").split()
 # Did You Know prefers the livelier topics; range and habitat facts come last.
-TOPIC_ORDER = ["behaviour", "voice", "diet", "breeding", "people", "name", "appearance",
-               "other", "conservation", "habitat", "range"]
+TOPIC_ORDER = ["behaviour", "voice", "diet", "breeding", "people", "appearance", "other",
+               "name", "conservation", "habitat", "range"]
 
 # Seasonality thresholds, on each month's share of all ACT bird records
 # relative to the species' own yearly mean (1.0 = an average month).

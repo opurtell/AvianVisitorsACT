@@ -33,7 +33,7 @@ RECORD_BONUS = 0.15
 RECORD_MIN_DAYS = 3         # a "busiest day yet" needs this much history
 RECENT_LEAD_DAYS = 7        # a bird that led within this many days…
 RECENT_LEAD_PENALTY = 0.4   # …is held back unless it has fresh news
-LEAD_FACTS, REGULAR_FACTS = 2, 1  # Did You Know items per featured bird
+LEAD_FACTS, REGULAR_FACTS = 3, 2  # facts offered per featured bird (stories + Did You Know)
 
 
 @dataclass
