@@ -1,0 +1,124 @@
+{
+ "sci": "Falco peregrinus",
+ "com": "Peregrine Falcon",
+ "slug": "falco-peregrinus",
+ "wikipedia": {
+  "title": "Peregrine falcon",
+  "url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+  "revid": 1378852769
+ },
+ "ala": {
+  "name": "Falco (Hierofalco) peregrinus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   200,
+   149,
+   175,
+   159,
+   121,
+   116,
+   113,
+   112,
+   177,
+   208,
+   117,
+   103
+  ],
+  "total": 1799,
+  "share": 0.0004384
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.95,
+   1.05,
+   1.28,
+   1.08,
+   1.0,
+   1.09,
+   1.01,
+   0.88,
+   1.18,
+   0.98,
+   0.79,
+   0.71
+  ]
+ },
+ "facts": [
+  {
+   "id": "falco-peregrinus-dcc3bf",
+   "text": "The peregrine falcon can top 320 km/h in its hunting dive, making it the fastest animal on the planet.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Speed",
+   "quote": "Some sources state that the peregrine falcon can reach over 320 km/h (200 mph) during its stoop, which would make it the fastest animal on the planet."
+  },
+  {
+   "id": "falco-peregrinus-eb2bfa",
+   "text": "It is a blue-grey falcon with barred white underparts, a black head and long pointed wings, roughly the size of a crow.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+   "quote": "A large, crow-sized falcon, it has a blue-grey back, barred white underparts and a black head."
+  },
+  {
+   "id": "falco-peregrinus-c0a7a0",
+   "text": "Female peregrines are much bigger than males, sometimes weighing about 50% more than their mates.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Description",
+   "quote": "cases of females weighing about 50% more than their male breeding mates are not uncommon"
+  },
+  {
+   "id": "falco-peregrinus-7f9776",
+   "text": "The black malar stripe under its eyes reduces glare and sharpens its vision in sunny places.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Description",
+   "quote": "A 2021 study of photos from around the world showed that the malar stripe is larger in areas that receive more sunlight, and concluded that the stripe serves to improve the falcon's vision by reducing glare."
+  },
+  {
+   "id": "falco-peregrinus-8cfa05",
+   "text": "Peregrines eat roughly a fifth of the world's bird species, from hummingbirds to sandhill cranes.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Feeding",
+   "quote": "Worldwide, it is estimated that between 1,500 and 2,000 bird species, or roughly a fifth of the world's bird species, are predated somewhere by these falcons."
+  },
+  {
+   "id": "falco-peregrinus-7a2525",
+   "text": "During courtship the male passes prey to the female in mid-air, and she flips upside-down to catch it in her talons.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Reproduction",
+   "quote": "The male passes prey it has caught to the female in mid-air. To make this possible, the female flies upside-down to receive the food from the male's talons."
+  },
+  {
+   "id": "falco-peregrinus-80d57b",
+   "text": "Small bony tubercles in its nostrils are thought to divert powerful airflow, letting it breathe during high-speed dives.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon#Ecology_and_behavior",
+   "quote": "small bony tubercles on a falcon's nostrils are theorized to guide the powerful airflow away from the nostrils, enabling the bird to breathe more easily while diving by reducing the change in air pressure"
+  },
+  {
+   "id": "falco-peregrinus-865066",
+   "text": "It is the world's most widespread raptor, found nearly everywhere except extreme polar regions, very high mountains and most tropical rainforests.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+   "quote": "It can be found nearly everywhere on Earth, except extreme polar regions, very high mountains, and most tropical rainforests. The only major ice-free landmasses from which it is entirely absent are the islands of New Zealand, making it the world's most widespread raptor"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378852769
+ }
+}

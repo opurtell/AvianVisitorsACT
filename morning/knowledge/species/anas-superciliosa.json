@@ -1,0 +1,138 @@
+{
+ "sci": "Anas superciliosa",
+ "com": "Pacific Black Duck",
+ "slug": "anas-superciliosa",
+ "wikipedia": {
+  "title": "Pacific black duck",
+  "url": "https://en.wikipedia.org/wiki/Pacific_black_duck",
+  "revid": 1372403704
+ },
+ "ala": {
+  "name": "Anas (Anas) superciliosa",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7373,
+   5040,
+   4463,
+   4317,
+   3894,
+   3545,
+   3597,
+   4158,
+   4973,
+   6387,
+   4672,
+   4567
+  ],
+  "total": 57647,
+  "share": 0.0140474
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.08,
+   1.09,
+   1.01,
+   0.91,
+   0.99,
+   1.03,
+   1.0,
+   1.0,
+   1.02,
+   0.92,
+   0.98,
+   0.97
+  ]
+ },
+ "facts": [
+  {
+   "id": "anas-superciliosa-05805c",
+   "text": "The Pacific black duck has a dark body with a paler head, dark crown and facial stripes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Description",
+   "quote": "It has a dark body, and a paler head with a dark crown and facial stripes."
+  },
+  {
+   "id": "anas-superciliosa-4981b2",
+   "text": "In flight it shows a green speculum and pale underwing.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Description",
+   "quote": "In flight, it shows a green speculum and pale underwing."
+  },
+  {
+   "id": "anas-superciliosa-afd3b7",
+   "text": "The female quacks in a raucous, rapid sequence that decreases in volume.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Description",
+   "quote": "the Pacific black duck is one of a number of duck species that can quack, with the female producing a sequence of raucous, rapid quacking which decreases in volume."
+  },
+  {
+   "id": "anas-superciliosa-7d5890",
+   "text": "It is mainly vegetarian, feeding on seeds of aquatic plants, plus small crustaceans, molluscs and aquatic insects.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Diet",
+   "quote": "The Pacific black duck is mainly vegetarian, feeding on seeds of aquatic plants. This diet is supplemented with small crustaceans, molluscs and aquatic insects."
+  },
+  {
+   "id": "anas-superciliosa-e31433",
+   "text": "It dabbles by plunging its head underwater and upending, raising its rear end vertically out of the water.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Diet",
+   "quote": "Food is obtained by 'dabbling', where the bird plunges its head and neck underwater and upends, raising its rear end vertically out of the water."
+  },
+  {
+   "id": "anas-superciliosa-c106d8",
+   "text": "The nest is usually placed in a hole in a tree, though old corvid nests or the ground are sometimes used.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Breeding",
+   "quote": "The nest is usually placed in a hole in a tree, but sometimes an old nest of a corvid is used and occasionally the nest will be placed on the ground."
+  },
+  {
+   "id": "anas-superciliosa-c4c665",
+   "text": "The female alone incubates the clutch of 8–10 pale cream eggs, which hatch after 26–32 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Breeding",
+   "quote": "The clutch of 8–10 pale cream eggs is incubated only by the female. The eggs hatch after 26–32 days."
+  },
+  {
+   "id": "anas-superciliosa-141b73",
+   "text": "Downy ducklings can fly when around 58 days of age.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Breeding",
+   "quote": "The precocial downy ducklings leave the nest site when dry and are cared for by the female. They can fly when around 58 days of age."
+  },
+  {
+   "id": "anas-superciliosa-fd06bf",
+   "text": "It is found in Indonesia, New Guinea, Australia, New Zealand and many islands of the southwestern Pacific.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck",
+   "quote": "is a dabbling duck found in much of Indonesia, New Guinea, Australia, New Zealand, and many islands in the southwestern Pacific"
+  },
+  {
+   "id": "anas-superciliosa-bba27a",
+   "text": "It has declined sharply in New Zealand due to competition and hybridisation with the introduced mallard.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_black_duck#Conservation_status",
+   "quote": "The Pacific black duck has declined sharply in numbers in New Zealand and several Australian islands due to competition from and hybridisation with the introduced mallard."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372403704
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Acanthiza chrysorrhoa",
+ "com": "Yellow-rumped Thornbill",
+ "slug": "acanthiza-chrysorrhoa",
+ "wikipedia": {
+  "title": "Yellow-rumped thornbill",
+  "url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill",
+  "revid": 1358240018
+ },
+ "ala": {
+  "name": "Acanthiza (Geobasileus) chrysorrhoa",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4816,
+   3442,
+   3589,
+   4073,
+   3402,
+   3211,
+   3341,
+   3980,
+   4211,
+   5491,
+   3406,
+   3281
+  ],
+  "total": 48058,
+  "share": 0.0117108
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.86,
+   0.91,
+   0.99,
+   1.04,
+   1.06,
+   1.13,
+   1.12,
+   1.17,
+   1.05,
+   0.97,
+   0.87,
+   0.84
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthiza-chrysorrhoa-48ab34",
+   "text": "The yellow-rumped thornbill is the largest thornbill, at 9.5–12 cm long and weighing about 9 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Description",
+   "quote": "The yellow-rumped thornbill is the largest species of thornbill, 9.5–12 cm (3.7–4.7 in) long and weighing 9 g (0.32 oz)."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-1b6852",
+   "text": "It has a distinctive yellow rump, a black forehead with white spots, a grey head and neck, and a white line above the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Description",
+   "quote": "The species has a distinctive yellow rump, a black forehead with white spots, grey head and neck, a white line above the eye and white throat."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-fab134",
+   "text": "Its song is described as twittering, musical, sweet and high-pitched, and it mimics other birds, especially the alarm calls of the noisy miner.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Voice",
+   "quote": "The yellow-rumped thornbill has a distinctive song described as \"twittering, musical, sweet, high-pitched\". The species is also reported to be an accomplished mimic of other birds, in particular mimicking the alarm calls of the noisy miner."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-0fc364",
+   "text": "It mainly eats ants, beetles, bugs and lerps, and usually forages in small groups of 3 to 12 birds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Feeding",
+   "quote": "major prey items include ants, beetles, bugs and lerps. Other items eaten include spiders, flies and seeds. The species usually forages in small groups of between 3 and 12 individuals"
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-bec1b7",
+   "text": "Its dome-shaped nest has a false cup-shaped nest on top, while the real nest inside has a concealed entrance.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Breeding",
+   "quote": "Atop the dome is a cup-shaped depression which serves as a false nest, while the real nest is inside with a concealed entrance."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-311e6d",
+   "text": "Breeding runs from July to December, with one, two or more broods a year, and one to three helpers sometimes assist the breeding pair.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Breeding",
+   "quote": "Breeding takes place from July to December, with one, two or even more broods a year. Nesting usually occurs as a pair, but sometimes one to three helpers will assist the breeding pair."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-ae02c9",
+   "text": "The female incubates the three or four dull-white eggs, which take around 16 to 18 days to hatch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Breeding",
+   "quote": "A clutch of three or four dull-white oval eggs, lightly spotted with red-brown mostly at the large end and each measuring 18 mm × 13 mm (0.71 in × 0.51 in), is laid. The female incubates the clutch, and the clutch takes around 16–18 days to hatch."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-1cf924",
+   "text": "Both the shining bronze-cuckoo and the fan-tailed cuckoo parasitise its nests.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Breeding",
+   "quote": "The species is parasitised by the shining bronze-cuckoo and the fan-tailed cuckoo."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-fb9567",
+   "text": "Ringing studies show the species can live for up to nine years.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Breeding",
+   "quote": "Ringing studies have found that the species can live for up to nine years."
+  },
+  {
+   "id": "acanthiza-chrysorrhoa-11b506",
+   "text": "Australian birdwatchers affectionately call it the butterbum.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-rumped_thornbill#Taxonomy",
+   "quote": "Butterbum is a colloquial name used by Australian birdwatchers."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358240018
+ }
+}

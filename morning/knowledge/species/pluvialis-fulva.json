@@ -1,0 +1,131 @@
+{
+ "sci": "Pluvialis fulva",
+ "com": "Pacific Golden-Plover",
+ "slug": "pluvialis-fulva",
+ "wikipedia": {
+  "title": "Pacific golden plover",
+  "url": "https://en.wikipedia.org/wiki/Pacific_golden_plover",
+  "revid": 1374651423
+ },
+ "ala": {
+  "name": "Pluvialis fulva",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   3,
+   1,
+   40,
+   0
+  ],
+  "total": 45,
+  "share": 1.1e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.79,
+   0.18,
+   10.68,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "pluvialis-fulva-cea920",
+   "text": "The Pacific golden plover fattens up from about 135 g to roughly 200 g before leaving for its Arctic breeding grounds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Description",
+   "quote": "At their lightest, fat free, the birds weigh around 135 g (4.8 oz) In March, the birds begin gaining weight. Before leaving for their Arctic breeding grounds, the birds weigh about 200 g (7.1 oz)."
+  },
+  {
+   "id": "pluvialis-fulva-f370f9",
+   "text": "In breeding plumage, the male has a black face, neck and breast edged with white, with gold and black spots on the crown, back and wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Description",
+   "quote": "In breeding plumage, the male is spotted gold and black on the crown, back, and wings. Face and neck are black bordered with white, breast is black, rump is dark."
+  },
+  {
+   "id": "pluvialis-fulva-c321ab",
+   "text": "Pacific golden plover chicks hatch with legs and feet already adult size.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Description",
+   "quote": "Downy chicks are spotted gold and black on head and back with whitish yellow underparts. Legs and feet are adult size at hatching."
+  },
+  {
+   "id": "pluvialis-fulva-1e68cd",
+   "text": "The male builds the nest, a shallow scrape on the ground lined with lichen, moss and grasses.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Breeding",
+   "quote": "The male builds a nest of lichen, moss, and grasses, in shallow scrapes on the ground in a dry open area."
+  },
+  {
+   "id": "pluvialis-fulva-cc2e4b",
+   "text": "Both parents share incubation, care of the young, and defense against foxes and avian predators.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Breeding",
+   "quote": "Both male and female share incubation, care of young, and defense from foxes and avian predators."
+  },
+  {
+   "id": "pluvialis-fulva-33493b",
+   "text": "Young plovers migrate south by instinct in flocks, sometimes as late as October or November, without their parents.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Breeding",
+   "quote": "Flocks of juveniles remain, making the migration sometimes as late as October and November depending on Arctic weather. First-year birds migrate by instinct, confronting the vagaries of weather during their long southward flights."
+  },
+  {
+   "id": "pluvialis-fulva-8cb72f",
+   "text": "It eats nearly anything that crawls, including insects, spiders, mollusks, crustaceans and small reptiles, plus berries, leaves and seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Food_and_feeding",
+   "quote": "It forages on tundra, in mowed grass, and on beaches and tidal flats, eating nearly anything that crawls including insects, spiders, mollusks, crustaceans, and small reptiles, as well as berries, leaves, and seeds."
+  },
+  {
+   "id": "pluvialis-fulva-5c6be2",
+   "text": "Geolocator research in Hawaii showed the birds fly nonstop between Alaska and Hawaii, about 3,000 miles, in just three to four days.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Distribution_and_habitat",
+   "quote": "Such research showed that the birds made the 3,000 miles (4,800 km) nonstop flight between Alaska and Hawaiʻi in three to four days."
+  },
+  {
+   "id": "pluvialis-fulva-994bc3",
+   "text": "Although listed as Least Concern globally, the population is decreasing, mainly due to climate change and severe weather altering habitat.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_golden_plover#Conservation",
+   "quote": "the population trend is decreasing, the main threat being a global shift in habitat and alteration due to climate change and severe weather."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1374651423
+ }
+}

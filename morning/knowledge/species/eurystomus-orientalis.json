@@ -1,0 +1,138 @@
+{
+ "sci": "Eurystomus orientalis",
+ "com": "Dollarbird",
+ "slug": "eurystomus-orientalis",
+ "wikipedia": {
+  "title": "Oriental dollarbird",
+  "url": "https://en.wikipedia.org/wiki/Oriental_dollarbird",
+  "revid": 1375579314
+ },
+ "ala": {
+  "name": "Eurystomus orientalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2011,
+   1307,
+   272,
+   1,
+   4,
+   0,
+   0,
+   1,
+   17,
+   935,
+   1016,
+   789
+  ],
+  "total": 6486,
+  "share": 0.0015805
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   3.05,
+   2.93,
+   0.64,
+   0.0,
+   0.01,
+   0.0,
+   0.0,
+   0.0,
+   0.04,
+   1.4,
+   2.2,
+   1.73
+  ]
+ },
+ "facts": [
+  {
+   "id": "eurystomus-orientalis-adfdde",
+   "text": "The dollarbird is a roller named for the pale blue or white, coin-shaped spots on its wings.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird",
+   "quote": "so named because of the distinctive pale blue or white, coin-shaped spots on its wings"
+  },
+  {
+   "id": "eurystomus-orientalis-25af53",
+   "text": "It ranges from Australia to Korea, Japan and India.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird",
+   "quote": "It can be found from Australia to Korea, Japan and India."
+  },
+  {
+   "id": "eurystomus-orientalis-88e784",
+   "text": "It is dark brown washed with a bluish-green sheen, with glossy bright blue on the throat and undertail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Description",
+   "quote": "It is dark brown but this is heavily washed with a bluish-green sheen on the back and wing coverts. Its belly and undertail coverts are light coloured, and it has glossy bright blue colouring on its throat and undertail."
+  },
+  {
+   "id": "eurystomus-orientalis-6cee77",
+   "text": "A mature dollarbird's short, wide bill is orange-red with a black tip.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Description",
+   "quote": "Its bill is short and wide and in mature animals is coloured orange-red with a black tip."
+  },
+  {
+   "id": "eurystomus-orientalis-8c2b7d",
+   "text": "Females are slightly duller than males, but the two sexes look very similar overall.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Description",
+   "quote": "The females are slightly duller than the males but overall the two are very similar."
+  },
+  {
+   "id": "eurystomus-orientalis-fd43cc",
+   "text": "Immature dollarbirds lack the blue throat of adults and have dark blackish-grey to brown bills and feet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Description",
+   "quote": "Immature birds are much duller than the adults and do not have the blue colouring on their throats. They also have dark blackish-grey to brown bills and feet instead of the red of the adults."
+  },
+  {
+   "id": "eurystomus-orientalis-c2cbd8",
+   "text": "It usually perches upright on a bare high branch, catching flying insects and often returning to the same perch within seconds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Behaviour_and_ecology",
+   "quote": "most commonly seen singly with a distinctive upright silhouette on a bare branch high in a tree, from which it hawks for flying insects, often returning to the same perch after a few seconds"
+  },
+  {
+   "id": "eurystomus-orientalis-0be808",
+   "text": "The subspecies breeding in northern and eastern Australia arrives around September and leaves in April, wintering in New Guinea and nearby islands.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Distribution_and_habitat",
+   "quote": "the latter in northern and eastern Australia between the months of September and April and winters in New Guinea and nearby islands"
+  },
+  {
+   "id": "eurystomus-orientalis-af65c3",
+   "text": "Dollarbirds prefer open wooded areas with hole-bearing trees where they can build their nests.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Distribution_and_habitat",
+   "quote": "The birds prefer open wooded areas with hole-bearing trees to build nests in."
+  },
+  {
+   "id": "eurystomus-orientalis-688ee6",
+   "text": "The name dollarbird comes from the round bluish-white wing patch, said to resemble a silver dollar coin.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Oriental_dollarbird#Etymology",
+   "quote": "The name \"dollarbird\" is from the round bluish-white patch on the wing, visible in flight or when stretching its wings, \"said to resemble a silver dollar\" (coin)."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375579314
+ }
+}

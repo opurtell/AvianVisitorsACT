@@ -1,0 +1,138 @@
+{
+ "sci": "Chenonetta jubata",
+ "com": "Maned Duck",
+ "slug": "chenonetta-jubata",
+ "wikipedia": {
+  "title": "Australian wood duck",
+  "url": "https://en.wikipedia.org/wiki/Australian_wood_duck",
+  "revid": 1378054748
+ },
+ "ala": {
+  "name": "Chenonetta jubata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7132,
+   4688,
+   4022,
+   3806,
+   3467,
+   3763,
+   4683,
+   5521,
+   5832,
+   7044,
+   4909,
+   4719
+  ],
+  "total": 60441,
+  "share": 0.0147283
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "rel": [
+   0.99,
+   0.97,
+   0.87,
+   0.76,
+   0.84,
+   1.04,
+   1.23,
+   1.27,
+   1.14,
+   0.97,
+   0.98,
+   0.95
+  ]
+ },
+ "facts": [
+  {
+   "id": "chenonetta-jubata-e9fe7a",
+   "text": "The Australian Wood Duck looks like a small goose and mostly feeds by grazing in flocks.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Description",
+   "quote": "This 45–51 cm (18–20 in) duck looks like a small goose, and mostly feeds by grazing in flocks."
+  },
+  {
+   "id": "chenonetta-jubata-2ee0cb",
+   "text": "The male Australian Wood Duck is grey with a dark brown head and a mottled breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Description",
+   "quote": "The male is grey with a dark brown head, mottled breast, and very thin, white-and-black stripes on sides/flanks."
+  },
+  {
+   "id": "chenonetta-jubata-6ffb76",
+   "text": "The female Australian Wood Duck has white stripes above and below the eye and mottled underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Description",
+   "quote": "The female has white stripes above and below the eye and mottled underparts."
+  },
+  {
+   "id": "chenonetta-jubata-47743f",
+   "text": "The female's most common call is a loud, rising croaky gnow sound, while the male's is smoother, shorter and higher in pitch.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Call",
+   "quote": "Their most common call is a loud, rising croaky gnow sound by the females, and male calls are the same except smoother, shorter, and higher in pitch than the females."
+  },
+  {
+   "id": "chenonetta-jubata-c7d2cc",
+   "text": "The Australian Wood Duck lays 9–11 cream-white eggs, and the female incubates them while the male stands guard.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Reproduction",
+   "quote": "This duck lays 9–11 cream-white eggs, similar to the Mandarin ducks. The female incubates them while the male stands guard."
+  },
+  {
+   "id": "chenonetta-jubata-95004e",
+   "text": "Australian Wood Ducks nest in tree cavities or nest boxes near water, and ducklings leap to the ground to follow their parents.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Reproduction",
+   "quote": "Australian wood ducks nest in cavities in trees or in nest boxes above or near water. They are lined with a pile of down."
+  },
+  {
+   "id": "chenonetta-jubata-3f8bb7",
+   "text": "The Australian Wood Duck eats grasses, grains, clover and other herbs, and occasionally insects.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Feeding",
+   "quote": "The Australian wood duck eats grasses, grains, clover and other herbs, and occasionally, insects."
+  },
+  {
+   "id": "chenonetta-jubata-5683b7",
+   "text": "The Australian Wood Duck is rarely seen on open water, preferring to forage in shallow water, grasslands and crops.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Feeding",
+   "quote": "It is rarely seen on open water, preferring to forage by dabbling in shallow water, or in grasslands and crops."
+  },
+  {
+   "id": "chenonetta-jubata-80e433",
+   "text": "The Australian Wood Duck has benefited from agriculture and urban development thanks to abundant fresh water sources.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Protection",
+   "quote": "This species has benefited from agriculture and urban development due to the abundance of fresh water sources."
+  },
+  {
+   "id": "chenonetta-jubata-a28f79",
+   "text": "The Australian Wood Duck is the only duck with white secondary feathers and dark wingtips when flying.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_wood_duck#Similar_species",
+   "quote": "When flying, the Australian wood duck is the only duck with white secondary feathers and dark wingtips."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378054748
+ }
+}

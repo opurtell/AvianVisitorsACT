@@ -1,0 +1,124 @@
+{
+ "sci": "Egretta garzetta",
+ "com": "Little Egret",
+ "slug": "egretta-garzetta",
+ "wikipedia": {
+  "title": "Little egret",
+  "url": "https://en.wikipedia.org/wiki/Little_egret",
+  "revid": 1356733933
+ },
+ "ala": {
+  "name": "Egretta garzetta",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   111,
+   72,
+   22,
+   6,
+   3,
+   0,
+   0,
+   0,
+   13,
+   30,
+   19,
+   3
+  ],
+  "total": 279,
+  "share": 6.8e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   3.86,
+   3.71,
+   1.18,
+   0.3,
+   0.18,
+   0.0,
+   0.0,
+   0.0,
+   0.64,
+   1.03,
+   0.95,
+   0.15
+  ]
+ },
+ "facts": [
+  {
+   "id": "egretta-garzetta-369148",
+   "text": "The little egret is a small white heron with a slender black beak, long black legs and yellow feet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret",
+   "quote": "It is a white bird with a slender black beak, long black legs and, in the western race, yellow feet."
+  },
+  {
+   "id": "egretta-garzetta-cb0445",
+   "text": "In the breeding season it grows two long plumes on its nape that form a crest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Description",
+   "quote": "In the breeding season, the adult has two long plumes on the nape that form a crest."
+  },
+  {
+   "id": "egretta-garzetta-ed38de",
+   "text": "During courtship, its lores turn red and the feet of yellow-footed races also turn red.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Description",
+   "quote": "During the height of courtship, the lores turn red and the feet of the yellow-footed races turn red."
+  },
+  {
+   "id": "egretta-garzetta-e4b76e",
+   "text": "It is mostly silent, giving croaking and bubbling calls at breeding colonies and a harsh alarm call when disturbed.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Description",
+   "quote": "Little egrets are mostly silent but make various croaking and bubbling calls at their breeding colonies and produce a harsh alarm call when disturbed."
+  },
+  {
+   "id": "egretta-garzetta-e19025",
+   "text": "It hunts by shuffling its feet to stir up small fish, running with raised wings, or standing still to ambush prey.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Food_and_feeding",
+   "quote": "they stalk their prey in shallow water, often running with raised wings or shuffling their feet to disturb small fish, or may stand still and wait to ambush prey."
+  },
+  {
+   "id": "egretta-garzetta-8f64c8",
+   "text": "Besides fish, it eats amphibians, reptiles, mammals, birds, crustaceans, insects, spiders and worms.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Food_and_feeding",
+   "quote": "Their diet is mainly fish, but amphibians, small reptiles, mammals and birds are also eaten, as well as crustaceans, molluscs, insects, spiders and worms."
+  },
+  {
+   "id": "egretta-garzetta-920de1",
+   "text": "Pairs defend a small breeding territory of about 3 to 4 metres around the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Breeding",
+   "quote": "Pairs defend a small breeding territory, usually extending around 3 to 4 m (10 to 13 ft) from the nest."
+  },
+  {
+   "id": "egretta-garzetta-ee638e",
+   "text": "It has colonised the New World, first being seen in Barbados in 1954 and beginning to breed there in 1994.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Little_egret#Colonisation_of_the_New_World",
+   "quote": "The first record there was on Barbados in April 1954. The bird began breeding on the island in 1994 and now also breeds in the Bahamas."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1356733933
+ }
+}

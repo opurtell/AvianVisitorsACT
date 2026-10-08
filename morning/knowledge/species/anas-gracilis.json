@@ -1,0 +1,131 @@
+{
+ "sci": "Anas gracilis",
+ "com": "Gray Teal",
+ "slug": "anas-gracilis",
+ "wikipedia": {
+  "title": "Grey teal",
+  "url": "https://en.wikipedia.org/wiki/Grey_teal",
+  "revid": 1361797220
+ },
+ "ala": {
+  "name": "Anas (Nettion) gracilis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3721,
+   2244,
+   1992,
+   1747,
+   1693,
+   1388,
+   1526,
+   1785,
+   2535,
+   3110,
+   2465,
+   2326
+  ],
+  "total": 26618,
+  "share": 0.0064863
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Oct",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jul"
+  ],
+  "rel": [
+   1.19,
+   1.06,
+   0.98,
+   0.8,
+   0.94,
+   0.87,
+   0.92,
+   0.94,
+   1.14,
+   0.98,
+   1.12,
+   1.07
+  ]
+ },
+ "facts": [
+  {
+   "id": "anas-gracilis-816abb",
+   "text": "The grey teal is a mottled brown dabbling duck with white and green flashes on its wings, and adults have a striking crimson iris.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Description",
+   "quote": "It is identified by the presence of a crimson coloured iris in its eyes, which is relatively more prominent in adult males. It is a mottled brown duck with white and green flashes on its wings."
+  },
+  {
+   "id": "anas-gracilis-8badf9",
+   "text": "The grey teal is a vocal duck, especially at night, with the male giving a soft preep and the female a loud quack.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Description",
+   "quote": "It is a vocal duck, especially at night. The male gives a soft preep, and the female has a loud quack."
+  },
+  {
+   "id": "anas-gracilis-4a330c",
+   "text": "In Australia, grey teal eat mostly plant material, especially seeds, which make up 87–97% of their diet.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Diet_and_foraging",
+   "quote": "Thus, in Australia grey teal feed mostly on plant material and especially seeds. It constitutes 87–97% of their diet."
+  },
+  {
+   "id": "anas-gracilis-88198b",
+   "text": "Grey teal are nomadic in Australia, rapidly colonising suitable habitat after rain, and in 1957 large numbers fled to New Zealand to escape a drought.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Description",
+   "quote": "It is nomadic in Australia, rapidly colonising suitable habitat following rain. In 1957, large numbers fled Australia, moving to New Zealand to escape a drought."
+  },
+  {
+   "id": "anas-gracilis-60bc03",
+   "text": "Grey teal pairs are long-term and monogamous, keeping the same mate through multiple seasons and staying together all year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Reproduction",
+   "quote": "This is because grey teal pair-bonds are long term and monogamous, which means they keep the same mate through multiple seasons. Couples stay together all year"
+  },
+  {
+   "id": "anas-gracilis-aca5a0",
+   "text": "In Australia, grey teal have no fixed breeding season; breeding is linked to rainfall and food abundance.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Reproduction",
+   "quote": "In Australia there is no reproductive season as breeding is linked to rainfall and food abundance."
+  },
+  {
+   "id": "anas-gracilis-4b0527",
+   "text": "While the female incubates the eggs for 25–31 days, the male stands guard and protects her and the eggs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Reproduction",
+   "quote": "During the incubation period, the male will stand guard and protect the female and eggs while she incubates them for 25–31 days."
+  },
+  {
+   "id": "anas-gracilis-35e8df",
+   "text": "Grey teal fly remarkable distances, with recorded flights of up to 1,200 km across the arid Australian inland in search of water.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Migration",
+   "quote": "these flights occurred over distances up to 1,200 km (750 mi) across the arid inland."
+  },
+  {
+   "id": "anas-gracilis-c9dcf7",
+   "text": "In Australia the grey teal is a game bird hunted by duck shooters, but in New Zealand it is protected due to low population numbers.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_teal#Predators%2C_parasites%2C_and_diseases",
+   "quote": "However, in Australia, they are considered a game bird due to large population numbers. Therefore hunters and duck shooters are a significant predator of these birds; whereas in New Zealand the grey teal is a protected species."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1361797220
+ }
+}

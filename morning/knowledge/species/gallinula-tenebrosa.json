@@ -1,0 +1,131 @@
+{
+ "sci": "Gallinula tenebrosa",
+ "com": "Dusky Moorhen",
+ "slug": "gallinula-tenebrosa",
+ "wikipedia": {
+  "title": "Dusky moorhen",
+  "url": "https://en.wikipedia.org/wiki/Dusky_moorhen",
+  "revid": 1355113816
+ },
+ "ala": {
+  "name": "Gallinula (Gallinula) tenebrosa",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4614,
+   3140,
+   2933,
+   2747,
+   2608,
+   2292,
+   2443,
+   2867,
+   3194,
+   3688,
+   2867,
+   2790
+  ],
+  "total": 36425,
+  "share": 0.0088761
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.06,
+   1.06,
+   1.04,
+   0.9,
+   1.04,
+   1.04,
+   1.06,
+   1.08,
+   1.03,
+   0.83,
+   0.94,
+   0.92
+  ]
+ },
+ "facts": [
+  {
+   "id": "gallinula-tenebrosa-6b21a6",
+   "text": "The dusky moorhen has a red frontal shield and a yellow-tipped red bill, with orange-yellow legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Description",
+   "quote": "It has a red frontal shield and yellow-tipped red bill like its Eurasian relative, but lacks the white flank line shown by common moorhen, and has orange-yellow rather than yellow legs."
+  },
+  {
+   "id": "gallinula-tenebrosa-70a544",
+   "text": "Its territorial call can be heard from over two kilometres away as birds in nearby territories take it up.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Voice",
+   "quote": "This call is taken up by birds in surrounding territories and can be heard from over two kilometres away."
+  },
+  {
+   "id": "gallinula-tenebrosa-802388",
+   "text": "Both sexes make a soft mewing noise, or a soft kook noise, before and during courtship.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Voice",
+   "quote": "Both sexes make a soft mewing noise, or a soft kook noise before and during courtship."
+  },
+  {
+   "id": "gallinula-tenebrosa-7f53b3",
+   "text": "Chicks are fed mostly on annelid worms and molluscs, with plant matter added as they mature.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Diet",
+   "quote": "The chicks are fed mostly on annelid worms and molluscs, with plant matter gradually being given in increasing proportions by the parents as the young mature."
+  },
+  {
+   "id": "gallinula-tenebrosa-b85a3d",
+   "text": "In southern Australia it breeds from August to January, usually raising a single brood.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Behaviour",
+   "quote": "Breeding season is from August to January in the south of Australia, with generally one brood, and January to June in the north, often brooding twice."
+  },
+  {
+   "id": "gallinula-tenebrosa-476a8d",
+   "text": "It often flicks its conspicuous white and black tail, possibly signalling alertness or social status.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Behaviour",
+   "quote": "The moorhens frequently flick their conspicuous white and black tail. This may be a signal of alertness or of social status, depending on the context."
+  },
+  {
+   "id": "gallinula-tenebrosa-5d8733",
+   "text": "The dusky moorhen prefers freshwater marshes and swamps and is rarely found far from them.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Distribution_and_habitat",
+   "quote": "The dusky moorhen is found in wetland habitats, with a preference for freshwater marshes and swamps, and are rarely found far from these areas except when foraging in nearby vegetation."
+  },
+  {
+   "id": "gallinula-tenebrosa-dd97a4",
+   "text": "These birds rarely migrate far and may stay in the same location for eight years or more.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Distribution_and_habitat",
+   "quote": "The birds do not often migrate long distances, and may remain in the same location for eight years or more."
+  },
+  {
+   "id": "gallinula-tenebrosa-892706",
+   "text": "Its species name comes from the Latin tenebrosa, meaning dark.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_moorhen#Taxonomy",
+   "quote": "Its species name is derived from the Latin tenebrosa \"dark\"."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1355113816
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Sericornis frontalis",
+ "com": "White-browed Scrubwren",
+ "slug": "sericornis-frontalis",
+ "wikipedia": {
+  "title": "White-browed scrubwren",
+  "url": "https://en.wikipedia.org/wiki/White-browed_scrubwren",
+  "revid": 1375767380
+ },
+ "ala": {
+  "name": "Sericornis (Sericornis) frontalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4370,
+   3465,
+   3069,
+   3324,
+   2800,
+   2643,
+   2519,
+   3162,
+   3494,
+   4716,
+   2935,
+   2943
+  ],
+  "total": 40624,
+  "share": 0.0098993
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.92,
+   1.08,
+   1.0,
+   1.0,
+   1.03,
+   1.1,
+   1.0,
+   1.09,
+   1.03,
+   0.98,
+   0.88,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "sericornis-frontalis-dd5390",
+   "text": "The white-browed scrubwren is a small brown bird, 11–14 cm long, with prominent white brows and pale eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren",
+   "quote": "It is 11–14 cm (4.3–5.5 in) long and predominantly brown in colour with prominent white brows and pale eyes"
+  },
+  {
+   "id": "sericornis-frontalis-875ff6",
+   "text": "Males have blackish lores while females have pale grey ones, so most birds can be reliably sexed in the field.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Description",
+   "quote": "The females are duller overall and generally have pale gray lores, whereas males have blackish lores. This allows most individuals to be reliably sexed in the field."
+  },
+  {
+   "id": "sericornis-frontalis-a77168",
+   "text": "It has a loud, high-pitched call that sounds like ts-cheer or ch-weip, ch-weip, ch-weip.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Description",
+   "quote": "The call is a loud high-pitched ts-cheer or ch-weip, ch-weip, ch-weip."
+  },
+  {
+   "id": "sericornis-frontalis-00e595",
+   "text": "Scrubwrens are hard to spot but very vocal, so you can easily localise them by ear.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Behaviour",
+   "quote": "They can be hard to spot but are very vocal and easy to localise."
+  },
+  {
+   "id": "sericornis-frontalis-fca266",
+   "text": "It lives in small groups of up to six birds, and all group members help feed and rear the young.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Behaviour",
+   "quote": "They occur in small groups of up to six birds and engage in cooperative breeding; namely that group members all help to feed and rear the young."
+  },
+  {
+   "id": "sericornis-frontalis-5c53dc",
+   "text": "It eats insects and stays hidden in undergrowth, though it can be found close to urban areas.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren",
+   "quote": "It is insectivorous and inhabits undergrowth, from which it rarely ventures, though can be found close to urban areas."
+  },
+  {
+   "id": "sericornis-frontalis-912e6c",
+   "text": "The domelike nest, built near or on the ground in dense cover, is made of grasses, leaves, sticks, bark, ferns and feather lining.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Reproduction",
+   "quote": "the nest a domelike structure of dried grasses and leaves, sticks, bark and ferns and feathers for lining. It is placed near or on the ground in dense cover."
+  },
+  {
+   "id": "sericornis-frontalis-bfa97d",
+   "text": "It is a sedentary bird favouring forested or scrubby areas with plentiful undergrowth.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_scrubwren#Distribution_and_habitat",
+   "quote": "The species favours forested or scrubby areas with plentiful undergrowth, from which it rarely ventures. It is a common bird in bushland areas around Sydney, and the New England Tablelands. It is sedentary."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375767380
+ }
+}

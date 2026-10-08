@@ -1,0 +1,124 @@
+{
+ "sci": "Cacomantis variolosus",
+ "com": "Brush Cuckoo",
+ "slug": "cacomantis-variolosus",
+ "wikipedia": {
+  "title": "Sahul brush cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo",
+  "revid": 1338338845
+ },
+ "ala": {
+  "name": "Cacomantis (Cacomantis) variolosus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   508,
+   155,
+   66,
+   10,
+   0,
+   0,
+   1,
+   3,
+   17,
+   164,
+   215,
+   269
+  ],
+  "total": 1410,
+  "share": 0.0003436
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   3.5,
+   1.58,
+   0.7,
+   0.1,
+   0.0,
+   0.0,
+   0.01,
+   0.03,
+   0.16,
+   1.12,
+   2.12,
+   2.68
+  ]
+ },
+ "facts": [
+  {
+   "id": "cacomantis-variolosus-78c568",
+   "text": "The Brush Cuckoo is a grey-brown bird with a buff breast and a call that is a familiar sound of the Australian bush.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo",
+   "quote": "It is a grey-brown bird with a buff breast. Its call is a familiar sound of the Australian and Indonesian bush."
+  },
+  {
+   "id": "cacomantis-variolosus-ad6b8f",
+   "text": "Its wings are sharply pointed and backswept in flight.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Description",
+   "quote": "The wings are sharply pointed and backswept in flight."
+  },
+  {
+   "id": "cacomantis-variolosus-0d8d88",
+   "text": "It is a brood parasite whose females lay different egg types matched to different host species.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Ecology",
+   "quote": "The Sahul brush cuckoo is a brood parasite. Its eggs are polymorphic, meaning females lay specific egg types for specific hosts."
+  },
+  {
+   "id": "cacomantis-variolosus-387591",
+   "text": "Across its Australian range it exploits at least 58 other bird species as hosts.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Ecology",
+   "quote": "Across its Australian range the Sahul brush cuckoo exploits at least 58 other avian species"
+  },
+  {
+   "id": "cacomantis-variolosus-85251f",
+   "text": "Australian hosts that raise its chicks include the purple-crowned fairywren and several honeyeaters, flycatchers and fantails.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Ecology",
+   "quote": "they include the purple-crowned fairywren, brown-backed honeyeater, bar-breasted honeyeater and for C. v. variolosus they include the rose robin, Norfolk robin, leaden flycatcher, restless flycatcher, satin flycatcher, rufous fantail and grey fantail."
+  },
+  {
+   "id": "cacomantis-variolosus-d551c1",
+   "text": "In Australia it lives in rainforests, rainforest edges, mangrove forests, secondary forests and plantations.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Distribution_and_habitat",
+   "quote": "it is known to inhabit a range of environments including rainforests, rainforest edges, mangrove forests, secondary forests, and plantations."
+  },
+  {
+   "id": "cacomantis-variolosus-2f789c",
+   "text": "The Brush Cuckoo ranges from northern and eastern Australia to New Guinea, the Solomon Islands and Malaysia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo",
+   "quote": "It is native to Malesia, New Guinea, the Solomon Islands and northern and eastern Australia."
+  },
+  {
+   "id": "cacomantis-variolosus-4f4ef0",
+   "text": "It is migratory in the southern part of its Australian range.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sahul_brush_cuckoo#Distribution_and_habitat",
+   "quote": "In Australia, it is migratory in the southern part of its range."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1338338845
+ }
+}

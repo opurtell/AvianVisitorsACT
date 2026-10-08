@@ -1,0 +1,124 @@
+{
+ "sci": "Dicaeum hirundinaceum",
+ "com": "Mistletoebird",
+ "slug": "dicaeum-hirundinaceum",
+ "wikipedia": {
+  "title": "Mistletoebird",
+  "url": "https://en.wikipedia.org/wiki/Mistletoebird",
+  "revid": 1360253124
+ },
+ "ala": {
+  "name": "Dicaeum (Dicaeum) hirundinaceum",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   743,
+   313,
+   307,
+   201,
+   154,
+   103,
+   63,
+   56,
+   350,
+   957,
+   656,
+   513
+  ],
+  "total": 4522,
+  "share": 0.0011019
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.55,
+   0.96,
+   0.99,
+   0.6,
+   0.56,
+   0.42,
+   0.25,
+   0.19,
+   1.02,
+   1.97,
+   1.95,
+   1.54
+  ]
+ },
+ "facts": [
+  {
+   "id": "dicaeum-hirundinaceum-8bf62d",
+   "text": "The male mistletoebird is glossy blue-black above with a red chest, while the female is dark grey with just a touch of pinkish-red under the tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Description",
+   "quote": "The male is glossy blue-black above, with a red chest and a slight red under-tail, and a black centre stripe running down its white belly. The female is dark grey above, with a white throat, light grey underparts, and just a touch of pinkish-red under the tail."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-265539",
+   "text": "It takes between four and 25 minutes for a mistletoe seed to pass through the mistletoebird's digestive system.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Feeding_adaptations",
+   "quote": "It takes between four and 25 minutes for the mistletoe seed to pass through the mistletoebird."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-862bec",
+   "text": "Mistletoebirds wander nomadically around local areas, their movements tied to when mistletoe is fruiting.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Habitat",
+   "quote": "Mistletoebirds are nomadic where movement is generally local and is associated with the fruiting of mistletoe."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-633793",
+   "text": "Its most familiar call is a short, sharp, high-pitched tzew or dzee whistle, usually given in flight.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Description",
+   "quote": "their most familiar is a short, sharp, high-pitched tzew or dzee whistled mainly on the wing. Songs while perched include a whistled wissweet wissweet uttered repeatedly."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-6f3e0b",
+   "text": "The female builds the pear-shaped nest herself, weaving plant down, wool, spider webs and even spider egg sacs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Breeding",
+   "quote": "The nest is pear shaped with a slit side entrance and is usually made of plant down, wool, spider webs and spider egg sacs. The outside of the nest is coated with dry plant material like leaves, bark and lichen. The nest is built by the female, but accompanied by the male who assists very occasionally."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-a895d2",
+   "text": "In courtship, the male sways side to side with a horizontal body, flicking his tail to flash flashes of red.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Breeding",
+   "quote": "with a horizontal body, the male sways from side to side fluttering its wings, flicking its tail and displaying flashes of red."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-4a3787",
+   "text": "Mistletoebirds mimic other birds, copying more than 25 different species of passerines as well as the mulga parrot.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Other_characteristics",
+   "quote": "Mistletoebirds vocally mimic other birds. Heard in all seasons and given by both sexes, they have been recorded mimicking the mulga parrot (Psephotus varius), as well as more than 25 different species of passerines."
+  },
+  {
+   "id": "dicaeum-hirundinaceum-694346",
+   "text": "The mistletoebird's scientific name hirundinaceum comes from the swallow, referring to its long pointed wings.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Mistletoebird#Taxonomy_and_evolution",
+   "quote": "The specific epithet hirundinaceum derives from the name of the swallow (Hirundo) and refers to its long and pointed swallow-like wings."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1360253124
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Hirundo neoxena",
+ "com": "Welcome Swallow",
+ "slug": "hirundo-neoxena",
+ "wikipedia": {
+  "title": "Welcome swallow",
+  "url": "https://en.wikipedia.org/wiki/Welcome_swallow",
+  "revid": 1315296260
+ },
+ "ala": {
+  "name": "Hirundo (Hirundo) neoxena",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6007,
+   3825,
+   4136,
+   5104,
+   3353,
+   2094,
+   2087,
+   4149,
+   5665,
+   7259,
+   5052,
+   4570
+  ],
+  "total": 54093,
+  "share": 0.0131814
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   0.96,
+   0.9,
+   1.02,
+   1.17,
+   0.93,
+   0.66,
+   0.63,
+   1.09,
+   1.27,
+   1.15,
+   1.15,
+   1.06
+  ]
+ },
+ "facts": [
+  {
+   "id": "hirundo-neoxena-84b906",
+   "text": "The welcome swallow is metallic blue-black above, light grey on the breast and belly, and rusty on the forehead, throat and upper breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Description",
+   "quote": "The welcome swallow is metallic blue-black above, light grey below on the breast and belly, and rusty on the forehead, throat and upper breast."
+  },
+  {
+   "id": "hirundo-neoxena-2ff2f5",
+   "text": "It has a long forked tail with a row of white spots on the individual feathers, and grows to about 15 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Description",
+   "quote": "It has a long forked tail, with a row of white spots on the individual feathers. These birds are about 15 cm (5.9 in) long, including the outer tail feathers"
+  },
+  {
+   "id": "hirundo-neoxena-8ce00d",
+   "text": "Its call is a mixture of twittering and soft warbling notes, plus a sharp whistle when alarmed.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Description",
+   "quote": "The call is a mixture of twittering and soft warbling notes, and a sharp whistle in alarm."
+  },
+  {
+   "id": "hirundo-neoxena-6e8860",
+   "text": "It feeds on insects while flying, swooping fast and low over open fields in circles or figure-eight patterns.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Food_and_feeding",
+   "quote": "These birds are extremely agile fliers, which feed on insects while in flight. They often fly fast and low to the ground on open fields in large circles or figure eight patterns."
+  },
+  {
+   "id": "hirundo-neoxena-23e18a",
+   "text": "It drinks while on the wing, scooping water from lakes and ponds with its bill, and often catches insects in the water too.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Food_and_feeding",
+   "quote": "Welcome swallows do show a habit of drinking water while flying, they do this by scooping water within their bills from lake and pond surfaces. This is because welcome swallows need to drink water frequently, which allows them to catch insects in the water as well."
+  },
+  {
+   "id": "hirundo-neoxena-3d8273",
+   "text": "Welcome swallows are monogamous and breed from August until March, raising two broods in a season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Breeding",
+   "quote": "They have a monogamous social structure and a breeding period that lasts from August until March."
+  },
+  {
+   "id": "hirundo-neoxena-896a83",
+   "text": "Both sexes build an open cup nest of mud and grass attached to a vertical wall or building, lined with feathers and fur.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Breeding",
+   "quote": "The nest is an open cup of mud and grass, made by both sexes, and is attached to a structure, such as a vertical rock wall or building. It is lined with feathers and fur, and three to five eggs are laid."
+  },
+  {
+   "id": "hirundo-neoxena-5522f5",
+   "text": "Nests take 8–23 days to build and are often reused by the same pair for breeding in following years.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Breeding",
+   "quote": "Nests on average take 8–23 days to build, and are often re-used for consecutive years of breeding."
+  },
+  {
+   "id": "hirundo-neoxena-47ef1c",
+   "text": "The name refers to people welcoming its return as a herald of spring in southern Australia.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Welcome_swallow#Taxonomy",
+   "quote": "Both its species name and common name refer to people welcoming its return as a herald of spring in southern parts of Australia."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315296260
+ }
+}

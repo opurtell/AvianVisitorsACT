@@ -1,0 +1,131 @@
+{
+ "sci": "Calyptorhynchus funereus",
+ "com": "Yellow-tailed Black-Cockatoo",
+ "slug": "calyptorhynchus-funereus",
+ "wikipedia": {
+  "title": "Yellow-tailed black cockatoo",
+  "url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+  "revid": 1378897722
+ },
+ "ala": {
+  "name": "Zanda funerea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2004,
+   1517,
+   1493,
+   1745,
+   1724,
+   1532,
+   1123,
+   945,
+   786,
+   1114,
+   1089,
+   1065
+  ],
+  "total": 16917,
+  "share": 0.0041223
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.0,
+   1.12,
+   1.15,
+   1.25,
+   1.5,
+   1.51,
+   1.06,
+   0.78,
+   0.55,
+   0.55,
+   0.78,
+   0.77
+  ]
+ },
+ "facts": [
+  {
+   "id": "calyptorhynchus-funereus-a30d73",
+   "text": "The yellow-tailed black cockatoo has yellow cheek patches and a yellow tail band on mostly brownish-black plumage, with a short crest on its head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+   "quote": "Its plumage is mostly brownish black and it has prominent yellow cheek patches and a yellow tail band."
+  },
+  {
+   "id": "calyptorhynchus-funereus-c0bde7",
+   "text": "The male has a black beak and pinkish-red eye-rings, while the female has a bone-coloured beak and grey eye-rings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+   "quote": "The adult male has a black beak and pinkish-red eye-rings, and the female has a bone-coloured beak and grey eye-rings."
+  },
+  {
+   "id": "calyptorhynchus-funereus-d85f51",
+   "text": "Its loud, wailing calls carry for long distances, and it is often heard before being seen.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+   "quote": "Their loud, wailing calls carry for long distances."
+  },
+  {
+   "id": "calyptorhynchus-funereus-97cdd2",
+   "text": "In flight it flaps deeply and slowly, with a peculiar heavy, fluid motion often described as lazy.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+   "quote": "In flight, yellow-tailed black cockatoos flap deeply and slowly, with a peculiar heavy fluid motion."
+  },
+  {
+   "id": "calyptorhynchus-funereus-d80d37",
+   "text": "Outside the breeding season, the cockatoos can gather into flocks of a hundred birds or more.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo#Ecology_and_behaviour",
+   "quote": "Outside of the breeding season in autumn or winter they may coalesce into flocks of a hundred birds or more, while family interactions between pairs or trios are maintained."
+  },
+  {
+   "id": "calyptorhynchus-funereus-bdd798",
+   "text": "The male courts the female by puffing up his crest, spreading his tail to show yellow plumage, and bowing to her three or four times.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo#Breeding",
+   "quote": "The male yellow-tailed black cockatoo courts by puffing up his crest and spreading his tail feathers to display his yellow plumage. Softly growling, he approaches the female and bows to her three or four times."
+  },
+  {
+   "id": "calyptorhynchus-funereus-c2471a",
+   "text": "The cockatoos nest in large tree hollows in old growth trees, and one Victorian study found the average age of nest trees to be 228 years.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo#Breeding",
+   "quote": "A 1994 study of nesting sites in Eucalyptus regnans forest in the Strzelecki Ranges in eastern Victoria found the average age of trees used for hollows by the yellow-tailed black cockatoo to be 228 years."
+  },
+  {
+   "id": "calyptorhynchus-funereus-cbab22",
+   "text": "The species feeds on pine cones in plantations, spending about twenty minutes extracting seeds from each cone.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo#Feeding",
+   "quote": "With pine trees, they prefer green cones, nipping them off at the stem and holding in one foot, then systematically lifting each segment and extracting the seed. A cockatoo spends about twenty minutes on each pine cone."
+  },
+  {
+   "id": "calyptorhynchus-funereus-94dbc2",
+   "text": "The yellow-tailed black cockatoo can often be seen in urban Canberra, Sydney, Adelaide and Melbourne, having partly adapted to altered landscapes.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tailed_black_cockatoo",
+   "quote": "In some places yellow-tailed black cockatoos appear to have partially adapted to recent human alteration of landscape and they can often be seen in parts of urban Canberra, Sydney, Adelaide and Melbourne."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378897722
+ }
+}

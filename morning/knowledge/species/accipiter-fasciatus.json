@@ -1,0 +1,131 @@
+{
+ "sci": "Accipiter fasciatus",
+ "com": "Brown Goshawk",
+ "slug": "accipiter-fasciatus",
+ "wikipedia": {
+  "title": "Brown goshawk",
+  "url": "https://en.wikipedia.org/wiki/Brown_goshawk",
+  "revid": 1332162734
+ },
+ "ala": {
+  "name": "Accipiter (Leucospiza) fasciatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   552,
+   352,
+   310,
+   382,
+   250,
+   195,
+   223,
+   320,
+   631,
+   718,
+   412,
+   413
+  ],
+  "total": 4823,
+  "share": 0.0011753
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.0,
+   0.94,
+   0.86,
+   0.99,
+   0.79,
+   0.7,
+   0.76,
+   0.95,
+   1.6,
+   1.28,
+   1.06,
+   1.08
+  ]
+ },
+ "facts": [
+  {
+   "id": "accipiter-fasciatus-8e6f32",
+   "text": "The brown goshawk wears grey upperparts, a chestnut collar, and rufous underparts finely barred with white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Description",
+   "quote": "Its upperparts are grey with a chestnut collar; its underparts are mainly rufous, finely barred with white."
+  },
+  {
+   "id": "accipiter-fasciatus-ca365c",
+   "text": "Brown goshawks mostly eat other medium-sized birds, but also take rats and rabbits.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Feeding",
+   "quote": "Brown goshawks feed mainly on other medium-sized birds, while small mammals such as rats and rabbits are also taken."
+  },
+  {
+   "id": "accipiter-fasciatus-732580",
+   "text": "It can catch prey as large as domestic fowls, currawongs and even kookaburras.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Feeding",
+   "quote": "right up to birds the size of domestic fowls and even large, aggressive birds such as currawongs and kookaburras."
+  },
+  {
+   "id": "accipiter-fasciatus-a222fb",
+   "text": "One of its hunting tricks is flying through undergrowth to flush small prey out of cover.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Feeding",
+   "quote": "The main methods of catching prey are still-hunting, by which the goshawk waits on a hidden perch until prey comes within striking distance, and flying through undergrowth attempting to flush out small prey."
+  },
+  {
+   "id": "accipiter-fasciatus-6f531d",
+   "text": "When spotted, the goshawk faces angry mobs of ravens, crows and magpies that harass it until it leaves.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Feeding",
+   "quote": "larger birds such as ravens, crows and magpies will aggressively mob it until it leaves the area."
+  },
+  {
+   "id": "accipiter-fasciatus-57a024",
+   "text": "It nests in tall trees on a stick platform lined with green leaves, usually laying three eggs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Breeding",
+   "quote": "It nests in tall trees on a platform of sticks and twigs lined with green leaves.  The clutch size is usually three, sometimes two or four."
+  },
+  {
+   "id": "accipiter-fasciatus-82fe69",
+   "text": "Chicks hatch after about 30 days of incubation and leave the nest roughly 31 days later.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Breeding",
+   "quote": "The incubation period is about 30 days, with chicks fledging about 31 days after hatching."
+  },
+  {
+   "id": "accipiter-fasciatus-acf25d",
+   "text": "Around Canberra, look for it in eucalypt forests and woodlands, as well as farmland and urban areas.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Distribution_and_habitat",
+   "quote": "In Australia, it is found mainly in eucalypt forests and woodlands, as well as farmland and urban areas."
+  },
+  {
+   "id": "accipiter-fasciatus-7a5f29",
+   "text": "The brown goshawk ranges widely across Australia, New Guinea, New Caledonia, Vanuatu and Fiji.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_goshawk#Distribution_and_habitat",
+   "quote": "The brown goshawk is widespread through Australia, Wallacea, New Guinea, New Caledonia, Vanuatu and Fiji."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1332162734
+ }
+}

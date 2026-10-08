@@ -1,0 +1,138 @@
+{
+ "sci": "Coturnix pectoralis",
+ "com": "Stubble Quail",
+ "slug": "coturnix-pectoralis",
+ "wikipedia": {
+  "title": "Stubble quail",
+  "url": "https://en.wikipedia.org/wiki/Stubble_quail",
+  "revid": 1370470700
+ },
+ "ala": {
+  "name": "Coturnix (Coturnix) pectoralis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   811,
+   195,
+   68,
+   20,
+   14,
+   16,
+   18,
+   16,
+   25,
+   83,
+   257,
+   498
+  ],
+  "total": 2024,
+  "share": 0.0004932
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   3.81,
+   1.35,
+   0.49,
+   0.13,
+   0.11,
+   0.15,
+   0.16,
+   0.12,
+   0.17,
+   0.39,
+   1.73,
+   3.38
+  ]
+ },
+ "facts": [
+  {
+   "id": "coturnix-pectoralis-cc6839",
+   "text": "The stubble quail is a plump ground-dwelling bird with dark brown feathers, each marked with a cream stripe that runs down the length of the bird.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Description",
+   "quote": "The stubble quail is a ground dwelling bird that is characterised by its dark brown feathers with a cream coloured strip down the centre of each feather giving rise to stripes down the length of the bird."
+  },
+  {
+   "id": "coturnix-pectoralis-7b4014",
+   "text": "When a stubble quail is startled into flight, its wings make a loud whirring noise.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Description",
+   "quote": "The stubble quail can also be identified by the loud whirring noise made by their wings during take-off into flight once disturbed from on the ground."
+  },
+  {
+   "id": "coturnix-pectoralis-7a9fc7",
+   "text": "Males call at dawn and dusk as a territorial display.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Breeding",
+   "quote": "Males call at dawn and dusk as a territorial display."
+  },
+  {
+   "id": "coturnix-pectoralis-5cccae",
+   "text": "The female lays about seven or eight yellow eggs and incubates them alone for 18 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Breeding",
+   "quote": "The female stubble quail lays about seven or eight yellow eggs which are incubated solely by her for 18 days."
+  },
+  {
+   "id": "coturnix-pectoralis-f508f3",
+   "text": "Stubble quail often nest in crops that are about to be harvested, so their nests are frequently destroyed.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Breeding",
+   "quote": "Often stubble quail nest in crops that are about to be harvested so their nests get destroyed."
+  },
+  {
+   "id": "coturnix-pectoralis-39473c",
+   "text": "Stubble quail are nomadic and can travel very long distances, with the furthest recorded journey at 1142 km.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Travel",
+   "quote": "Stubble quail are nomadic and move to available resources; however, when resources are very limited, they tend to scatter in all directions. They can travel very long distances with the furthest recorded at 1142 km."
+  },
+  {
+   "id": "coturnix-pectoralis-40831c",
+   "text": "With access to green foliage as well as grain, the stubble quail can survive without drinking any water.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Evolutionary_adaptations",
+   "quote": "If the birds have access to green foliage as well as grain, the stubble quail can survive without drinking any water."
+  },
+  {
+   "id": "coturnix-pectoralis-beff7c",
+   "text": "In very hot areas, stubble quail forage during the night to escape the heat.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Evolutionary_adaptations",
+   "quote": "In areas where temperatures are very hot, stubble quail have been observed to forage during the night."
+  },
+  {
+   "id": "coturnix-pectoralis-46c81b",
+   "text": "Stubble quail avoid wooded areas and prefer tall, dense grasslands made up of native or introduced grasses and crops.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail#Distribution_and_habitat",
+   "quote": "On the mainland stubble quail are found in a variety of biomes but tend to avoid wooded areas as the canopy obstructs the growth of thick grassy undergrowth that they prefer. They prefer a habitat of tall grassland made up of native or introduced grasses, and crops."
+  },
+  {
+   "id": "coturnix-pectoralis-1b7093",
+   "text": "It is the only native upland game bird that can be legally hunted in Australia, under strict game law restrictions.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Stubble_quail",
+   "quote": "It is the only native upland game bird that can be legally hunted in Australia, though with strict game law restrictions."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1370470700
+ }
+}

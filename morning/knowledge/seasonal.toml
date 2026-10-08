@@ -1,0 +1,97 @@
+# The Canberra bird calendar: short seasonal context for the writer.
+#
+# Hand-written, so keep it to what is well established. Each entry:
+#   months  = month numbers it applies to
+#   species = BirdNET scientific names (must be in the include list)
+#   note    = one or two plain sentences the writer may paraphrase
+#   expect  = (optional) the seasonality class every listed species should
+#             have in the knowledge base; tests/test_kb.py checks it, so the
+#             calendar can't drift from the ALA data
+#   basis   = where the claim comes from
+#
+# Month patterns below were checked against each species' effort-corrected
+# monthly ACT records on the Atlas of Living Australia (seasonality.rel in
+# knowledge/species/*.json) on 2026-10-09.
+
+[[entry]]
+id = "spring-cuckoos"
+months = [8, 9, 10]
+species = ["Cacomantis pallidus", "Cacomantis flabelliformis"]
+note = "Cuckoos are among the first spring migrants back: Pallid and Fan-tailed Cuckoos are heard from late August, and their calls carry for long distances."
+expect = "summer migrant"
+basis = "ALA: both rise from August, peak September–October"
+
+[[entry]]
+id = "spring-migrants"
+months = [9, 10, 11]
+species = ["Pachycephala rufiventris", "Oriolus sagittatus", "Philemon corniculatus", "Todiramphus sanctus",
+           "Gerygone olivacea", "Merops ornatus", "Eurystomus orientalis", "Eudynamys orientalis"]
+note = "Spring migrants return from the north through September to November. Rufous Whistlers, Noisy Friarbirds, Olive-backed Orioles and White-throated Gerygones come first; Dollarbirds and Pacific Koels arrive later, in October and November."
+expect = "summer migrant"
+basis = "ALA: whistler, friarbird, oriole and gerygone rise in September; Dollarbird and Koel are near zero until October"
+
+[[entry]]
+id = "breeding-chorus"
+months = [9, 10, 11, 12]
+species = []
+note = "Spring and early summer are breeding season for most Canberra birds, which makes this the loudest time of year for the dawn chorus."
+basis = "general"
+
+[[entry]]
+id = "magpie-swooping"
+months = [8, 9, 10, 11]
+species = ["Gymnorhina tibicen"]
+note = "Magpie breeding season. A small minority of breeding magpies, almost always males, swoop people who come near their nests."
+basis = "Wikipedia, Australian magpie (lead: 'a small minority of breeding magpies (almost always males)'); months are the usual Canberra swooping season"
+
+[[entry]]
+id = "summer-visitors"
+months = [12, 1, 2]
+species = ["Eudynamys orientalis", "Eurystomus orientalis", "Scythrops novaehollandiae", "Hirundapus caudacutus"]
+note = "High summer: Pacific Koels and Dollarbirds are at their most conspicuous, Channel-billed Cuckoos are about, and White-throated Needletails, which breed in Central Asia and southern Siberia, hunt insects high over Canberra."
+basis = "ALA: Koel and Dollarbird peak December–February; Channel-billed Cuckoo November–January; needletail December–March. Needletail breeding range: Wikipedia, White-throated needletail"
+
+[[entry]]
+id = "autumn-departures"
+months = [3, 4]
+species = ["Eurystomus orientalis", "Todiramphus sanctus", "Eudynamys orientalis", "Merops ornatus", "Hirundapus caudacutus"]
+note = "Summer migrants leave through March and April; by May, Dollarbirds, Sacred Kingfishers, Koels and Rainbow Bee-eaters have all gone north."
+expect = "summer migrant"
+basis = "ALA: all fall to near zero by April–May"
+
+[[entry]]
+id = "yellow-faced-migration"
+months = [3, 4, 5]
+species = ["Caligavis chrysops"]
+note = "Autumn honeyeater migration: Yellow-faced Honeyeaters move north through the Canberra region in loose, calling flocks, peaking in April. Many return south in September and October."
+basis = "ALA: records peak in April (1.9× an average month) and again September–October"
+
+[[entry]]
+id = "winter-robins"
+months = [4, 5, 6, 7, 8]
+species = ["Petroica phoenicea", "Petroica boodang", "Pachycephala pectoralis"]
+note = "Winter brings birds down from the high country: Flame and Scarlet Robins and Golden Whistlers spend the cold months in the lower, more open country around Canberra."
+expect = "winter visitor"
+basis = "ALA: all three peak April–August"
+
+[[entry]]
+id = "superb-parrot"
+months = [9, 10, 11, 12, 1]
+species = ["Polytelis swainsonii"]
+note = "Superb Parrots are recorded around Canberra most often from spring into summer, and least in midwinter."
+basis = "ALA: December–January peak, June–August low"
+
+[[entry]]
+id = "latham-snipe"
+months = [9, 10, 11, 12, 1, 2]
+species = ["Gallinago hardwickii"]
+note = "Latham's Snipe spend the southern summer in wetlands around Canberra, having bred mainly in northern Japan, and leave again by March."
+expect = "summer migrant"
+basis = "ALA: absent April–July, peak November–January; breeding range from Wikipedia, Latham's snipe"
+
+[[entry]]
+id = "gang-gang"
+months = [10, 11, 12, 1]
+species = ["Callocephalon fimbriatum"]
+note = "Gang-gang Cockatoos, the ACT's faunal emblem, breed from spring into summer."
+basis = "Wikipedia, Gang-gang cockatoo: 'faunal emblem'; 'The breeding season lasts from spring to summer'"

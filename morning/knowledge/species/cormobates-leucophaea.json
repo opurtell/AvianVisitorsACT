@@ -1,0 +1,124 @@
+{
+ "sci": "Cormobates leucophaea",
+ "com": "White-throated Treecreeper",
+ "slug": "cormobates-leucophaea",
+ "wikipedia": {
+  "title": "White-throated treecreeper",
+  "url": "https://en.wikipedia.org/wiki/White-throated_treecreeper",
+  "revid": 1315294041
+ },
+ "ala": {
+  "name": "Cormobates leucophaea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3924,
+   2821,
+   2658,
+   2388,
+   2032,
+   1918,
+   1874,
+   2110,
+   2136,
+   3624,
+   1740,
+   1844
+  ],
+  "total": 29255,
+  "share": 0.0071289
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.13,
+   1.2,
+   1.18,
+   0.98,
+   1.02,
+   1.09,
+   1.02,
+   1.0,
+   0.86,
+   1.03,
+   0.72,
+   0.77
+  ]
+ },
+ "facts": [
+  {
+   "id": "cormobates-leucophaea-3bd861",
+   "text": "The White-throated Treecreeper is a small bird of eastern Australian forests, averaging about 15 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper",
+   "quote": "It is a small passerine bird with predominantly brown and white plumage and measuring some 15 cm (6 in) long on average."
+  },
+  {
+   "id": "cormobates-leucophaea-79937b",
+   "text": "It has a white throat and breast, barred dark-brown and white belly, and a buff patch on the wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Description",
+   "quote": "it has a white throat and breast and barred dark-brown and white belly and flanks. The upperparts and wings are a dark greyish brown, with a buff patch visible on the wings."
+  },
+  {
+   "id": "cormobates-leucophaea-2f0933",
+   "text": "The female can be told apart by a pale orange-brown patch on her cheek.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Description",
+   "quote": "The female has a pale orange-brown patch on the cheek."
+  },
+  {
+   "id": "cormobates-leucophaea-47a21a",
+   "text": "A study near Canberra found it preferred foraging on rough-barked red stringybark over smooth-barked inland scribbly gum.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Feeding",
+   "quote": "A 2007 study in the Australian Capital Territory showed the white-throated treecreeper preferred foraging on the rough-barked eucalypt, the red stringybark (Eucalyptus macrorhyncha), rather than the smooth barked species, the inland scribbly gum (Eucalyptus rossii)."
+  },
+  {
+   "id": "cormobates-leucophaea-66a27c",
+   "text": "It does not breed cooperatively, unlike many of its treecreeper relatives.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Breeding",
+   "quote": "Unlike treecreepers of the genus Climacteris, the white-throated treecreeper does not engage in cooperative breeding."
+  },
+  {
+   "id": "cormobates-leucophaea-23edce",
+   "text": "It breeds from August to December, laying two or three creamy-white oval eggs in a fur-lined tree hollow.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Breeding",
+   "quote": "The breeding season is August to December with one brood laid. The cup-shaped nest is composed of fur, hair, feathers, and moss in a hollow in a tree 4–5 m (13–16 ft) above the ground. A clutch of two or three creamy-white oval eggs is laid."
+  },
+  {
+   "id": "cormobates-leucophaea-61d5c7",
+   "text": "In the Gathang language it is called Dilmun and is the totem of Worimi women.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper",
+   "quote": "It is also called Dilmun in the Gathang language of the Worimi people, who reside in eastern Port Stephens and Great Lakes regions of coastal New South Wales, Australia. The Dilmun is the totem of Worimi women."
+  },
+  {
+   "id": "cormobates-leucophaea-3d99e8",
+   "text": "Its range stretches from South Australia through Victoria and New South Wales to Queensland, favouring wet sclerophyll forest and rainforest.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_treecreeper#Distribution_and_habitat",
+   "quote": "The white-throated treecreeper is found from the Gulf St Vincent in South Australia, through Victoria, and eastern New South Wales and southeastern Queensland, with an area further north from Mount Spec to Cooktown. Wet sclerophyll forest and rainforest is the preferred habitat."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315294041
+ }
+}

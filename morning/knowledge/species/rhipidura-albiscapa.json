@@ -1,0 +1,138 @@
+{
+ "sci": "Rhipidura albiscapa",
+ "com": "Gray Fantail",
+ "slug": "rhipidura-albiscapa",
+ "wikipedia": {
+  "title": "Grey fantail",
+  "url": "https://en.wikipedia.org/wiki/Grey_fantail",
+  "revid": 1352900530
+ },
+ "ala": {
+  "name": "Rhipidura (Rhipidura) albiscapa",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   8616,
+   5725,
+   6651,
+   5982,
+   2631,
+   2131,
+   2022,
+   2737,
+   6941,
+   10585,
+   6035,
+   5796
+  ],
+  "total": 67145,
+  "share": 0.0163619
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.15,
+   1.13,
+   1.37,
+   1.14,
+   0.61,
+   0.56,
+   0.51,
+   0.6,
+   1.3,
+   1.39,
+   1.15,
+   1.11
+  ]
+ },
+ "facts": [
+  {
+   "id": "rhipidura-albiscapa-c1ee7c",
+   "text": "The grey fantail catches flying insects with intricate acrobatic chases while flitting from perch to perch.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Description",
+   "quote": "They flit from perch to perch, sometimes on the ground but mostly on the twigs of a tree or any other convenient object, looking out for flying insects. They are able to catch flying insects using intricate acrobatic chases."
+  },
+  {
+   "id": "rhipidura-albiscapa-72176e",
+   "text": "The grey fantail is not shy and often flits within a few metres of people, snatching insects disturbed by walking or digging.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Description",
+   "quote": "The birds are not shy, and will often flit within a few metres of people, especially in forested areas and suburban gardens. In doing so, it is able to catch any small flying insects that may have been disturbed by human activities such as walking or digging."
+  },
+  {
+   "id": "rhipidura-albiscapa-635c1c",
+   "text": "The grey fantail grows to 16 cm long, and half of that length is its tail, which is often displayed fanned out.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Description",
+   "quote": "It grows to 16 cm (6.3 in) in length, of which half is the tail, which, as the name implies, is often displayed fanned out."
+  },
+  {
+   "id": "rhipidura-albiscapa-09d140",
+   "text": "The grey fantail's call is an almost metallic 'cheek', given singly or repeated as a chattering.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Description",
+   "quote": "The bird's call is an almost metallic cheek, either as a single sound or (more often) repeated as a chattering."
+  },
+  {
+   "id": "rhipidura-albiscapa-48a4fa",
+   "text": "Grey fantails live in Australia, the Solomon Islands, Vanuatu and New Caledonia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail",
+   "quote": "It is a common fantail found in Australia, the Solomon Islands, Vanuatu and New Caledonia."
+  },
+  {
+   "id": "rhipidura-albiscapa-4379d7",
+   "text": "Grey fantails raise several broods per season, usually of three or four cream eggs spotted grey and brown.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Breeding",
+   "quote": "They raise several broods per season, usually each of three or four cream eggs, spotted grey and brown."
+  },
+  {
+   "id": "rhipidura-albiscapa-3858d8",
+   "text": "Both parents share incubation of the eggs, which takes around two weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Breeding",
+   "quote": "The incubation period is around two weeks, with incubation and feeding duties shared by both parents."
+  },
+  {
+   "id": "rhipidura-albiscapa-32741e",
+   "text": "Grey fantails often build more than one nest before laying eggs, and seven nests have been recorded in a single breeding season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Nesting",
+   "quote": "grey fantails commonly build more than one nest before egg-laying, and seven nests have been recorded as the highest number in a breeding season."
+  },
+  {
+   "id": "rhipidura-albiscapa-860d5f",
+   "text": "Abandoned nests may confuse predators such as pied currawongs, which can destroy incomplete nests while searching for eggs.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Nesting",
+   "quote": "these abandoned nests were incompletely built, probably in response to the attention of predators (such as pied currawongs), because these predators may destroy incomplete nests when looking for eggs."
+  },
+  {
+   "id": "rhipidura-albiscapa-73f92b",
+   "text": "Grey fantails build compact, cup-shaped nests of moss, bark and fibre in tree forks, often finished with spider's web.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_fantail#Nesting",
+   "quote": "The parent birds build compact, cup-shaped nests, usually in the forks of trees, made from moss, bark and fibre, and often completed with spider's web."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1352900530
+ }
+}

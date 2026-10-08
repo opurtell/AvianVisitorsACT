@@ -1,0 +1,138 @@
+{
+ "sci": "Todiramphus sanctus",
+ "com": "Sacred Kingfisher",
+ "slug": "todiramphus-sanctus",
+ "wikipedia": {
+  "title": "Sacred kingfisher",
+  "url": "https://en.wikipedia.org/wiki/Sacred_kingfisher",
+  "revid": 1375702132
+ },
+ "ala": {
+  "name": "Todiramphus (Todiramphus) sanctus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1885,
+   1292,
+   428,
+   62,
+   13,
+   0,
+   0,
+   3,
+   251,
+   2758,
+   2019,
+   1464
+  ],
+  "total": 10220,
+  "share": 0.0024904
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.79,
+   1.81,
+   0.63,
+   0.08,
+   0.02,
+   0.0,
+   0.0,
+   0.0,
+   0.33,
+   2.58,
+   2.74,
+   2.01
+  ]
+ },
+ "facts": [
+  {
+   "id": "todiramphus-sanctus-3138a5",
+   "text": "The sacred kingfisher is mostly blue-green to turquoise above, with white underparts, a black mask and buff lores.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Description",
+   "quote": "The sacred kingfisher is mostly blue-green to turquoise above with white underparts and collar feathers, a black mask and buff lores."
+  },
+  {
+   "id": "todiramphus-sanctus-4b2c36",
+   "text": "It measures 20–23 cm long, with males weighing 28–61 g and females 28–56 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Description",
+   "quote": "Adults are 20–23 cm (7.9–9.1 in) long. Males weigh 28–61 g (1.0–2.2 oz) and females 28–56 g (1.0–2.0 oz)."
+  },
+  {
+   "id": "todiramphus-sanctus-b76be0",
+   "text": "It hunts by sitting quietly on a low branch, then swooping down to snatch passing prey before returning to its perch.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Feeding",
+   "quote": "Usually, the sacred kingfisher will sit on a low branch and wait for prey to pass by. It swoops down to grab the prey by briefly landing (sally-pounce) or hovering (sally-strike), and then returns to its perch to eat its catch by beating and swallowing."
+  },
+  {
+   "id": "todiramphus-sanctus-8bd2b8",
+   "text": "It eats mostly insects and spiders, along with crustaceans, frogs, small rodents, reptiles and occasionally fish or even small birds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Feeding",
+   "quote": "The sacred kingfisher feeds on a wide variety of invertebrates (particularly insects and spiders), small crustaceans, fish (infrequently), frogs, small rodents and reptiles, and there are a few reports of them eating finches and other small birds."
+  },
+  {
+   "id": "todiramphus-sanctus-121aa8",
+   "text": "Breeding runs from August to March, and a pair often raises two broods in a season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Breeding",
+   "quote": "The breeding season is from August to March (mostly September to January), often with two broods."
+  },
+  {
+   "id": "todiramphus-sanctus-cb53e7",
+   "text": "Both members of a mated pair dig the nest, choosing a river bank burrow, a hollow in a large branch or a termite mound.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Breeding",
+   "quote": "Once a pair of birds has mated, both members of the pair dig the nest; a burrow in a river bank, a hollow in a large branch or a termite mound are prime examples of nest location."
+  },
+  {
+   "id": "todiramphus-sanctus-e36455",
+   "text": "The female lays 3 to 6 glossy white eggs, incubated by both parents for 17–18 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Breeding",
+   "quote": "The female lays a clutch of 3 to 6 glossy white, rounded eggs, measuring 25 mm × 22 mm (0.98 in × 0.87 in), which are incubated for 17–18 days by both parents (mainly female)."
+  },
+  {
+   "id": "todiramphus-sanctus-2912af",
+   "text": "Birds from southern Australia migrate north to New Guinea, the Solomon Islands and Indonesia after breeding, returning south in August and September.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Distribution_and_habitat",
+   "quote": "Populations in the southern two-thirds of Australia migrate northwards at the end of the breeding season to New Guinea, east to the eastern Solomon Islands and west to Indonesia becoming uncommon to very sparse westwards to Sumatra. Birds move south again to Australia in August and September."
+  },
+  {
+   "id": "todiramphus-sanctus-698845",
+   "text": "In Australia it lives in open eucalypt forests, mangroves, wetlands, farmland and even parks and gardens.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Distribution_and_habitat",
+   "quote": "In Australia, it inhabits open eucalypt forests, melaleuca swamps, mangroves, mudflats, wetlands and river or lake margins, farmland, parks and gardens."
+  },
+  {
+   "id": "todiramphus-sanctus-78fb3b",
+   "text": "Polynesians once held it in such veneration that it could not be taken or killed, and later sources say it was thought to control the waves.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Sacred_kingfisher#Etymology",
+   "quote": "Latham claims, citing Parkinson's journals, that all three kingfishers were held in \"superstitious veneration\" by the natives on account of frequently inhabiting marae and burial grounds, and were not allowed to be taken or killed. Later sources claim Polynesians venerated it for having the power of control over the waves."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375702132
+ }
+}

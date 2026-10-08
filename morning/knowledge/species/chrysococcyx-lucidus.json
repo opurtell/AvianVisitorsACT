@@ -1,0 +1,138 @@
+{
+ "sci": "Chrysococcyx lucidus",
+ "com": "Shining Bronze-Cuckoo",
+ "slug": "chrysococcyx-lucidus",
+ "wikipedia": {
+  "title": "Shining bronze cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo",
+  "revid": 1362140206
+ },
+ "ala": {
+  "name": "Chalcites lucidus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   411,
+   188,
+   111,
+   60,
+   11,
+   9,
+   8,
+   85,
+   565,
+   1094,
+   569,
+   344
+  ],
+  "total": 3471,
+  "share": 0.0008458
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.14,
+   0.77,
+   0.48,
+   0.24,
+   0.05,
+   0.05,
+   0.04,
+   0.39,
+   2.2,
+   3.0,
+   2.26,
+   1.38
+  ]
+ },
+ "facts": [
+  {
+   "id": "chrysococcyx-lucidus-31b250",
+   "text": "It has metallic golden or coppery green upperparts, white cheeks, and white underparts barred with dark green.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Description",
+   "quote": "It has metallic golden or coppery green upperparts and white cheeks and underparts barred with dark green."
+  },
+  {
+   "id": "chrysococcyx-lucidus-9720e3",
+   "text": "The shining bronze cuckoo is hard to spot but easier to hear.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Description",
+   "quote": "Hard to spot and easier to hear, the shining bronze cuckoo is 13–18 cm (5.1–7.1 in) in overall length"
+  },
+  {
+   "id": "chrysococcyx-lucidus-b59707",
+   "text": "A female lays a single egg in a host's nest and removes one of the host's eggs; the cuckoo chick then ejects the host nestlings.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Breeding",
+   "quote": "A female shining bronze cuckoo lays a single egg in a host nest and removes a host egg.  After hatching, the baby cuckoo ejects the host nestlings from the nest."
+  },
+  {
+   "id": "chrysococcyx-lucidus-fac079",
+   "text": "In a Kaikōura study, the cuckoos heavily parasitised the second broods of grey warblers, targeting 55% of nests.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Breeding",
+   "quote": "the shining bronze cuckoos missing the first but parasitising heavily the second broods of the season (55% of nests in a study in Kaikōura)"
+  },
+  {
+   "id": "chrysococcyx-lucidus-83be67",
+   "text": "It eats caterpillars and beetles that other birds avoid, including magpie moth caterpillars and ladybirds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Food_and_feeding",
+   "quote": "the shining bronze cuckoo eats insects that are avoided by other birds, such as caterpillars, particularly those of the magpie moth, and beetles, particularly ladybirds"
+  },
+  {
+   "id": "chrysococcyx-lucidus-0fd0eb",
+   "text": "Its gizzard catches caterpillar spines in a soft thick lining, and the spines are spat back out by the bird.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Food_and_feeding",
+   "quote": "The shining bronze cuckoo's gizzard is lined with a soft thick lining which catches the caterpillar spines; these fall away and are spat out by the bird."
+  },
+  {
+   "id": "chrysococcyx-lucidus-60265d",
+   "text": "A young cuckoo has been heard imitating the alarm call of baby chestnut-rumped heathwrens, one of its occasional hosts.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Breeding",
+   "quote": "a pair of chestnut-rumped heathwren was encountered with a juvenile shining bronze cuckoo which imitated the alarm call of a baby heathwren"
+  },
+  {
+   "id": "chrysococcyx-lucidus-cc8a31",
+   "text": "It is the most southerly ranging brood parasitic bird species in the world, extending to at least 46°S in New Zealand.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo",
+   "quote": "It may also parasitise other Acanthizidae species, and is also the most southerly ranging brood parasitic bird species in the world, extending to at least 46°S in New Zealand."
+  },
+  {
+   "id": "chrysococcyx-lucidus-2c72e1",
+   "text": "The shining bronze cuckoo is found in Australia, Indonesia, New Caledonia, New Zealand, Papua New Guinea, Solomon Islands, and Vanuatu.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo",
+   "quote": "a species of cuckoo in the family Cuculidae, found in Australia, Indonesia, New Caledonia, New Zealand, Papua New Guinea, Solomon Islands, and Vanuatu"
+  },
+  {
+   "id": "chrysococcyx-lucidus-d2e004",
+   "text": "New Zealand populations winter in the Solomon Islands and arrive back in New Zealand from mid August.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Shining_bronze_cuckoo#Distribution_and_habitat",
+   "quote": "New Zealand populations winter in the Solomon Islands and arrive in New Zealand from mid August"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1362140206
+ }
+}

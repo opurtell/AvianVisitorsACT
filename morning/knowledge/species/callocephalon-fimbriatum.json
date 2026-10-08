@@ -1,0 +1,138 @@
+{
+ "sci": "Callocephalon fimbriatum",
+ "com": "Gang-gang Cockatoo",
+ "slug": "callocephalon-fimbriatum",
+ "wikipedia": {
+  "title": "Gang-gang cockatoo",
+  "url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo",
+  "revid": 1362475684
+ },
+ "ala": {
+  "name": "Callocephalon fimbriatum",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3857,
+   3840,
+   2974,
+   3462,
+   3987,
+   2538,
+   2709,
+   3650,
+   3252,
+   4265,
+   3187,
+   2806
+  ],
+  "total": 43200,
+  "share": 0.010527
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.78,
+   1.14,
+   0.92,
+   1.0,
+   1.4,
+   1.01,
+   1.03,
+   1.21,
+   0.92,
+   0.85,
+   0.92,
+   0.82
+  ]
+ },
+ "facts": [
+  {
+   "id": "callocephalon-fimbriatum-768db6",
+   "text": "The male gang-gang cockatoo sports a bright red head and crest, while the female keeps a small fluffy grey crest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo",
+   "quote": "Mostly mild grey in colour with some lighter scalloping (more pronounced and buffy in females), the male has a red head and crest, while the female has a small fluffy grey crest."
+  },
+  {
+   "id": "callocephalon-fimbriatum-32f988",
+   "text": "Its call sounds like a creaky gate, or a cork being pulled from a wine bottle.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo",
+   "quote": "It is easily identified by its distinctive call, which is described as resembling a creaky gate, or the sound of a cork being pulled from a wine bottle."
+  },
+  {
+   "id": "callocephalon-fimbriatum-2c408e",
+   "text": "The name gang-gang probably comes from an Aboriginal language and is likely onomatopoeic.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo",
+   "quote": "The name gang-gang comes from a New South Wales Aboriginal language, probably from one of the coastal languages, although possibly from Wiradjuri. It is probably an onomatopoeic name."
+  },
+  {
+   "id": "callocephalon-fimbriatum-b2f166",
+   "text": "The gang-gang cockatoo is the faunal emblem of the Australian Capital Territory.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo",
+   "quote": "The gang-gang cockatoo is the faunal emblem of the Australian Capital Territory."
+  },
+  {
+   "id": "callocephalon-fimbriatum-8504c1",
+   "text": "It mostly eats the flowers and buds of eucalypts, foraging up in the canopy.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Diet",
+   "quote": "They forage in canopies mostly feed on the flowers and buds of eucalypts."
+  },
+  {
+   "id": "callocephalon-fimbriatum-152c9c",
+   "text": "Unlike most other cockatoos, gang-gangs nest in young, solid trees and often nest near water.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Breeding_habits",
+   "quote": "Unlike most other cockatoos, gang-gangs nest in young, solid trees. They often nest near water."
+  },
+  {
+   "id": "callocephalon-fimbriatum-2137e3",
+   "text": "Gang-gangs are monogamous, laying 2-3 white eggs, with both parents caring for the young during a four-week incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Breeding_habits",
+   "quote": "Gang-gangs are monogamous. The breeding season lasts from spring to summer. The birds will lay 2-3 white eggs, the incubation period is 4 weeks and both sexes take care of the young."
+  },
+  {
+   "id": "callocephalon-fimbriatum-a1769d",
+   "text": "In winter they migrate short distances into more open habitats but return to dense forests to breed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Distribution_and_habitat",
+   "quote": "They migrate short distances during winter into more open habitats, but must migrate back to denser forests to breed, because they need tall trees in order to build nests."
+  },
+  {
+   "id": "callocephalon-fimbriatum-561bba",
+   "text": "The species has declined by about 69% over the last 21 years, and the 2019–20 bushfires hit 28 to 36 per cent of its range.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Status",
+   "quote": "the population has declined by approximately 69% in the last three generations, or 21 years and in addition to this decline, the species has suffered direct mortality and habitat loss during the 2019–20 Australian bushfire season. Between 28 and 36 per cent of the species' distribution was impacted by the fires."
+  },
+  {
+   "id": "callocephalon-fimbriatum-f52e5c",
+   "text": "Gang-gangs are very social birds, but not overly noisy.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Gang-gang_cockatoo#Description",
+   "quote": "Gang-gangs are very social birds, but not overly noisy."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1362475684
+ }
+}

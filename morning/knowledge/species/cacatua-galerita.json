@@ -1,0 +1,131 @@
+{
+ "sci": "Cacatua galerita",
+ "com": "Sulphur-crested Cockatoo",
+ "slug": "cacatua-galerita",
+ "wikipedia": {
+  "title": "Sulphur-crested cockatoo",
+  "url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo",
+  "revid": 1372977062
+ },
+ "ala": {
+  "name": "Cacatua (Cacatua) galerita",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   15013,
+   11068,
+   11064,
+   12037,
+   10170,
+   9317,
+   10019,
+   11070,
+   10895,
+   14209,
+   9615,
+   10631
+  ],
+  "total": 142988,
+  "share": 0.0348434
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.91,
+   0.99,
+   1.04,
+   1.05,
+   1.08,
+   1.12,
+   1.15,
+   1.11,
+   0.93,
+   0.85,
+   0.84,
+   0.93
+  ]
+ },
+ "facts": [
+  {
+   "id": "cacatua-galerita-d009c4",
+   "text": "The sulphur-crested cockatoo is a large white parrot with a bright yellow crest, black bill and grey legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Description",
+   "quote": "Their plumage is overall white, while the underwing and -tail are tinged yellow. The expressive crest is yellow. The bill is black, the legs are grey, and the eye-ring is whitish."
+  },
+  {
+   "id": "cacatua-galerita-68819d",
+   "text": "Males typically have almost black eyes, while females have more red or brown eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Description",
+   "quote": "Males typically have almost black eyes, whereas the females have more red or brown eyes, but this requires optimum viewing conditions to be seen."
+  },
+  {
+   "id": "cacatua-galerita-2fd65c",
+   "text": "Its raucous calls are very loud, an adaptation for carrying through the rainforests where it lives.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "Sulphur-crested cockatoos' distinctive, raucous calls can be very loud, which is a result of an adaptation to travel through the forest environments in which they live, including tropical and subtropical rainforests."
+  },
+  {
+   "id": "cacatua-galerita-539800",
+   "text": "In Sydney, cockatoos have learned to open garbage bins for food, and the trick spreads among them by imitation.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "in Sydney, Australia, they have learned how to open garbage bins as a source of food. The behaviour spreads among the birds by imitation."
+  },
+  {
+   "id": "cacatua-galerita-bb88bb",
+   "text": "Some captive cockatoos spontaneously dance to music, and a 2009 study showed they can synchronise movements to a beat.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "A 2009 study involving an Eleonora cockatoo (the subspecies C. g. eleonora) named Snowball found that sulphur-crested cockatoos are capable of synchronising movements to a musical beat."
+  },
+  {
+   "id": "cacatua-galerita-ff39c8",
+   "text": "While a flock feeds on the ground, at least one bird keeps guard from a tall tree, a habit that entered Australian slang.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "whenever a flock is on the ground, at least one is high up in a tree (usually a dead tree), keeping guard. This is so well known that it has even entered Australian slang"
+  },
+  {
+   "id": "cacatua-galerita-0ac4ec",
+   "text": "It can live upwards of 70 years in captivity, though wild birds survive only about 20-40 years.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "These birds are very long-lived, upwards of 70 years in captivity, although they only live to about 20–40 years in the wild."
+  },
+  {
+   "id": "cacatua-galerita-767e13",
+   "text": "It waterproofs itself with a very fine powder instead of the oil used by most other birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Behaviour",
+   "quote": "These birds produce a very fine powder to waterproof themselves instead of oil as many other birds do."
+  },
+  {
+   "id": "cacatua-galerita-de3c2e",
+   "text": "The birds can damage cereal and fruit crops and soft timber, so they are sometimes culled as pests under government permit.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Sulphur-crested_cockatoo#Pest_status",
+   "quote": "sulphur-crested cockatoos can be very numerous and may cause damage to cereal and fruit crops and newly planted tree seedlings, as well as soft timber on houses and outdoor furniture. Consequently, they are sometimes shot or poisoned as pests. A government permit is required for any culling"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372977062
+ }
+}

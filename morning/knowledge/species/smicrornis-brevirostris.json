@@ -1,0 +1,124 @@
+{
+ "sci": "Smicrornis brevirostris",
+ "com": "Weebill",
+ "slug": "smicrornis-brevirostris",
+ "wikipedia": {
+  "title": "Weebill",
+  "url": "https://en.wikipedia.org/wiki/Weebill",
+  "revid": 1328466929
+ },
+ "ala": {
+  "name": "Smicrornis brevirostris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4705,
+   3313,
+   3474,
+   4067,
+   3897,
+   3715,
+   3827,
+   4193,
+   4415,
+   5694,
+   3556,
+   3392
+  ],
+  "total": 50381,
+  "share": 0.0122769
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.8,
+   0.83,
+   0.91,
+   0.99,
+   1.15,
+   1.24,
+   1.22,
+   1.17,
+   1.05,
+   0.95,
+   0.86,
+   0.83
+  ]
+ },
+ "facts": [
+  {
+   "id": "smicrornis-brevirostris-378c31",
+   "text": "At 8 to 9 cm long, the weebill is Australia's smallest bird.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Description",
+   "quote": "The weebill is Australia's smallest bird at approximately 8 to 9 cm (3.1 to 3.5 in) long and weighing an average of 6 grams (adult bird)."
+  },
+  {
+   "id": "smicrornis-brevirostris-caa28c",
+   "text": "The weebill's song is a loud, clear, musical pee-pee p'wee, often heard from a considerable distance.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Description",
+   "quote": "The voice of the weebill is a loud, clear, musical pee-pee p'wee, wee bit or wee willy weetee, often heard from a considerable distance."
+  },
+  {
+   "id": "smicrornis-brevirostris-74e84d",
+   "text": "Weebills forage busily in pairs or small parties of up to 8, often hovering and clinging to twigs to glean insects from the outer foliage.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Diet",
+   "quote": "Weebills forage busily in pairs, or small parties of up to 8, feeding mainly in trees, often hovering, they are active and noisy and cling to twigs while gleaning insects from the outer foliage of the canopy and midstory."
+  },
+  {
+   "id": "smicrornis-brevirostris-c975d1",
+   "text": "By eating scale insects, psyllids and lerps, weebills help maintain the health of trees.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Diet",
+   "quote": "Weebills assist in maintaining the health of trees, as they glean scale insects and eat a range of other insects, including psyllids and their protective covers (lerps)."
+  },
+  {
+   "id": "smicrornis-brevirostris-27f52e",
+   "text": "The female weebill usually lays two to four brown-speckled cream-coloured eggs, and she alone incubates them for 10 to 12 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Reproduction",
+   "quote": "The female usually lays two to four brown-speckled cream-coloured eggs, which are tapered-oval in shape. Only the female incubates the eggs, which hatch after 10–12 days, and then both parents care for the chicks."
+  },
+  {
+   "id": "smicrornis-brevirostris-f88d38",
+   "text": "During courtship, male weebills ruffle their cheek and head feathers with outstretched wings to the female.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Reproduction",
+   "quote": "Courtship displays have been observed in weebills, where males ruffle their cheek and head feathers with outstretched wings to the female."
+  },
+  {
+   "id": "smicrornis-brevirostris-a1980c",
+   "text": "The weebill's stubby, pale grey bill helps distinguish it from thornbills.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Description",
+   "quote": "The bill is short and pale grey. The stubby bill of the weebill assists in distinguishing it from thornbills."
+  },
+  {
+   "id": "smicrornis-brevirostris-b9b86c",
+   "text": "Weebills live in woodlands and forests across most of mainland Australia, favouring the canopies of dry, open eucalyptus forests.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Weebill#Distribution_and_habitat",
+   "quote": "They are most commonly found in the canopies of dry, open eucalyptus forests, woodlands and mallee, occasionally coming down to the midstory to feed primarily on small insects and their larvae."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1328466929
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Egretta novaehollandiae",
+ "com": "White-faced Heron",
+ "slug": "egretta-novaehollandiae",
+ "wikipedia": {
+  "title": "White-faced heron",
+  "url": "https://en.wikipedia.org/wiki/White-faced_heron",
+  "revid": 1371443551
+ },
+ "ala": {
+  "name": "Egretta novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3382,
+   2401,
+   2151,
+   1952,
+   1525,
+   1185,
+   1159,
+   1318,
+   1654,
+   2479,
+   2076,
+   2076
+  ],
+  "total": 23631,
+  "share": 0.0057584
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   1.22,
+   1.29,
+   1.2,
+   1.01,
+   0.96,
+   0.85,
+   0.79,
+   0.79,
+   0.84,
+   0.89,
+   1.07,
+   1.09
+  ]
+ },
+ "facts": [
+  {
+   "id": "egretta-novaehollandiae-c1a36a",
+   "text": "The white-faced heron is a pale, slightly bluish-grey bird with yellow legs and white facial markings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron",
+   "quote": "It is a medium-sized heron, pale, slightly bluish-grey, with yellow legs and white facial markings."
+  },
+  {
+   "id": "egretta-novaehollandiae-b061e9",
+   "text": "It will boldly raid suburban fish ponds but flies off on long, slow-beating wings if disturbed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron",
+   "quote": "although it is prompt to depart the scene on long, slow-beating wings if disturbed, it will boldly raid suburban fish ponds."
+  },
+  {
+   "id": "egretta-novaehollandiae-80c329",
+   "text": "Its most common call is a gravelly croak or gobble, typically given in flight or in aggressive encounters.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Call",
+   "quote": "The most common call of the white-faced heron is a gravelly croak or gobble, graak or graaw and is typically given in flight, in interactions or in aggressive encounters."
+  },
+  {
+   "id": "egretta-novaehollandiae-07708e",
+   "text": "A typical clutch has three to five pale blue eggs and incubation lasts approximately 25 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Breeding",
+   "quote": "A typical clutch has three to five pale blue eggs. with an average size of 48.5×35 mm. Normally only one brood is raised per year. Incubation lasts approximately 25 days."
+  },
+  {
+   "id": "egretta-novaehollandiae-18b2db",
+   "text": "Both parents share building the nest, incubating the eggs and caring for the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Breeding",
+   "quote": "Both sexes share the task of building the nest, incubating the eggs and caring for the young."
+  },
+  {
+   "id": "egretta-novaehollandiae-77f23e",
+   "text": "It breeds in austral spring, but can breed at other times in response to rainfall.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Breeding",
+   "quote": "Breeding generally takes place in the austral spring, but the birds may breed at other times in response to rainfall."
+  },
+  {
+   "id": "egretta-novaehollandiae-1e2a7d",
+   "text": "The heron turns up everywhere from farm dams and crops to golf courses, beaches and garden fish-ponds.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Distribution_and_habitat",
+   "quote": "The white-faced heron is locally nomadic and found in both fresh and salty wetlands, farm dams, pastures, grasslands, crops, shores, saltmarsh, tidal mudflats, boat-harbours, beaches, golf courses, orchards or in garden fish-ponds."
+  },
+  {
+   "id": "egretta-novaehollandiae-0332f7",
+   "text": "It was self-introduced to New Zealand in the late 1940s and is the only heron recorded breeding in Tasmania.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Distribution_and_habitat",
+   "quote": "It was self-introduced to New Zealand in the late 1940s. It is the only heron recorded breeding in Tasmania."
+  },
+  {
+   "id": "egretta-novaehollandiae-b03526",
+   "text": "The Ngarrindjeri people of the Lower Murray region in South Australia knew the white-faced heron as krawli.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/White-faced_heron#Taxonomy",
+   "quote": "The Ngarrindjeri people of the Lower Murray region in South Australia knew it as krawli."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371443551
+ }
+}

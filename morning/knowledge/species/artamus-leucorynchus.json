@@ -1,0 +1,138 @@
+{
+ "sci": "Artamus leucorynchus",
+ "com": "White-breasted Woodswallow",
+ "slug": "artamus-leucorynchus",
+ "wikipedia": {
+  "title": "White-breasted woodswallow",
+  "url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow",
+  "revid": 1346681913
+ },
+ "ala": {
+  "name": "Artamus (Artamus) leucorynchus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "total": 1,
+  "share": 2e-07
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.0,
+   12.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "artamus-leucorynchus-032676",
+   "text": "Despite its name, the white-breasted woodswallow is not a true swallow; it belongs to the Artamidae family alongside butcherbirds, currawongs and the Australian magpie.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow",
+   "quote": "The name \"woodswallow\" is a misnomer as they are not closely related to true swallows. Instead, they belong to the family Artamidae, which also includes butcherbirds, currawongs and the Australian magpie."
+  },
+  {
+   "id": "artamus-leucorynchus-436fc9",
+   "text": "The white-breasted woodswallow is the only woodswallow whose tail is completely black, with no white on it at all.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Description",
+   "quote": "Their completely black tail makes them the only woodswallow lacking white on the tail."
+  },
+  {
+   "id": "artamus-leucorynchus-07a9bc",
+   "text": "Males and females look identical, while juveniles wear browner, heavily striated plumage with a buff chest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Description",
+   "quote": "Males and females are identical in appearance. Juveniles have a more brownish plumage around their head and mantle that is usually heavily striated. They have a buff tint on their chest and a brownish bill with a dark tip."
+  },
+  {
+   "id": "artamus-leucorynchus-28ccf1",
+   "text": "It is one of the few passerines that can soar, thanks to its large, pointed wings and agile flight.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Behaviour",
+   "quote": "The white-breasted woodswallow has large, pointed wings and is very agile in powered and gliding flight. It is fast-flying and is one of few passerines that can soar."
+  },
+  {
+   "id": "artamus-leucorynchus-e6dfb8",
+   "text": "Small but feisty, these birds are territorial and will gang up to mob larger birds in defence.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Behaviour",
+   "quote": "Even with their small statue, they can be aggressive birds whom are quite territorial with groups mobbing larger birds as a form of defense."
+  },
+  {
+   "id": "artamus-leucorynchus-b9ac6e",
+   "text": "Famous huddlers, they squeeze tightly together on branches or powerlines to stay warm and save energy.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Behaviour",
+   "quote": "They are social birds, well known for their habit of huddling up together tightly in flocks, usually along a branch or powerline. This behaviour enables the birds to maintain heat and conserve energy."
+  },
+  {
+   "id": "artamus-leucorynchus-967034",
+   "text": "A female invites copulation by spreading her wings in a V over her back, trembling, waggling her tail and quietly making an 'eep' call.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Breeding",
+   "quote": "The female sexual display to invite copulation includes extending the wings over the back in a V, whilst trembling toward a male/s, then waggling the tail and quietly making an 'eep' call."
+  },
+  {
+   "id": "artamus-leucorynchus-9e91b3",
+   "text": "They are cooperative breeders, and both sexes help build the nest, incubate the eggs and feed the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Breeding",
+   "quote": "They are cooperative breeders, with birds other than parents assisting with care for offspring. Both sexes participate in building nests, incubating eggs and feeding young birds."
+  },
+  {
+   "id": "artamus-leucorynchus-67abdd",
+   "text": "Resourceful nesters, they will recycle abandoned magpie-lark nests as their own, and their clutches of 2 to 5 eggs hatch after 15 days of incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Breeding",
+   "quote": "Woodswallows are also known to recycle abandoned magpie-lark nests to use as their own. The normal clutch size is between 2 and 5 eggs. These are tapered oval-shaped and cream or pinkish in color with darker brown speckles. The eggs are incubated for 15 days."
+  },
+  {
+   "id": "artamus-leucorynchus-1073d6",
+   "text": "Though its brush-tipped tongue suggests a nectar feeder, it mainly eats insects caught in flight, occasionally sipping flower nectar.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-breasted_woodswallow#Food_and_feeding",
+   "quote": "Despite having a bifurcated (divided) brush-tipped tongue, which is usually associated with nectar feeders, woodswallows are insectivores primarily feeding on insects caught on the wings in flight or from a perch, and occasionally feeding on the nectar of flowers."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1346681913
+ }
+}

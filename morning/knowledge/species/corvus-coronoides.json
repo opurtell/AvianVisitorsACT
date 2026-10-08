@@ -1,0 +1,138 @@
+{
+ "sci": "Corvus coronoides",
+ "com": "Australian Raven",
+ "slug": "corvus-coronoides",
+ "wikipedia": {
+  "title": "Australian raven",
+  "url": "https://en.wikipedia.org/wiki/Australian_raven",
+  "revid": 1375674053
+ },
+ "ala": {
+  "name": "Corvus coronoides",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   11606,
+   8619,
+   9085,
+   9979,
+   8748,
+   7971,
+   8218,
+   8688,
+   9115,
+   12465,
+   8368,
+   8294
+  ],
+  "total": 117154,
+  "share": 0.0285481
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.86,
+   0.94,
+   1.04,
+   1.05,
+   1.13,
+   1.16,
+   1.15,
+   1.06,
+   0.95,
+   0.91,
+   0.88,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "corvus-coronoides-fcac72",
+   "text": "Its territorial call is a slow, high ah-ah-aaaah with the last note drawn out, given from a prominent perch.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Vocalisations",
+   "quote": "The territorial call of the Australian raven is a slow, high ah-ah-aaaah (similar to the near-open front unrounded vowel (IPA:/æ/)) with the last note drawn out."
+  },
+  {
+   "id": "corvus-coronoides-89bcf2",
+   "text": "Flying ravens give a single high-pitched caa over another territory to signal they are just passing through.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Vocalisations",
+   "quote": "Birds in flocks make a single high-pitched caa while flying over another territory as a transit call to signify they are just passing through."
+  },
+  {
+   "id": "corvus-coronoides-ed87ea",
+   "text": "Pairs generally bond for life, and if the female dies the male keeps the territory and finds a new mate.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Behaviour",
+   "quote": "If the female dies, the male Australian raven maintains the territory and finds another mate, while if the male bird is lost, the female abandons the territory."
+  },
+  {
+   "id": "corvus-coronoides-7bc064",
+   "text": "Ravens build a new nest each year, since reusing old ones could spread disease or parasites.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Breeding",
+   "quote": "New nests are built each year generally, as the re-use of old ones might spread disease or parasites—nests become caked with faeces as the nestlings grow and the parents cannot keep up with its removal."
+  },
+  {
+   "id": "corvus-coronoides-34d71a",
+   "text": "It thrives in cities such as Sydney, Canberra and Perth, having adapted well to human settlements.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven",
+   "quote": "it has adapted well to human settlements and other urban environments, and is a commonly sighted bird in several major cities, including Sydney, Canberra, Perth, Adelaide and Brisbane."
+  },
+  {
+   "id": "corvus-coronoides-650436",
+   "text": "Australia's largest corvid, the Australian raven is 46–53 cm long with a 100 cm wingspan and weighs around 650 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Description",
+   "quote": "Measuring 46–53 cm (18–21 in) in length with a 100 cm (39 in) wingspan and weighing around the 650 g (1+7⁄16 lb), the Australian raven is Australia's largest species of corvid."
+  },
+  {
+   "id": "corvus-coronoides-c628ef",
+   "text": "Its eye colour changes with age: young birds have brown irises that turn hazel and later white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven",
+   "quote": "hatchlings and young birds have brown, dark irises until about fifteen months of age, at which point their irises become hazel-coloured"
+  },
+  {
+   "id": "corvus-coronoides-1de2c5",
+   "text": "Ravens begin breeding at three years of age and live another four to five years on average.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Behaviour",
+   "quote": "Once they begin breeding at three years of age, they live another four to five years on average."
+  },
+  {
+   "id": "corvus-coronoides-bd091f",
+   "text": "The highest recorded corvid nest in Australia was found on top of the AWA Tower in Sydney.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Breeding",
+   "quote": "The highest recorded corvid nest in Australia was found atop the AWA Tower in Sydney."
+  },
+  {
+   "id": "corvus-coronoides-b7465a",
+   "text": "A breeding pair and their brood can hold a territory of up to around 120 hectares all year round.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_raven#Behaviour",
+   "quote": "A single breeding pair and their brood can occupy a territory of up to around 120 hectares (300 acres) and remains there year-round"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375674053
+ }
+}

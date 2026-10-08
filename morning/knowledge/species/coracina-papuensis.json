@@ -1,0 +1,138 @@
+{
+ "sci": "Coracina papuensis",
+ "com": "White-bellied Cuckooshrike",
+ "slug": "coracina-papuensis",
+ "wikipedia": {
+  "title": "White-bellied cuckooshrike",
+  "url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike",
+  "revid": 1361766108
+ },
+ "ala": {
+  "name": "Coracina (Coracina) papuensis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7,
+   2,
+   7,
+   18,
+   21,
+   10,
+   6,
+   16,
+   35,
+   13,
+   3,
+   6
+  ],
+  "total": 147,
+  "share": 3.58e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.39,
+   0.16,
+   0.6,
+   1.43,
+   2.04,
+   1.1,
+   0.63,
+   1.47,
+   2.74,
+   0.71,
+   0.24,
+   0.48
+  ]
+ },
+ "facts": [
+  {
+   "id": "coracina-papuensis-a95670",
+   "text": "The white-bellied cuckooshrike flies with a distinct undulating pattern, gaining altitude by flapping then gliding with its wings held stiffly downward.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Description",
+   "quote": "It is often spotted flying due to its distinct undulating pattern of flight where the species gains altitude by flapping its wings then holding its wings stiffly downward to glide."
+  },
+  {
+   "id": "coracina-papuensis-d4671e",
+   "text": "Its call is a peevish \"kissik kissik\" or \"quiseek\", and it also makes a weak, squealing note likened to a parrot's.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Description",
+   "quote": "The white-bellied cuckooshrike has a characteristic call that is described as a peevish kissik kissik or quiseek. It also produces a weak, squealing, slurred, repeating whee-eeyu or wee-year that has been likened to that of a parrot (Psittacidae)."
+  },
+  {
+   "id": "coracina-papuensis-b4e94b",
+   "text": "It eats larger insects such as dragonflies, cockroaches, mantids, grasshoppers, beetles and ants, plus spiders, fruit and seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Diet",
+   "quote": "They predominantly feed on larger insects like dragonflies (Odonata), cockroaches (Blattodea), mantids (Mantodea), grasshoppers (Orthoptera), bugs (Hemiptera), beetles (Coleoptera), stick-insects (Phasmatidae), lepidopteran larvae, and ants and wasps (Hymenoptera). Spiders (Araneae), fruit and seeds also feature in their diet."
+  },
+  {
+   "id": "coracina-papuensis-6f3a15",
+   "text": "It forages by gleaning insects from tree foliage, moving through trees from canopy to mid-level, alone or in small groups.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Diet",
+   "quote": "They typically employ gleaning to forage for insects among tree foliage singly, in twos or small groups. This involves moving though trees from canopy to mid-level taking insects from tree foliage."
+  },
+  {
+   "id": "coracina-papuensis-ca3b73",
+   "text": "In Australia both adults build a shallow cup nest of grass, twigs, bark and leaves, bound with spider webs and decorated with lichen.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Breeding",
+   "quote": "The nest consists of a shallow cup made from a combination of grass, fine twigs, bark, leaves and vine tendrils bound together with spider webs and decorated with lichen."
+  },
+  {
+   "id": "coracina-papuensis-1049fa",
+   "text": "In Australia it breeds between August and March, but in southern New Guinea breeding occurs from March to June.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Breeding",
+   "quote": "The white-bellied cuckooshrike breeds between August and March in Australia while in southern New Guinea (Port Moresby region) breeding occurs between March and June."
+  },
+  {
+   "id": "coracina-papuensis-e7bdb6",
+   "text": "It thrives in many habitats, from savanna and rainforest to farmlands and suburban gardens, mostly below 800 m.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Distribution_and_habitat",
+   "quote": "The white-bellied cuckooshrike thrives in many different habitats and vegetation types including, savanna, woodlands, Eucalyptus forests, riparian forest, rainforest, littoral forest, river redgum bushland, mangroves, open grasslands, coconut plantations, farmlands, and suburban gardens. It prefers lower-lying and forested habitats mainly below 800 m asl."
+  },
+  {
+   "id": "coracina-papuensis-9d80bd",
+   "text": "Despite its name, the white-bellied cuckooshrike's belly can be white to grey depending on region.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Description",
+   "quote": "Despite the name, the belly can be white to grey depending on region and subspecies."
+  },
+  {
+   "id": "coracina-papuensis-12330e",
+   "text": "An adult white-bellied cuckooshrike grows to between 22 and 29 cm and weighs 55–80 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Description",
+   "quote": "An adult white-bellied cuckooshrike grows to between 22 and 29 cm and weighs 55–80 g."
+  },
+  {
+   "id": "coracina-papuensis-cd746b",
+   "text": "Both adults build the nest on a horizontal fork from 7 to 10 m above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_cuckooshrike#Breeding",
+   "quote": "Both adults construct the nest, usually on a horizontal fork from 7 to 10 m above the ground."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1361766108
+ }
+}

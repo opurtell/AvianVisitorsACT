@@ -1,0 +1,138 @@
+{
+ "sci": "Tadorna tadornoides",
+ "com": "Australian Shelduck",
+ "slug": "tadorna-tadornoides",
+ "wikipedia": {
+  "title": "Australian shelduck",
+  "url": "https://en.wikipedia.org/wiki/Australian_shelduck",
+  "revid": 1363921702
+ },
+ "ala": {
+  "name": "Tadorna (Casarca) tadornoides",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   33,
+   30,
+   37,
+   70,
+   58,
+   4,
+   6,
+   3,
+   3,
+   36,
+   34,
+   37
+  ],
+  "total": 351,
+  "share": 8.55e-05
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   0.79,
+   1.06,
+   1.37,
+   2.4,
+   2.42,
+   0.19,
+   0.27,
+   0.12,
+   0.1,
+   0.85,
+   1.16,
+   1.28
+  ]
+ },
+ "facts": [
+  {
+   "id": "tadorna-tadornoides-3de938",
+   "text": "The Australian shelduck is also known as the chestnut-breasted shelduck or mountain duck.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck",
+   "quote": "The Australian shelduck (Tadorna tadornoides), also known as the chestnut-breasted shelduck or mountain duck, is a shelduck, a group of large goose-like ducks part of the bird family Anatidae."
+  },
+  {
+   "id": "tadorna-tadornoides-e7b33f",
+   "text": "Male Australian shelducks are mostly dark, with a chestnut breast, white neck collars and dark green heads.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Description",
+   "quote": "The males are mostly dark, with a chestnut breast. They have white neck collars and dark green heads."
+  },
+  {
+   "id": "tadorna-tadornoides-2bf903",
+   "text": "The male's call is a deep goose-like honk, while the female gives a high-pitched, penetrating \"zeek, zeek\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Description",
+   "quote": "The vocal calls of the male are a deep honk similar to a goose, while the female's call is a high pitched and penetrating \"zeek, zeek\"."
+  },
+  {
+   "id": "tadorna-tadornoides-bba142",
+   "text": "Australian shelducks can gather in flocks of up to 1000 or more birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Behaviour_and_ecology",
+   "quote": "Australian shelducks can be seen in flocks of up to 1000 or more."
+  },
+  {
+   "id": "tadorna-tadornoides-2c7f2f",
+   "text": "They are extremely wary of humans and often call when people are near, though they can get used to people in urban areas.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Behaviour_and_ecology",
+   "quote": "They are extremely wary of humans and will often call in their presence, but they can get used to people in urban areas."
+  },
+  {
+   "id": "tadorna-tadornoides-102447",
+   "text": "Nests are made in tree holes lined with down or holes in banks, and eight to fifteen eggs are incubated for thirty to thirty-three days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Breeding",
+   "quote": "Australian shelducks often make their nests in tree holes lined with down, holes in banks, or similar locations. Eight to fifteen eggs are laid, and incubated for between thirty and thirty-three days."
+  },
+  {
+   "id": "tadorna-tadornoides-ce3d77",
+   "text": "After leaving the nest, flightless young often gather in crèches of 20–40 birds, and rarely up to 100.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Breeding",
+   "quote": "After leaving the nesting hollow, the downy and flightless young often aggregate in crèches of 20–40 birds, and even up to 100 birds rarely."
+  },
+  {
+   "id": "tadorna-tadornoides-b49e03",
+   "text": "Australian shelducks eat tubers and plants like saltbush and samphire, along with insects, crustaceans and molluscs.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Food_and_feeding",
+   "quote": "They eat tubers and other plant material, such as saltbush and samphire, along with a range of insects, crustaceans and molluscs."
+  },
+  {
+   "id": "tadorna-tadornoides-195aa1",
+   "text": "The species mainly breeds in southern Australia and Tasmania, and in winter many birds move farther north.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Distribution_and_habitat",
+   "quote": "The Australian shelduck mainly breeds in southern Australia and Tasmania and is still fairly common. In the winter, many birds move farther north than the breeding range."
+  },
+  {
+   "id": "tadorna-tadornoides-1fde4b",
+   "text": "Its primary habitat is lakes in fairly open country, and favourite moulting grounds include Lake George in New South Wales.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_shelduck#Distribution_and_habitat",
+   "quote": "As with other shelducks, this species has favourite moulting grounds, such as Lake George, New South Wales, where sizeable concentrations occur. The Australian shelduck's primary habitat is lakes in fairly open country."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1363921702
+ }
+}

@@ -1,0 +1,62 @@
+# Hand corrections to the knowledge build. Each needs a reason.
+#
+# [taxa.<BirdNET name>] — where a BirdNET label's scientific name doesn't lead
+# to the bird the ACT actually has, look it up under these names instead. The
+# species file keeps the BirdNET name (it is what detections carry); only the
+# sources change. Background: RECONCILIATION.md §Taxonomy resolutions.
+#
+# [season.<BirdNET name>] — where ALA's monthly counts mislead the
+# seasonality class (usually observer bias: who goes where, and when birds
+# are loud). The computed class is kept alongside as "computed".
+
+[taxa."Tyto alba"]
+wikipedia = "Eastern barn owl"
+ala = "Tyto javanica"
+reason = "T. javanica was split from T. alba after BirdNET's taxonomy; Wikipedia's Tyto alba is the western barn owl"
+
+[taxa."Anthus novaeseelandiae"]
+wikipedia = "Australian pipit"
+reason = "Wikipedia's A. novaeseelandiae is the New Zealand pipit (ALA files the Australian Pipit under the BirdNET name)"
+
+[taxa."Chrysococcyx basalis"]
+ala = "Chalcites basalis"
+reason = "ALA (AFD) uses Chalcites for the bronze-cuckoos and has no synonym for this one"
+
+[season."Psophodes olivaceus"]
+class = "resident"
+reason = "Sedentary. The summer peak in ALA records follows bushwalkers into the ranges, not the birds"
+
+[season."Pycnoptilus floccosus"]
+class = "resident"
+reason = "Sedentary. The summer peak in ALA records follows bushwalkers into the ranges, not the birds"
+
+[season."Alauda arvensis"]
+class = "resident"
+reason = "Resident in grassland; the spring-summer peak in records is song flight making it easy to find"
+
+# [name.<BirdNET name>] — the common name printed on the page. BirdNET's
+# labels use eBird's American names ("Gray", "Maned Duck"); these are the
+# names a Canberra reader expects, taken from ALA's vernacular names
+# (2026-10-09) where they are current Australian usage. Display only: the
+# DB, slugs and the knowledge base keep BirdNET's label.
+[name]
+"Anas gracilis" = "Grey Teal"
+"Colluricincla harmonica" = "Grey Shrikethrush"
+"Cracticus torquatus" = "Grey Butcherbird"
+"Pomatostomus temporalis" = "Grey-crowned Babbler"
+"Rhipidura albiscapa" = "Grey Fantail"
+"Strepera versicolor" = "Grey Currawong"
+"Chenonetta jubata" = "Australian Wood Duck"
+"Columba livia" = "Rock Dove"
+"Threskiornis molucca" = "Australian White Ibis"
+"Sturnus vulgaris" = "Common Starling"
+"Rhipidura leucophrys" = "Willie Wagtail"
+"Microeca fascinans" = "Jacky Winter"
+"Neochmia temporalis" = "Red-browed Finch"
+"Myzomela sanguinolenta" = "Scarlet Honeyeater"
+"Anthus novaeseelandiae" = "Australian Pipit"
+"Tyto alba" = "Eastern Barn Owl"
+"Thalasseus bergii" = "Crested Tern"
+"Numenius madagascariensis" = "Eastern Curlew"
+"Haematopus longirostris" = "Australian Pied Oystercatcher"
+"Pluvialis fulva" = "Pacific Golden Plover"

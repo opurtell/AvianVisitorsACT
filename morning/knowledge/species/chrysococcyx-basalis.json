@@ -1,0 +1,138 @@
+{
+ "sci": "Chrysococcyx basalis",
+ "com": "Horsfield's Bronze-Cuckoo",
+ "slug": "chrysococcyx-basalis",
+ "wikipedia": {
+  "title": "Horsfield's bronze cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo",
+  "revid": 1315018519
+ },
+ "ala": {
+  "name": "Chalcites basalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   495,
+   201,
+   50,
+   17,
+   3,
+   0,
+   4,
+   56,
+   387,
+   972,
+   482,
+   315
+  ],
+  "total": 2995,
+  "share": 0.0007298
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.63,
+   0.98,
+   0.25,
+   0.08,
+   0.02,
+   0.0,
+   0.02,
+   0.3,
+   1.79,
+   3.16,
+   2.27,
+   1.5
+  ]
+ },
+ "facts": [
+  {
+   "id": "chrysococcyx-basalis-794646",
+   "text": "Horsfield's bronze cuckoo averages 22 grams and shows green and bronze iridescent colouring on its back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo",
+   "quote": "Its size averages 22 g (0.78 oz) and is distinguished by its green and bronze iridescent colouring on its back and incomplete brown barring from neck to tail."
+  },
+  {
+   "id": "chrysococcyx-basalis-b9ffd7",
+   "text": "You can tell it from other bronze cuckoos by its white eyebrow and brown eye stripe.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo",
+   "quote": "Horsfield's bronze cuckoo can be distinguished from other bronze cuckoos by its white eyebrow and brown eye stripe."
+  },
+  {
+   "id": "chrysococcyx-basalis-ec3a09",
+   "text": "It is common throughout Australia, preferring drier open woodlands away from forested areas.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo",
+   "quote": "The Horsfield's bronze cuckoo is common throughout Australia preferring the drier open woodlands away from forested areas."
+  },
+  {
+   "id": "chrysococcyx-basalis-654f07",
+   "text": "It eats mainly insects, snatching them from leaves and branches or catching them on the wing.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Diet_and_behaviour",
+   "quote": "Small insects are taken from leaves, branches, caught on the wing and in breeding season, Horsfield's bronze cuckoos feed each other in a courtship ritual."
+  },
+  {
+   "id": "chrysococcyx-basalis-3100f1",
+   "text": "During breeding season, courting cuckoos feed each other.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Diet_and_behaviour",
+   "quote": "in breeding season, Horsfield's bronze cuckoos feed each other in a courtship ritual."
+  },
+  {
+   "id": "chrysococcyx-basalis-23e01b",
+   "text": "It is a brood parasite that lays its eggs mainly in the nests of fairy-wrens, letting them raise its young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Diet_and_behaviour",
+   "quote": "The Horsfield's bronze cuckoo is known as a brood parasite, this means that they lay their eggs in a host species nest. They mainly parasitize the fairy-wrens in the genus Malurus."
+  },
+  {
+   "id": "chrysococcyx-basalis-5efed5",
+   "text": "Its egg mimics the fairy-wren or thornbill egg, being elongated, pinkish-white and speckled with red-brown spots.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Parasitism",
+   "quote": "they will lay one to mimic that of the fairy wren or thornbill's egg, an elongated pinkish-white egg, that is speckled with red-brown spots."
+  },
+  {
+   "id": "chrysococcyx-basalis-1298ea",
+   "text": "The female can lay an egg in under six seconds, usually in the morning shortly after the host has laid.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Parasitism",
+   "quote": "Egg laying is very fast for the Horsfield's bronze cuckoo; it is able to lay an egg in under 6 seconds typically in the morning shortly after the host has laid."
+  },
+  {
+   "id": "chrysococcyx-basalis-8c3752",
+   "text": "The chick hatches within 12 days, two days before the host's eggs, and ejects the other eggs from the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Parasitism",
+   "quote": "The cuckoo chick hatches within 12 days of incubation, 2 days before the host egg, ejecting other eggs in the nests within two days of hatching, leaving the cuckoo the sole chick."
+  },
+  {
+   "id": "chrysococcyx-basalis-c30d13",
+   "text": "In 2024, the first known specimen was recorded in New Zealand.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Horsfield%27s_bronze_cuckoo#Range",
+   "quote": "In 2024, the first known specimen was recorded in New Zealand."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315018519
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Dacelo novaeguineae",
+ "com": "Laughing Kookaburra",
+ "slug": "dacelo-novaeguineae",
+ "wikipedia": {
+  "title": "Laughing kookaburra",
+  "url": "https://en.wikipedia.org/wiki/Laughing_kookaburra",
+  "revid": 1372680644
+ },
+ "ala": {
+  "name": "Dacelo (Dacelo) novaeguineae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4320,
+   2905,
+   2733,
+   2680,
+   2175,
+   2170,
+   2701,
+   3516,
+   3531,
+   4360,
+   2676,
+   2920
+  ],
+  "total": 37936,
+  "share": 0.0092443
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "rel": [
+   0.98,
+   0.97,
+   0.96,
+   0.87,
+   0.86,
+   0.97,
+   1.16,
+   1.31,
+   1.12,
+   0.98,
+   0.87,
+   0.96
+  ]
+ },
+ "facts": [
+  {
+   "id": "dacelo-novaeguineae-2171c5",
+   "text": "The laughing kookaburra is the largest kingfisher in the world, even outweighing the giant kingfisher.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Description",
+   "quote": "The laughing kookaburra is the largest species of kingfisher, outsizing even the giant kingfisher in body mass."
+  },
+  {
+   "id": "dacelo-novaeguineae-d69a6f",
+   "text": "It is a stocky bird 41–47 cm long with a white head, a dark brown stripe across each eye and a long, robust bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Description",
+   "quote": "It is a stout, stocky bird 41–47 cm (16–19 in) in length, with a large head, prominent brown eyes, and a long and robust bill."
+  },
+  {
+   "id": "dacelo-novaeguineae-d8cc5e",
+   "text": "Its famous laugh is used to mark territory and is most often heard at dawn and dusk.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Call",
+   "quote": "the bird's \"laugh\", which it uses to establish territory among family groups. It can be heard at any time of day, but most frequently at dawn and dusk."
+  },
+  {
+   "id": "dacelo-novaeguineae-cf9854",
+   "text": "The female lays three white eggs at about two-day intervals, incubated by both parents and helper birds for 24–26 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Breeding",
+   "quote": "The female generally lays a clutch of three semi-glossy, white, rounded eggs, measuring 36 mm × 45 mm (1.4 in × 1.8 in), at about two-day intervals. Both parents and auxiliaries incubate the eggs for 24–26 days."
+  },
+  {
+   "id": "dacelo-novaeguineae-a6eaa2",
+   "text": "When food is scarce, chicks use a hook on the bill as a weapon and the smallest may be killed by its siblings.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Breeding",
+   "quote": "If the food supply to the chicks is not adequate, the chicks will quarrel, with the hook being used as a weapon. The smallest chick may even be killed by its larger siblings."
+  },
+  {
+   "id": "dacelo-novaeguineae-3f075b",
+   "text": "It is monogamous and lives in family groups, with up to five grown offspring helping parents defend territory and raise young.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra",
+   "quote": "A breeding pair can be accompanied by up to five fully grown non-breeding offspring from previous years that help the parents defend their territory and raise their young."
+  },
+  {
+   "id": "dacelo-novaeguineae-339d28",
+   "text": "It typically waits perched on a branch until it sees an animal on the ground, then flies down and pounces on its prey.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra",
+   "quote": "A predator of a wide variety of small animals, the laughing kookaburra typically waits perched on a branch until it sees an animal on the ground and then flies down and pounces on its prey."
+  },
+  {
+   "id": "dacelo-novaeguineae-e1fe27",
+   "text": "It is known to take goldfish out of garden ponds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra",
+   "quote": "Its diet includes lizards, insects, worms, snakes, mice and it is known to take goldfish out of garden ponds."
+  },
+  {
+   "id": "dacelo-novaeguineae-a9806d",
+   "text": "Kookaburras sometimes take large creatures, including venomous snakes, much longer than their bodies.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Feeding",
+   "quote": "Small prey are preferred, but kookaburras sometimes take large creatures, including venomous snakes, much longer than their bodies."
+  },
+  {
+   "id": "dacelo-novaeguineae-59ae4c",
+   "text": "The kookaburra's song is a learned behavior, though the structure for producing calls is present from an early age.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Laughing_kookaburra#Call",
+   "quote": "While the structure for producing calls is present from an early age, the kookaburra's song is a learned behavior."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372680644
+ }
+}

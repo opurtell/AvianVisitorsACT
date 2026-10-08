@@ -1,0 +1,131 @@
+{
+ "sci": "Pycnonotus jocosus",
+ "com": "Red-whiskered Bulbul",
+ "slug": "pycnonotus-jocosus",
+ "wikipedia": {
+  "title": "Red-whiskered bulbul",
+  "url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul",
+  "revid": 1378550780
+ },
+ "ala": {
+  "name": "Pycnonotus (Pycnonotus) jocosus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "total": 4,
+  "share": 1e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   2.12,
+   3.13,
+   0.0,
+   0.0,
+   3.69,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   3.06
+  ]
+ },
+ "facts": [
+  {
+   "id": "pycnonotus-jocosus-a52a7e",
+   "text": "The red-whiskered bulbul has a tall pointed black crest, a red face patch and a thin black moustachial line.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Description",
+   "quote": "It has a tall pointed black crest, red face patch and thin black moustachial line."
+  },
+  {
+   "id": "pycnonotus-jocosus-511967",
+   "text": "It is about 20 cm long, with brown upper-parts, whitish underparts and a long brown tail with white tips.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Description",
+   "quote": "The red-whiskered bulbul is about 20 cm (7.9 in) in length. It has brown upper-parts and whitish underparts with buff flanks and a dark spur running onto the breast at shoulder level."
+  },
+  {
+   "id": "pycnonotus-jocosus-e136b1",
+   "text": "Its loud call sounds like a sharp kink-a-joo, also rendered as pleased to meet you.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Description",
+   "quote": "The red-whiskered bulbul's loud and evocative call is a sharp kink-a-joo, also transcribed as pettigrew or kick-pettigrew or pleased to meet you."
+  },
+  {
+   "id": "pycnonotus-jocosus-84dd43",
+   "text": "It perches conspicuously, especially in the mornings, when it calls from the tops of trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Description",
+   "quote": "it but often perches conspicuously especially in the mornings when it calls from the tops of trees."
+  },
+  {
+   "id": "pycnonotus-jocosus-78e5cc",
+   "text": "In Florida the bulbul feeds on fruits and berries of as many as 24 exotic plants, including loquat, lantana, Brazilian pepper and figs.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Behaviour_and_ecology",
+   "quote": "In Florida they feed on fruits and berries of as many as 24 exotic plants including loquat (Eriobotrya japonica), Lantana spp., Brazilian pepper (Schinus terebinthifolius) and figs (Ficus)."
+  },
+  {
+   "id": "pycnonotus-jocosus-e7710c",
+   "text": "Adults feign injury to distract potential predators away from the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Breeding",
+   "quote": "Adults feign injury to distract potential predators away from the nest."
+  },
+  {
+   "id": "pycnonotus-jocosus-e3b0c8",
+   "text": "It roosts communally in loose groups of a hundred or more birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Breeding",
+   "quote": "It roosts communally in loose groups of a hundred or more birds."
+  },
+  {
+   "id": "pycnonotus-jocosus-df0763",
+   "text": "Seeds that pass through the bulbul's gut germinate better, helping spread alien plants on Réunion and Mauritius.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Behaviour_and_ecology",
+   "quote": "In Mauritius they aid the dispersal of Ligustrum robustum and Clidemia hirta. Seeds that pass through their gut germinate better."
+  },
+  {
+   "id": "pycnonotus-jocosus-331a50",
+   "text": "Introduced to Sydney by the Zoological and Acclimatization Society in 1880, it is now found in suburban Melbourne and Adelaide too.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Red-whiskered_bulbul#Distribution_and_habitat",
+   "quote": "The red-whiskered bulbul was introduced by the Zoological and Acclimatization Society in 1880 to Sydney, became well established across the suburbs by 1920, and continued to spread slowly to around 100 km away. It is now also found in suburban Melbourne and Adelaide, although it is unclear how they got there."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378550780
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Geopelia humeralis",
+ "com": "Bar-shouldered Dove",
+ "slug": "geopelia-humeralis",
+ "wikipedia": {
+  "title": "Bar-shouldered dove",
+  "url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove",
+  "revid": 1369099176
+ },
+ "ala": {
+  "name": "Geopelia humeralis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4,
+   3,
+   2,
+   1,
+   0,
+   0,
+   0,
+   4,
+   3,
+   0,
+   6,
+   15
+  ],
+  "total": 38,
+  "share": 9.3e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.89,
+   0.99,
+   0.69,
+   0.32,
+   0.0,
+   0.0,
+   0.0,
+   1.46,
+   0.94,
+   0.0,
+   1.91,
+   4.82
+  ]
+ },
+ "facts": [
+  {
+   "id": "geopelia-humeralis-5b83bd",
+   "text": "The bar-shouldered dove is a long-tailed dove native to Australia and southern New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove",
+   "quote": "The bar-shouldered dove (Geopelia humeralis) is a species of long tailed dove native to Australia and Southern New Guinea."
+  },
+  {
+   "id": "geopelia-humeralis-01ff10",
+   "text": "It sings a distinctive and melodious \"cook-a-wook\" or \"coolicoo\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove",
+   "quote": "Its voice is a distinctive and melodious \"cook-a-wook\" or \"coolicoo\"."
+  },
+  {
+   "id": "geopelia-humeralis-442d4a",
+   "text": "The dove has a blue-grey breast with chequered brown-bronze wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Description",
+   "quote": "The dove has a blue-grey breast with chequered brown-bronze wings."
+  },
+  {
+   "id": "geopelia-humeralis-4c1e9e",
+   "text": "The feathers on its nape are striated and copper in colour.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Description",
+   "quote": "Furthermore, the nape feathers are copper in colour."
+  },
+  {
+   "id": "geopelia-humeralis-c198e3",
+   "text": "Its eye ring is usually grey but turns red-brown when breeding.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Description",
+   "quote": "The eye ring tends to be grey but red-brown when breeding."
+  },
+  {
+   "id": "geopelia-humeralis-3e7223",
+   "text": "It feeds on seeds on the ground, often in pairs, groups or large loose flocks.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Description",
+   "quote": "Doves are often found in pairs, groups or large loose flocks and are seen commonly feeding on the ground feeding on seeds."
+  },
+  {
+   "id": "geopelia-humeralis-499d05",
+   "text": "Its flight is direct and swift, and its wings whistle while the birds are in flight.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Description",
+   "quote": "Flight is direct and swift and wings whistle while the birds are in flight."
+  },
+  {
+   "id": "geopelia-humeralis-45710d",
+   "text": "In the south it breeds from September to January, and in the north from February to April.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Breeding",
+   "quote": "Breeding season is from September to January in the south and February to April in the north."
+  },
+  {
+   "id": "geopelia-humeralis-6a8cb7",
+   "text": "It lays two white, glossy and rounded eggs in a flat twig and grass platform nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Breeding",
+   "quote": "Its nest is a flat twig and grass platform usually in trees and shrubs, mangrove or scrub.  The dove will lay two, white, glossy and rounded eggs."
+  },
+  {
+   "id": "geopelia-humeralis-94fe2e",
+   "text": "It prefers thick vegetation near water, such as damp gullies, mangroves, swamps and river margins.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-shouldered_dove#Habitat",
+   "quote": "Bar-shouldered doves are usually found in thick vegetation where water is present, damp gullies, forests and gorges, mangroves, plantations, swamps, eucalyptus woodlands, tropical and sub-tropical scrubs and river margins."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1369099176
+ }
+}

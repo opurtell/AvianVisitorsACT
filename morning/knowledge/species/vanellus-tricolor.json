@@ -1,0 +1,138 @@
+{
+ "sci": "Vanellus tricolor",
+ "com": "Banded Lapwing",
+ "slug": "vanellus-tricolor",
+ "wikipedia": {
+  "title": "Banded lapwing",
+  "url": "https://en.wikipedia.org/wiki/Banded_lapwing",
+  "revid": 1358919876
+ },
+ "ala": {
+  "name": "Vanellus (Lobivanellus) tricolor",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2,
+   14,
+   13,
+   28,
+   14,
+   8
+  ],
+  "total": 90,
+  "share": 2.19e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.72,
+   0.45,
+   0.16,
+   0.0,
+   0.0,
+   0.0,
+   0.39,
+   2.36,
+   1.87,
+   2.83,
+   2.05,
+   1.18
+  ]
+ },
+ "facts": [
+  {
+   "id": "vanellus-tricolor-58e0be",
+   "text": "Its black cap, white throat and underparts, white eye stripes, and black breast band give it a striking look, with bright yellow irises.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Description",
+   "quote": "Banded lapwings are characterised by a black cap, a white throat and underparts, white eye stripes and a black breast band extending up each side of its neck to its face. The irises are bright yellow."
+  },
+  {
+   "id": "vanellus-tricolor-f945da",
+   "text": "It flies with quick, clipped wing beats, which is how the 'lapwing' got its name.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Description",
+   "quote": "They fly quick, clipped wing beats, giving them the name 'lapwing'."
+  },
+  {
+   "id": "vanellus-tricolor-a1a6e3",
+   "text": "The red wattle at the base of the bill and the wing spurs are more prominent in males than in females.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Description",
+   "quote": "The red wattle and wing spurs are more prominent in males than females."
+  },
+  {
+   "id": "vanellus-tricolor-ccbcb5",
+   "text": "These birds forage both day and night on very short grass, eating seeds and insects from ants and termites to grasshoppers and caterpillars.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Feeding",
+   "quote": "routinely forage during the day and at night. They prefer areas with very short grass to feed on seeds, insects including worms, ants, termites, beetles, cockroaches, grasshoppers, crickets and caterpillars."
+  },
+  {
+   "id": "vanellus-tricolor-9dc3c1",
+   "text": "Banded lapwings are monogamous and usually breed once a year, nesting from June to November, or any month after rain in dry inland areas.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Breeding",
+   "quote": "banded lapwings are monogamous and breeds usually once a year throughout its normal distribution range. The breeding season is from June to November however, they may nest any month in dry inland areas following rain."
+  },
+  {
+   "id": "vanellus-tricolor-e3afcf",
+   "text": "The nest is a simple scrape on the ground lined with vegetation, stones, twigs, or even animal droppings, chosen for a wide view of surroundings.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Breeding",
+   "quote": "Nests are a scrape or depression on the ground usually lined up with vegetation and sometimes small stones, twigs or animal droppings."
+  },
+  {
+   "id": "vanellus-tricolor-c3164c",
+   "text": "When alarmed it gives a loud strident 'kew-kew-kew' call or a descending 'er-chill-char, er-chill char' sound.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Breeding",
+   "quote": "They have a loud strident 'kew-kew-kew' call when alarmed or a descending 'er-chill-char, er-chill char' sound."
+  },
+  {
+   "id": "vanellus-tricolor-2791d9",
+   "text": "The banded lapwing is a shorebird native to Australia, seen in small parties or large flocks on bare ground in open grasslands and farmland.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing",
+   "quote": "The banded lapwing (Vanellus tricolor) is a small to medium-sized shorebird, found in small parties or large flocks on bare ground in open grasslands, agricultural land and open savannah. It is native to Australia"
+  },
+  {
+   "id": "vanellus-tricolor-896599",
+   "text": "It has an upright stance and walks slowly, but breaks into a faster trot when alarmed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Description",
+   "quote": "They have an upright stance and a slow walk, breaking into a faster trot when alarmed."
+  },
+  {
+   "id": "vanellus-tricolor-facabe",
+   "text": "Chicks freeze and stay perfectly still when danger threatens, while parents lure intruders away with distraction displays or loud swooping attacks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Banded_lapwing#Breeding",
+   "quote": "Chicks will freeze up and remain quite still at sign of danger. Parents will distract intruders often by distraction displays and aggression. They lure the intruder away or protesting loudly, making loud swoops at the observer."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358919876
+ }
+}

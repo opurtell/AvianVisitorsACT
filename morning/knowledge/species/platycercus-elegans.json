@@ -1,0 +1,138 @@
+{
+ "sci": "Platycercus elegans",
+ "com": "Crimson Rosella",
+ "slug": "platycercus-elegans",
+ "wikipedia": {
+  "title": "Crimson rosella",
+  "url": "https://en.wikipedia.org/wiki/Crimson_rosella",
+  "revid": 1368390353
+ },
+ "ala": {
+  "name": "Platycercus (Platycercus) elegans",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12209,
+   9214,
+   9759,
+   10860,
+   9185,
+   8691,
+   9254,
+   10345,
+   10848,
+   14576,
+   9045,
+   8822
+  ],
+  "total": 130600,
+  "share": 0.0318247
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.82,
+   0.91,
+   1.01,
+   1.04,
+   1.07,
+   1.15,
+   1.17,
+   1.14,
+   1.02,
+   0.96,
+   0.86,
+   0.85
+  ]
+ },
+ "facts": [
+  {
+   "id": "platycercus-elegans-83c88d",
+   "text": "The crimson rosella is a medium-sized parrot about 36 cm long, much of which is tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Description",
+   "quote": "Platycercus elegans is a medium-sized Australian parrot at 36 cm (14 in) long, much of which is tail."
+  },
+  {
+   "id": "platycercus-elegans-61925b",
+   "text": "Young crimson rosellas are greenish-olive and are said to 'ripen', turning from green to red as they age.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Description",
+   "quote": "Juveniles are said to 'ripen' as they get older and turn from green to red."
+  },
+  {
+   "id": "platycercus-elegans-8601ed",
+   "text": "All races have blue cheeks and blue-margined wings, and its blue tail feathers are a favourite decoration of the satin bowerbird.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Description",
+   "quote": "All races have blue cheeks and black-scalloped blue-margined wings and predominantly blue tail with predominantly red coloration. The crimson rosella's blue tail feathers are one of the favourite decorations of the satin bowerbird."
+  },
+  {
+   "id": "platycercus-elegans-509f59",
+   "text": "Males are up to 15% larger than females and have a relatively larger and wider beak.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Description",
+   "quote": "The most noticeable difference between sexes is that males are up to 15% larger, and have a relatively larger and wider beak."
+  },
+  {
+   "id": "platycercus-elegans-c15e7a",
+   "text": "Crimson rosellas can identify birds of their own subspecies based on the smell of other birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Behaviour",
+   "quote": "According to a new study crimson rosellas can identify birds of their own subspecies based on the smell of other birds."
+  },
+  {
+   "id": "platycercus-elegans-7db508",
+   "text": "They forage in trees, bushes, and on the ground for fruit, seeds, nectar, berries, and nuts, but destroy seeds rather than spreading them.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Feeding",
+   "quote": "Crimson rosellas forage in trees, bushes, and on the ground for the fruit, seeds, nectar, berries, and nuts of a wide variety of plants, including members of the Myrtaceae, Asteraceae, and Rosaceae families. Despite feeding on fruits and seeds, rosellas are not useful to the plants as seed-spreaders, because they crush and destroy the seeds in the process of eating them."
+  },
+  {
+   "id": "platycercus-elegans-ea8b52",
+   "text": "They also eat many insects and their larvae, including termites, aphids, beetles, and caterpillars.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Feeding",
+   "quote": "Rosellas will also eat many insects and their larvae, including termites, aphids, beetles, weevils, caterpillars, moths, and water boatmen."
+  },
+  {
+   "id": "platycercus-elegans-9fc130",
+   "text": "Nests are hollows more than 1 metre deep in tree trunks, limbs, and stumps, sometimes up to 30 metres above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Breeding",
+   "quote": "Nesting sites are hollows greater than 1 metre (3.3 feet) deep in tree trunks, limbs, and stumps. These may be up to 30 metres (98 feet) above the ground."
+  },
+  {
+   "id": "platycercus-elegans-c62bd5",
+   "text": "Females commonly fly to other nests and destroy eggs during the breeding season, the most common cause of eggs failing to hatch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Threats",
+   "quote": "During the breeding season, it is common for females to fly to other nests and destroy the eggs and in fact, this is the most common cause for an egg failing to hatch."
+  },
+  {
+   "id": "platycercus-elegans-9e5908",
+   "text": "Pairs guard a buffer zone of several trees radius around their nest, keeping other pairs from nesting nearby.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Crimson_rosella#Breeding",
+   "quote": "They will also guard a buffer zone of several trees radius around their nest, preventing other pairs from nesting in that area."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1368390353
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Petrochelidon ariel",
+ "com": "Fairy Martin",
+ "slug": "petrochelidon-ariel",
+ "wikipedia": {
+  "title": "Fairy martin",
+  "url": "https://en.wikipedia.org/wiki/Fairy_martin",
+  "revid": 1314283543
+ },
+ "ala": {
+  "name": "Petrochelidon (Petrochelidon) ariel",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   915,
+   357,
+   140,
+   47,
+   9,
+   4,
+   13,
+   365,
+   809,
+   813,
+   592,
+   552
+  ],
+  "total": 4619,
+  "share": 0.0011256
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.84,
+   1.06,
+   0.44,
+   0.14,
+   0.03,
+   0.02,
+   0.05,
+   1.21,
+   2.29,
+   1.62,
+   1.7,
+   1.61
+  ]
+ },
+ "facts": [
+  {
+   "id": "petrochelidon-ariel-ad2532",
+   "text": "The fairy martin is a dumpy, square-tailed swallow that averages 12 centimetres long and weighs just 11 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Description",
+   "quote": "The fairy martin is dumpy and square tailed. It averages 12 centimetres (4.7 in) long and weighs 11 grams (0.39 oz)."
+  },
+  {
+   "id": "petrochelidon-ariel-417181",
+   "text": "Adults have an iridescent blue back, brown wings and tail, a rufous crown and nape, and a whitish rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Description",
+   "quote": "The adult has an iridescent blue back, brown wings and tail, a rufous crown and nape, and a whitish rump."
+  },
+  {
+   "id": "petrochelidon-ariel-636a40",
+   "text": "You can pick a fairy martin out from other Australian swallows by its pale rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Description",
+   "quote": "This species can be distinguished from other Australian swallows by its pale rump."
+  },
+  {
+   "id": "petrochelidon-ariel-007e37",
+   "text": "The fairy martin's call is a chrrrr and its song is a high-pitched twitter, higher than the tree martin's.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Description",
+   "quote": "The call of this vocal swallow is a chrrrr and the song is a high-pitched twitter. The vocalizations are higher pitched than those of the tree martin."
+  },
+  {
+   "id": "petrochelidon-ariel-952f1c",
+   "text": "Fairy martins breed from August to January, and the largest known colony contained 700 nests.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Behaviour",
+   "quote": "Fairy martins breed from August through to January in colonies usually of a few tens of nests, but the largest known site had 700 nests."
+  },
+  {
+   "id": "petrochelidon-ariel-ebd1b4",
+   "text": "The nest is a bottle-shaped structure of up to a thousand mud pellets, lined with dried grasses and feathers.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Behaviour",
+   "quote": "The nest is a retort- or bottle-shaped structure, made from up to a thousand mud pellets and lined with dried grasses and feathers."
+  },
+  {
+   "id": "petrochelidon-ariel-8f8381",
+   "text": "Both sexes build the nest and share incubation and care of the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Behaviour",
+   "quote": "Both sexes build the nest and share incubation and care of the young."
+  },
+  {
+   "id": "petrochelidon-ariel-86038d",
+   "text": "A clutch is usually four reddish-brown speckled white eggs, and pairs often raise two or three broods a season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Behaviour",
+   "quote": "The clutch is usually four, sometimes five, reddish-brown speckled white eggs, and this species is often double or triple brooded."
+  },
+  {
+   "id": "petrochelidon-ariel-7ea2c9",
+   "text": "Fairy martins feed high in the air on flying insects, but will also snatch injured moths from a newly cut lawn.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Behaviour",
+   "quote": "The fairy martin feeds high in the air on flying insects, usually in large flocks. Fairy martins have a slow fluttering flight and feed higher than welcome swallows. They will also feed on insect swarms low over water, and have been recorded feeding on injured moths on a newly cut lawn."
+  },
+  {
+   "id": "petrochelidon-ariel-2552b0",
+   "text": "After breeding, abandoned mud nests may become roosts for several species of microbats.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Fairy_martin#Ecology",
+   "quote": "When the mud nest is vacated after breeding, it may become occupied by several species of microbats."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1314283543
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Strepera versicolor",
+ "com": "Gray Currawong",
+ "slug": "strepera-versicolor",
+ "wikipedia": {
+  "title": "Grey currawong",
+  "url": "https://en.wikipedia.org/wiki/Grey_currawong",
+  "revid": 1315067127
+ },
+ "ala": {
+  "name": "Strepera (Neostrepera) versicolor",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   480,
+   432,
+   621,
+   577,
+   440,
+   428,
+   483,
+   553,
+   625,
+   850,
+   365,
+   300
+  ],
+  "total": 6515,
+  "share": 0.0015876
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.64,
+   0.85,
+   1.28,
+   1.1,
+   1.02,
+   1.13,
+   1.21,
+   1.21,
+   1.17,
+   1.12,
+   0.69,
+   0.58
+  ]
+ },
+ "facts": [
+  {
+   "id": "strepera-versicolor-a8cbee",
+   "text": "The grey currawong is a large crow-like bird, around 48 cm long on average, with yellow eyes, a heavy bill and dark plumage with white undertail and wing patches.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong",
+   "quote": "It is a large crow-like bird, around 48 cm (19 in) long on average; with yellow irises, a heavy bill, dark plumage with white undertail and wing patches."
+  },
+  {
+   "id": "strepera-versicolor-431051",
+   "text": "All grey currawongs have a loud distinctive ringing or clinking call, often transcribed as p'rink, clink, cling, ker-link or tullock.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong",
+   "quote": "All grey currawongs have a loud distinctive ringing or clinking call."
+  },
+  {
+   "id": "strepera-versicolor-1ba04f",
+   "text": "Its softer musical call has been called the toy-trumpet call, and it has been reported to foretell rainy weather.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Voice",
+   "quote": "A softer and more tuneful musical call has been called the toy-trumpet call. It has been reported to foretell rainy weather."
+  },
+  {
+   "id": "strepera-versicolor-986699",
+   "text": "The grey currawong is less arboreal than the pied currawong, spending more time foraging on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong",
+   "quote": "It is less arboreal than the pied currawong, spending more time foraging on the ground."
+  },
+  {
+   "id": "strepera-versicolor-f3dfb8",
+   "text": "Up to forty birds may gather to harvest a fruit tree if one is found.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Behaviour",
+   "quote": "Up to forty birds may gather to harvest a fruit tree if one is found."
+  },
+  {
+   "id": "strepera-versicolor-b02d2f",
+   "text": "It has been recorded harassing larger birds such as the wedge-tailed eagle, square-tailed kite and Australian hobby.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Behaviour",
+   "quote": "The grey currawong has been recorded harassing larger birds such as the wedge-tailed eagle, square-tailed kite and Australian hobby."
+  },
+  {
+   "id": "strepera-versicolor-c09b27",
+   "text": "It eats fruit or berries of many native and introduced plants, and even crops such as maize, apples, pears, grapes and tomato.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Feeding",
+   "quote": "The grey currawong also eats berries of introduced plants such as Pyracantha angustifolia and P. fortuneana, and Cotoneaster species, and crops such as maize, apples, pears, quince, various stone fruit of the genus Prunus, grapes, tomato, passion flowers"
+  },
+  {
+   "id": "strepera-versicolor-f391f3",
+   "text": "It hunts by the zirkeln method, inserting its bill in a crack or under a rock and using it to lever open a wider space to find prey.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Feeding",
+   "quote": "employing the zirkeln method, where it inserts its bill in a crack or under a rock and uses it to lever open a wider space to hunt prey"
+  },
+  {
+   "id": "strepera-versicolor-6878e4",
+   "text": "The breeding season lasts from August to December, and the grey currawong builds a large shallow nest of thin sticks lined with grass and bark high in trees.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong#Breeding",
+   "quote": "The breeding season lasts from August to December. The grey currawong builds a large shallow nest of thin sticks lined with grass and bark high in trees; generally eucalypts are chosen."
+  },
+  {
+   "id": "strepera-versicolor-54829a",
+   "text": "Unlike its more common relative, it has adapted poorly to human impact and has declined in much of its range, although it is not considered endangered.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_currawong",
+   "quote": "Unlike its more common relative, it has adapted poorly to human impact and has declined in much of its range, although not considered endangered."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315067127
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Gerygone fusca",
+ "com": "Western Gerygone",
+ "slug": "gerygone-fusca",
+ "wikipedia": {
+  "title": "Western gerygone",
+  "url": "https://en.wikipedia.org/wiki/Western_gerygone",
+  "revid": 1369427185
+ },
+ "ala": {
+  "name": "Gerygone fusca",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   624,
+   253,
+   350,
+   144,
+   69,
+   39,
+   37,
+   125,
+   569,
+   1026,
+   536,
+   382
+  ],
+  "total": 4158,
+  "share": 0.0010132
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.4,
+   0.84,
+   1.21,
+   0.46,
+   0.27,
+   0.17,
+   0.16,
+   0.46,
+   1.79,
+   2.27,
+   1.72,
+   1.24
+  ]
+ },
+ "facts": [
+  {
+   "id": "gerygone-fusca-f8c769",
+   "text": "The western gerygone is a small, brownish-grey songbird found across inland and south-western Australia.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone",
+   "quote": "The western gerygone (Gerygone fusca) is a small, brownish-grey species of passerine bird, which is found in inland and south-west Australia."
+  },
+  {
+   "id": "gerygone-fusca-0aa7bd",
+   "text": "Its outer tail-feathers carry large white patches, a broad blackish band and white tips, which set it apart from other gerygones.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Description",
+   "quote": "The outer tail-feathers are conspicuously marked, with large, white patches at the base, a broad, blackish, subterminal tail band and white tips."
+  },
+  {
+   "id": "gerygone-fusca-8e81fe",
+   "text": "Its song is an irregular series of clear, high-pitched whistles that, while not loud, can be recognized from long distances.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Song",
+   "quote": "The western gerygone's song is an irregular series of clear, high-pitched whistles, with a meandering melody."
+  },
+  {
+   "id": "gerygone-fusca-fd6934",
+   "text": "A new song with a strictly repeated melody emerged among western gerygones that colonized Rottnest Island in the 1950s.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Song_from_the_colony_on_Rottnest_Island",
+   "quote": "A distinct, new song has emerged in the western gerygone population which colonized Rottnest Island in the 1950s.  Unlike the mainland song, its notes are delivered in a strictly repeated melody."
+  },
+  {
+   "id": "gerygone-fusca-8e1667",
+   "text": "It eats insects, hunting by probing bark, gleaning foliage, hovering, and making aerial strikes from perches.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Foraging",
+   "quote": "The western gerygone is insectivorous.  Its foraging techniques include probing into bark, gleaning from foliage, hovering outside foliage and aerial strikes from perches."
+  },
+  {
+   "id": "gerygone-fusca-4eca27",
+   "text": "It may join other small birds in mixed-species feeding flocks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Foraging",
+   "quote": "It may join other small birds in mixed-species feeding flocks."
+  },
+  {
+   "id": "gerygone-fusca-9de879",
+   "text": "Breeding takes place mainly from September to January, and courtship involves intricate chases between pairs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Reproduction",
+   "quote": "Breeding usually occurs between September and January, but has been recorded from August to March. Courtship involves intricate chases between pairs."
+  },
+  {
+   "id": "gerygone-fusca-990564",
+   "text": "The nest is a long, oval, hanging structure with a hooded entrance near the top, and both sexes help build it.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Reproduction",
+   "quote": "The nest is a long, oval-shaped, pendent structure, with a hooded entrance near the top and a 'tail' at the bottom. Both sexes build the nest."
+  },
+  {
+   "id": "gerygone-fusca-471878",
+   "text": "It lives in open eucalypt forests, mallee and mulga shrublands, and is often found along watercourses.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Western_gerygone#Habitat",
+   "quote": "These vary from open sclerophyll forests, dominated by a broad array of eucalyptus species, to sparse mallee and mulga shrublands.  It is often found along watercourses."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1369427185
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Corcorax melanorhamphos",
+ "com": "White-winged Chough",
+ "slug": "corcorax-melanorhamphos",
+ "wikipedia": {
+  "title": "White-winged chough",
+  "url": "https://en.wikipedia.org/wiki/White-winged_chough",
+  "revid": 1357124214
+ },
+ "ala": {
+  "name": "Corcorax melanorhamphos",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2650,
+   1855,
+   1869,
+   1887,
+   1688,
+   1592,
+   1849,
+   2358,
+   2703,
+   3666,
+   2149,
+   1860
+  ],
+  "total": 26828,
+  "share": 0.0065375
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.85,
+   0.87,
+   0.92,
+   0.86,
+   0.94,
+   1.0,
+   1.11,
+   1.24,
+   1.21,
+   1.15,
+   0.98,
+   0.86
+  ]
+ },
+ "facts": [
+  {
+   "id": "corcorax-melanorhamphos-06735a",
+   "text": "The white-winged chough is a large black bird, only a little smaller than a raven, with striking red eyes and a fine, slightly down-curved beak.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Description",
+   "quote": "The white-winged chough is a large, black bird—at about 45 cm (18 in) only a little smaller than a raven or a little larger than an Australian magpie—but has red eyes and a finer, slightly down-curved beak"
+  },
+  {
+   "id": "corcorax-melanorhamphos-923734",
+   "text": "When a chough gets excited, its red eyes become swollen and brighter in colour.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Description",
+   "quote": "These red eyes become swollen and brighter in colour when the bird is excited."
+  },
+  {
+   "id": "corcorax-melanorhamphos-f81694",
+   "text": "In flight, large white patches in the wings are immediately obvious and explain the bird's common name.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Description",
+   "quote": "In flight the large white patches in the wings are immediately obvious, and explain the descriptive part of their common name."
+  },
+  {
+   "id": "corcorax-melanorhamphos-ebec5a",
+   "text": "The chough's descending piping call is diagnostic in the wild, differing clearly from other birds sharing its habitat.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Description",
+   "quote": "The latter call is diagnostic for the bird in the wild, being significantly different in timbre and melody to that of other birds sharing their habitat."
+  },
+  {
+   "id": "corcorax-melanorhamphos-ddb767",
+   "text": "White-winged choughs are weak fliers that spend most of their time walking through leaf litter with a distinctive swagger, calling softly every few seconds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Behaviour",
+   "quote": "white-winged choughs are not particularly strong or agile fliers and spend the great majority of their time on the ground, foraging methodically through leaf litter for worms, insects, grain, and snails in a loose group, walking with a distinctive swagger, and calling softly to one another every few seconds."
+  },
+  {
+   "id": "corcorax-melanorhamphos-384ead",
+   "text": "Chough flocks may kidnap fledglings from other family groups so the stolen youngsters can help raise chicks the next year.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Behaviour",
+   "quote": "bands of chough may kidnap fledglings from other family groups so that they will be able to help them to raise their chicks next year."
+  },
+  {
+   "id": "corcorax-melanorhamphos-df55a6",
+   "text": "The nest is a deep cup of grasses held together with mud or sometimes manure, built in a tree fork up to 10 metres above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Breeding",
+   "quote": "The nest is a deep cup-shaped structure made of grasses held together with mud or sometimes manure in a tree fork up to 10 metres above the ground."
+  },
+  {
+   "id": "corcorax-melanorhamphos-fca65a",
+   "text": "Juvenile choughs sometimes pretend to feed nestlings, then sneakily eat the food themselves when unobserved—until extra food is provided.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Breeding",
+   "quote": "they bring food back to the nest and make to feed nestlings, but instead wait until unobserved, and then eat it themselves. This behaviour disappeared when food sources were artificially supplemented."
+  },
+  {
+   "id": "corcorax-melanorhamphos-c533ae",
+   "text": "Young choughs take six to seven months to become independent, then return the next year to help raise the next generation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_chough#Breeding",
+   "quote": "Young take six to seven months to reach independence – a significant time-span for birds – but they repay the long investment by returning to the nest the next year and helping raise the next generation."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1357124214
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Acrocephalus australis",
+ "com": "Australian Reed Warbler",
+ "slug": "acrocephalus-australis",
+ "wikipedia": {
+  "title": "Australian reed warbler",
+  "url": "https://en.wikipedia.org/wiki/Australian_reed_warbler",
+  "revid": 1375952218
+ },
+ "ala": {
+  "name": "Acrocephalus (Acrocephalus) australis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   5639,
+   2891,
+   1402,
+   375,
+   109,
+   22,
+   22,
+   276,
+   2996,
+   5038,
+   3948,
+   3916
+  ],
+  "total": 26786,
+  "share": 0.0065272
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   2.0,
+   1.52,
+   0.77,
+   0.19,
+   0.07,
+   0.02,
+   0.01,
+   0.16,
+   1.49,
+   1.76,
+   2.0,
+   2.01
+  ]
+ },
+ "facts": [
+  {
+   "id": "acrocephalus-australis-b75047",
+   "text": "The Australian reed warbler is the only Acrocephalus species native to Australia, though it has also been seen in Papua New Guinea and nearby islands.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler",
+   "quote": "is the only Acrocephalus species native to Australia.  It has also been observed in Papua New Guinea and nearby islands."
+  },
+  {
+   "id": "acrocephalus-australis-c6604d",
+   "text": "Its scientific name Acrocephalus means \"topmost head\" in Greek, referring to the peaked crown of reed warblers.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler",
+   "quote": "The name Acrocephalus refers to the peaked crown found on reed warblers in this genus and can be translated to mean \"topmost head\" in Greek."
+  },
+  {
+   "id": "acrocephalus-australis-7963ba",
+   "text": "In the local Aboriginal language around Perth it is known as \"Koordjikotji\".",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler",
+   "quote": "In its western range the Australian reed warbler is also known as \"Koordjikotji\" (pronounced core'chee'caw'chee) in the local Aboriginal language of Perth and its surrounds."
+  },
+  {
+   "id": "acrocephalus-australis-749b94",
+   "text": "Its song is a loud, sweet melodious warble made up of short repeated sequences given at intervals of 3-5 seconds.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Song",
+   "quote": "The song of this species consists of sets of short sequences consisting of a pattern of sounds that is repeated, after a 3-5 second interval, in varied combinations."
+  },
+  {
+   "id": "acrocephalus-australis-20d435",
+   "text": "Song helps males advertise their fitness to females and rivals and plays a role in defending breeding territories.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Song",
+   "quote": "Song is believed to be a sexually selected trait in Australian reed warblers, used as a signal to advertise a male's fitness to females and other males, as well as having a role in establishing and defending breeding territories."
+  },
+  {
+   "id": "acrocephalus-australis-ebcf60",
+   "text": "It forages mainly alone in dense vegetation, eating insects and spiders, and occasionally molluscs and seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Feeding",
+   "quote": "This species forages mainly individually but sometimes in pairs, in dense vegetation on insects and spiders and occasionally molluscs and seeds."
+  },
+  {
+   "id": "acrocephalus-australis-d0c8f9",
+   "text": "Birds often raise their elongated crown feathers into a crest while singing, with throat feathers puffed out.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Courtship_and_breeding_behaviour",
+   "quote": "Males use song extensively throughout the breeding season and can be observed singing from a perched position on breeding ground reeds with their fore crown feathers raised and throat feathers puffed out whilst singing."
+  },
+  {
+   "id": "acrocephalus-australis-0da878",
+   "text": "During courtship males build nest-like structures too weak and misshapen to hold eggs or chicks, a display believed to help win a mate.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Courtship_and_breeding_behaviour",
+   "quote": "males build a different type of nest structure during courtship. These nest-like structures lack the strength and shape to be suitable for eggs and chicks, and are constructed prior to breeding commencement."
+  },
+  {
+   "id": "acrocephalus-australis-464b9f",
+   "text": "Unlike all other Acrocephalus species, which are sedentary, the Australian reed warbler migrates seasonally.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Breeding",
+   "quote": "Unlike all other Acrocephalus species which are sedentary, the Australian reed warbler migrates seasonally."
+  },
+  {
+   "id": "acrocephalus-australis-3d9913",
+   "text": "The female alone incubates the 2–4 eggs for 13–15 days in a deep cup nest built among reed stems.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_reed_warbler#Breeding",
+   "quote": "The nest is a deep cup (6.4 – 9 cm diameter and 7 – 18.5 cm height) made from dead and fresh vegetation usually supported by fresh and dead reed stems found between 30–200 cm off the ground or water surface. Incubation is carried out by the female for 13 – 15 days and clutch size is between 2 and 4 eggs."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375952218
+ }
+}

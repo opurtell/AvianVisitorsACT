@@ -1,0 +1,138 @@
+{
+ "sci": "Artamus cyanopterus",
+ "com": "Dusky Woodswallow",
+ "slug": "artamus-cyanopterus",
+ "wikipedia": {
+  "title": "Dusky woodswallow",
+  "url": "https://en.wikipedia.org/wiki/Dusky_woodswallow",
+  "revid": 1350432593
+ },
+ "ala": {
+  "name": "Artamus (Angroyan) cyanopterus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2531,
+   1414,
+   1101,
+   1475,
+   443,
+   333,
+   105,
+   254,
+   1478,
+   2536,
+   1597,
+   1380
+  ],
+  "total": 14763,
+  "share": 0.0035975
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.57,
+   1.3,
+   1.05,
+   1.31,
+   0.48,
+   0.41,
+   0.12,
+   0.26,
+   1.29,
+   1.55,
+   1.42,
+   1.24
+  ]
+ },
+ "facts": [
+  {
+   "id": "artamus-cyanopterus-032676",
+   "text": "Despite the name, the dusky woodswallow is not a true swallow; it belongs to the same family as butcherbirds, currawongs and the Australian magpie.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow",
+   "quote": "The name \"woodswallow\" is a misnomer as they are not closely related to true swallows. Instead, they belong to the family Artamidae, which also includes butcherbirds, currawongs and the Australian magpie."
+  },
+  {
+   "id": "artamus-cyanopterus-ed87ab",
+   "text": "The dusky woodswallow has a black, white-tipped tail with a silver underwing and a blue-grey bill capped with black.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Description",
+   "quote": "The dusky woodswallow has a black, white-tipped tail with a silver underwing. The birds have a blue-grey bill capped with black."
+  },
+  {
+   "id": "artamus-cyanopterus-8cf662",
+   "text": "A distinctive white patch on the outer wing sets the dusky woodswallow apart from other woodswallows.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Relations_to_other_woodswallows",
+   "quote": "In a significant difference from other woodswallows, dusky woodswallows have a distinctive white patch on the outer wing."
+  },
+  {
+   "id": "artamus-cyanopterus-5c6c06",
+   "text": "They have been observed working as a group to rob a restless flycatcher of its prey, a behaviour called kleptoparasitism.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Feeding_and_diet",
+   "quote": "They have also been observed engaging in kleptoparasitism, working as a group to rob a restless flycatcher of its prey."
+  },
+  {
+   "id": "artamus-cyanopterus-388236",
+   "text": "The nest is a bowl of twigs and roots lined with grass, tucked behind bark or high in a tree branch, and built between August and January.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Breeding",
+   "quote": "The nest of the dusky woodswallow consists of twigs, roots and other similar foliage matted together to form a bowl shape, which is lined with grass. It is positioned safely, behind bark, and/or high in a tree branch"
+  },
+  {
+   "id": "artamus-cyanopterus-359735",
+   "text": "During the breeding season, dusky woodswallows nest in flocks of 20-30 birds to keep predators away from their young.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Distribution_and_habitat",
+   "quote": "During the breeding season, they nest in large flocks to make sure to keep predators away from young. These flocks can be 20–30 dusky woodswallows in size."
+  },
+  {
+   "id": "artamus-cyanopterus-d4f6d3",
+   "text": "When a predator approaches, dusky woodswallows give a harsh mobbing call to warn the rest of the flock.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Distribution_and_habitat",
+   "quote": "The most distinctive of these calls is perhaps the one which is used when a predator or intruder approaches, which consists of a harsh mobbing call to warn others."
+  },
+  {
+   "id": "artamus-cyanopterus-3127ba",
+   "text": "Dusky woodswallows eat termites, butterflies, other insects and even nectar from flowers.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Feeding_and_diet",
+   "quote": "Dusky woodswallows have been seen eating termites, butterflies and other insects. They also eat nectar from flowers."
+  },
+  {
+   "id": "artamus-cyanopterus-ea97e5",
+   "text": "The female lays white eggs, usually no more than three or four.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Breeding",
+   "quote": "The female lays white eggs, of which there are usually no more than three or four."
+  },
+  {
+   "id": "artamus-cyanopterus-ce1385",
+   "text": "Dusky woodswallows roost communally, usually at night.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Dusky_woodswallow#Distribution_and_habitat",
+   "quote": "They roost communally, usually nocturnally."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1350432593
+ }
+}

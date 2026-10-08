@@ -1,0 +1,124 @@
+{
+ "sci": "Melithreptus lunatus",
+ "com": "White-naped Honeyeater",
+ "slug": "melithreptus-lunatus",
+ "wikipedia": {
+  "title": "White-naped honeyeater",
+  "url": "https://en.wikipedia.org/wiki/White-naped_honeyeater",
+  "revid": 1315312799
+ },
+ "ala": {
+  "name": "Melithreptus (Melithreptus) lunatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1000,
+   639,
+   553,
+   1846,
+   1014,
+   602,
+   621,
+   696,
+   1185,
+   1651,
+   492,
+   445
+  ],
+  "total": 10937,
+  "share": 0.0026651
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.78,
+   0.74,
+   0.67,
+   2.06,
+   1.38,
+   0.93,
+   0.92,
+   0.89,
+   1.3,
+   1.27,
+   0.55,
+   0.5
+  ]
+ },
+ "facts": [
+  {
+   "id": "melithreptus-lunatus-df76fb",
+   "text": "The white-naped honeyeater is native to eastern Australia and lives in dry eucalypt woodland.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater",
+   "quote": "is a passerine bird of the honeyeater family Meliphagidae native to eastern Australia."
+  },
+  {
+   "id": "melithreptus-lunatus-a3706b",
+   "text": "It is olive-green above and white below, with a black head, nape and throat and a red patch over the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Description",
+   "quote": "it is olive-green above and white below, with a black head, nape and throat, a red patch over the eye, and a white crescent-shaped patch on the nape."
+  },
+  {
+   "id": "melithreptus-lunatus-d05005",
+   "text": "A white crescent on its nape gives the species its name, referring to the Latin luna, meaning 'moon'.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Taxonomy",
+   "quote": "The specific epithet is derived from the Latin luna, meaning 'moon'; this refers to the crescent-shaped, white marking on its nape."
+  },
+  {
+   "id": "melithreptus-lunatus-ec4758",
+   "text": "It feeds mainly on nectar from a variety of flowers, supplemented by insects and other invertebrates.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Ecology",
+   "quote": "Its diet is principally nectar from a variety of flowers, supplemented by insects and various other invertebrates."
+  },
+  {
+   "id": "melithreptus-lunatus-3aed0f",
+   "text": "It nests from July to December and may breed once or twice during that period.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Ecology",
+   "quote": "White-naped honeyeaters may nest from July to December, breeding once or twice during this time."
+  },
+  {
+   "id": "melithreptus-lunatus-a5efdb",
+   "text": "The nest is a thick-walled bowl of grasses and bits of bark, built in the fork of a tall tree, usually a eucalypt.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Ecology",
+   "quote": "The nest is a thick-walled bowl of grasses and bits of bark in the fork of a tall tree, usually a eucalypt."
+  },
+  {
+   "id": "melithreptus-lunatus-8f985f",
+   "text": "Females lay two or three shiny, buff-pink eggs sparsely spotted with red-brown.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Ecology",
+   "quote": "Two or three eggs are laid, 18 mm × 14 mm (0.71 in × 0.55 in) in size, and shiny, buff-pink, sparsely spotted with red-brown."
+  },
+  {
+   "id": "melithreptus-lunatus-7133a4",
+   "text": "Young birds can be told by their brownish crowns and orange base of the bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-naped_honeyeater#Description",
+   "quote": "Juveniles have brownish crowns and an orange base of  the bill."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315312799
+ }
+}

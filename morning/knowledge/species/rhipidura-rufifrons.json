@@ -1,0 +1,138 @@
+{
+ "sci": "Rhipidura rufifrons",
+ "com": "Rufous Fantail",
+ "slug": "rhipidura-rufifrons",
+ "wikipedia": {
+  "title": "Australian rufous fantail",
+  "url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail",
+  "revid": 1358486604
+ },
+ "ala": {
+  "name": "Rhipidura (Howeavis) rufifrons",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   510,
+   366,
+   277,
+   104,
+   4,
+   1,
+   1,
+   2,
+   6,
+   105,
+   227,
+   233
+  ],
+  "total": 1854,
+  "share": 0.0004518
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   2.53,
+   2.69,
+   2.12,
+   0.74,
+   0.03,
+   0.01,
+   0.01,
+   0.02,
+   0.04,
+   0.52,
+   1.61,
+   1.67
+  ]
+ },
+ "facts": [
+  {
+   "id": "rhipidura-rufifrons-51ac99",
+   "text": "The rufous fantail is easily recognised by its orange-reddish-brown back, rump and base of tail, with a black and white breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail",
+   "quote": "The Australian rufous fantail  is easily distinguished by their orange-reddish-brown back, rump and base of tail. They have a black and white breast that grades into a white colour on the chin and throat."
+  },
+  {
+   "id": "rhipidura-rufifrons-f4a95f",
+   "text": "It weighs roughly 10 grams, and while males and females look identical, females are generally smaller than males.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Description",
+   "quote": "They weigh roughly 10 grams. The male and female of the species look identical. However, females are generally smaller than the males."
+  },
+  {
+   "id": "rhipidura-rufifrons-529739",
+   "text": "The rufous fantail gives high-pitched chip calls in quick succession while searching for food, defending its territory, or alarming others to a predator.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Vocalisations",
+   "quote": "This call is high pitched, with two chip noises given in quick succession. It is produced during food searching, territory defence and can be used as an alarm call when a predator is identified."
+  },
+  {
+   "id": "rhipidura-rufifrons-118ab9",
+   "text": "It sings after sunset from perches, partly to attract a mate.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Vocalisations",
+   "quote": "They sing after sunset from perches, one reason is to attract the opposite sex."
+  },
+  {
+   "id": "rhipidura-rufifrons-34fdd5",
+   "text": "This hyperactive little bird is constantly on the move, fidgeting and waving its fan-shaped tail as it makes short, frequent flights.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Behaviour_and_ecology",
+   "quote": "they are almost always portrayed as hyperactive, constantly on the move, fidgeting and waving a fanned-out tail."
+  },
+  {
+   "id": "rhipidura-rufifrons-93158b",
+   "text": "Rufous fantails mostly eat small insects and often join mixed feeding flocks with other small birds like the spectacled monarch and little shrikethrush.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Food_and_feeding",
+   "quote": "They eat mostly small insects and will often join mixed species feeding flocks to do so. These usually comprise other small Passerine birds such as: the spectacled monarch, the little shrikethrush"
+  },
+  {
+   "id": "rhipidura-rufifrons-6df04a",
+   "text": "Nests, often compared to a wine glass with a broken bottom stand, are built in forked branches near water in November, December and January.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Breeding",
+   "quote": "The structure of the nest is often compared to a wine glass with a broken bottom stand. The nest is built, usually in November, December and January, using thin strips of tree bark, grass, moss rootlets and decayed wood."
+  },
+  {
+   "id": "rhipidura-rufifrons-32cb29",
+   "text": "A typical clutch holds 3 or 4 pale cream to yellowish white eggs with light brown and purplish markings.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Breeding",
+   "quote": "Their colour is generally described as somewhere between a pale cream to yellowish white. These have light brown and purplish markings or spots. There are normally 3 or 4 eggs produced in a nest."
+  },
+  {
+   "id": "rhipidura-rufifrons-693297",
+   "text": "Each spring the rufous fantail migrates to south-eastern Australia to breed, arriving from September and peaking in October, before heading north again in autumn.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail#Migration",
+   "quote": "They migrate to south-eastern Australia in the spring to breed, beginning in September, peaking in October, and then north in the autumn during March and April."
+  },
+  {
+   "id": "rhipidura-rufifrons-000bbf",
+   "text": "The species is thought to be declining, but its large range means it is classified as least concern by the IUCN.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_rufous_fantail",
+   "quote": "Although their population is thought to be declining, their relatively large range and abundance make them a species of least concern according to the IUCN."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358486604
+ }
+}

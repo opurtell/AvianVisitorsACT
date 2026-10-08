@@ -1,0 +1,139 @@
+{
+ "sci": "Menura novaehollandiae",
+ "com": "Superb Lyrebird",
+ "slug": "menura-novaehollandiae",
+ "wikipedia": {
+  "title": "Superb lyrebird",
+  "url": "https://en.wikipedia.org/wiki/Superb_lyrebird",
+  "revid": 1376327566
+ },
+ "ala": {
+  "name": "Menura (Menura) novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   530,
+   332,
+   241,
+   204,
+   150,
+   334,
+   222,
+   178,
+   91,
+   287,
+   169,
+   221
+  ],
+  "total": 2959,
+  "share": 0.0007211
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "rel": [
+   1.48,
+   1.37,
+   1.04,
+   0.82,
+   0.73,
+   1.85,
+   1.17,
+   0.82,
+   0.36,
+   0.79,
+   0.68,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "menura-novaehollandiae-dd0ab7",
+   "text": "Its wings are short and round, capable only of weak flight, mainly used for balance or gliding from trees to the ground.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Description",
+   "quote": "The wings are short and round, and are only capable of weak flight, being mainly used for balance or for gliding from trees to the ground.",
+   "edited": "hand-corrected 2026-10-09 spot check"
+  },
+  {
+   "id": "menura-novaehollandiae-7e9406",
+   "text": "Around 70–80% of a male's vocalisations are imitations of other species, mostly other birds but occasionally marsupials.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Vocalisation_and_mimicry",
+   "quote": "with an estimated 70–80% of the male's vocalisations consisting of imitations of other species, mostly other birds but occasionally marsupials."
+  },
+  {
+   "id": "menura-novaehollandiae-3fabc3",
+   "text": "The mimicry is so accurate that shrike-thrushes in one study could not tell their own songs from lyrebird imitations of them.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Vocalisation_and_mimicry",
+   "quote": "one study found that shrike-thrushes did not respond any differently to hearing their own songs than to hearing imitations by lyrebirds."
+  },
+  {
+   "id": "menura-novaehollandiae-88a293",
+   "text": "Males build several circular mounds of bare dirt on the forest floor and defend them vigorously for courtship displays.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Mating_and_breeding",
+   "quote": "Within his territory, the male will construct several circular mounds of bare dirt on the forest floor, for the purpose of conducting courtship displays."
+  },
+  {
+   "id": "menura-novaehollandiae-5b442d",
+   "text": "The female breeds once per year in winter, usually laying a single egg that is incubated for up to seven weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Mating_and_breeding",
+   "quote": "The female breeds once per year in winter, usually laying a single egg. Eggs are laid in a deep bed of lyrebird feathers within the nest, and are then incubated by the female for up to 7 weeks."
+  },
+  {
+   "id": "menura-novaehollandiae-a37b7b",
+   "text": "A single lyrebird can move and bury up to 200 tonnes of leaf litter and soil per hectare every year, helping reduce wildfire fuel.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Ecosystem_engineers",
+   "quote": "A lyrebird can move and bury up to 200 tonnes per hectare of leaf litter and soil every year, disturbing the soil to a greater extent than virtually any other animal."
+  },
+  {
+   "id": "menura-novaehollandiae-381c2e",
+   "text": "A male superb lyrebird appears on the reverse side of the Australian 10-cent coin.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#In_culture",
+   "quote": "a male superb lyrebird being featured on the reverse side of the Australian 10-cent coin"
+  },
+  {
+   "id": "menura-novaehollandiae-376430",
+   "text": "A male superb lyrebird reaches maturity in 7–9 years, while the female matures in 6–7 years.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Tail_feathers",
+   "quote": "The male superb lyrebird reaches maturity in 7–9 years, and the female in 6–7 years."
+  },
+  {
+   "id": "menura-novaehollandiae-b7355e",
+   "text": "The superb lyrebird's diet consists primarily of invertebrates such as earthworms and insects found on the forest floor.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Diet_and_foraging",
+   "quote": "The diet of the superb lyrebird consists primarily of invertebrates such as earthworms and insects found on the forest floor."
+  },
+  {
+   "id": "menura-novaehollandiae-62d0d4",
+   "text": "The superb lyrebird lives in the forests of southeastern Australia, from southern Victoria to southeastern Queensland.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_lyrebird#Distribution_and_habitat",
+   "quote": "The superb lyrebird is found in the forests of southeastern Australia, ranging from southern Victoria to southeastern Queensland."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376327566
+ }
+}

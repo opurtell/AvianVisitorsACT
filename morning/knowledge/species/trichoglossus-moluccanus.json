@@ -1,0 +1,124 @@
+{
+ "sci": "Trichoglossus moluccanus",
+ "com": "Rainbow Lorikeet",
+ "slug": "trichoglossus-moluccanus",
+ "wikipedia": {
+  "title": "Rainbow lorikeet",
+  "url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet",
+  "revid": 1372097032
+ },
+ "ala": {
+  "name": "Trichoglossus moluccanus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3057,
+   2439,
+   2382,
+   2837,
+   2674,
+   2489,
+   2519,
+   2837,
+   2537,
+   2890,
+   2124,
+   2404
+  ],
+  "total": 33002,
+  "share": 0.0080419
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.79,
+   0.93,
+   0.95,
+   1.05,
+   1.21,
+   1.27,
+   1.23,
+   1.21,
+   0.92,
+   0.74,
+   0.79,
+   0.9
+  ]
+ },
+ "facts": [
+  {
+   "id": "trichoglossus-moluccanus-b4c6c1",
+   "text": "The rainbow lorikeet is a medium-sized parrot ranging from 25 to 30 cm long and weighing 75 to 157 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Description",
+   "quote": "The rainbow lorikeet is a medium-sized parrot, with the length ranging from 25 to 30 cm (9.8 to 11.8 in), including the tail, and the weight varies from 75 to 157 g"
+  },
+  {
+   "id": "trichoglossus-moluccanus-b5e29f",
+   "text": "The rainbow lorikeet has a deep blue head, a greenish-yellow nuchal collar, green upper parts, and an orange/yellow chest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Description",
+   "quote": "The head is deep blue with a greenish-yellow nuchal collar, and the rest of the upper parts (wings, back, and tail) are green. The chest is orange/yellow."
+  },
+  {
+   "id": "trichoglossus-moluccanus-70e06c",
+   "text": "Males and females look identical, so DNA analysis of a feather is used to determine an individual's sex.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Description",
+   "quote": "Males and females look identical, and surgical sexing by a veterinarian or DNA analysis of a feather is used to determine the sex of an individual."
+  },
+  {
+   "id": "trichoglossus-moluccanus-02c772",
+   "text": "The rainbow lorikeet's tongue has a papillate appendage adapted to gathering pollen and nectar from flowers.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Diet",
+   "quote": "The end of the tongue is equipped with a papillate appendage adapted to gathering pollen and nectar from flowers."
+  },
+  {
+   "id": "trichoglossus-moluccanus-cf5633",
+   "text": "In Melanesia, rainbow lorikeets are important pollinators of coconuts, a very important food source for them.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Diet",
+   "quote": "In Melanesia, coconuts are very important food sources, and rainbow lorikeets are important pollinators of these."
+  },
+  {
+   "id": "trichoglossus-moluccanus-b56e92",
+   "text": "At Currumbin Wildlife Sanctuary, thousands of lorikeets gather in a huge, noisy flock around 8 am and 4 pm each day.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Diet",
+   "quote": "Around 8 am and 4 pm each day, the birds gather in a huge, noisy flock in the park's main area."
+  },
+  {
+   "id": "trichoglossus-moluccanus-ba2864",
+   "text": "Only the female rainbow lorikeet carries out incubation duties, and the species is mostly monogamous, often pairing for life.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Breeding",
+   "quote": "Incubation duties are carried out by the female alone.\nRainbow lorikeets are mostly monogamous and remain paired for long periods, if not for life."
+  },
+  {
+   "id": "trichoglossus-moluccanus-8bb675",
+   "text": "Thousands of rainbow lorikeets become paralysed each year in southeast Queensland, likely from the fruits of an unknown plant.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_lorikeet#Lorikeet_paralysis_syndrome",
+   "quote": "in southeast Queensland and northeast New South Wales, thousands become paralysed, most significantly, unable to fly or eat."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372097032
+ }
+}

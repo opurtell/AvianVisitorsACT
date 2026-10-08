@@ -1,0 +1,131 @@
+{
+ "sci": "Numenius madagascariensis",
+ "com": "Far Eastern Curlew",
+ "slug": "numenius-madagascariensis",
+ "wikipedia": {
+  "title": "Far Eastern curlew",
+  "url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew",
+  "revid": 1379194633
+ },
+ "ala": {
+  "name": "Numenius (Numenius) madagascariensis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "total": 2,
+  "share": 5e-07
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   5.81,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   6.19,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "numenius-madagascariensis-f16bf8",
+   "text": "The Eastern Curlew is probably the world's largest sandpiper, at 60–66 cm in length and 110 cm across the wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew",
+   "quote": "It is not only the largest curlew but probably the world's largest sandpiper, at 60–66 cm (24–26 in) in length and 110 cm (43 in) across the wings."
+  },
+  {
+   "id": "numenius-madagascariensis-75bc4b",
+   "text": "The Eastern Curlew has an extremely long bill, at 12.8–20.1 cm, rivaling the longest bill for a sandpiper.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew",
+   "quote": "The extremely long bill, at 12.8–20.1 cm (5.0–7.9 in) in length, rivals the bill size of the closely related long-billed curlew as the longest bill for a sandpiper."
+  },
+  {
+   "id": "numenius-madagascariensis-4b2e18",
+   "text": "It is mostly brown, and its plain, unpatterned brown underwing and brown rump distinguish it from other curlews.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew",
+   "quote": "It is mostly brown, differentiated from other curlews by its plain, unpatterned brown underwing, and brown rump."
+  },
+  {
+   "id": "numenius-madagascariensis-d9e7fc",
+   "text": "The Eastern Curlew eats insects such as beetle and fly larvae on its breeding grounds, and also feeds on berries during migration.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Diet",
+   "quote": "On its breeding grounds the Far Eastern curlew consumes insects, such as larvae of beetles and flies, and amphipods. During migration it also feeds on berries."
+  },
+  {
+   "id": "numenius-madagascariensis-51c8b4",
+   "text": "In the non-breeding season it prefers crabs and small molluscs, but also takes other crustaceans and polychaetes.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Diet",
+   "quote": "In the non-breeding season, it consumes marine invertebrates, preferring crabs and small molluscs but also taking other crustaceans and polychaetes."
+  },
+  {
+   "id": "numenius-madagascariensis-b69021",
+   "text": "The Eastern Curlew breeds in northeastern Asia, from Siberia to Kamchatka, and in Mongolia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Distribution_and_habitat",
+   "quote": "The Far Eastern curlew spends its breeding season in northeastern Asia, including Siberia to Kamchatka, and Mongolia."
+  },
+  {
+   "id": "numenius-madagascariensis-a9dab6",
+   "text": "The Eastern Curlew probes for invertebrates in mud with its long, decurved bill, and generally congregates in large flocks to migrate or roost.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Distribution_and_habitat",
+   "quote": "It uses its long, decurved bill to probe for invertebrates in the mud. It may feed in solitary but it generally congregates in large flocks to migrate or roost."
+  },
+  {
+   "id": "numenius-madagascariensis-d0807a",
+   "text": "Its call is a sharp, clear whistle, cuuue-reee, often repeated.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Distribution_and_habitat",
+   "quote": "Its call is a sharp, clear whistle, cuuue-reee, often repeated."
+  },
+  {
+   "id": "numenius-madagascariensis-1a0a26",
+   "text": "As of 2024 there are an estimated 20,000 – 35,000 mature individuals, and the species is classified as Endangered.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Far_Eastern_curlew#Conservation_status",
+   "quote": "As of 2024, there are an estimated 20,000 – 35,000 mature individuals in the world."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379194633
+ }
+}

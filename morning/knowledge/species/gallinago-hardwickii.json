@@ -1,0 +1,131 @@
+{
+ "sci": "Gallinago hardwickii",
+ "com": "Latham's Snipe",
+ "slug": "gallinago-hardwickii",
+ "wikipedia": {
+  "title": "Latham's snipe",
+  "url": "https://en.wikipedia.org/wiki/Latham%27s_snipe",
+  "revid": 1379042380
+ },
+ "ala": {
+  "name": "Gallinago (Gallinago) hardwickii",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1925,
+   947,
+   182,
+   5,
+   1,
+   0,
+   1,
+   122,
+   626,
+   1125,
+   1144,
+   1257
+  ],
+  "total": 7353,
+  "share": 0.0017918
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   2.49,
+   1.81,
+   0.36,
+   0.01,
+   0.0,
+   0.0,
+   0.0,
+   0.26,
+   1.14,
+   1.44,
+   2.12,
+   2.35
+  ]
+ },
+ "facts": [
+  {
+   "id": "gallinago-hardwickii-02ec7b",
+   "text": "Latham's snipe is a medium-sized migratory bird with a long bill, travelling along the East Asian–Australasian Flyway each year.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe",
+   "quote": "Latham's snipe (Gallinago hardwickii), also Japanese snipe is a medium-sized, long-billed, migratory snipe of the East Asian–Australasian Flyway."
+  },
+  {
+   "id": "gallinago-hardwickii-9eddcd",
+   "text": "It is named after John Latham, an English ornithologist who loved Australasian birds but had no apparent connection with the snipe itself.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe",
+   "quote": "John Latham was a well-known English physician and ornithologist in the late 18th and early 19th centuries, and had a great interest in Australasian birds. However, he had no apparent connection with the snipe named after him."
+  },
+  {
+   "id": "gallinago-hardwickii-d76261",
+   "text": "The snipe's black, brown, buff and white plumage camouflages it so well that in the field it is hard to tell apart from Swinhoe's and pin-tailed snipes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Identification",
+   "quote": "It is identifiable as a Gallinago snipe by its cryptically-patterned black, brown, buff and white plumage. However, in the field it is not easily distinguished from Swinhoe's snipe and the pin-tailed snipe, though it is slightly larger."
+  },
+  {
+   "id": "gallinago-hardwickii-752ff0",
+   "text": "Male snipes attract mates with dramatic display flights and a drumming sound, then nest on the ground hidden in vegetation with a clutch of four eggs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Breeding",
+   "quote": "Courtship consists of display flights and drumming by the males. They nest on the ground, concealed in vegetation, with a clutch of four eggs."
+  },
+  {
+   "id": "gallinago-hardwickii-aa0ba1",
+   "text": "Latham's snipe breeds mainly in Hokkaidō in northern Japan, with smaller numbers on Honshū, the Russian mainland and Sakhalin.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Distribution_and_habitat",
+   "quote": "The snipe breeds mainly in Hokkaidō in northern Japan, with smaller numbers on Honshū, the eastern Russian mainland and Sakhalin and, historically, the Kurile Islands."
+  },
+  {
+   "id": "gallinago-hardwickii-154dc5",
+   "text": "The entire population migrates to spend the non-breeding season mainly in eastern Australia, where it is the commonest Gallinago snipe.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Distribution_and_habitat",
+   "quote": "The entire population migrates and spends the non-breeding season principally in eastern Australia, where it is the commonest Gallinago snipe."
+  },
+  {
+   "id": "gallinago-hardwickii-7c65c4",
+   "text": "In Australia the snipe favours shallow freshwater wetlands, using bare mud or shallow water for feeding and nearby vegetation for shelter.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Distribution_and_habitat",
+   "quote": "Its non-breeding habitat in Australia is shallow freshwater wetlands of various kinds, with bare mud or shallow water for feeding, and nearby vegetation cover for shelter."
+  },
+  {
+   "id": "gallinago-hardwickii-f32069",
+   "text": "Latham's snipe was once hunted as a gamebird in Australia but is now fully protected and listed as vulnerable under the EPBC Act.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Status_and_conservation",
+   "quote": "In Australia, it was formerly hunted as a gamebird but is now fully protected and, following assessment in the 2020, is listed as \"vulnerable\" under the Australian EPBC Act."
+  },
+  {
+   "id": "gallinago-hardwickii-7c96b6",
+   "text": "Human development has increased the number of suitable breeding sites in Hokkaido, yet the snipe's population is still declining.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Latham%27s_snipe#Status_and_conservation",
+   "quote": "Human development has increased the number of suitable breeding sites in Hokkaido, however the population is declining nonetheless."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379042380
+ }
+}

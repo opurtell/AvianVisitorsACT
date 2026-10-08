@@ -1,0 +1,138 @@
+{
+ "sci": "Pandion haliaetus",
+ "com": "Osprey",
+ "slug": "pandion-haliaetus",
+ "wikipedia": {
+  "title": "Osprey",
+  "url": "https://en.wikipedia.org/wiki/Osprey",
+  "revid": 1374397946
+ },
+ "ala": {
+  "name": "Pandion haliaetus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3,
+   1,
+   3,
+   8,
+   2,
+   1,
+   1,
+   1,
+   1,
+   0,
+   2,
+   0
+  ],
+  "total": 23,
+  "share": 5.6e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.06,
+   0.52,
+   1.64,
+   4.06,
+   1.24,
+   0.7,
+   0.67,
+   0.58,
+   0.5,
+   0.0,
+   1.01,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "pandion-haliaetus-66a128",
+   "text": "The osprey and owls are the only raptors with reversible outer toes, letting them grip slippery fish with two toes in front and two behind.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Description",
+   "quote": "The osprey and owls are the only raptors whose outer toes are reversible, allowing them to grasp their prey with two toes in front and two behind. This is particularly helpful when they grab slippery fish."
+  },
+  {
+   "id": "pandion-haliaetus-9145d0",
+   "text": "When diving, the osprey adjusts its flight angle to compensate for the way refraction distorts the fish's image underwater.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Diet",
+   "quote": "As an osprey dives, it adjusts the angle of its flight to account for the distortion of the fish's image caused by refraction."
+  },
+  {
+   "id": "pandion-haliaetus-c8d28c",
+   "text": "The osprey has closable nostrils and dense, oily plumage that stops its feathers from getting waterlogged during dives.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Adaptations",
+   "quote": "These include reversible outer toes, sharp spicules on the underside of the toes, closable nostrils to keep out water during dives, backward-facing scales on the talons that act as barbs to help hold its catch, and dense, oily plumage to prevent its feathers from getting waterlogged."
+  },
+  {
+   "id": "pandion-haliaetus-755f44",
+   "text": "Osprey nests can be as wide as 2 m and weigh about 135 kg, sometimes causing power outages when built on utility poles.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Reproduction",
+   "quote": "As wide as 2 m and weighing about 135 kg (298 lb), large nests on utility poles may be fire hazards and have caused power outages."
+  },
+  {
+   "id": "pandion-haliaetus-85c9cd",
+   "text": "Its call is a series of sharp whistles, but if disturbed near the nest it becomes a frenzied cheereek!",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Description",
+   "quote": "The call is a series of sharp whistles, described as cheep, cheep, or yewk, yewk. If disturbed by activity near the nest, the call is a frenzied cheereek!"
+  },
+  {
+   "id": "pandion-haliaetus-4d8a72",
+   "text": "Migrating ospreys cover 260–280 km per day on average, flying mostly by day but sometimes in the dark over water.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Migration",
+   "quote": "Although migrating predominantly during the day, they sometimes fly in the dark hours, particularly in crossings over water and cover on average 260–280 km (160–170 mi) per day with a maximum of 431 km (268 mi) per day."
+  },
+  {
+   "id": "pandion-haliaetus-77e61b",
+   "text": "Fish make up 99% of the osprey's diet, making it a true fish specialist.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Diet",
+   "quote": "The osprey is piscivorous, with fish making up 99% of its diet."
+  },
+  {
+   "id": "pandion-haliaetus-c3ee8c",
+   "text": "Ospreys usually mate for life, though polyandry has been recorded rarely.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Reproduction",
+   "quote": "Ospreys usually mate for life. Rarely, polyandry has been recorded."
+  },
+  {
+   "id": "pandion-haliaetus-8a09ba",
+   "text": "The osprey spots fish from 10–40 m above the water, hovers, then plunges feet first.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Diet",
+   "quote": "Prey is first sighted when the bird is 10–40 m (33–131 ft) above the water, after which it hovers momentarily and then plunges feet first into the water."
+  },
+  {
+   "id": "pandion-haliaetus-d384aa",
+   "text": "Osprey eggs are incubated for about 35 to 43 days before hatching.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Osprey#Reproduction",
+   "quote": "The eggs are incubated for about 35–43 days to hatching."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1374397946
+ }
+}

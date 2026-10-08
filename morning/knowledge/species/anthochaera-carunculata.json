@@ -1,0 +1,124 @@
+{
+ "sci": "Anthochaera carunculata",
+ "com": "Red Wattlebird",
+ "slug": "anthochaera-carunculata",
+ "wikipedia": {
+  "title": "Red wattlebird",
+  "url": "https://en.wikipedia.org/wiki/Red_wattlebird",
+  "revid": 1371443695
+ },
+ "ala": {
+  "name": "Anthochaera (Anthochaera) carunculata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12224,
+   8612,
+   8948,
+   11091,
+   9074,
+   7602,
+   8013,
+   9860,
+   10818,
+   14739,
+   9991,
+   10030
+  ],
+  "total": 128808,
+  "share": 0.031388
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.84,
+   0.87,
+   0.95,
+   1.09,
+   1.08,
+   1.03,
+   1.04,
+   1.11,
+   1.04,
+   1.0,
+   0.98,
+   0.99
+  ]
+ },
+ "facts": [
+  {
+   "id": "anthochaera-carunculata-bb84ab",
+   "text": "The red wattlebird is the second largest species of Australian honeyeater, after the yellow wattlebird.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird",
+   "quote": "At 33–37 cm (13–14+1⁄2 in) in length, it is the second largest species of Australian honeyeater, after the yellow wattlebird."
+  },
+  {
+   "id": "anthochaera-carunculata-5539d9",
+   "text": "It has distinctive pinkish-red wattles dangling on either side of its neck.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Description",
+   "quote": "The distinctive pinkish-red wattles dangle from the lower rear corner of the ear coverts on either side of the neck"
+  },
+  {
+   "id": "anthochaera-carunculata-f4aafe",
+   "text": "Its brush-tipped tongue has over a hundred bristles that soak up nectar by capillary action.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Description",
+   "quote": "The tongue can extend well beyond the tip of the bill, and is divided at the end to form a brush-like structure with over a hundred bristles that soak up nectar by capillary action."
+  },
+  {
+   "id": "anthochaera-carunculata-2ed29f",
+   "text": "Pairs of red wattlebirds appear to duet, the male giving a loud cackle and the female a whistling call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Call",
+   "quote": "Pairs of birds appear to duet, particularly at food sources, with the male producing a loud cackle and the female a whistling call."
+  },
+  {
+   "id": "anthochaera-carunculata-2395c0",
+   "text": "It is one of the largest nectar-feeding birds in the world.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Description",
+   "quote": "With an average weight of 100–120 grams (3.5–4.2 oz), the red wattlebird is one of the largest nectar-feeding birds in the world"
+  },
+  {
+   "id": "anthochaera-carunculata-c04c4a",
+   "text": "It prefers flowers with easy access to nectar and favours eucalypts, banksias, grasstrees and emu bushes.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Feeding",
+   "quote": "The red wattlebird prioritises visiting flowers that produce a lot of nectar, such as those of eucalypts, banksias, grasstrees (Xanthorrhoea), and emu bushes (Eremophila). It often prefers plants with easy access to nectar, rather than those with tubular flowers"
+  },
+  {
+   "id": "anthochaera-carunculata-283791",
+   "text": "Over winter it gathers in larger groups of up to several hundred birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Behaviour",
+   "quote": "A loud and active bird, the red wattlebird is found in pairs, in a small family group, or alone during the breeding season, and gathers in larger groups of up to several hundred birds over winter."
+  },
+  {
+   "id": "anthochaera-carunculata-12d94c",
+   "text": "It builds a cup-shaped nest of sticks and leaves in a tree fork, usually a eucalypt, and raises one or two broods a year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red_wattlebird#Breeding",
+   "quote": "The nest is a cup-shaped structure formed from sticks and leaves, lined with bark, grass, and hair, between 2 and 16 metres (7 and 50 ft) above ground, usually in the forked branches of a tree—generally a eucalypt."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371443695
+ }
+}

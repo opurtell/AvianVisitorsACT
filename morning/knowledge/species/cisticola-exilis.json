@@ -1,0 +1,138 @@
+{
+ "sci": "Cisticola exilis",
+ "com": "Golden-headed Cisticola",
+ "slug": "cisticola-exilis",
+ "wikipedia": {
+  "title": "Golden-headed cisticola",
+  "url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola",
+  "revid": 1337267539
+ },
+ "ala": {
+  "name": "Cisticola (Cisticola) exilis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2011,
+   1056,
+   725,
+   758,
+   719,
+   522,
+   461,
+   515,
+   717,
+   1345,
+   1275,
+   1409
+  ],
+  "total": 11562,
+  "share": 0.0028174
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.51,
+   1.17,
+   0.84,
+   0.81,
+   0.94,
+   0.78,
+   0.65,
+   0.64,
+   0.76,
+   1.0,
+   1.37,
+   1.53
+  ]
+ },
+ "facts": [
+  {
+   "id": "cisticola-exilis-8ed7e7",
+   "text": "During the breeding season, the male transforms, sporting a golden-orange head, golden body colour, and a much shorter tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Description",
+   "quote": "The male has several characteristics that are only present during the breeding season, including a golden body colour, a golden-orange head, and a dull chin. It also has a shorter tail;"
+  },
+  {
+   "id": "cisticola-exilis-023e59",
+   "text": "Its calls range from a \"teewip\" to a \"wheezz, whit-whit\", and it raises a crest on its head while vocalizing.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Description",
+   "quote": "It produces a variety of sounds distinct from other birds, which, according to the Sunshine Coast Council, range from a \"teewip\" to a \"wheezz, whit-whit\". When vocalizing the species exhibits a crest on its head."
+  },
+  {
+   "id": "cisticola-exilis-0c2c25",
+   "text": "The cisticola is an omnivore that eats insects, small slugs and grass seeds, foraging slowly on the ground while hiding among plants.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Behaviour",
+   "quote": "The golden-headed cisticola is omnivorous, primarily eating invertebrates such as insects and small slugs, but also eating grass seeds. It typically forages on the ground for food, hiding from its prey among various plants, such as grass, and moving slowly."
+  },
+  {
+   "id": "cisticola-exilis-4f163c",
+   "text": "Dubbed the \"finest tailor of all birds\", it stitches its nest together using spider threads for camouflage.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "Described as the \"finest tailor of all birds\" for its nest-making, the species frequently stitches its nest together using spider threads."
+  },
+  {
+   "id": "cisticola-exilis-7fca7f",
+   "text": "Both sexes help build the nest: the female does the stitching while the male supplies her with spider-web threads.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "The nests are built by both sexes, with the female stitching the nest together and the male giving spider-web threads to the female."
+  },
+  {
+   "id": "cisticola-exilis-cd2ede",
+   "text": "A female lays three or four eggs and incubates them for 11 days; only about 32% of eggs survive to hatch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "Three or four eggs are laid at a time, which are incubated by the female, taking 11 days. The rate of eggs that survive to hatch is 32%."
+  },
+  {
+   "id": "cisticola-exilis-fa6207",
+   "text": "In Australia it can be found in grassy hills, savannas, woodlands, wetlands and irrigated farmland where the grass is tall and thick.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Distribution_and_habitat",
+   "quote": "The species' habitat can be grassy hills, savannas, woodlands, scrublands, rivers, wetlands, or irrigated farmland, in areas where the grass is tall and thick."
+  },
+  {
+   "id": "cisticola-exilis-9248f4",
+   "text": "In courtship displays, the male climbs vertically, spirals upwards to a height of about 50 m, and circles for up to 5 minutes while singing.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "the male \"climbs vertically, spirals upwards to cruising height of about 50 m, circles for up to 5 minutes, singing, alternately fluttering and closing wings\""
+  },
+  {
+   "id": "cisticola-exilis-76d54a",
+   "text": "After hatching, the female feeds the chicks while the male defends the nest, chasing away animals that come near it.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "After hatching, the female feeds the chicks and the male defends the nest, chasing away animals that come near it."
+  },
+  {
+   "id": "cisticola-exilis-d7af1e",
+   "text": "It can be monogamous or polygamous, depending on the area.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Golden-headed_cisticola#Breeding",
+   "quote": "It can be monogamous or polygamous, depending on the area."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1337267539
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Hydroprogne caspia",
+ "com": "Caspian Tern",
+ "slug": "hydroprogne-caspia",
+ "wikipedia": {
+  "title": "Caspian tern",
+  "url": "https://en.wikipedia.org/wiki/Caspian_tern",
+  "revid": 1353553557
+ },
+ "ala": {
+  "name": "Hydroprogne caspia",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   30,
+   18,
+   2,
+   4,
+   2,
+   3,
+   3,
+   3,
+   25,
+   18,
+   80,
+   101
+  ],
+  "total": 289,
+  "share": 7.04e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.9,
+   0.8,
+   0.09,
+   0.17,
+   0.1,
+   0.18,
+   0.17,
+   0.15,
+   1.06,
+   0.54,
+   3.44,
+   4.39
+  ]
+ },
+ "facts": [
+  {
+   "id": "hydroprogne-caspia-2d333e",
+   "text": "The Caspian tern is the world's largest species of tern.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern",
+   "quote": "The Caspian tern (Hydroprogne caspia) is the world's largest species of tern, with a subcosmopolitan but scattered distribution."
+  },
+  {
+   "id": "hydroprogne-caspia-ea9d0b",
+   "text": "It has a long thick red-orange bill with a small black tip and black legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Description",
+   "quote": "Adult birds have black legs, and a long thick red-orange bill with a small black tip."
+  },
+  {
+   "id": "hydroprogne-caspia-03c716",
+   "text": "Unlike many other terns, the Caspian tern keeps its black cap in winter, though with some white streaking on the forehead.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Description",
+   "quote": "In winter, the black cap is still present (unlike many other terns), but with some white streaking on the forehead."
+  },
+  {
+   "id": "hydroprogne-caspia-f5ac1f",
+   "text": "It catches fish by hovering high over the water and then plunging, and may fly up to 60 km from its breeding colony to do so.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Feeding",
+   "quote": "They may fly up to 60 km (37 mi) from the breeding colony to catch fish; they often fish on freshwater lakes as well as at sea."
+  },
+  {
+   "id": "hydroprogne-caspia-5ffe50",
+   "text": "Besides fish, it occasionally eats large insects, the young and eggs of other birds, and rodents.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Feeding",
+   "quote": "They also occasionally eat large insects, the young and eggs of other birds and rodents."
+  },
+  {
+   "id": "hydroprogne-caspia-df9b87",
+   "text": "Chicks vary in plumage from pale creamy to darker grey-brown, which helps parents recognize their own young back at the colony.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Breeding",
+   "quote": "The chicks are variable in plumage pattern, from pale creamy to darker grey-brown; this variation assists adults in recognizing their own chicks when returning to the colony from feeding trips."
+  },
+  {
+   "id": "hydroprogne-caspia-f5e4ab",
+   "text": "In 2016, a pair bred in northwestern Alaska, 600 km further north than any previous North American breeding record, part of a trend linked to global warming.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Distribution_and_habitat",
+   "quote": "In 2016, a pair of Caspian terns bred successfully in the Cape Krusenstern National Monument in northwestern Alaska, 600 km further north than any previous North American breeding record."
+  },
+  {
+   "id": "hydroprogne-caspia-acd223",
+   "text": "The global population is about 50,000 pairs, but the Baltic Sea population is declining and of conservation concern.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Caspian_tern#Distribution_and_habitat",
+   "quote": "The global population is about 50,000 pairs; numbers in most regions are stable, but the Baltic Sea population (1400–1475 pairs in the early 1990s) is declining and of conservation concern."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1353553557
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Entomyzon cyanotis",
+ "com": "Blue-faced Honeyeater",
+ "slug": "entomyzon-cyanotis",
+ "wikipedia": {
+  "title": "Blue-faced honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater",
+  "revid": 1364973854
+ },
+ "ala": {
+  "name": "Entomyzon cyanotis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   9,
+   14,
+   5,
+   39,
+   22,
+   20,
+   14,
+   43,
+   15,
+   41,
+   4,
+   26
+  ],
+  "total": 253,
+  "share": 6.17e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jul",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.29,
+   0.67,
+   0.25,
+   1.79,
+   1.23,
+   1.27,
+   0.85,
+   2.28,
+   0.68,
+   1.3,
+   0.18,
+   1.21
+  ]
+ },
+ "facts": [
+  {
+   "id": "entomyzon-cyanotis-2556b2",
+   "text": "Adults are easily recognised by the bare blue skin around their eyes, while juveniles have yellow or green patches instead.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater",
+   "quote": "Adults have a blue area of bare skin on each side of the face readily distinguishing them from juveniles, which have yellow or green patches of bare skin."
+  },
+  {
+   "id": "entomyzon-cyanotis-9dcdee",
+   "text": "At around 29.5 cm long, it is a large honeyeater, with a wingspan of 44 cm and a weight of around 105 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Description",
+   "quote": "A large honeyeater ranging from 26 to 32 cm (10 to 12.5 in) and averaging 29.5 cm (11.6 in) in length. The adult blue-faced honeyeater has a wingspan of 44 cm (17.5 in) and weighs around 105 g (3.7 oz)."
+  },
+  {
+   "id": "entomyzon-cyanotis-c769df",
+   "text": "It pipes a call around half an hour before dawn, variously described as ki-owt, woik, queet, peet, or weet.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Description",
+   "quote": "The blue-faced honeyeater produces a variety of calls, including a piping call around half an hour before dawn, variously described as ki-owt, woik, queet, peet, or weet."
+  },
+  {
+   "id": "entomyzon-cyanotis-2e2823",
+   "text": "Very inquisitive birds, they invade campsites in search of food, and milk is particularly favoured.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Feeding",
+   "quote": "Usually very inquisitive and friendly birds, they will often invade a campsite, searching for edible items, including fruit, insects, and remnants from containers of jam or honey, and milk is particularly favoured."
+  },
+  {
+   "id": "entomyzon-cyanotis-ca3b65",
+   "text": "A flock of 15-20 birds was once seen bathing, diving into pools one at a time while others perched nearby preening.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Behaviour",
+   "quote": "The blue-faced honeyeater has been reported to be fond of bathing; a flock of 15–20 birds was observed diving into pools one bird at a time, while others were perched in surrounding treetops preening."
+  },
+  {
+   "id": "entomyzon-cyanotis-8d1a6a",
+   "text": "In Mackay, a bird once flew 10 or 12 metres above the treetops calling excitedly, leading its flock in what was likened to an aerial corroboree.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Behaviour",
+   "quote": "In Mackay, a bird would fly up 10 or 12 metres (33 or 39 ft) above the treetops calling excitedly to its flock, which would follow and fly around in what was likened to an aerial corroboree, seemingly at play."
+  },
+  {
+   "id": "entomyzon-cyanotis-0da186",
+   "text": "It is also colloquially known as the bananabird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater",
+   "quote": "The blue-faced honeyeater (Entomyzon cyanotis), also colloquially known as the bananabird, is a passerine bird of the honeyeater family, Meliphagidae."
+  },
+  {
+   "id": "entomyzon-cyanotis-39bec5",
+   "text": "The breeding season runs from June to January, during which one or two broods are raised.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Breeding",
+   "quote": "The breeding season is from June to January, with one or two broods raised during this time."
+  },
+  {
+   "id": "entomyzon-cyanotis-3de9d4",
+   "text": "The female alone incubates the buff-pink, red-brown or purplish splotched eggs for 16 or 17 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater#Breeding",
+   "quote": "Two or, rarely, three eggs are laid, 22 mm × 32 mm (0.9 in × 1.3 in) and buff-pink splotched with red-brown or purplish colours. The female alone incubates the eggs over a period of 16 or 17 days."
+  },
+  {
+   "id": "entomyzon-cyanotis-29e0c8",
+   "text": "Its diet is mostly invertebrates, supplemented with nectar and fruit.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Blue-faced_honeyeater",
+   "quote": "Its diet is mostly composed of invertebrates, supplemented with nectar and fruit."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1364973854
+ }
+}

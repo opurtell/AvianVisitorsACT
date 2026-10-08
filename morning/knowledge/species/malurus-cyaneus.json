@@ -1,0 +1,138 @@
+{
+ "sci": "Malurus cyaneus",
+ "com": "Superb Fairywren",
+ "slug": "malurus-cyaneus",
+ "wikipedia": {
+  "title": "Superb fairywren",
+  "url": "https://en.wikipedia.org/wiki/Superb_fairywren",
+  "revid": 1357926752
+ },
+ "ala": {
+  "name": "Malurus (Malurus) cyaneus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12387,
+   8486,
+   7435,
+   7719,
+   7006,
+   6775,
+   6902,
+   7907,
+   8484,
+   11388,
+   7940,
+   8206
+  ],
+  "total": 104183,
+  "share": 0.0253873
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Apr",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.02,
+   1.03,
+   0.95,
+   0.91,
+   1.01,
+   1.1,
+   1.07,
+   1.07,
+   0.98,
+   0.93,
+   0.94,
+   0.98
+  ]
+ },
+ "facts": [
+  {
+   "id": "malurus-cyaneus-9ff8da",
+   "text": "The male superb fairywren in breeding plumage glows with a bright blue forehead, ear coverts, mantle and tail, set off by a black throat and mask.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren",
+   "quote": "the male in breeding plumage has a striking bright blue forehead, ear coverts, mantle, and tail, with a black mask and black or dark blue throat."
+  },
+  {
+   "id": "malurus-cyaneus-c88740",
+   "text": "The superb fairywren's blue plumage reflects ultraviolet light strongly, so it may look even more vivid to other fairywrens, whose vision extends into ultraviolet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Description",
+   "quote": "The blue plumage also reflects ultraviolet light strongly, and so may be even more prominent to other fairywrens, whose colour vision extends into this part of the spectrum."
+  },
+  {
+   "id": "malurus-cyaneus-dad457",
+   "text": "Superb fairywrens are socially monogamous but sexually promiscuous: pairs bond for life while both partners regularly mate with other individuals.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Courtship",
+   "quote": "Fairywrens are socially monogamous and sexually promiscuous: pairs will bond for life, though both males and females will regularly mate with other individuals"
+  },
+  {
+   "id": "malurus-cyaneus-7ef9e8",
+   "text": "Superb fairywrens teach their chicks a vocal 'password' before hatching, helping them avoid being tricked by cuckoo parasites.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Vocalisations",
+   "quote": "The bird appears to also use vocalisations as a password for its chicks to give it a chance to avoid cuckoo parasites."
+  },
+  {
+   "id": "malurus-cyaneus-d0c2bd",
+   "text": "Groups of three to five superb fairywrens defend small territories year-round, with helper birds feeding and rearing the young.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Behaviour",
+   "quote": "The superb fairywren is a cooperative breeding species, with pairs or groups of 3–5 birds maintaining and defending small territories year-round."
+  },
+  {
+   "id": "malurus-cyaneus-e1821d",
+   "text": "The superb fairywren thrives in cities and gardens and was voted Australian Bird of the Year for 2021, narrowly beating the tawny frogmouth by 666 votes.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren",
+   "quote": "The superb fairywren was named 'Australian Bird of the Year' for 2021, after a survey conducted by Birdlife Australia saw the species narrowly defeat the tawny frogmouth with a margin of 666 votes"
+  },
+  {
+   "id": "malurus-cyaneus-75a8ba",
+   "text": "During the reproductive season, male superb fairywrens pluck yellow petals, which contrast with their plumage, and show them to female fairywrens.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Courtship",
+   "quote": "During the reproductive season, males of this and other fairywren species pluck yellow petals, which contrast with their plumage, and show them to female fairywrens."
+  },
+  {
+   "id": "malurus-cyaneus-b6b1a3",
+   "text": "The superb fairywren may use a 'rodent-run' display to distract predators from nests with young birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Behaviour",
+   "quote": "Superb fairywrens may utilise a 'rodent-run' display to distract predators from nests with young birds."
+  },
+  {
+   "id": "malurus-cyaneus-eb0492",
+   "text": "Male superb fairywrens have a peculiar song-like vocalization given in response to the calls of predatory birds, commonly grey butcherbirds.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Vocalisations",
+   "quote": "Males also possess a peculiar song-like Type II vocalization, which is given in response to the calls of predatory birds, commonly grey butcherbirds."
+  },
+  {
+   "id": "malurus-cyaneus-23f2ef",
+   "text": "Superb fairywren eggs are incubated for 14 days, after which they hatch within 24 hours.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Superb_fairywren#Breeding",
+   "quote": "The eggs are incubated for 14 days, after which they hatch within 24 hours."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1357926752
+ }
+}

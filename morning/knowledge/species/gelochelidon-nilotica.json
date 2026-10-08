@@ -1,0 +1,131 @@
+{
+ "sci": "Gelochelidon nilotica",
+ "com": "Gull-billed Tern",
+ "slug": "gelochelidon-nilotica",
+ "wikipedia": {
+  "title": "Gull-billed tern",
+  "url": "https://en.wikipedia.org/wiki/Gull-billed_tern",
+  "revid": 1373988421
+ },
+ "ala": {
+  "name": "Gelochelidon nilotica",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "total": 0,
+  "share": 0.0
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "gelochelidon-nilotica-aa4bb8",
+   "text": "The gull-billed tern has a short, thick gull-like bill, broad wings, long legs and a robust body that set it apart from most terns.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Description",
+   "quote": "the short thick gull-like bill, broad wings, long legs and robust body are distinctive."
+  },
+  {
+   "id": "gelochelidon-nilotica-8f59d6",
+   "text": "In summer the adult shows grey upperparts, white underparts, a black cap and a strong black bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Description",
+   "quote": "The summer adult has grey upperparts, white underparts, a black cap, strong black bill and black legs."
+  },
+  {
+   "id": "gelochelidon-nilotica-3a0a98",
+   "text": "In winter the black cap is lost and replaced by a dark patch through the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Description",
+   "quote": "In winter, the cap is lost, and there is a dark patch through the eye like a Forster's tern or a Mediterranean gull."
+  },
+  {
+   "id": "gelochelidon-nilotica-afe739",
+   "text": "It nests in colonies on lakes, marshes and coasts, laying two to five eggs in a ground scrape.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Breeding",
+   "quote": "The gull-billed tern breeds in colonies on lakes, marshes and coasts (including bays and earthen levees). It nests in a ground scrape and lays two to five eggs."
+  },
+  {
+   "id": "gelochelidon-nilotica-968e43",
+   "text": "Unlike most terns, it does not normally plunge dive for fish and has a broader diet than most other terns.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Food_and_feeding",
+   "quote": "It does not normally plunge dive for fish like the other white terns, and has a broader diet than most other terns."
+  },
+  {
+   "id": "gelochelidon-nilotica-de05aa",
+   "text": "It largely feeds on insects caught in flight, and also hunts over wet fields for amphibians and small mammals.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Food_and_feeding",
+   "quote": "It largely feeds on insects taken in flight, and also often hunts over wet fields and even in brushy areas, to take amphibians and small mammals."
+  },
+  {
+   "id": "gelochelidon-nilotica-5eb409",
+   "text": "It is an opportunistic feeder and has been seen picking up dead dragonflies from roads.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Food_and_feeding",
+   "quote": "It is also an opportunistic feeder, and has been observed to pick up and feed on dead dragonflies from the road."
+  },
+  {
+   "id": "gelochelidon-nilotica-cc82b9",
+   "text": "The species breeds across southern Europe, Asia, both coasts of North America and eastern South America.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Distribution_and_habitat",
+   "quote": "It breeds in warmer parts of the world in southern Europe, temperate and eastern Asia, both coasts of North America, eastern South America."
+  },
+  {
+   "id": "gelochelidon-nilotica-75b8e3",
+   "text": "The genus name Gelochelidon combines the Ancient Greek for \"to laugh\" with the word for swallow.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Gull-billed_tern#Taxonomy",
+   "quote": "The genus name combines the Ancient Greek gelaō meaning \"to laugh\" with khelidōn meaning \"swallow\"."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1373988421
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Ptilotula penicillata",
+ "com": "White-plumed Honeyeater",
+ "slug": "ptilotula-penicillata",
+ "wikipedia": {
+  "title": "White-plumed honeyeater",
+  "url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater",
+  "revid": 1375913942
+ },
+ "ala": {
+  "name": "Ptilotula penicillata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2586,
+   1726,
+   1696,
+   2037,
+   2058,
+   1767,
+   1886,
+   1990,
+   2122,
+   2279,
+   1654,
+   1629
+  ],
+  "total": 23862,
+  "share": 0.0058147
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.9,
+   0.89,
+   0.91,
+   1.01,
+   1.25,
+   1.21,
+   1.24,
+   1.14,
+   1.04,
+   0.78,
+   0.82,
+   0.82
+  ]
+ },
+ "facts": [
+  {
+   "id": "ptilotula-penicillata-b3b76b",
+   "text": "The white-plumed honeyeater gets its name from the white neck-plumes that band its neck.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Description",
+   "quote": "the distinguishing feature of the White-plumed honeyeater is the distil white bands at its neck called neck-plumes. This is where its name is derived from"
+  },
+  {
+   "id": "ptilotula-penicillata-3c8115",
+   "text": "It is a medium-sized honeyeater with a yellowish head, pale grey-brown underparts and yellowish-olive feathers on its back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Description",
+   "quote": "It is a medium-sized honeyeater with a yellowish head, pale grey-brown plumage below and yellowish-olive feathers on its back."
+  },
+  {
+   "id": "ptilotula-penicillata-4cf24c",
+   "text": "Its brush-tipped tongue has about 60 bristles that mop up nectar from flowers.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Foraging_Behaviour",
+   "quote": "The tongue contains brush-like filaments, consisting of about 60 bristles, which are capable of mopping up nectar."
+  },
+  {
+   "id": "ptilotula-penicillata-b6c2ab",
+   "text": "Outside the breeding season it gathers in groups of 12 or more birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Social_behavior",
+   "quote": "This is a gregarious species, often found in groups of 12 or more individuals during the nonbreeding season, which then dissipate during breeding."
+  },
+  {
+   "id": "ptilotula-penicillata-2225aa",
+   "text": "Breeding males perform a song flight, climbing and undulating above the treetops before diving into a tree.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Courting_Behaviour",
+   "quote": "Males undertake a song flight display, with a slight climbing and undulating flight above treetops while singing. At the song's completion, the male dives quickly into a nearby tree."
+  },
+  {
+   "id": "ptilotula-penicillata-a42daa",
+   "text": "The female weaves a cup nest from grasses and bark strips, bound with spider webs and lined with hair, wool and feathers.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Nests",
+   "quote": "These are skillfully woven from grasses and fine bark strips, bound with spider webs, and lined with animal hair, wool, and feathers."
+  },
+  {
+   "id": "ptilotula-penicillata-89a7ff",
+   "text": "Eggs hatch after 13-15 days of incubation, and both parents feed the chicks for 11-15 days in the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Nests",
+   "quote": "Incubation of eggs is most likely solely by the female for a period of 13–15 days. Both parents feed the offspring during the nestling period of 11–15 days"
+  },
+  {
+   "id": "ptilotula-penicillata-e0f859",
+   "text": "Its nests are parasitised by pallid and fan-tailed cuckoos and by bronze-cuckoos.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater#Nests",
+   "quote": "The nests are parasitized by pallid (Cacomantis pallidus) and fan-tailed cuckoos (Cacomantis flabelliformis) and Horsfield's (Chrysococcyx basalis) and shining bronze-cuckoos (Chrysococcyx lucidus)."
+  },
+  {
+   "id": "ptilotula-penicillata-582e99",
+   "text": "It has a strong association with River Red Gums and favours woodlands and riverside areas.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-plumed_honeyeater",
+   "quote": "White-Plumed Honeyeaters exhibit a preference for woodlands and riparian areas and have a very strong association with River Red Gums."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375913942
+ }
+}

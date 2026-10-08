@@ -3,6 +3,9 @@ data/
 state/
 editions/
 
+# Fetched Wikipedia/ALA text: a rebuildable cache (build_kb.py sources)
+knowledge/.sources/
+
 # Local
 .venv/
 private-terms.txt

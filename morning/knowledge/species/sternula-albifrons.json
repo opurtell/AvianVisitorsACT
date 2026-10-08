@@ -1,0 +1,138 @@
+{
+ "sci": "Sternula albifrons",
+ "com": "Little Tern",
+ "slug": "sternula-albifrons",
+ "wikipedia": {
+  "title": "Little tern",
+  "url": "https://en.wikipedia.org/wiki/Little_tern",
+  "revid": 1369130856
+ },
+ "ala": {
+  "name": "Sternula albifrons",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
+  ],
+  "total": 2,
+  "share": 5e-07
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   4.87,
+   0.0,
+   7.13
+  ]
+ },
+ "facts": [
+  {
+   "id": "sternula-albifrons-7f3068",
+   "text": "The little tern is a small seabird that breeds on coasts and inland waterways and winters in subtropical and tropical oceans as far south as Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern",
+   "quote": "It is widely distributed breeding on the coasts and inland waterways of Europe, Asia, north and west Africa, and eastern Australia. It winters in the subtropical and tropical oceans as far south as South Africa and Australia."
+  },
+  {
+   "id": "sternula-albifrons-6ed466",
+   "text": "It is 21–25 cm long with a 41–47 cm wingspan.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Description",
+   "quote": "This is a small tern, 21–25 cm long with a 41–47 cm wingspan."
+  },
+  {
+   "id": "sternula-albifrons-046d58",
+   "text": "In breeding plumage it has a white forehead, a thin sharp yellow bill with a black tip, and yellow legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Description",
+   "quote": "Its thin sharp bill is yellow with a black tip and its legs are also yellow."
+  },
+  {
+   "id": "sternula-albifrons-037c34",
+   "text": "In winter its plumage changes: the forehead becomes more extensively white, the bill turns black and the legs look duller.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Description",
+   "quote": "In winter, the forehead is more extensively white, the bill is black and the legs duller."
+  },
+  {
+   "id": "sternula-albifrons-084cd8",
+   "text": "The little tern breeds in colonies on gravel or shingle coasts and islands.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Habitat_and_behaviour",
+   "quote": "The little tern breeds in colonies on gravel or shingle coasts and islands."
+  },
+  {
+   "id": "sternula-albifrons-d43372",
+   "text": "It lays two to four eggs on the ground and will attack intruders to defend its nest and young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Habitat_and_behaviour",
+   "quote": "It lays two to four eggs on the ground. Like all white terns, it is defensive of its nest and young and will attack intruders."
+  },
+  {
+   "id": "sternula-albifrons-e24f6a",
+   "text": "It feeds by plunge-diving for fish, either along the coast or along larger rivers inland.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Habitat_and_behaviour",
+   "quote": "the little tern feeds by plunge-diving for fish, either in coastal saline environments, or inland, along larger rivers."
+  },
+  {
+   "id": "sternula-albifrons-250f2e",
+   "text": "During courtship, the male offers fish to the female.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Habitat_and_behaviour",
+   "quote": "The offering of fish by the male to the female is part of the courtship display."
+  },
+  {
+   "id": "sternula-albifrons-cbf716",
+   "text": "Its call is a loud and distinctive creaking noise.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Habitat_and_behaviour",
+   "quote": "The call is a loud and distinctive creaking noise."
+  },
+  {
+   "id": "sternula-albifrons-5ad7b6",
+   "text": "Only about 15 pairs still breed along the border between Hungary and Croatia, where WWF and partners work to protect the species.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Little_tern#Populations_on_European_rivers",
+   "quote": "Only 15 pairs still breed on extensive sand or gravel banks along the border between Hungary and Croatia. The WWF and its partners are involved in working for the protection of this bird and this unique European river ecosystem."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1369130856
+ }
+}

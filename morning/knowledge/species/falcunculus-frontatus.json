@@ -1,0 +1,131 @@
+{
+ "sci": "Falcunculus frontatus",
+ "com": "Crested Shrike-tit",
+ "slug": "falcunculus-frontatus",
+ "wikipedia": {
+  "title": "Eastern shriketit",
+  "url": "https://en.wikipedia.org/wiki/Eastern_shriketit",
+  "revid": 1337115616
+ },
+ "ala": {
+  "name": "Falcunculus frontatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   166,
+   85,
+   74,
+   74,
+   79,
+   61,
+   52,
+   27,
+   40,
+   93,
+   114,
+   76
+  ],
+  "total": 941,
+  "share": 0.0002293
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   1.49,
+   1.13,
+   1.03,
+   0.95,
+   1.24,
+   1.09,
+   0.88,
+   0.4,
+   0.51,
+   0.83,
+   1.47,
+   0.99
+  ]
+ },
+ "facts": [
+  {
+   "id": "falcunculus-frontatus-00b059",
+   "text": "The eastern shriketit is also known as the bark tit, crested tit or yellow-bellied tit.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit",
+   "quote": "It is also known as bark tit, crested tit or yellow-bellied tit."
+  },
+  {
+   "id": "falcunculus-frontatus-c9ad0d",
+   "text": "The eastern shriketit has a large bill with which to lever and strip bark.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Description",
+   "quote": "It has a large bill with which to lever and strip bark."
+  },
+  {
+   "id": "falcunculus-frontatus-d090c8",
+   "text": "The male eastern shriketit can raise an erectile crest, and has a black throat unlike the olive-brown throat of the female.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Description",
+   "quote": "The male has an erectable crest. It has a large bill with which to lever and strip bark. The throat of the male is black, whereas that of the female is olive-brown."
+  },
+  {
+   "id": "falcunculus-frontatus-30a4b9",
+   "text": "The eastern shriketit's call is a weak, mellow and mournful whistle, and it can perfectly mimic many species within its habitat.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Vocalisation",
+   "quote": "The call of the eastern shriketit is a weak, mellow and mournful whistle, sounding like whiert, whit-whit, wheeir. It also makes repeated stuttering or chuckling calls described as \"knock-at-the-door\", and can perfectly mimic many species within its habitat."
+  },
+  {
+   "id": "falcunculus-frontatus-fb74e9",
+   "text": "The eastern shriketit tears bark with its strong bill to find spiders, beetles and insect larvae, and has even been seen using a twig as a tool to poke insects out of crevices.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Feeding",
+   "quote": "levering up and tearing bark with its strong bill to reveal prey of spiders, beetles and insect larvae. As an avian example of tool-use, it has been observed holding a twig in its bill and poking it into a crevice to obtain concealed insects."
+  },
+  {
+   "id": "falcunculus-frontatus-d303c9",
+   "text": "The eastern shriketit's nest is a deep cup of bark fibre bound with spider-web, lined with fine grass and lichen, placed up to 30 m above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Breeding",
+   "quote": "The nest is a deep cup of bark fibre bound with spider-web, and lined with fine grass and lichen. It is usually placed among the highest twigs of a eucalypt sapling, from 5–30 m above ground where it is protected from the reach of predators."
+  },
+  {
+   "id": "falcunculus-frontatus-7bb36c",
+   "text": "Clutches of 2 or 3 eggs are incubated mainly by the female for 15 or 16 days, and the young leave the nest after 14 to 17 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Breeding",
+   "quote": "A clutch of 2 or 3 eggs, whitish with brown or slate-grey spots, and measuring 24 mm × 15 mm (0.9 in × 0.6 in), is incubated for 15 or 16 days mainly by the female. The young are altricial and nidicolous, fledging 14 to 17 days after hatching"
+  },
+  {
+   "id": "falcunculus-frontatus-a8c476",
+   "text": "The eastern shriketit prefers the canopy of eucalypt forests and open woodlands, and is also found in trees along rivers and occasionally in rainforests.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Distribution_and_habitat",
+   "quote": "Its preferred habitat is the canopy of eucalypt forests and open woodlands, and to a lesser extent stands of mallee, cypress-pine, coastal tea-tree and banksia. It is also found in trees along rivers and occasionally in rainforests."
+  },
+  {
+   "id": "falcunculus-frontatus-f5641b",
+   "text": "The eastern shriketit is endemic to Australia, ranging from tropical Queensland's Atherton Tablelands south to the Mount Lofty Ranges of South Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_shriketit#Distribution_and_habitat",
+   "quote": "The eastern shriketit is endemic to Australia. It is found in the Atherton Tablelands of tropical Queensland, southward through New South Wales and Victoria, including the Murray-Darling basin, to the Mount Lofty Ranges and Fleurieu Peninsula of South Australia."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1337115616
+ }
+}

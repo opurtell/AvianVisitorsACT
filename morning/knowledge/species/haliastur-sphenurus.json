@@ -1,0 +1,131 @@
+{
+ "sci": "Haliastur sphenurus",
+ "com": "Whistling Kite",
+ "slug": "haliastur-sphenurus",
+ "wikipedia": {
+  "title": "Whistling kite",
+  "url": "https://en.wikipedia.org/wiki/Whistling_kite",
+  "revid": 1375762951
+ },
+ "ala": {
+  "name": "Haliastur sphenurus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   282,
+   246,
+   305,
+   351,
+   269,
+   217,
+   239,
+   263,
+   245,
+   328,
+   233,
+   229
+  ],
+  "total": 3215,
+  "share": 0.0007834
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.71,
+   0.92,
+   1.19,
+   1.27,
+   1.19,
+   1.09,
+   1.14,
+   1.1,
+   0.87,
+   0.82,
+   0.84,
+   0.84
+  ]
+ },
+ "facts": [
+  {
+   "id": "haliastur-sphenurus-8cb32b",
+   "text": "The whistling kite is named for its loud whistling call, which it often gives while flying.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite",
+   "quote": "Also called the whistling eagle or whistling hawk, it is named for its loud whistling call, which it often gives in flight."
+  },
+  {
+   "id": "haliastur-sphenurus-b2f326",
+   "text": "It is one of only three birds known to set or spread fires deliberately to catch prey fleeing the flames.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite",
+   "quote": "It is one of three birds that intentionally sets or spreads fires to catch prey. The other two are the black kite and brown falcon."
+  },
+  {
+   "id": "haliastur-sphenurus-8dae43",
+   "text": "Females can be up to 21% larger and 42% heavier than males.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Description",
+   "quote": "though there is considerable overlap between the sexes, females can be up to 21% larger and 42% heavier."
+  },
+  {
+   "id": "haliastur-sphenurus-86cfde",
+   "text": "Adults have pale buff heads, breasts and tails, with browner wings and black flight feathers.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Description",
+   "quote": "Adult birds are a pale buff on the head, breast and tail, with browner wings and black flight feathers."
+  },
+  {
+   "id": "haliastur-sphenurus-defc3c",
+   "text": "Its most common call is a clear descending whistle, often followed by a rapid series of rising notes.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Voice",
+   "quote": "Its most common call is a clear descending whistle, often followed (less often preceded) by a rapid series of rising notes."
+  },
+  {
+   "id": "haliastur-sphenurus-e5e986",
+   "text": "Spotted bowerbirds in a Queensland park regularly mimic its calls, for reasons that remain unknown.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Voice",
+   "quote": "spotted bowerbirds (Chlamydera maculata) in that park regularly mimic the calls of whistling kites, with the frequency of mimicry increasing as the breeding season progresses. The function of this mimicry is unknown."
+  },
+  {
+   "id": "haliastur-sphenurus-a666f7",
+   "text": "It sometimes carries burning sticks and drops them on unburnt areas to flush out prey near grass fires.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Feeding",
+   "quote": "hover over the edges of grass fires in search of potential prey fleeing the flames, sometimes carrying burning sticks and dropping them on unburnt areas."
+  },
+  {
+   "id": "haliastur-sphenurus-036653",
+   "text": "Pairs re-use the same nest year after year, adding material annually until the stick platform becomes quite large.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Breeding",
+   "quote": "Pairs often re-use the same nest year after year, annually adding material until the platform becomes quite large."
+  },
+  {
+   "id": "haliastur-sphenurus-52995a",
+   "text": "The species is declining locally in southern Australia due to the drainage of wetlands and a resulting drop in food supplies.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Whistling_kite#Habitat",
+   "quote": "There is some evidence that the species is declining locally in southern Australia due to the drainage of wetlands and an accompanying decline in food supplies."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375762951
+ }
+}

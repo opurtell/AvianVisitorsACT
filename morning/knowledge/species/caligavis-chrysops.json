@@ -1,0 +1,124 @@
+{
+ "sci": "Caligavis chrysops",
+ "com": "Yellow-faced Honeyeater",
+ "slug": "caligavis-chrysops",
+ "wikipedia": {
+  "title": "Yellow-faced honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater",
+  "revid": 1359674671
+ },
+ "ala": {
+  "name": "Caligavis chrysops",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4588,
+   2247,
+   3353,
+   6260,
+   2061,
+   1118,
+   998,
+   1541,
+   4987,
+   7995,
+   3418,
+   3007
+  ],
+  "total": 42973,
+  "share": 0.0104717
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Mar",
+   "Apr",
+   "Oct"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   0.98,
+   0.71,
+   1.1,
+   1.91,
+   0.76,
+   0.47,
+   0.4,
+   0.54,
+   1.49,
+   1.68,
+   1.04,
+   0.92
+  ]
+ },
+ "facts": [
+  {
+   "id": "caligavis-chrysops-ae6be9",
+   "text": "The yellow-faced honeyeater takes its common and scientific names from the distinctive yellow stripes on the sides of its head.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater",
+   "quote": "It takes its common and scientific names from the distinctive yellow stripes on the sides of its head."
+  },
+  {
+   "id": "caligavis-chrysops-943463",
+   "text": "This honeyeater is one of the first birds heard in the morning, with the male singing from a roost beginning twenty or thirty minutes before dawn.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater#Vocalizations",
+   "quote": "One of the first birds heard in the morning, the yellow-faced honeyeater utters calls that are full and loud, and extremely varied. The male sings from a roost for up to an hour, beginning twenty or thirty minutes before dawn."
+  },
+  {
+   "id": "caligavis-chrysops-43ee4d",
+   "text": "Its cheerful song sounds like chick-up, chick-up, which gives the bird its common name of quitchup.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater#Vocalizations",
+   "quote": "The song is a running series of cheerful notes sounding like chick-up, chick-up, from which its common name of quitchup is derived."
+  },
+  {
+   "id": "caligavis-chrysops-72ef86",
+   "text": "The yellow-faced honeyeater feeds on insects about 60% of the time and on nectar around 40% of the time.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater#Feeding",
+   "quote": "Yellow-faced honeyeaters feed on nectar around 40% of the time, and on insects around 60% of the time."
+  },
+  {
+   "id": "caligavis-chrysops-fff66f",
+   "text": "Each autumn, hundreds of thousands of yellow-faced honeyeaters migrate north to southern Queensland, returning in spring to breed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater",
+   "quote": "Some yellow-faced honeyeaters are sedentary, but hundreds of thousands migrate northwards between March and May to spend the winter in southern Queensland, and return in July and August to breed in southern New South Wales and Victoria."
+  },
+  {
+   "id": "caligavis-chrysops-619eb1",
+   "text": "One bird repeatedly flew to a koala 36 metres away to pluck long hair from near its ears to line its nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater#Breeding",
+   "quote": "One bird was recorded repeatedly flying between the nest and a koala 36 metres (118 ft) away and plucking the long hair near its ears to incorporate in the nest."
+  },
+  {
+   "id": "caligavis-chrysops-aae95f",
+   "text": "The nests are so gauze-like that the eggs are visible through the walls, and they sometimes fall apart with eggs and nestlings dropping through the bottom.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater#Breeding",
+   "quote": "The nests are very fine, with the eggs visible through the gauze-like walls, and they sometimes fall apart. They have been known to disintegrate with eggs and nestlings falling through the bottom."
+  },
+  {
+   "id": "caligavis-chrysops-e3f804",
+   "text": "Although common and considered of least concern, the yellow-faced honeyeater is regarded as a pest in orchards in some areas.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-faced_honeyeater",
+   "quote": "As it is common and widespread, the yellow-faced honeyeater is considered by the International Union for Conservation of Nature (IUCN) to be of least concern for conservation. It is considered a pest in orchards in some areas."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1359674671
+ }
+}

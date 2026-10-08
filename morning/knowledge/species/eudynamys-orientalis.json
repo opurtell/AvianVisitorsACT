@@ -1,0 +1,131 @@
+{
+ "sci": "Eudynamys orientalis",
+ "com": "Pacific Koel",
+ "slug": "eudynamys-orientalis",
+ "wikipedia": {
+  "title": "Pacific koel",
+  "url": "https://en.wikipedia.org/wiki/Pacific_koel",
+  "revid": 1368844733
+ },
+ "ala": {
+  "name": "Eudynamys orientalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4955,
+   2451,
+   632,
+   26,
+   2,
+   2,
+   3,
+   1,
+   23,
+   1421,
+   3119,
+   4207
+  ],
+  "total": 17786,
+  "share": 0.0043341
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   2.75,
+   2.01,
+   0.54,
+   0.02,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.02,
+   0.78,
+   2.48,
+   3.38
+  ]
+ },
+ "facts": [
+  {
+   "id": "eudynamys-orientalis-363008",
+   "text": "The Pacific Koel is a brood parasite, laying its eggs in the nests of large honeyeaters such as noisy friarbirds and red wattlebirds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Behaviours",
+   "quote": "The Pacific koel is a brood parasite. In Australia, their hosts are mainly large honeyeaters (especially noisy friarbirds and red wattlebirds)."
+  },
+  {
+   "id": "eudynamys-orientalis-25b105",
+   "text": "Unlike most parasitic cuckoos, Pacific Koel chicks do not try to kill the host's own chicks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Behaviours",
+   "quote": "Unlike in other parasitic cuckoos, the young do not attempt to kill the host chicks."
+  },
+  {
+   "id": "eudynamys-orientalis-0f1b4a",
+   "text": "The males' repeated calls mark territory and advertise their availability to females at the start of breeding season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Behaviours",
+   "quote": "The calls indicate the start of breeding season and males would call repeatedly to mark their territory or communicate their availability to other females."
+  },
+  {
+   "id": "eudynamys-orientalis-a2765a",
+   "text": "The male Pacific Koel has black plumage often tinted with blue and green, and striking red eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Description",
+   "quote": "The Pacific Koel can be identified by its black plumage, often tinted with blue and green, and red eyes."
+  },
+  {
+   "id": "eudynamys-orientalis-19d6b7",
+   "text": "The female is brown on the back with white spots and has a cream-coloured underbelly with fine black stripes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Description",
+   "quote": "the female has brown plumage along the back with white spots and the underbelly is often cream coloured with fine black stripes"
+  },
+  {
+   "id": "eudynamys-orientalis-ef9132",
+   "text": "In Australia, seeing a Pacific Koel is traditionally taken as a sign that spring and the rainy season have arrived.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Behaviours",
+   "quote": "In Australia, the presence of the species is regarded as a sign of the arrival of spring and the rainy season."
+  },
+  {
+   "id": "eudynamys-orientalis-8a1964",
+   "text": "In northern Australia the Pacific Koel is colloquially known as the rainbird or stormbird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel",
+   "quote": "In northern Australia, it is colloquially known as the rainbird or stormbird."
+  },
+  {
+   "id": "eudynamys-orientalis-d88929",
+   "text": "Duetting between pairs may hint at short-term pair bonds in this otherwise polygynous bird.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Behaviours",
+   "quote": "A study of vocalization noted that the duetting behaviour may indicate the possibility of short-term pair-bonding in its otherwise polygynous mating system."
+  },
+  {
+   "id": "eudynamys-orientalis-779b01",
+   "text": "The Pacific Koel lives in forest, woodland, plantations and gardens, ranging east to the Solomon Islands and south to eastern Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pacific_koel#Distribution_and_habitat",
+   "quote": "It is found in forest, woodland, plantations and gardens from Wallacea east to the Solomon Islands and south to northern and eastern Australia."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1368844733
+ }
+}

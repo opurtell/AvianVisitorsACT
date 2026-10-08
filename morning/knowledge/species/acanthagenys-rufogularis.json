@@ -1,0 +1,138 @@
+{
+ "sci": "Acanthagenys rufogularis",
+ "com": "Spiny-cheeked Honeyeater",
+ "slug": "acanthagenys-rufogularis",
+ "wikipedia": {
+  "title": "Spiny-cheeked honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater",
+  "revid": 1315366006
+ },
+ "ala": {
+  "name": "Acanthagenys rufogularis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   85,
+   11,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4,
+   0,
+   1,
+   8,
+   3
+  ],
+  "total": 114,
+  "share": 2.78e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   7.99,
+   1.53,
+   0.29,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.62,
+   0.0,
+   0.09,
+   1.07,
+   0.41
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthagenys-rufogularis-2e7a70",
+   "text": "The spiny-cheeked honeyeater is large for a honeyeater, reaching 22 to 27 centimeters tall and weighing around 52 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater",
+   "quote": "It is large for a honeyeater, ranging from  22 to 27 centimeters (8.7 to 10.6 inches) tall and weighing around 52 grams."
+  },
+  {
+   "id": "acanthagenys-rufogularis-62abcd",
+   "text": "The spiny-cheeked honeyeater is sociable and aggressive, and is often seen foraging in large flocks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater",
+   "quote": "The birds are sociable, aggressive, and often observed foraging in large flocks."
+  },
+  {
+   "id": "acanthagenys-rufogularis-4efeb4",
+   "text": "Its beak is long and straight with a black tip, turning fleshy red or pink towards the chin.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Description",
+   "quote": "Its beak is long and straight with a black tip and a fleshy red or pink colour towards the chin and up to the gape."
+  },
+  {
+   "id": "acanthagenys-rufogularis-5e2240",
+   "text": "Young spiny-cheeked honeyeaters have a characteristic yellow cheek sash that is much less pronounced in adults.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Description",
+   "quote": "The juvenile bird has a characteristic yellow cheek sash, although this is less pronounced in the adult bird, where predominantly the cheek is white with a grey and/or brown streak under the cheek."
+  },
+  {
+   "id": "acanthagenys-rufogularis-22768c",
+   "text": "Breeding can happen in any month, but 75% of eggs in the eastern range appear between late August and mid-November.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Breeding",
+   "quote": "Breeding has been recorded in all months, and eggs have been found from June through to March; however, 75% of the eggs would be found between late August and mid-November in the eastern range of the bird."
+  },
+  {
+   "id": "acanthagenys-rufogularis-7a5696",
+   "text": "Its deep cup-shaped nest is woven from grass and spider silk and often lined with soft possum fur, hanging hammock-like between two branches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Breeding",
+   "quote": "The nests are deep and cup-shaped, woven with grass, spider silk, and spider egg-sacs. Often the nest is lined with soft materials, like possum fur or pussy tails."
+  },
+  {
+   "id": "acanthagenys-rufogularis-2fa456",
+   "text": "It is nomadic in northern Australia but tends to stay local in the south, and is common across its Australian range.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Habitat",
+   "quote": "They are considered a nomadic species; however, this seems to be more so in the northern parts of Australia. In the south, they tend to stay in local areas, and are considered to be resident."
+  },
+  {
+   "id": "acanthagenys-rufogularis-1ba0e0",
+   "text": "Nectar makes up about 38% of its diet, though it also eats insects, small lizards, spiders and larvae.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Feeding_adaptations",
+   "quote": "38% of their diet is nectar; however, insects, small lizards, spiders, and larvae are also in the diet."
+  },
+  {
+   "id": "acanthagenys-rufogularis-0011bc",
+   "text": "It lives in habitats ranging from scattered woodland and open woodlands to sparse and closed shrubland.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Habitat",
+   "quote": "Other habitats include scattered woodland, open woodlands, sparse shrubland, and closed shrubland."
+  },
+  {
+   "id": "acanthagenys-rufogularis-a06bb0",
+   "text": "It is found across most of Australia, but not east of the Great Dividing Range, Tasmania, the far south-west of Western Australia or the northern tropics.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater#Habitat",
+   "quote": "The spiny-cheeked honeyeater can be found in most locations throughout Australia, except east of the Great Dividing Range, Tasmania, the far south-west of Western Australia, and the northern Australian tropics."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315366006
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Bubulcus ibis",
+ "com": "Cattle Egret",
+ "slug": "bubulcus-ibis",
+ "wikipedia": {
+  "title": "Western cattle egret",
+  "url": "https://en.wikipedia.org/wiki/Western_cattle_egret",
+  "revid": 1375987262
+ },
+ "ala": {
+  "name": "Bubulcus ibis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   15,
+   3,
+   52,
+   55,
+   34,
+   13,
+   7,
+   7,
+   10,
+   48,
+   45,
+   7
+  ],
+  "total": 304,
+  "share": 7.41e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Jan",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   0.42,
+   0.13,
+   2.27,
+   2.23,
+   1.68,
+   0.73,
+   0.37,
+   0.33,
+   0.4,
+   1.34,
+   1.82,
+   0.29
+  ]
+ },
+ "facts": [
+  {
+   "id": "bubulcus-ibis-12a5d8",
+   "text": "In the breeding season the cattle egret develops orange-buff plumes and its bill, legs and irises turn bright red for a short time before pairing.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Description",
+   "quote": "During the breeding season, adults of the nominate western subspecies develop orange-buff plumes on the back, breast and crown, and the bill, legs and irises become bright red for a brief period prior to pairing."
+  },
+  {
+   "id": "bubulcus-ibis-c4f943",
+   "text": "The cattle egret usually gives only a quiet, throaty rick-rack call at the breeding colony and is otherwise largely silent.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Description",
+   "quote": "This species gives a quiet, throaty rick-rack call at the breeding colony, but is otherwise largely silent."
+  },
+  {
+   "id": "bubulcus-ibis-760111",
+   "text": "When foraging beside cattle, the egret is 3.6 times more successful at catching prey than when feeding alone.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Feeding",
+   "quote": "When foraging with cattle, it has been shown to be 3.6 times more successful in capturing prey than when foraging alone."
+  },
+  {
+   "id": "bubulcus-ibis-8fc6c3",
+   "text": "The cattle egret removes ticks and flies from cattle, benefiting both the bird and the beast.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret",
+   "quote": "The cattle egret removes ticks and flies from cattle and consumes them. This benefits both species"
+  },
+  {
+   "id": "bubulcus-ibis-a1371b",
+   "text": "On some islands, cattle egrets prey on the eggs and chicks of terns and other seabirds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Feeding",
+   "quote": "On islands with seabird colonies, it will prey on the eggs and chicks of terns and other seabirds."
+  },
+  {
+   "id": "bubulcus-ibis-e38467",
+   "text": "The male displays in a tree by shaking a twig and sky-pointing with his bill raised vertically, and the pair forms over three or four days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Breeding",
+   "quote": "The male displays in a tree in the colony, using a range of ritualised behaviour such as shaking a twig and sky-pointing (raising his bill vertically upwards), and the pair forms over three or four days."
+  },
+  {
+   "id": "bubulcus-ibis-49e0a7",
+   "text": "The nest is an untidy stick platform built by both parents, with the male collecting sticks and the female arranging them, and stick-stealing is rife.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Breeding",
+   "quote": "The nest is a small untidy platform of sticks in a tree or shrub constructed by both parents. Sticks are collected by the male and arranged by the female, and stick-stealing is rife."
+  },
+  {
+   "id": "bubulcus-ibis-192724",
+   "text": "In Australia, cattle egrets reduce the number of flies bothering cattle by pecking them straight off the skin.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Western_cattle_egret#Relationship_with_humans",
+   "quote": "A study in Australia found that cattle egrets reduced the number of flies that bothered cattle by pecking them directly off the skin."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375987262
+ }
+}

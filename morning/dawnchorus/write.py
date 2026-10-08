@@ -7,6 +7,8 @@ validation. The GLM writer returns the same keys.
 
 from datetime import datetime
 
+from . import kb
+
 NUMBER_WORDS = "no one two three four five six seven eight nine ten eleven twelve".split()
 
 
@@ -47,6 +49,26 @@ def regional_phrase(s):
     if s.regional_rarity >= 0.33:
         return "a moderately common bird around Canberra"
     return "one of the most widespread birds around Canberra"
+
+
+SEASON_PHRASE = {
+    "resident": "lives in the Canberra region year-round",
+    "summer migrant": "is a summer migrant to the Canberra region",
+    "winter visitor": "comes to the Canberra region mainly in winter",
+    "rare visitor": "is a rare visitor to the ACT",
+}
+
+
+def season_phrase(s):
+    """From ALA records (knowledge base); None when the data is too thin."""
+    sp = kb.species(s.sci)
+    season = sp and sp["seasonality"]
+    if not season or (season["confidence"] != "high" and season["class"] != "rare visitor"):
+        return None
+    text = SEASON_PHRASE[season["class"]]
+    if season["class"] in ("summer migrant", "winter visitor"):
+        text += f", most often recorded in {join(kb.MONTH_NAMES[kb.MONTHS.index(m)] for m in season['peak'])}"
+    return text
 
 
 def relative_to(t, ref, ref_name):
@@ -94,6 +116,9 @@ def lead_story(ed):
     region = regional_phrase(s)
     if region:
         history.append(f"BirdNET's range model rates it {region}.")
+    season = season_phrase(s)
+    if season:
+        history.append(f"Atlas of Living Australia records show it {season}.")
     if history:
         paras.append(" ".join(history))
     if s.dawn_first_at:
@@ -149,6 +174,6 @@ def template_prose(ed):
         "lead_story": lead_story(ed) if ed.lead else [],
         "dawn_paragraph": dawn_paragraph(ed),
         "regular_column": regular_column(ed),
-        "did_you_know": [],   # from the knowledge base, phase 2
+        "did_you_know": [{"com": s.com, "text": f["text"], "source_url": f["source_url"]} for s, f in ed.facts],
         "source": "template",
     }

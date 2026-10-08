@@ -1,0 +1,138 @@
+{
+ "sci": "Sphecotheres vieilloti",
+ "com": "Australasian Figbird",
+ "slug": "sphecotheres-vieilloti",
+ "wikipedia": {
+  "title": "Australasian figbird",
+  "url": "https://en.wikipedia.org/wiki/Australasian_figbird",
+  "revid": 1306391166
+ },
+ "ala": {
+  "name": "Sphecotheres vieilloti",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4,
+   3,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   8,
+   1,
+   21
+  ],
+  "total": 41,
+  "share": 1e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   0.91,
+   1.01,
+   0.0,
+   0.65,
+   0.4,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.8,
+   0.33,
+   6.91
+  ]
+ },
+ "facts": [
+  {
+   "id": "sphecotheres-vieilloti-fbb8e9",
+   "text": "The Australasian figbird is also known as the green figbird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird",
+   "quote": "The Australasian figbird (Sphecotheres vieilloti), also known as the green figbird (not to be confused with the Timor figbird), is a conspicuous, medium-sized passerine bird"
+  },
+  {
+   "id": "sphecotheres-vieilloti-8439c8",
+   "text": "The Australasian figbird is probably the largest of the Old World orioles, weighing around 111 to 130 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Description",
+   "quote": "With a body mass of around 111 to 130 g (3.9 to 4.6 oz), it is probably the largest of the Old World orioles."
+  },
+  {
+   "id": "sphecotheres-vieilloti-50abd9",
+   "text": "Male Australasian figbirds have a black head, bright red facial skin, and a black bill with a red base.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Description",
+   "quote": "Males of all subspecies have a black tail with broad white tips to the outer rectrices, white crissum (the undertail coverts surrounding the cloaca), blackish primaries, a black head, distinct bright red facial skin, a black bill with a red base, and pinkish legs."
+  },
+  {
+   "id": "sphecotheres-vieilloti-1e3c8e",
+   "text": "Female Australasian figbirds are drab, dull brownish above and white below with strong dark streaking.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Description",
+   "quote": "Females are drab-coloured, being dull brownish above, and white below with strong dark streaking."
+  },
+  {
+   "id": "sphecotheres-vieilloti-fabfcf",
+   "text": "The Australasian figbird can mimic the voices of other birds, such as parrots and other orioles.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Description",
+   "quote": "Australasian figbirds make a large number of different short calls, and are also able to mimic the voices of other birds, for example parrots and other species of orioles."
+  },
+  {
+   "id": "sphecotheres-vieilloti-2cd36b",
+   "text": "The Australasian figbird's song consists of a series of simple whistles.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Description",
+   "quote": "The song consists of a series of simple whistles."
+  },
+  {
+   "id": "sphecotheres-vieilloti-dbb49a",
+   "text": "Australasian figbirds eat mostly fruit, but also take small insects, nectar and small seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Behaviour_and_ecology",
+   "quote": "As suggested by their name, Australasian figbirds are largely frugivorous, but also take small insects, nectar and small seeds."
+  },
+  {
+   "id": "sphecotheres-vieilloti-f62787",
+   "text": "Unlike most orioles, Australasian figbirds are gregarious, forming flocks of 20 to 40 birds outside the breeding season.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Behaviour_and_ecology",
+   "quote": "Unlike most orioles, Australasian figbirds are gregarious, often forming flocks of 20 to 40 birds during the nonbreeding season, and even breeding in small, loose colonies."
+  },
+  {
+   "id": "sphecotheres-vieilloti-5589a9",
+   "text": "The Australasian figbird's clutch of two to four eggs is incubated by both sexes and hatches after 16–17 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Behaviour_and_ecology",
+   "quote": "The clutch of two to four eggs is incubated by both sexes, and typically hatches after 16–17 days."
+  },
+  {
+   "id": "sphecotheres-vieilloti-dac78d",
+   "text": "Australasian figbirds sometimes nest near spangled drongos and helmeted friarbirds, which may keep nest predators away.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_figbird#Behaviour_and_ecology",
+   "quote": "It has been recorded nesting near the aggressive spangled drongo and helmeted friarbird, possibly gaining an advantage as they keep potential nest predators away."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1306391166
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Ninox boobook",
+ "com": "Southern Boobook",
+ "slug": "ninox-boobook",
+ "wikipedia": {
+  "title": "Australian boobook",
+  "url": "https://en.wikipedia.org/wiki/Australian_boobook",
+  "revid": 1371483999
+ },
+ "ala": {
+  "name": "Ninox (Ninox) boobook",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   295,
+   259,
+   280,
+   344,
+   191,
+   69,
+   61,
+   166,
+   215,
+   388,
+   229,
+   259
+  ],
+  "total": 3025,
+  "share": 0.0007371
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   0.92,
+   1.19,
+   1.35,
+   1.54,
+   1.04,
+   0.43,
+   0.36,
+   0.85,
+   0.94,
+   1.2,
+   1.02,
+   1.17
+  ]
+ },
+ "facts": [
+  {
+   "id": "ninox-boobook-95b4f9",
+   "text": "It is the smallest owl on the Australian mainland, measuring 27 to 36 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Description",
+   "quote": "The smallest owl on the Australian mainland, the Australian boobook is 27 to 36 cm (10.5 to 14 in) long."
+  },
+  {
+   "id": "ninox-boobook-e55f1d",
+   "text": "Its eyes have been described as grey-green, green-yellow, or even light hazel.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Description",
+   "quote": "The eyes have been described as grey-green, green-yellow, or even light hazel."
+  },
+  {
+   "id": "ninox-boobook-ea14d6",
+   "text": "It hunts by pouncing on prey from a perch such as a fence, branch, or telegraph pole, then retreats to a tree to eat it.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Feeding",
+   "quote": "Using a fence, branch, or telegraph pole as a perch or vantage point from which to hunt, the Australian boobook pounces on prey then retreats to a tree or elevated place to eat it."
+  },
+  {
+   "id": "ninox-boobook-a75392",
+   "text": "It often hunts near street- or house-lights where flying insects gather, making it a familiar presence in suburban backyards.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Feeding",
+   "quote": "It often hunts in open areas near trees, and also where prey is likely to congregate, such as mice near haystacks or barns, or flying insects near street- or house-lights."
+  },
+  {
+   "id": "ninox-boobook-b02bac",
+   "text": "The female alone incubates the eggs and is fed by the male, taking a brief dusk break of around half an hour, sometimes to bathe.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Breeding",
+   "quote": "The female alone incubates the eggs, during which time she is fed by the male. She does leave the nest at dusk for around half an hour, sometimes to bathe."
+  },
+  {
+   "id": "ninox-boobook-f5281f",
+   "text": "It is assessed as being of least concern thanks to its large range and apparently stable population.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook",
+   "quote": "The International Union for Conservation of Nature has assessed the Australian boobook as being of least concern on account of its large range and apparently stable population."
+  },
+  {
+   "id": "ninox-boobook-e57ce2",
+   "text": "Its two-note boo-book call can carry up to 1 km away, with the second note generally lower in pitch than the first.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Behaviour",
+   "quote": "The characteristic two-note boo-book call or hoot can be heard up to 1 km (0.6 mi) away, the second note generally lower in pitch than the first."
+  },
+  {
+   "id": "ninox-boobook-31c1ae",
+   "text": "The male hoots more often than the female, using his call to advertise his territory and when bringing food to his mate.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Behaviour",
+   "quote": "The male's hooting is higher pitched and of shorter duration, and is heard much more commonly than that of the female. He uses it as a contact call and to advertise his territory to females, as well as when bringing food to his mate or even before mating."
+  },
+  {
+   "id": "ninox-boobook-aaf6a8",
+   "text": "It roosts by day in densely foliated spots in trees, often keeping several roosting sites, and may use caves or ledges if no trees are suitable.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_boobook#Behaviour",
+   "quote": "It retires to densely foliated spots in trees in the daytime, each individual often having several roosting sites. Caves or ledges are alternative roosting sites if no suitable trees are available."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371483999
+ }
+}

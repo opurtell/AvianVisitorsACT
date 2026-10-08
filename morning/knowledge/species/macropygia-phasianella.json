@@ -1,0 +1,131 @@
+{
+ "sci": "Macropygia phasianella",
+ "com": "Brown Cuckoo-Dove",
+ "slug": "macropygia-phasianella",
+ "wikipedia": {
+  "title": "Brown cuckoo-dove",
+  "url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove",
+  "revid": 1369209491
+ },
+ "ala": {
+  "name": "Macropygia (Macropygia) phasianella",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3,
+   1,
+   11,
+   1,
+   1,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
+   1
+  ],
+  "total": 22,
+  "share": 5.4e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.08,
+   0.53,
+   6.13,
+   0.52,
+   0.63,
+   0.71,
+   1.36,
+   0.0,
+   0.0,
+   0.0,
+   0.52,
+   0.52
+  ]
+ },
+ "facts": [
+  {
+   "id": "macropygia-phasianella-8b5ca9",
+   "text": "The brown cuckoo-dove is a large dove, reaching 40 to 43 centimetres in length.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The brown cuckoo-dove is from 40 to 43 centimetres (16 to 17 in) in length."
+  },
+  {
+   "id": "macropygia-phasianella-780d1f",
+   "text": "Its feathers are a rich rusty-brown, with the short wings, long tail and back a darker shade.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The feathers are a rich rusty-brown colour, and the short wings, long tail and back are darker."
+  },
+  {
+   "id": "macropygia-phasianella-fc4578",
+   "text": "Male brown cuckoo-doves show a slight rose or green colouring on the nape and neck.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The males tend to have a slight rose/green colouration on their nape and neck."
+  },
+  {
+   "id": "macropygia-phasianella-1c86ae",
+   "text": "The brown cuckoo-dove's call is a very loud \"whoop-a whoop\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The call of this dove is a very loud \"whoop-a whoop\" with some differences depending on the subspecies involved."
+  },
+  {
+   "id": "macropygia-phasianella-0d857e",
+   "text": "It lives in rainforest, woodland, scrubland and areas of rainforest regrowth.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The brown cuckoo-dove inhabits rainforest, woodland, scrubland and rainforest regrowth areas."
+  },
+  {
+   "id": "macropygia-phasianella-a8654d",
+   "text": "The doves are often seen in pairs or groups and can be nomadic, moving around as food supplies change.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "The doves can often be seen in pairs or groups. Its diet consists of berries from both native plants and introduced weed species. They can be nomadic, depending on the supplies of food."
+  },
+  {
+   "id": "macropygia-phasianella-e691f4",
+   "text": "It eats berries from both native plants and introduced weed species.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "Its diet consists of berries from both native plants and introduced weed species."
+  },
+  {
+   "id": "macropygia-phasianella-43d069",
+   "text": "It flies short distances and low to the ground, but with great strength.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "They tend to fly short distances and low to the ground with great strength."
+  },
+  {
+   "id": "macropygia-phasianella-d3be74",
+   "text": "Breeding happens in spring and summer, with a nest that is a flat platform of sticks and vines in a tree fork or on a low tree.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_cuckoo-dove#Description",
+   "quote": "Breeding occurs in spring and summer. The nest is a flat platform of sticks and vines, either in a fork of a tree or on top of a low tree."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1369209491
+ }
+}

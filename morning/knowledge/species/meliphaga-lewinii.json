@@ -1,0 +1,138 @@
+{
+ "sci": "Meliphaga lewinii",
+ "com": "Lewin's Honeyeater",
+ "slug": "meliphaga-lewinii",
+ "wikipedia": {
+  "title": "Lewin's honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater",
+  "revid": 1332698754
+ },
+ "ala": {
+  "name": "Meliphaga (Meliphaga) lewinii",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   65,
+   59,
+   118,
+   63,
+   57,
+   25,
+   33,
+   92,
+   50,
+   67,
+   61,
+   60
+  ],
+  "total": 750,
+  "share": 0.0001828
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jun",
+   "Oct",
+   "Dec"
+  ],
+  "rel": [
+   0.71,
+   0.95,
+   1.99,
+   0.99,
+   1.09,
+   0.54,
+   0.68,
+   1.66,
+   0.77,
+   0.72,
+   0.95,
+   0.95
+  ]
+ },
+ "facts": [
+  {
+   "id": "meliphaga-lewinii-8e6ae0",
+   "text": "Lewin's honeyeater lives along the ranges of Australia's east coast and has a pale yellow semicircular ear-patch.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater",
+   "quote": "Lewin's honeyeater (Meliphaga lewinii) is a bird that inhabits the ranges along the east coast of Australia. It has a semicircular ear-patch, pale yellow in colour."
+  },
+  {
+   "id": "meliphaga-lewinii-28a9c4",
+   "text": "It is also known as the Yellow-eared Honeyeater.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater",
+   "quote": "Another name is Yellow-eared Honeyeater."
+  },
+  {
+   "id": "meliphaga-lewinii-3d426e",
+   "text": "The bird is dark greenish-grey with a creamy yellow gape and a black bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Description",
+   "quote": "It is dark greenish-grey in colour, with a creamy yellow gape (i.e., the fleshy corners of the mouth)."
+  },
+  {
+   "id": "meliphaga-lewinii-872f23",
+   "text": "Its large yellowish crescent-shaped ear-patches set it apart from most other honeyeaters.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Description",
+   "quote": "It has large, yellowish, crescent-shaped ear-patches, which distinguish it from other honeyeaters, apart from two similar, but smaller, species in tropical Queensland."
+  },
+  {
+   "id": "meliphaga-lewinii-2e66be",
+   "text": "Its strong machine gun-like rattling calls carry over long distances and betray where it is hiding.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Description",
+   "quote": "The strong 'machine gun-like' rattling notes of Lewin's honeyeater are heard over long distances, and reveal its presence in an area."
+  },
+  {
+   "id": "meliphaga-lewinii-0a6a73",
+   "text": "It mostly eats fruit, especially berries, but also takes insects and nectar, catching some insects on the wing.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Diet",
+   "quote": "Lewin's honeyeaters feed mostly on fruits, favouring berries and small fruits, but also eat insects and nectar."
+  },
+  {
+   "id": "meliphaga-lewinii-8d06f7",
+   "text": "Usually seen alone, it may gather in loose groups of up to 10 birds, feeding in upper branches and on tree trunks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Diet",
+   "quote": "Birds are normally seen alone, but may form loose groups of up to 10 birds. They feed in the upper branches and on the trunks of trees."
+  },
+  {
+   "id": "meliphaga-lewinii-f93b39",
+   "text": "Breeding runs from September to January, with a large cup nest bound together with spider web.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Breeding",
+   "quote": "Lewin's honeyeaters breed during September to January. The nest is a large cup of vegetation and other materials, bound together with spider web, and lined with soft material."
+  },
+  {
+   "id": "meliphaga-lewinii-15bac6",
+   "text": "Two to three oval eggs hatch after about 14 days, and the chicks leave the nest a further 14 days later.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Breeding",
+   "quote": "The two to three oval eggs are incubated for about 14 days, and the young birds leave the nest after a further 14 days."
+  },
+  {
+   "id": "meliphaga-lewinii-1f727d",
+   "text": "It prefers wetter parts of eastern Australia from northern Queensland to central Victoria, living in rainforest and wet sclerophyll forest.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Lewin%27s_honeyeater#Distribution_and_habitat",
+   "quote": "The Lewin's honeyeater prefers the wetter parts of eastern Australia, from northern Queensland to central Victoria. It is found in both rainforest and wet sclerophyll forest, and often wanders into more open woodland."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1332698754
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "sci": "Psophodes olivaceus",
+ "com": "Eastern Whipbird",
+ "slug": "psophodes-olivaceus",
+ "wikipedia": {
+  "title": "Eastern whipbird",
+  "url": "https://en.wikipedia.org/wiki/Eastern_whipbird",
+  "revid": 1375641918
+ },
+ "ala": {
+  "name": "Psophodes (Psophodes) olivaceus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   618,
+   286,
+   275,
+   147,
+   58,
+   71,
+   79,
+   151,
+   187,
+   377,
+   337,
+   250
+  ],
+  "total": 2836,
+  "share": 0.0006911
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.95,
+   1.34,
+   1.34,
+   0.67,
+   0.32,
+   0.44,
+   0.47,
+   0.79,
+   0.83,
+   1.18,
+   1.52,
+   1.14
+  ],
+  "computed": "summer migrant",
+  "reason": "Sedentary. The summer peak in ALA records follows bushwalkers into the ranges, not the birds"
+ },
+ "facts": [
+  {
+   "id": "psophodes-olivaceus-83c066",
+   "text": "The eastern whipbird is native to the east coast of Australia, where its whip-crack song is a familiar sound in eastern forests.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird",
+   "quote": "The eastern whipbird (Psophodes olivaceus) is an insectivorous passerine bird native to the east coast of Australia. Its whip-crack song is a familiar sound in forests of eastern Australia."
+  },
+  {
+   "id": "psophodes-olivaceus-da1635",
+   "text": "It is dark olive-green and black, with a distinctive white cheek patch, a black crest, and a long dark olive-green tail tipped with white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird",
+   "quote": "it is dark olive-green and black in colour with a distinctive white cheek patch and a black crest."
+  },
+  {
+   "id": "psophodes-olivaceus-711460",
+   "text": "The whipbird is heard much more often than seen, being a generally shy bird of the eastern Australian bush.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Description",
+   "quote": "The eastern whipbird is generally shy, and is heard much more often than seen."
+  },
+  {
+   "id": "psophodes-olivaceus-dbe9c8",
+   "text": "Its famous whip-crack call is usually a duet: the male produces the long note and whip crack, while the female delivers the following notes.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Description",
+   "quote": "The call is usually a duet between the male and female, the male producing the long note and whip crack and female the following notes."
+  },
+  {
+   "id": "psophodes-olivaceus-e60bc4",
+   "text": "Calls are most frequent in the early morning, with smaller peaks around noon and sunset.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Description",
+   "quote": "Calls are most frequent in the early morning, though do occur through the day with small peaks at noon and sunset."
+  },
+  {
+   "id": "psophodes-olivaceus-c76ed1",
+   "text": "Its call recordings have been used in films such as Bush Christmas (1983) and The Dark Crystal (1982).",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Description",
+   "quote": "The call samples have been used in many films such as: Bush Christmas (1983) and The Dark Crystal (1982)."
+  },
+  {
+   "id": "psophodes-olivaceus-0ead0d",
+   "text": "It is insectivorous, recovering insects from leaf litter on the forest floor.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Behaviour",
+   "quote": "The eastern whipbird is insectivorous, recovering insects from leaf litter on the forest floor."
+  },
+  {
+   "id": "psophodes-olivaceus-956a21",
+   "text": "Whipbirds are monogamous and may raise several broods in an extended breeding season from late winter through spring.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Breeding",
+   "quote": "Whipbirds are monogamous. Breeding occurs from late winter through spring; a loosely built bowl of twigs and sticks lined with softer material such as grasses, located in shrubs or trees less than 3–4 m (9.8–13.1 ft) above the ground. Several broods may occur in an extended breeding season."
+  },
+  {
+   "id": "psophodes-olivaceus-712fed",
+   "text": "The female incubates the eggs and broods the nestlings, while the male helps feed and cares for the fledglings for 6 weeks after they leave the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Breeding",
+   "quote": "The female incubates the eggs and broods the nestlings, though the male helps feed and take a more active role in looking after fledglings for 6 weeks after leaving the nest."
+  },
+  {
+   "id": "psophodes-olivaceus-52ee62",
+   "text": "It lives in wet temperate forests, including rainforests and wet sclerophyll forests, generally near water, and may be threatened by urbanisation.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_whipbird#Distribution_and_habitat",
+   "quote": "The eastern whipbird is found in wet temperate forests including both rainforests and wet sclerophyll forests, generally near water."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375641918
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Stizoptera bichenovii",
+ "com": "Double-barred Finch",
+ "slug": "stizoptera-bichenovii",
+ "wikipedia": {
+  "title": "Double-barred finch",
+  "url": "https://en.wikipedia.org/wiki/Double-barred_finch",
+  "revid": 1313700363
+ },
+ "ala": {
+  "name": "Stizoptera bichenovii",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   617,
+   502,
+   621,
+   663,
+   545,
+   348,
+   331,
+   353,
+   445,
+   470,
+   453,
+   323
+  ],
+  "total": 5828,
+  "share": 0.0014202
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Sep",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.89,
+   1.07,
+   1.38,
+   1.37,
+   1.37,
+   0.99,
+   0.9,
+   0.84,
+   0.9,
+   0.67,
+   0.93,
+   0.67
+  ]
+ },
+ "facts": [
+  {
+   "id": "stizoptera-bichenovii-7e3d2e",
+   "text": "The double-barred finch lives in dry savannah, grassland and shrubland across northern and eastern Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch",
+   "quote": "an estrildid finch found in dry savannah, tropical (lowland) dry grassland and shrubland habitats in northern and eastern Australia"
+  },
+  {
+   "id": "stizoptera-bichenovii-fe75ce",
+   "text": "It is also called the owl finch because of the dark ring of feathers around its face.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch",
+   "quote": "It is sometimes referred to as Bicheno's finch or as the owl finch, the latter of which owing to the dark ring of feathers around the face"
+  },
+  {
+   "id": "stizoptera-bichenovii-ca7ae0",
+   "text": "This little finch has a white face bordered with black, brown upperparts and white underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Description",
+   "quote": "It has a white face bordered with black, brown upperparts and throat, and white underparts"
+  },
+  {
+   "id": "stizoptera-bichenovii-2e4a3f",
+   "text": "Nests are built in grass, bushes or low trees, with four to six eggs per clutch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Behaviour",
+   "quote": "Nests are built in grass, bushes or low trees, with four to six eggs laid per clutch"
+  },
+  {
+   "id": "stizoptera-bichenovii-b9d016",
+   "text": "Its call is a soft tet or a louder peew, and its song is a soft fluting like the zebra finch's.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Behaviour",
+   "quote": "The call is a soft tet or a louder peew, and the song is a soft fluting, which is somewhat like the zebra finch"
+  },
+  {
+   "id": "stizoptera-bichenovii-533f0d",
+   "text": "The scientific name bichenovii honours James Ebenezer Bicheno, a colonial secretary of Van Diemen's Land.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Taxonomy",
+   "quote": "The specific epithet commemorates James Ebenezer Bicheno, a colonial secretary of Van Diemen's Land appointed in September 1842"
+  },
+  {
+   "id": "stizoptera-bichenovii-a6f91c",
+   "text": "The genus name Stizoptera combines Ancient Greek words meaning \"to tattoo\" and \"wing\".",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Taxonomy",
+   "quote": "The genus name combines the Ancient Greek stizō meaning \"to tattoo\" with pteron meaning \"wing\""
+  },
+  {
+   "id": "stizoptera-bichenovii-ba09f8",
+   "text": "A neat black line separates the finch's white throat from its white underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Description",
+   "quote": "The throat and underparts are separated by another black line."
+  },
+  {
+   "id": "stizoptera-bichenovii-7928ff",
+   "text": "The double-barred finch's wings are strikingly patterned in brown and white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Description",
+   "quote": "The wings are patterned in brown and white."
+  },
+  {
+   "id": "stizoptera-bichenovii-e5083c",
+   "text": "The double-barred finch was formally described in 1827 by Nicholas Vigors and Thomas Horsfield from Queensland specimens.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Double-barred_finch#Taxonomy",
+   "quote": "The double-barred finch was formally described in 1827 by the naturalists Nicholas Vigors and Thomas Horsfield from specimens collected near Shoalwater Bay and Broad Sound in Queensland, Australia."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1313700363
+ }
+}

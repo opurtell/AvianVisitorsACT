@@ -1,0 +1,124 @@
+{
+ "sci": "Anas platyrhynchos",
+ "com": "Mallard",
+ "slug": "anas-platyrhynchos",
+ "wikipedia": {
+  "title": "Mallard",
+  "url": "https://en.wikipedia.org/wiki/Mallard",
+  "revid": 1378020946
+ },
+ "ala": {
+  "name": "Anas (Anas) platyrhynchos",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   393,
+   235,
+   235,
+   218,
+   260,
+   197,
+   182,
+   243,
+   280,
+   316,
+   289,
+   219
+  ],
+  "total": 3083,
+  "share": 0.0007513
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Mar",
+   "Nov"
+  ],
+  "rel": [
+   1.06,
+   0.94,
+   0.98,
+   0.84,
+   1.23,
+   1.05,
+   0.93,
+   1.08,
+   1.06,
+   0.84,
+   1.12,
+   0.86
+  ]
+ },
+ "facts": [
+  {
+   "id": "anas-platyrhynchos-a6346e",
+   "text": "The male mallard is unmistakable, with a glossy bottle-green head and a white collar set off against a purple-tinged brown breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Description",
+   "quote": "The breeding male mallard is unmistakable, with a glossy bottle-green head and a white collar that demarcates the head and neck from the purple-tinged brown breast"
+  },
+  {
+   "id": "anas-platyrhynchos-599a75",
+   "text": "Both sexes carry a shiny purple-blue patch on the wing called a speculum, edged with white and prominent in flight.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Description",
+   "quote": "Both male and female mallards have distinct iridescent purple-blue speculum feathers edged with white, which are prominent in flight or at rest but temporarily shed during the annual summer moult."
+  },
+  {
+   "id": "anas-platyrhynchos-89afba",
+   "text": "The female's familiar quack often comes in a run of 2–10 quacks, starting loud and fading.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Vocal_behaviour",
+   "quote": "The female will often call with a sequence of 2–10 quacks in a row, starting loud and with the volume gradually decreasing."
+  },
+  {
+   "id": "anas-platyrhynchos-f622b1",
+   "text": "Urban mallards in London are much louder than rural ones, an adaptation to constant human noise, suggesting ducks have regional accents.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Vocal_behaviour",
+   "quote": "Research conducted by Middlesex University on two English mallard populations found that the vocalisations of the mallard varies depending on their environment and have something akin to a regional accent, with urban mallards in London being much louder and more vociferous compared to rural mallards in Cornwall"
+  },
+  {
+   "id": "anas-platyrhynchos-22375c",
+   "text": "In Romania, mallards were seen hunting small migratory birds on water, the first time they were documented eating large vertebrates.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Feeding",
+   "quote": "in 2017 a flock of mallards in Romania were observed hunting fledglings of small migratory birds when they land in the water, which included a grey wagtail and a black redstart. This was the first documented occasion they had been seen attacking and consuming large vertebrates."
+  },
+  {
+   "id": "anas-platyrhynchos-1b9749",
+   "text": "Ducklings can swim the moment they hatch, though they stay close to their mother to learn where to find food.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Breeding",
+   "quote": "The ducklings are precocial and fully capable of swimming as soon as they hatch. However, filial imprinting compels them to instinctively stay near the mother, not only for warmth and protection but also to learn about and remember their habitat as well as how and where to forage for food."
+  },
+  {
+   "id": "anas-platyrhynchos-91bb6f",
+   "text": "Outside the breeding season mallards gather in big flocks that are known as \"sordes\".",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#Feeding",
+   "quote": "It is highly gregarious outside of the breeding season and forms large flocks, which are known as \"sordes\"."
+  },
+  {
+   "id": "anas-platyrhynchos-b6ef63",
+   "text": "The mallard has been eaten since ancient times, with evidence of consumption in Neolithic Greece.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Mallard#As_food",
+   "quote": "The mallard has been eaten as food since ancient times, with evidence they were eaten in Neolithic Greece."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378020946
+ }
+}

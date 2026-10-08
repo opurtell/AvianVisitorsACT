@@ -1,0 +1,138 @@
+{
+ "sci": "Malurus lamberti",
+ "com": "Variegated Fairywren",
+ "slug": "malurus-lamberti",
+ "wikipedia": {
+  "title": "Variegated fairywren",
+  "url": "https://en.wikipedia.org/wiki/Variegated_fairywren",
+  "revid": 1376513040
+ },
+ "ala": {
+  "name": "Malurus (Leggeornis) lamberti",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   42,
+   49,
+   52,
+   19,
+   18,
+   22,
+   21,
+   63,
+   16,
+   40,
+   40,
+   64
+  ],
+  "total": 446,
+  "share": 0.0001087
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Oct"
+  ],
+  "rel": [
+   0.77,
+   1.33,
+   1.48,
+   0.5,
+   0.58,
+   0.8,
+   0.73,
+   1.91,
+   0.41,
+   0.73,
+   1.05,
+   1.7
+  ]
+ },
+ "facts": [
+  {
+   "id": "malurus-lamberti-2231c5",
+   "text": "The breeding male variegated fairywren sports a brilliant blue crown and ear coverts, a black throat and nape, and chestnut shoulders.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Description",
+   "quote": "The male in breeding plumage has striking bright blue ear coverts, with the crown often slightly darker, a black throat and nape, a royal blue upper back, chestnut shoulders and a bluish-grey tail."
+  },
+  {
+   "id": "malurus-lamberti-8fad8d",
+   "text": "The blue plumage of breeding males reflects ultraviolet light strongly, so it may look even more striking to other fairywrens.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Description",
+   "quote": "The blue plumage also reflects ultraviolet light strongly, and so may be even more prominent to other fairywrens, whose colour vision extends into that part of the spectrum."
+  },
+  {
+   "id": "malurus-lamberti-0c0872",
+   "text": "Male variegated fairywrens pluck yellow petals and present them to females as part of their courtship ritual.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Behaviour_and_ecology",
+   "quote": "Like other fairywrens, male variegated fairywrens have been observed carrying brightly coloured petals to display to females as part of a courtship ritual. In this species, the petals that have been recorded have been yellow."
+  },
+  {
+   "id": "malurus-lamberti-0ab610",
+   "text": "Its song is a high-pitched reel of short elements delivered 10-20 per second and lasting 1-4 seconds.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Vocalisations",
+   "quote": "The basic song type is a high-pitched reel of a large number of short elements (10–20 per second); this lasts 1–4 seconds."
+  },
+  {
+   "id": "malurus-lamberti-65c78e",
+   "text": "The variegated fairywren eats mostly insects, including ants, grasshoppers, bugs, flies, weevils and larvae.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Food_and_feeding",
+   "quote": "The variegated fairywren consumes a wide range of small creatures, mostly insects, including ants, grasshoppers, bugs, flies, weevils and various larvae."
+  },
+  {
+   "id": "malurus-lamberti-3038fd",
+   "text": "It mostly forages deep inside shrubby vegetation less than 2 m above the ground, unlike the more ground-foraging superb fairywren.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Food_and_feeding",
+   "quote": "Unlike the more ground-foraging superb fairywrens, they mostly forage deep inside shrubby vegetation, which is less than 2 m (7 ft) above the ground."
+  },
+  {
+   "id": "malurus-lamberti-f246ce",
+   "text": "It is a cooperative breeder, with a monogamous pair helped by several helper birds in raising the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren",
+   "quote": "Groups consist of a socially monogamous pair with several helper birds who assist in raising the young."
+  },
+  {
+   "id": "malurus-lamberti-3296a4",
+   "text": "The nest is a round or domed structure of grasses and spider webs, usually under 1 m above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Breeding",
+   "quote": "the nest is generally situated in thick vegetation and less than 1 m (3.3 ft) above the ground. It is a round or domed structure made of loosely woven grasses and spider webs, with an entrance in one side."
+  },
+  {
+   "id": "malurus-lamberti-02d52c",
+   "text": "Females incubate three or four matte white, reddish-brown splotched eggs for 14 to 16 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Breeding",
+   "quote": "A clutch consists of three or four matte white eggs with reddish-brown splotches and spots, measuring 12 mm × 16 mm (0.47 in × 0.63 in). The female incubates the eggs for 14 to 16 days"
+  },
+  {
+   "id": "malurus-lamberti-f8db49",
+   "text": "When predators threaten a nest, the variegated fairywren performs a 'rodent-run' display, running with lowered head and fluffed feathers while giving a continuous alarm call.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Variegated_fairywren#Threats",
+   "quote": "The variegated fairywren readily adopts a 'rodent-run' display to distract predators from nests with young birds. The head, neck and tail are lowered, the wings are held out and the feathers are fluffed as the bird runs rapidly and voices a continuous alarm call."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376513040
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Acanthiza lineata",
+ "com": "Striated Thornbill",
+ "slug": "acanthiza-lineata",
+ "wikipedia": {
+  "title": "Striated thornbill",
+  "url": "https://en.wikipedia.org/wiki/Striated_thornbill",
+  "revid": 1363743461
+ },
+ "ala": {
+  "name": "Acanthiza (Subacanthiza) lineata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1705,
+   1241,
+   1279,
+   1951,
+   1847,
+   1813,
+   1645,
+   1654,
+   1437,
+   2045,
+   954,
+   1013
+  ],
+  "total": 18926,
+  "share": 0.0046119
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.74,
+   0.79,
+   0.85,
+   1.2,
+   1.39,
+   1.55,
+   1.34,
+   1.17,
+   0.87,
+   0.87,
+   0.59,
+   0.63
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthiza-lineata-d26620",
+   "text": "The striated thornbill wears a russet- or orange-brown crown streaked with cream, and cream underparts heavily streaked with black.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Description",
+   "quote": "It has a russet- or orange-brown crown with cream streaks, dull yellow-olive upperparts, olive-grey flanks, and cream underparts heavily streaked with black."
+  },
+  {
+   "id": "acanthiza-lineata-445812",
+   "text": "The striated thornbill is a tiny bird, only 9–10 centimetres long and weighing around 7 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Description",
+   "quote": "The adult striated thornbill is 9–10 centimetres (3.5–3.9 in) long and weighs around 7 grams (0.25 oz)."
+  },
+  {
+   "id": "acanthiza-lineata-f7b8ea",
+   "text": "The striated thornbill feeds mostly on insects, gleaning them from leaves high in the canopy of eucalypt trees.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Feeding",
+   "quote": "The striated thornbill is predominantly insectivorous, generally forages in the canopy of eucalypt trees, gleaning leaves for prey."
+  },
+  {
+   "id": "acanthiza-lineata-8bc561",
+   "text": "It often hangs upside-down while foraging for food.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Feeding",
+   "quote": "It often hangs upside-down while foraging."
+  },
+  {
+   "id": "acanthiza-lineata-7848da",
+   "text": "The striated thornbill feeds on nectaries on sunshine wattle leaves, helping pollinate the plant as it brushes against flower heads.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Feeding",
+   "quote": "The striated thornbill also visits and feeds on extra-floral nectaries on the leaves of sunshine wattle (Acacia terminalis), helping pollinate the plant as it brushes against flower heads while feeding."
+  },
+  {
+   "id": "acanthiza-lineata-93ef21",
+   "text": "Outside the breeding season, striated thornbills form flocks of 7–20 birds from late summer to winter.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Breeding",
+   "quote": "Striated thornbills form flocks of 7–20 birds outside of breeding season from late summer to winter, before breaking up into groups of 2–4, composed of a breeding pair plus helper birds."
+  },
+  {
+   "id": "acanthiza-lineata-d6abc6",
+   "text": "When breeding time arrives, the flocks break into groups of 2–4 birds made up of a breeding pair plus helpers.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Breeding",
+   "quote": "before breaking up into groups of 2–4, composed of a breeding pair plus helper birds."
+  },
+  {
+   "id": "acanthiza-lineata-c3b9f8",
+   "text": "The striated thornbill is found only in Australia, where it lives in subtropical or tropical dry forests.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill",
+   "quote": "It is endemic to Australia, where its natural habitat is subtropical or tropical dry forests."
+  },
+  {
+   "id": "acanthiza-lineata-46a310",
+   "text": "A genetic study found the striated thornbill's ancestor diverged from that of the yellow thornbill around 6 million years ago.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_thornbill#Taxonomy",
+   "quote": "A 2017 genetic study using both mitochondrial and nuclear DNA found that the ancestor of the striated thornbill diverged from that of the yellow thornbill around 6 million years ago."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1363743461
+ }
+}

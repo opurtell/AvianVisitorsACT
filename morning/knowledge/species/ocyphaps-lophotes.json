@@ -1,0 +1,131 @@
+{
+ "sci": "Ocyphaps lophotes",
+ "com": "Crested Pigeon",
+ "slug": "ocyphaps-lophotes",
+ "wikipedia": {
+  "title": "Crested pigeon",
+  "url": "https://en.wikipedia.org/wiki/Crested_pigeon",
+  "revid": 1364543468
+ },
+ "ala": {
+  "name": "Ocyphaps lophotes",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12013,
+   8597,
+   7834,
+   8349,
+   7073,
+   6448,
+   6968,
+   7464,
+   7929,
+   10412,
+   7847,
+   8361
+  ],
+  "total": 106808,
+  "share": 0.026027
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.0,
+   1.06,
+   1.01,
+   1.0,
+   1.03,
+   1.06,
+   1.1,
+   1.02,
+   0.93,
+   0.86,
+   0.93,
+   1.01
+  ]
+ },
+ "facts": [
+  {
+   "id": "ocyphaps-lophotes-322259",
+   "text": "The crested pigeon is found widely across mainland Australia, only avoiding the far northern tropical areas.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon",
+   "quote": "The crested pigeon (Ocyphaps lophotes) is a bird found widely throughout mainland Australia except for the far northern tropical areas."
+  },
+  {
+   "id": "ocyphaps-lophotes-a2b032",
+   "text": "Only two Australian pigeon species have an erect crest, and the crested pigeon is the larger of the two.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon",
+   "quote": "Only two Australian pigeon species possess an erect crest, the crested pigeon and the spinifex pigeon. The crested pigeon is the larger of the two species."
+  },
+  {
+   "id": "ocyphaps-lophotes-d3ad05",
+   "text": "Its primary feathers shimmer with iridescent brown, purple, blue and green.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Description",
+   "quote": "the primary feathers have iridescent areas of brown, purple, blue, and green."
+  },
+  {
+   "id": "ocyphaps-lophotes-1a4baf",
+   "text": "When startled, it takes off with a whistling sound produced by air rushing over a modified wing feather.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Description",
+   "quote": "If startled, the crested pigeon takes to the air with a distinctive whistling 'call', the source of the noise can be attributed to the way the air rushes over a modified primary feather found on the wings."
+  },
+  {
+   "id": "ocyphaps-lophotes-416e86",
+   "text": "The wing whistle may draw predators away from pigeons still on the ground and serve as an alarm call.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Behaviour",
+   "quote": "This is most likely to draw the attention of predators to birds on the wing, and away from any birds remaining on the ground, and as an alarm call to other pigeons."
+  },
+  {
+   "id": "ocyphaps-lophotes-d78876",
+   "text": "Males perform an elaborate mating dance, bobbing up and down and fanning their wings, timed with soft hooting.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Breeding",
+   "quote": "they bob their bodies up and down, while opening and closing their wings like a fan with each bob. This is accompanied by a soft hooting which is timed with the bobbing."
+  },
+  {
+   "id": "ocyphaps-lophotes-3f577b",
+   "text": "Both parents incubate the two glossy white eggs, which hatch about three weeks after laying.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Breeding",
+   "quote": "They lay two oval, white, glossy eggs. The eggs usually hatch 3 weeks after they were laid. Both parents incubate the eggs."
+  },
+  {
+   "id": "ocyphaps-lophotes-223081",
+   "text": "It has adapted to grain farming areas and often feeds on the noxious weed Echium plantagineum.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Distribution_and_habitat",
+   "quote": "Foraging for grains, they have adapted to grain farming areas, often feeding on the noxious weed of Echium plantagineum."
+  },
+  {
+   "id": "ocyphaps-lophotes-db7858",
+   "text": "Its habitat expanded rapidly after settlement created pastoral lands, as it was previously only found inland and in Western Australia.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Crested_pigeon#Distribution_and_habitat",
+   "quote": "Their habitat has expanded rapidly since settlement has produced pastoral lands (previously they were only found in inland and Western Australia)."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1364543468
+ }
+}

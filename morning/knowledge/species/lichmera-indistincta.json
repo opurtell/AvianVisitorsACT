@@ -1,0 +1,138 @@
+{
+ "sci": "Lichmera indistincta",
+ "com": "Brown Honeyeater",
+ "slug": "lichmera-indistincta",
+ "wikipedia": {
+  "title": "Brown honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Brown_honeyeater",
+  "revid": 1314155513
+ },
+ "ala": {
+  "name": "Lichmera (Lichmera) indistincta",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   12,
+   0,
+   0,
+   0
+  ],
+  "total": 14,
+  "share": 3.4e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "low": [
+   "Jan",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.93,
+   0.87,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   10.2,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "lichmera-indistincta-fe8a3d",
+   "text": "The brown honeyeater is the only honeyeater found west of the Wallace Line, occurring on the island of Bali.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater",
+   "quote": "the brown honeyeater is unique in that it also occurs on the island of Bali, making it the only honeyeater to be found west of the Wallace Line"
+  },
+  {
+   "id": "lichmera-indistincta-07a071",
+   "text": "This plain grey-brown bird hides a small yellow patch behind the eye and dull yellow-olive panels in its folded wings and tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Appearance",
+   "quote": "The only distinguishing features are a small yellow patch behind the eye, which is indistinct in some birds, and dull yellow-olive panels in the folded wings and tail."
+  },
+  {
+   "id": "lichmera-indistincta-458076",
+   "text": "Its slender, slightly curved black bill is well adapted for probing deep into tubular flowers.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Appearance",
+   "quote": "The bill is black, and is long, slender, and curved slightly downwards, well adapted for probing deep tubular flowers."
+  },
+  {
+   "id": "lichmera-indistincta-a62830",
+   "text": "Both sexes call, usually early in the morning, though the male keeps calling throughout the day during the breeding season.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Vocalizations",
+   "quote": "Both sexes call, usually early in the morning, though the male calls throughout the day during the breeding season."
+  },
+  {
+   "id": "lichmera-indistincta-cfab75",
+   "text": "This busy acrobat hovers over flowers and chases insects in flight, feeding mainly in the canopy but sometimes on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Behaviour",
+   "quote": "A busy, acrobatic bird, the brown honeyeater is frequently on the wing, hovering over flowers and pursuing insects in flight."
+  },
+  {
+   "id": "lichmera-indistincta-2a1b2a",
+   "text": "Both parents build the woven cup nest of grass and soft bark, with the male standing guard while the female builds.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Breeding",
+   "quote": "Both sexes contribute to the nest building, though the male also stands guard while the female is building the nest."
+  },
+  {
+   "id": "lichmera-indistincta-aecba9",
+   "text": "Numbers are rising in urban parks and gardens, but this brings new dangers from cats, cars and window collisions.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Conservation_status",
+   "quote": "Numbers are increasing in urban areas, particularly in parks and gardens and around farms; however, the new habitats have increased the incidences of death from cats, cars and collisions with windows."
+  },
+  {
+   "id": "lichmera-indistincta-5dc0fc",
+   "text": "Its loud, clear, musical song has been described as the best of all the honeyeaters.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater",
+   "quote": "It has a loud, clear, musical song, described as the best of all the honeyeaters."
+  },
+  {
+   "id": "lichmera-indistincta-7611d4",
+   "text": "It is seasonally nomadic, following flowering food plants within its local area.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Distribution_and_habitat",
+   "quote": "The brown honeyeater is seasonally nomadic across its local area in response to flowering food plants."
+  },
+  {
+   "id": "lichmera-indistincta-e68519",
+   "text": "Its call sweet-sweet-quarty-quarty is very loud for the size of the bird.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_honeyeater#Vocalizations",
+   "quote": "It has a clear, rolling, musical call, rendered as sweet-sweet-quarty-quarty, which is very loud for the size of the bird."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1314155513
+ }
+}

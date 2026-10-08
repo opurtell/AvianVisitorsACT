@@ -1,0 +1,110 @@
+{
+ "sci": "Cinclosoma punctatum",
+ "com": "Spotted Quail-thrush",
+ "slug": "cinclosoma-punctatum",
+ "wikipedia": {
+  "title": "Spotted quail-thrush",
+  "url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+  "revid": 1315241503
+ },
+ "ala": {
+  "name": "Cinclosoma (Cinclosoma) punctatum",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   37,
+   50,
+   60,
+   44,
+   48,
+   25,
+   28,
+   16,
+   24,
+   61,
+   28,
+   25
+  ],
+  "total": 446,
+  "share": 0.0001087
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Aug",
+   "Sep",
+   "Dec"
+  ],
+  "rel": [
+   0.68,
+   1.37,
+   1.71,
+   1.16,
+   1.55,
+   0.91,
+   0.98,
+   0.49,
+   0.62,
+   1.11,
+   0.74,
+   0.67
+  ]
+ },
+ "facts": [
+  {
+   "id": "cinclosoma-punctatum-388c40",
+   "text": "The spotted quail-thrush belongs to the bird family Cinclosomatidae.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "The spotted quail-thrush (Cinclosoma punctatum) is a species of bird in the family Cinclosomatidae."
+  },
+  {
+   "id": "cinclosoma-punctatum-99b950",
+   "text": "The spotted quail-thrush is endemic to Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "It is endemic to Australia. Its natural habitat is subtropical, tropical and temperate dry forest."
+  },
+  {
+   "id": "cinclosoma-punctatum-51783d",
+   "text": "Its natural habitat is subtropical, tropical and temperate dry forest.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "Its natural habitat is subtropical, tropical and temperate dry forest."
+  },
+  {
+   "id": "cinclosoma-punctatum-fc0137",
+   "text": "The spotted quail-thrush is generally cryptic and terrestrial.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "It is generally cryptic and terrestrial."
+  },
+  {
+   "id": "cinclosoma-punctatum-8ccb62",
+   "text": "The spotted quail-thrush is a bird species endemic to Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "is a species of bird in the family Cinclosomatidae. It is endemic to Australia."
+  },
+  {
+   "id": "cinclosoma-punctatum-a68f32",
+   "text": "This ground-dwelling bird makes its home in subtropical, tropical and temperate dry forest.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_quail-thrush",
+   "quote": "Its natural habitat is subtropical, tropical and temperate dry forest. It is generally cryptic and terrestrial."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315241503
+ }
+}

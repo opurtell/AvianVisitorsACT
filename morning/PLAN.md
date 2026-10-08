@@ -6,7 +6,7 @@ short stories about specific birds (rare ones first, common ones in rotation)
 and sourced fun facts. Prose is written by `glm-5.3-flash` from facts the
 pipeline computes; the model never supplies numbers or facts of its own.
 
-Status: phases 0 and 1 done 2026-10-09; phase 2 (knowledge base) next (plan written 2026-10-09). Decided 2026-10-09:
+Status: phases 0, 1 and 2 done 2026-10-09; phase 3 (GLM writer) next. Decided 2026-10-09:
 public on GitHub Pages; the Pi joins the tailnet for greg's DB fetch.
 
 ## Constraints this must respect
@@ -109,7 +109,8 @@ morning/
   dawnchorus/
     fetch.py              # DB snapshot from the Pi
     analyse.py            # windows, rarity, firsts, hourly profile
-    kb.py                 # knowledge loader + fact rotation
+    kb.py                 # knowledge loader, seasonality, grounding, fact rotation
+    glm.py                # GLM client (JSON mode, quota detection)
     write.py              # GLM call, validation, template fallback
     render.py             # Jinja2 → static HTML
     publish.py            # github-pages | lan
@@ -117,7 +118,8 @@ morning/
   build_kb.py             # one-off knowledge build
   knowledge/
     species/<genus-species>.json
-    seasonal.yaml
+    seasonal.toml
+    overrides.toml        # taxonomy + seasonality corrections, with reasons
   templates/edition.html.j2, index.html.j2, styles.css
   deploy/dawnchorus.service, apply-schedule.py
   tests/
@@ -231,7 +233,7 @@ Changes from the plan above:
 4. **Grounding check:** a fact is kept only if its quote appears exactly in
    the fetched text.
 
-`knowledge/seasonal.yaml` is a short, hand-written Canberra calendar (spring
+`knowledge/seasonal.toml` is a short, hand-written Canberra calendar (spring
 migrant arrivals Sep–Nov, the Yellow-faced Honeyeater's autumn migration,
 Gang-gang breeding, …) that gives the writer seasonal context.
 
@@ -239,11 +241,65 @@ A test asserts that the knowledge base covers exactly the 197 species in the
 include list, so it can't drift from the include list or `RECONCILIATION.md`.
 Spot-check ~20 species by eye before relying on it.
 
+Progress (2026-10-09): done. 197/197 species, 1,827 facts (6–10 each; none
+short), built on greg in ~15 min with no quota errors; 312 candidate facts
+were rejected by the checks. 32 tests pass, including one that re-finds
+every quote in the cached source. Changes from the plan above:
+
+- **Two stages.** `build_kb.py sources` (Wikipedia + ALA, any machine,
+  cached in the untracked `knowledge/.sources/`) and `build_kb.py facts`
+  (GLM, on greg, keys from `~/.hermes/.env`). Both resume; a quota error
+  stops cleanly. Phase 4 should replace the ad-hoc `~/dawnchorus-kb/` copy
+  on greg with the real checkout.
+- **Grounding is stricter than "quote appears":** every number in the fact
+  must be in the quote, and ≥ 50% of its content words must come from the
+  quote. Typography (curly quotes, dashes, spacing) is folded; wording isn't.
+  `source_url` is the section the quote was found in and `id` is a hash of
+  the quote, both computed, never written by the model.
+- **Taxonomy:** `knowledge/overrides.toml`. *Tyto alba* → Eastern barn owl /
+  *T. javanica*; *Anthus novaeseelandiae* → Wikipedia's Australian pipit;
+  *Chrysococcyx basalis* → ALA *Chalcites basalis*. ALA subspecies matches are
+  widened to the species (*C. lucidus* matched the NZ race and showed 172
+  ACT records instead of 3,471).
+- **Seasonality** uses each month's share of *all* ACT bird records
+  2006–2025, because survey effort spikes in October and January. Classes:
+  resident 115, summer migrant 37, winter visitor 6, and **rare visitor** 39
+  (under 300 records; "vagrant" was wrong for e.g. Black Kite). Under 1,000
+  records the class is `confidence: low` and the paper doesn't print it.
+  Three hand overrides for observer bias (Eastern Whipbird, Pilotbird,
+  Eurasian Skylark), each with its reason.
+- **`seasonal.toml`, not YAML** (stdlib, like `config.toml`). Eleven
+  entries; each month pattern was checked against the ALA data and the
+  non-ALA claims against the fetched Wikipedia text. Entries with `expect`
+  are re-checked against the species' class by a test.
+- **Spot check** (27 species, ~260 facts, including the override taxa and
+  rare visitors): no wrong numbers or wrong birds. Five texts had added a
+  small detail the quote doesn't support (magpies swoop "in spring",
+  frogmouths call "until dawn", oystercatchers "remain"). They were
+  hand-corrected and marked `"edited"`. **`build_kb.py facts --force`
+  would undo these**, so re-check them after any rebuild. Phase 3's
+  validation can't catch a one-word addition either, so the writer should
+  stay close to the fact text.
+- **Printed names are Australian.** BirdNET's labels are eBird's American
+  names ("Gray Fantail", "Maned Duck"). `overrides.toml [name]` maps 20 of
+  them to current Australian usage, taken from ALA's vernacular names
+  (Grey Fantail, Australian Wood Duck, Willie Wagtail, Rock Dove, …).
+  Pure hyphenation differences (Fairywren, Cuckooshrike) were left alone.
+  Display only: the DB, slugs and include list keep BirdNET's labels. The
+  existing facts were renamed to match, and `build_kb.py` now prompts with
+  the display name. Phase 3 must give the writer `SpeciesDay.com`, which is
+  already the display name.
+- **Wired into the edition now:** Did You Know (2 facts for the lead, 1 for
+  the Regular, livelier topics first, none repeated within 60 days via
+  `state/featured.json`, any the scrub would block skipped), a seasonality
+  sentence in the lead story, ALA record share as rarity signal 2, and
+  Wikipedia (CC BY-SA) and ALA attribution in the footer.
+
 ### 3 · GLM writer
 
 - **One call per edition, JSON mode.** Input: the computed facts plus 2–3
-  unused knowledge-base facts per featured species, plus the month's
-  `seasonal.yaml` entry. Output: headline, standfirst, lead story, dawn
+  unused knowledge-base facts per featured species (`kb.pick_facts`), plus
+  the month's `seasonal.toml` entries (`kb.seasonal_notes`). Output: headline, standfirst, lead story, dawn
   paragraph, column, Did You Know items.
 - **Validation:**
   - every species named was detected or appears in the input;

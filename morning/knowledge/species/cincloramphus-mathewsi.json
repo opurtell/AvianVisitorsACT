@@ -1,0 +1,138 @@
+{
+ "sci": "Cincloramphus mathewsi",
+ "com": "Rufous Songlark",
+ "slug": "cincloramphus-mathewsi",
+ "wikipedia": {
+  "title": "Rufous songlark",
+  "url": "https://en.wikipedia.org/wiki/Rufous_songlark",
+  "revid": 1351658446
+ },
+ "ala": {
+  "name": "Cincloramphus (Maclennania) mathewsi",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   752,
+   122,
+   11,
+   9,
+   7,
+   0,
+   1,
+   6,
+   137,
+   835,
+   663,
+   405
+  ],
+  "total": 2959,
+  "share": 0.0007211
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   2.55,
+   0.61,
+   0.06,
+   0.04,
+   0.04,
+   0.0,
+   0.01,
+   0.03,
+   0.65,
+   2.8,
+   3.22,
+   1.99
+  ]
+ },
+ "facts": [
+  {
+   "id": "cincloramphus-mathewsi-b308b2",
+   "text": "The male rufous songlark grows to about 19 cm long, noticeably bigger than the female at about 16 cm.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Description",
+   "quote": "the male grows to about 19 cm (7.5 in) in length and is larger than the female which reaches only about 16 cm (6.3 in)."
+  },
+  {
+   "id": "cincloramphus-mathewsi-ed46a7",
+   "text": "The rufous songlark hunts close to the ground for insects and other small arthropods.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "The rufous songlark hunts close to the ground for the insects and other small arthropods upon which it feeds."
+  },
+  {
+   "id": "cincloramphus-mathewsi-ce3400",
+   "text": "Outside the breeding season, rufous songlarks gather in small flocks of up to two dozen birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "Outside the breeding period these birds form small flocks of up to two dozen individuals."
+  },
+  {
+   "id": "cincloramphus-mathewsi-535104",
+   "text": "In the breeding season the male sings almost continuously, chirping and arching his back during slow, showy display flights between trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "In the breeding season the lively, unmistakable song of the male rufous songlark is heard almost continuously. He chirps and curves his back while going on slow, showy \"display flights\" between trees."
+  },
+  {
+   "id": "cincloramphus-mathewsi-a627df",
+   "text": "The rufous songlark's distinctive \"twitchy tweedle\" song has featured on CDs of Favourite Australian Birdsong.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "The distinctive \"twitchy tweedle\" song of the rufous songlark has been included on CDs of \"Favourite Australian Birdsong\"."
+  },
+  {
+   "id": "cincloramphus-mathewsi-7d24f4",
+   "text": "The female builds the deep grass nest, incubates the eggs and raises the young entirely without help from the male.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "Without help from the male, the female bird builds a deep nest of grass sheltered amid grass or low vegetation. She also incubates the eggs and raises the fledglings herself."
+  },
+  {
+   "id": "cincloramphus-mathewsi-a1ab54",
+   "text": "Living near people, the rufous songlark sometimes sadly ends up as road kill.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Behaviour",
+   "quote": "Living in areas populated by humans, it sometimes ends up as road kill."
+  },
+  {
+   "id": "cincloramphus-mathewsi-f5441f",
+   "text": "The rufous songlark has a rufous upper tail and rump, a dark line through its eye, and pale underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Description",
+   "quote": "It has a dark line through its eye, a pale eyebrow and pale underparts, and a rufous upper tail and rump."
+  },
+  {
+   "id": "cincloramphus-mathewsi-9c9000",
+   "text": "Each year the rufous songlark spends the colder months in the north and migrates south in summer to breed.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Distribution_and_habitat",
+   "quote": "Each year the rufous songlark spends colder months in the north and migrates south in the summer to breed"
+  },
+  {
+   "id": "cincloramphus-mathewsi-91b0eb",
+   "text": "The rufous songlark was described by English ornithologist Tom Iredale in 1911.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_songlark#Taxonomy",
+   "quote": "The rufous songlark was described by English ornithologist Tom Iredale in 1911."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1351658446
+ }
+}

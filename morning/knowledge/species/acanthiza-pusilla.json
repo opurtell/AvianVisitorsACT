@@ -1,0 +1,139 @@
+{
+ "sci": "Acanthiza pusilla",
+ "com": "Brown Thornbill",
+ "slug": "acanthiza-pusilla",
+ "wikipedia": {
+  "title": "Brown thornbill",
+  "url": "https://en.wikipedia.org/wiki/Brown_thornbill",
+  "revid": 1363738264
+ },
+ "ala": {
+  "name": "Acanthiza (Acanthiza) pusilla",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4586,
+   3604,
+   3419,
+   4041,
+   3626,
+   3547,
+   3458,
+   3778,
+   3038,
+   4122,
+   2553,
+   2854
+  ],
+  "total": 44352,
+  "share": 0.0108077
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.87,
+   1.01,
+   1.0,
+   1.1,
+   1.2,
+   1.33,
+   1.24,
+   1.18,
+   0.81,
+   0.77,
+   0.69,
+   0.78
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthiza-pusilla-3759c5",
+   "text": "The brown thornbill has large dark red eyes and a tawny rump, with blackish streaks on its grey throat and breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Description",
+   "quote": "It has buff scallops on the forehead and large dark red eyes. There are blackish streaks on a grey throat and breast, a tawny rump and tail base"
+  },
+  {
+   "id": "acanthiza-pusilla-64ae73",
+   "text": "Brown thornbills are skilled mimics, copying the alarm calls of other birds such as the New Holland honeyeater to deter predators.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Vocalization",
+   "quote": "Adult brown thornbills are able to mimic the alarm calls of other birds such as the New Holland honeyeater that warn of a raptor approaching, which deters other predators such as pied currawongs from attacking their nests."
+  },
+  {
+   "id": "acanthiza-pusilla-10aedd",
+   "text": "Its calls range from a mellow baritone pee-orr to high whistles with rapid cascading trills, described as a rich, musical warble.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Vocalization",
+   "quote": "The calls have been described as \"rich, musical warble\". Their calls vary from a mellow baritone pee-orr, high whistles with rapid cascading trills, to many squeaks and churrs."
+  },
+  {
+   "id": "acanthiza-pusilla-4e889c",
+   "text": "It mainly eats insects, including spiders, beetles, ants and grasshoppers, sometimes supplementing with seeds, fruit or nectar.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Feeding",
+   "quote": "The brown thornbill is mainly an insectivore, including spiders, beetles, lerp insects, ants and grasshoppers in its diet. However, it may sometimes eat seeds, fruit, or nectar."
+  },
+  {
+   "id": "acanthiza-pusilla-e615f1",
+   "text": "Brown thornbills build dome-shaped nests with a hooded side entrance, lightly bound with spider webs and set low among ferns or tussocks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Breeding",
+   "quote": "Their nests are dome-shaped with a hooded side-entrance and built out of grasses, bark shreds, moss and feathers or plant down, lightly bound with spider webs, and usually set low in the undergrowth among ferns or tussocks."
+  },
+  {
+   "id": "acanthiza-pusilla-8cbfba",
+   "text": "The brown thornbill lives in eastern and south-eastern Australia, including Tasmania, usually within 300 kilometres of the coast.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Distribution_and_habitat",
+   "quote": "The brown thornbill can be found in the eastern and southeastern parts of Australia, including Tasmania. It is usually found within 300 kilometres (190 mi) of the coast."
+  },
+  {
+   "id": "acanthiza-pusilla-a3eb62",
+   "text": "It is a skilled mimic, and also responds to humans imitating its calls.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Vocalization",
+   "quote": "Brown thornbills are skilled mimics and also respond to humans imitating their calls.",
+   "edited": "hand-corrected 2026-10-09 spot check"
+  },
+  {
+   "id": "acanthiza-pusilla-9c3419",
+   "text": "It forages restlessly near the ground and in low trees and shrubs of the understory, often joining groups with other thornbills.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Feeding",
+   "quote": "It feeds restlessly close to the ground, in lower trees and shrubs of the understory. It often feeds in groups with other thornbills, except during the breeding season."
+  },
+  {
+   "id": "acanthiza-pusilla-0d3f70",
+   "text": "It forms mixed-species feeding flocks with the yellow-rumped thornbill, the white-browed scrubwren, the speckled warbler and the eastern yellow robin.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Feeding",
+   "quote": "It also forms mixed-species feeding flocks with the yellow-rumped thornbill (Acanthiza chrysorrhoa), the white-browed scrubwren (Sericornis frontalis), the speckled warbler (Pyrrholaemus sagittatus), and the eastern yellow robin (Eopsaltria australis)."
+  },
+  {
+   "id": "acanthiza-pusilla-5a9297",
+   "text": "Brown thornbill pairs tend to stay together for a long time.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_thornbill#Breeding",
+   "quote": "Brown thornbill couples tend to pair for a long time."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1363738264
+ }
+}

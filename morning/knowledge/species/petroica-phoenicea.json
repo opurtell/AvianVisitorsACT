@@ -1,0 +1,138 @@
+{
+ "sci": "Petroica phoenicea",
+ "com": "Flame Robin",
+ "slug": "petroica-phoenicea",
+ "wikipedia": {
+  "title": "Flame robin",
+  "url": "https://en.wikipedia.org/wiki/Flame_robin",
+  "revid": 1371443596
+ },
+ "ala": {
+  "name": "Petroica (Littlera) phoenicea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   279,
+   168,
+   214,
+   548,
+   678,
+   525,
+   612,
+   839,
+   425,
+   601,
+   208,
+   207
+  ],
+  "total": 5325,
+  "share": 0.0012976
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.41,
+   0.36,
+   0.48,
+   1.15,
+   1.73,
+   1.52,
+   1.69,
+   2.02,
+   0.88,
+   0.87,
+   0.44,
+   0.44
+  ]
+ },
+ "facts": [
+  {
+   "id": "petroica-phoenicea-8ea52f",
+   "text": "The flame robin is the largest of the red robins, measuring 12–14 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Description",
+   "quote": "The largest of the red robins, the flame robin is 12–14 cm (4.7–5.5 in) long."
+  },
+  {
+   "id": "petroica-phoenicea-69b27d",
+   "text": "The female is plainly coloured pale brown with a lighter buff underside, so the sexes look very different.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Description",
+   "quote": "The female is plainly coloured—pale brown overall, and a lighter buff underneath."
+  },
+  {
+   "id": "petroica-phoenicea-ca71f5",
+   "text": "Its song has been described as the most musical of its genus.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin",
+   "quote": "Its song has been described as the most musical of its genus."
+  },
+  {
+   "id": "petroica-phoenicea-d737b8",
+   "text": "It hunts by perching low and pouncing on insects, often returning repeatedly to a favourite perch to scan the leaf-litter.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Feeding",
+   "quote": "Like all Australasian robins, the flame robin is a perch and pounce hunter, mainly eating insects, and often returning to a favourite low perch several times to stand erect and motionless, scanning the leaf-litter for more prey."
+  },
+  {
+   "id": "petroica-phoenicea-df54f9",
+   "text": "One flame robin was seen pattering the ground with a foot to disturb insects, then snapping up any that emerged—a trick otherwise seen in waders.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Feeding",
+   "quote": "In Deniliquin, a flame robin was observed holding one foot forward and pattering the ground repeatedly to disturb ground-dwelling insects, and then watching and snapping up any which emerged; this behaviour is otherwise seen in waders."
+  },
+  {
+   "id": "petroica-phoenicea-52ed32",
+   "text": "It bashes larger prey against a hard surface to break it up, though such big victims make up only 0.5% of its prey over time.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Feeding",
+   "quote": "The flame robin consumes small prey items whole, and bashes larger victims against a hard surface repeatedly to break up before eating. The latter group constitute only 0.5% of prey over time"
+  },
+  {
+   "id": "petroica-phoenicea-ce65e9",
+   "text": "Males defend their territory with a breast-puffing display and a white spot display that highlights their white markings.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Behaviour",
+   "quote": "The flame robin deploys a number of agonistic displays, including a breast-puffing display where it puffs its breast feathers, and a white spot display where it puffs its feathers to accentuate its frontal white spot, white wing markings or white outer tail feathers."
+  },
+  {
+   "id": "petroica-phoenicea-f8d6ee",
+   "text": "The breeding season runs from August to January, with one or two broods raised each year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Courtship_and_breeding",
+   "quote": "The breeding season is August to January with one or two broods raised."
+  },
+  {
+   "id": "petroica-phoenicea-9792ac",
+   "text": "The female builds the nest alone, a neat deep cup of soft dry grass, moss and bark.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Courtship_and_breeding",
+   "quote": "The nest is a neat, deep cup made of soft dry grass, moss, and bark."
+  },
+  {
+   "id": "petroica-phoenicea-399562",
+   "text": "The male is easy to spot, with bright orange-red plumage on the throat, breast and abdomen.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Flame_robin#Description",
+   "quote": "The male is easily distinguished by the bright orange-red plumage of the throat, breast, and abdomen."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371443596
+ }
+}

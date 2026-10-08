@@ -1,0 +1,138 @@
+{
+ "sci": "Acanthiza reguloides",
+ "com": "Buff-rumped Thornbill",
+ "slug": "acanthiza-reguloides",
+ "wikipedia": {
+  "title": "Buff-rumped thornbill",
+  "url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill",
+  "revid": 1346796904
+ },
+ "ala": {
+  "name": "Acanthiza (Geobasileus) reguloides",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1850,
+   1248,
+   1539,
+   1906,
+   1560,
+   1527,
+   1537,
+   1715,
+   1782,
+   2686,
+   1347,
+   1233
+  ],
+  "total": 20096,
+  "share": 0.004897
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.76,
+   0.76,
+   0.98,
+   1.12,
+   1.12,
+   1.24,
+   1.2,
+   1.16,
+   1.03,
+   1.09,
+   0.79,
+   0.73
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthiza-reguloides-0d2183",
+   "text": "The buff-rumped thornbill is a small bird of 8–10 cm with plain greenish brown upperparts, pale-yellow underparts and a distinctive buff coloured rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill",
+   "quote": "Measuring 8–10 cm in length, this unassuming thornbill is characterised by its plain greenish brown upperparts and very pale-yellow underparts, with a distinctive buff coloured rump."
+  },
+  {
+   "id": "acanthiza-reguloides-766fa5",
+   "text": "Adults have white irises, while juveniles have dark eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill",
+   "quote": "Adults possess white irises, whilst juveniles have dark eyes."
+  },
+  {
+   "id": "acanthiza-reguloides-6ec70e",
+   "text": "Buff-rumped thornbills travel in chatty groups of about 20 birds and continuously twitter as they forage.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Behaviour",
+   "quote": "Buff-rumped thornbills are often found in small, chatty groups of approximately 20 individuals, but may join during non-breeding season to form larger clans.   They continuously twitter as they forage."
+  },
+  {
+   "id": "acanthiza-reguloides-16e9fd",
+   "text": "The thornbill builds a domed nest of bark strips, dried grass and moss one to two metres above ground, bound with spider web on the outside.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Reproduction",
+   "quote": "A. reguloides builds a large, dome shaped nest consisting of bark strips, dried grass and moss located one to two metres above the ground.  It is lined with fur, plant or down and bound with spider web on the outside."
+  },
+  {
+   "id": "acanthiza-reguloides-18cda7",
+   "text": "Females typically lay clutches of 2-4 eggs in late August, with an incubation period of 20 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Reproduction",
+   "quote": "Females typically lay clutches of 2-4 eggs in late August with an incubation period of 20 days."
+  },
+  {
+   "id": "acanthiza-reguloides-d2aa67",
+   "text": "Horsfield's bronze-cuckoo sneakily lays eggs in the thornbill's nest, and its chicks mimic thornbill calls before evicting the host young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Reproduction",
+   "quote": "Horsfield's bronze-cuckoo (Chalcites basalis) is known to lay eggs in the nest of A. reguloides.  Cuckoo nestlings learn to mimic the vocalisations of A. reguloides before evicting them from the nest."
+  },
+  {
+   "id": "acanthiza-reguloides-054c86",
+   "text": "The bird ranges across eastern Australia, from Chinchilla, Queensland to southeastern South Australia, an area of about 2 000 000 km2.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Distribution_and_habitat",
+   "quote": "Primarily distributed in eastern Australia, the buff-rumped thornbill's range spans from Chinchilla, Queensland, west to Cobar, New South Wales, across Victoria and southeastern South Australia.   This is an area of approximately 2 000 000 km2."
+  },
+  {
+   "id": "acanthiza-reguloides-03bee5",
+   "text": "The buff-rumped thornbill's call is a rapid pitta-pitta-pitta-pit.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Behaviour",
+   "quote": "Their vocalizations are characterized by a rapid pitta-pitta-pitta-pit call."
+  },
+  {
+   "id": "acanthiza-reguloides-50ff7f",
+   "text": "Its diet consists primarily of small insects and plant lice gleaned from foliage.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Diet",
+   "quote": "The thornbill's diet consists primarily of small insects and plant lice gleaned from foliage."
+  },
+  {
+   "id": "acanthiza-reguloides-99cadc",
+   "text": "This adaptable bird thrives in dry sclerophyll forests and open eucalypt woodlands with an open or sparse understorey.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Buff-rumped_thornbill#Distribution_and_habitat",
+   "quote": "This adaptable species thrives in dry sclerophyll forests and open eucalypt woodlands that have an open or sparse understorey."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1346796904
+ }
+}

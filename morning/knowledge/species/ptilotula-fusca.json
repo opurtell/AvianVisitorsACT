@@ -1,0 +1,131 @@
+{
+ "sci": "Ptilotula fusca",
+ "com": "Fuscous Honeyeater",
+ "slug": "ptilotula-fusca",
+ "wikipedia": {
+  "title": "Fuscous honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater",
+  "revid": 1313753036
+ },
+ "ala": {
+  "name": "Ptilotula fusca",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   349,
+   160,
+   105,
+   222,
+   272,
+   295,
+   312,
+   384,
+   320,
+   491,
+   151,
+   132
+  ],
+  "total": 3245,
+  "share": 0.0007907
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Feb",
+   "Mar",
+   "Dec"
+  ],
+  "rel": [
+   0.89,
+   0.61,
+   0.42,
+   0.81,
+   1.21,
+   1.49,
+   1.51,
+   1.62,
+   1.15,
+   1.24,
+   0.55,
+   0.49
+  ]
+ },
+ "facts": [
+  {
+   "id": "ptilotula-fusca-91f2d2",
+   "text": "The fuscous honeyeater is dull grey-brown to olive-brown above with buffy-grey underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Description",
+   "quote": "The fuscous honeyeater is dull grey-brown to olive-brown above with buffy-grey underparts."
+  },
+  {
+   "id": "ptilotula-fusca-61ef15",
+   "text": "It has a small black and yellow plume formed by the rear edge of the ear coverts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Description",
+   "quote": "It has a small black and yellow plume formed by the rear edge of the ear coverts."
+  },
+  {
+   "id": "ptilotula-fusca-af5e9f",
+   "text": "Its calls include a distinctive rollicking arig arig a taw taw and a clear flutey cheer tor cheer.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Call",
+   "quote": "They have numerous calls, notably a distinctive rollicking arig arig a taw taw, a clear flutey cheer tor cheer and an incessant chip contact call."
+  },
+  {
+   "id": "ptilotula-fusca-ccbb37",
+   "text": "Fuscous honeyeaters live in colonies in dry eucalypt forest and woodland.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Ecology_and_behaviour",
+   "quote": "Fuscous honeyeaters live in colonies in dry eucalypt forest and woodland, mostly inland of the Great Dividing Range, but in New South Wales and Queensland also in coastal heathy forest."
+  },
+  {
+   "id": "ptilotula-fusca-0f8518",
+   "text": "They sometimes visit gardens and patches of remnant forest on farms.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Ecology_and_behaviour",
+   "quote": "They are sometimes also found in gardens, and in patches of remnant forest on farms."
+  },
+  {
+   "id": "ptilotula-fusca-38916d",
+   "text": "Mostly sedentary, they shift nomadically in response to drought and flowering eucalypts, and move downhill in colder months in the southeast.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Ecology_and_behaviour",
+   "quote": "They are mostly sedentary, though will make some nomadic movements in response to drought and flowering of eucalypts. In the southeast of their range, they make some seasonal altitudinal movements, moving down from higher regions in during colder months."
+  },
+  {
+   "id": "ptilotula-fusca-b50a03",
+   "text": "The fuscous honeyeater mainly eats insects, foraging in eucalypt foliage and catching them on the wing.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Diet",
+   "quote": "Fuscous honeyeaters are mainly insectivorous, foraging actively mainly in outer and upper foliage, branches and trunks of eucalypts, and taking insects on the wing."
+  },
+  {
+   "id": "ptilotula-fusca-0f03e0",
+   "text": "It also feeds on nectar from eucalypts and mistletoes, as well as lerp and honeydew.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Diet",
+   "quote": "They also feed opportunistically on nectar, including from eucalypts and mistletoes, lerp and honeydew."
+  },
+  {
+   "id": "ptilotula-fusca-dfc60f",
+   "text": "The fuscous honeyeater is listed as a species of Least Concern on the IUCN Red List.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Fuscous_honeyeater#Conservation_status",
+   "quote": "The species is listed under the IUCN Red List of Threatened Species as a species of Least Concern."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1313753036
+ }
+}

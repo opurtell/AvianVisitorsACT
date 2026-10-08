@@ -1,0 +1,131 @@
+{
+ "sci": "Myzomela sanguinolenta",
+ "com": "Scarlet Myzomela",
+ "slug": "myzomela-sanguinolenta",
+ "wikipedia": {
+  "title": "Scarlet myzomela",
+  "url": "https://en.wikipedia.org/wiki/Scarlet_myzomela",
+  "revid": 1360350689
+ },
+ "ala": {
+  "name": "Myzomela (Myzomela) sanguinolenta",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   69,
+   17,
+   33,
+   53,
+   19,
+   13,
+   21,
+   36,
+   28,
+   119,
+   62,
+   40
+  ],
+  "total": 511,
+  "share": 0.0001245
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.21,
+   0.44,
+   0.9,
+   1.33,
+   0.58,
+   0.45,
+   0.7,
+   1.04,
+   0.69,
+   2.07,
+   1.56,
+   1.02
+  ]
+ },
+ "facts": [
+  {
+   "id": "myzomela-sanguinolenta-e75507",
+   "text": "At 9 to 11 cm long, the Scarlet Honeyeater is the smallest honeyeater in Australia.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela",
+   "quote": "At 9 to 11 cm (3.5 to 4.3 in) long, it is the smallest honeyeater in Australia."
+  },
+  {
+   "id": "myzomela-sanguinolenta-ee7769",
+   "text": "The male Scarlet Honeyeater is a striking bright red with black wings, while the female is entirely brown.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela",
+   "quote": "It is sexually dimorphic; the male is a striking bright red with black wings, while the female is entirely brown."
+  },
+  {
+   "id": "myzomela-sanguinolenta-b5e57e",
+   "text": "The Scarlet Honeyeater is more vocal than most honeyeaters, with calls including a bell-like tinkling.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela",
+   "quote": "The species is more vocal than most honeyeaters, and a variety of calls have been recorded, including a bell-like tinkling."
+  },
+  {
+   "id": "myzomela-sanguinolenta-ccd23d",
+   "text": "The main call of the Scarlet Honeyeater is a tuneful tinkling made up of sets of six notes that rise or fall in tone.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela#Description",
+   "quote": "The main call is a tuneful tinkling call made up of sets of six notes that rise or fall in tone."
+  },
+  {
+   "id": "myzomela-sanguinolenta-ede2da",
+   "text": "The Scarlet Honeyeater forages in the crowns of trees, darting from flower to flower and sometimes hovering while probing for nectar.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela#Feeding",
+   "quote": "The scarlet myzomela is arboreal, foraging in the crowns of trees, darting from flower to flower, probing for nectar with its long curved bill."
+  },
+  {
+   "id": "myzomela-sanguinolenta-8587cd",
+   "text": "Breeding New Holland honeyeaters actively drive off Scarlet Honeyeaters from feeding areas.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela#Behaviour",
+   "quote": "In particular, breeding New Holland honeyeaters actively drive off scarlet myzomelas."
+  },
+  {
+   "id": "myzomela-sanguinolenta-e49b20",
+   "text": "The female lays two or rarely three flecked white eggs in a 5 cm cup-shaped nest high in a tree.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela",
+   "quote": "The female lays two or rarely three flecked white eggs in a 5 cm (2 in) diameter cup-shaped nest high in a tree."
+  },
+  {
+   "id": "myzomela-sanguinolenta-c59595",
+   "text": "The tiny nest of shredded bark and spider web takes around 8 days to build, and both sexes help construct it.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela#Breeding",
+   "quote": "The nest is around 5 cm (2.0 in) in diameter, and takes around 8 days to build before eggs are laid in it. Both sexes build the nest"
+  },
+  {
+   "id": "myzomela-sanguinolenta-172f88",
+   "text": "The Scarlet Honeyeater is listed as a species of least concern thanks to its large range and stable population.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_myzomela#Conservation_status",
+   "quote": "listed as being a species of least concern by the IUCN, on account of its large range (1,960,000 square km) and stable population"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1360350689
+ }
+}

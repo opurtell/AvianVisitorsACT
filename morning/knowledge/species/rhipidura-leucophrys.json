@@ -1,0 +1,138 @@
+{
+ "sci": "Rhipidura leucophrys",
+ "com": "Willie-wagtail",
+ "slug": "rhipidura-leucophrys",
+ "wikipedia": {
+  "title": "Willie wagtail",
+  "url": "https://en.wikipedia.org/wiki/Willie_wagtail",
+  "revid": 1375661292
+ },
+ "ala": {
+  "name": "Rhipidura (Sauloprocta) leucophrys",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   8678,
+   5445,
+   5013,
+   4419,
+   2693,
+   1859,
+   1809,
+   2670,
+   5625,
+   7902,
+   5262,
+   5389
+  ],
+  "total": 57945,
+  "share": 0.0141201
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.33,
+   1.24,
+   1.19,
+   0.97,
+   0.72,
+   0.57,
+   0.53,
+   0.68,
+   1.22,
+   1.2,
+   1.16,
+   1.2
+  ]
+ },
+ "facts": [
+  {
+   "id": "rhipidura-leucophrys-dba7c1",
+   "text": "The willie wagtail has almost entirely black upperparts and white underparts, with a striking white eyebrow.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail",
+   "quote": "the willie wagtail is contrastingly coloured with almost entirely black upperparts and white underparts"
+  },
+  {
+   "id": "rhipidura-leucophrys-b3f7d1",
+   "text": "Its name comes from its habit of wagging its tail horizontally while foraging on the ground.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail",
+   "quote": "Its common name is derived from its habit of wagging its tail horizontally when foraging on the ground."
+  },
+  {
+   "id": "rhipidura-leucophrys-d44800",
+   "text": "It fearlessly harasses much larger birds, including laughing kookaburras and wedge-tailed eagles.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail",
+   "quote": "Aggressive and territorial, the willie wagtail will often harass much larger birds such as the laughing kookaburra and wedge-tailed eagle."
+  },
+  {
+   "id": "rhipidura-leucophrys-128ddc",
+   "text": "Its alarm call is a rapid chit-chit-chit-chit, but it also has more melodious songs in its repertoire.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Vocalisation",
+   "quote": "Its most-recognised sound is its alarm call which is a rapid chit-chit-chit-chit, although it has more melodious sounds in its repertoire."
+  },
+  {
+   "id": "rhipidura-leucophrys-efd2aa",
+   "text": "The tail-wagging while foraging may help flush out insects hidden in vegetation, making them easier to catch.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Feeding",
+   "quote": "It wags its tail in a horizontal fashion while foraging in this manner; the exact purpose of this behaviour is unknown but is thought to help flush out insects hidden in vegetation"
+  },
+  {
+   "id": "rhipidura-leucophrys-3de771",
+   "text": "It weaves its cup-shaped nest together with spider web, and even uses hair from pet dogs and cats.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Breeding",
+   "quote": "The nest consists of grass stems, strips of bark, and other fibrous material which is bound and woven together with spider web. Even hair from pet dogs and cats may be used."
+  },
+  {
+   "id": "rhipidura-leucophrys-a340f8",
+   "text": "The female lays two to four cream-white eggs and incubates them for 14 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Breeding",
+   "quote": "The female lays two to four small cream-white eggs with brownish markings measuring 16 mm × 21 mm (0.63 in × 0.83 in), and incubates them for 14 days."
+  },
+  {
+   "id": "rhipidura-leucophrys-8edecc",
+   "text": "It flits behind cattle, sheep and horses to catch insects disturbed as they walk over grass.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Feeding",
+   "quote": "It will often hop along the ground and flit behind people and animals, such as cattle, sheep or horses, as they walk over grassed areas, to catch any creatures disturbed by their passing."
+  },
+  {
+   "id": "rhipidura-leucophrys-213f21",
+   "text": "It even takes ticks from the skin of grazing animals, including lions asleep in a zoo.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail#Feeding",
+   "quote": "The willie wagtail takes ticks from the skin of grazing animals such as cattle or pigs, even from lions asleep in a zoo."
+  },
+  {
+   "id": "rhipidura-leucophrys-eed780",
+   "text": "The bird features widely in Aboriginal folklore, playing roles from stealer of secrets to a good omen for crops.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Willie_wagtail",
+   "quote": "It is widely featured in Aboriginal folklore around Australia and New Guinea in a variety of roles, from stealer of secrets and liar to a good omen for successful crops."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375661292
+ }
+}

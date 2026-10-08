@@ -1,0 +1,124 @@
+{
+ "sci": "Charadrius bicinctus",
+ "com": "Double-banded Plover",
+ "slug": "charadrius-bicinctus",
+ "wikipedia": {
+  "title": "Double-banded plover",
+  "url": "https://en.wikipedia.org/wiki/Double-banded_plover",
+  "revid": 1358921289
+ },
+ "ala": {
+  "name": "Charadrius (Charadrius) bicinctus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1,
+   0,
+   0,
+   2,
+   1,
+   2,
+   2,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  "total": 11,
+  "share": 2.7e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   0.66,
+   0.0,
+   0.0,
+   1.88,
+   1.15,
+   2.6,
+   2.48,
+   3.24,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "charadrius-bicinctus-0fc2be",
+   "text": "The double-banded plover wears a white chest marked by a thin black band below the neck and a larger brown band beneath it.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Description",
+   "quote": "a distinctive white chest and a thin band of black situated just below the neck running across the chest along with a larger brown band underneath."
+  },
+  {
+   "id": "charadrius-bicinctus-1fae43",
+   "text": "During breeding season, males show the two chest bands more prominently than females do.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Description",
+   "quote": "During breeding season, these bands are more dominantly shown on the males compared to females."
+  },
+  {
+   "id": "charadrius-bicinctus-3328a7",
+   "text": "Banded dotterels pair monogamously for the season, staying with one partner to help raise the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Breeding",
+   "quote": "They form seasonal monogamous pairs where once a partner is found, they remain with that one bird for the rest of the breeding season to help raise the young."
+  },
+  {
+   "id": "charadrius-bicinctus-5c7751",
+   "text": "A female dotterel chooses between several nests the male has built, presented while he performs a fast butterfly-like territorial flight.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Breeding",
+   "quote": "females are attracted by the loud calls of the male where they are then presented with several nests which they can choose between while the male puts on a defensive display, protecting his territory, where it flies towards any possible intruder in a fast butterfly-like circular motion flight."
+  },
+  {
+   "id": "charadrius-bicinctus-316ab7",
+   "text": "Dotterels lay two to four eggs from August to September, and incubation takes 28 to 30 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Breeding",
+   "quote": "From August to September, the dotterels lay two to four eggs and can re-lay up to three times if there is a failure or predation. Incubation of these eggs generally takes 28–30 days"
+  },
+  {
+   "id": "charadrius-bicinctus-742d5c",
+   "text": "These opportunistic carnivores eat aquatic invertebrates and insects, and also enjoy berries from shrubs like Coprosma and Muehlenbeckia.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Feeding",
+   "quote": "Double-banded plovers are predominantly opportunistic carnivores, feeding on aquatic invertebrates and other insects along coastlines or rivers. They have been known to also consume berries off nearby shrubs such as Coprosma and Muehlenbeckia."
+  },
+  {
+   "id": "charadrius-bicinctus-7e54f9",
+   "text": "At night the plovers stand still and wait for prey, since reduced light shortens the distance at which they can detect insects.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Feeding",
+   "quote": "During the night, double-banded plovers were noted to have a repeated pecking techniques and spent a lot more time waiting in one area, suggesting that they were trying to use the nearby vicinity to catch prey in, due to the fact that prey detection distances would have been significantly reduced in lack of light."
+  },
+  {
+   "id": "charadrius-bicinctus-936427",
+   "text": "Uniquely among migratory wading birds, South Island dotterels fly west to east, migrating 1,600 kilometres or more to south-eastern Australia and Tasmania.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Double-banded_plover#Distribution_and_habitat",
+   "quote": "most that nest in the riverbeds and outwash fans of the South Island high country migrating 1,600 kilometres or more to south-eastern Australia, including Tasmania, remaining there until mid-winter. This more or less west–east flight is uncommon for migratory birds and unique among migratory wading birds, which usually fly on a north–south axis."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358921289
+ }
+}

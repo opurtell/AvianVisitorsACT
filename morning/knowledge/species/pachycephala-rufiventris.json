@@ -1,0 +1,138 @@
+{
+ "sci": "Pachycephala rufiventris",
+ "com": "Rufous Whistler",
+ "slug": "pachycephala-rufiventris",
+ "wikipedia": {
+  "title": "Rufous whistler",
+  "url": "https://en.wikipedia.org/wiki/Rufous_whistler",
+  "revid": 1375672578
+ },
+ "ala": {
+  "name": "Pachycephala (Alisterornis) rufiventris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4187,
+   1969,
+   2035,
+   1009,
+   140,
+   65,
+   64,
+   108,
+   1595,
+   5940,
+   3348,
+   3021
+  ],
+  "total": 23589,
+  "share": 0.0057482
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.7,
+   1.18,
+   1.27,
+   0.59,
+   0.1,
+   0.05,
+   0.05,
+   0.07,
+   0.91,
+   2.38,
+   1.94,
+   1.77
+  ]
+ },
+ "facts": [
+  {
+   "id": "pachycephala-rufiventris-4e2f75",
+   "text": "The rufous whistler makes up for its subdued reddish-brown and grey plumage with its remarkable song-making ability.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler",
+   "quote": "Predominantly a reddish-brown and grey bird, it makes up for its subdued plumage with its song-making ability."
+  },
+  {
+   "id": "pachycephala-rufiventris-132f4d",
+   "text": "Male rufous whistlers have rufous underparts, a dark-grey back, white throat and often a black mask over the head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Description",
+   "quote": "males have rufous underparts and predominantly dark-grey back and tail with white throats and (in most cases) a black mask that covers most of their head and some of their neck."
+  },
+  {
+   "id": "pachycephala-rufiventris-bff01d",
+   "text": "Its long tail is almost as long as the rest of the bird, very narrow, with a sharp forked tip.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Description",
+   "quote": "They have short beaks and long tails (almost as long as the rest of the bird) which are very narrow and have sharp, forked tips."
+  },
+  {
+   "id": "pachycephala-rufiventris-f214cd",
+   "text": "The rufous whistler's musical calls consist of a lengthy series of ringing notes.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Description",
+   "quote": "The rufous whistler has a variety of musical calls which consist of a lengthy series of ringing notes."
+  },
+  {
+   "id": "pachycephala-rufiventris-6ed47a",
+   "text": "Both parents incubate the eggs and care for the young, with incubation lasting about 13 days on average.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Breeding",
+   "quote": "Breeding in monogamous pairs, both males and females incubate their eggs and care for their young. The period of incubation is about 13 days on average."
+  },
+  {
+   "id": "pachycephala-rufiventris-5629da",
+   "text": "The female alone builds a cup-shaped nest, gluing it to a branch with strands of spider web.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Breeding",
+   "quote": "The female alone constructs the nest, which usually consists of a combination of twigs, vines, grass and other matter formed in a cup-like shape and attached to a tree branch using strands from spider webs."
+  },
+  {
+   "id": "pachycephala-rufiventris-4e01a0",
+   "text": "Rufous whistlers mainly eat insects but also take seeds, fruit and occasionally leaves and grasses.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Feeding",
+   "quote": "While rufous whistlers primarily feed on insects, they also eat seeds, fruit and occasionally, leaves and grasses."
+  },
+  {
+   "id": "pachycephala-rufiventris-f857a5",
+   "text": "Unusually for a whistler, the rufous whistler never forages for food on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Feeding",
+   "quote": "They never forage for food on the ground which is unusual for whistlers which typically do not forage at particularly high levels."
+  },
+  {
+   "id": "pachycephala-rufiventris-586e67",
+   "text": "It migrates seasonally, moving south in spring and north in autumn.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Distribution_and_habitat",
+   "quote": "It migrates seasonally, moving south in the spring and north in the autumn."
+  },
+  {
+   "id": "pachycephala-rufiventris-00613b",
+   "text": "The Gamilaraay and Yuwaalaraay people of northern New South Wales call this bird mulindjal or mulimuli.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Rufous_whistler#Taxonomy_and_systematics",
+   "quote": "The Gamilaraay and Yuwaalaraay people of northern New South Wales use the names mulindjal or mulimuli to refer to this species."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375672578
+ }
+}

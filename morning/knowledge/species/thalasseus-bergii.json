@@ -1,0 +1,124 @@
+{
+ "sci": "Thalasseus bergii",
+ "com": "Great Crested Tern",
+ "slug": "thalasseus-bergii",
+ "wikipedia": {
+  "title": "Greater crested tern",
+  "url": "https://en.wikipedia.org/wiki/Greater_crested_tern",
+  "revid": 1370596915
+ },
+ "ala": {
+  "name": "Thalasseus bergii",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   26,
+   33,
+   41,
+   24,
+   16,
+   19,
+   26,
+   21,
+   7,
+   12,
+   5,
+   13
+  ],
+  "total": 243,
+  "share": 5.92e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.84,
+   1.59,
+   2.06,
+   1.12,
+   0.91,
+   1.22,
+   1.6,
+   1.12,
+   0.32,
+   0.39,
+   0.23,
+   0.61
+  ]
+ },
+ "facts": [
+  {
+   "id": "thalasseus-bergii-4f862e",
+   "text": "The greater crested tern announces its territory with a loud, raucous, crow-like \"kerrak\" call, especially around its breeding grounds.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Description",
+   "quote": "The greater crested tern is highly vocal, especially at its breeding grounds. The territorial advertising call is a loud, raucous, crow-like kerrak."
+  },
+  {
+   "id": "thalasseus-bergii-6a2943",
+   "text": "Fish make up nearly 90% of its diet, with the rest including cephalopods, crustaceans, insects, agamid lizards and green turtle hatchlings.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Feeding",
+   "quote": "Fish are the main food of the greater crested tern, found to make up nearly 90% of all prey items with the remainder including cephalopods, crustaceans and insects. Unusual vertebrate prey included agamid lizards and green turtle hatchlings."
+  },
+  {
+   "id": "thalasseus-bergii-5adff2",
+   "text": "This adaptable bird follows trawlers, even at night, and during the fishing season trawl discards can make up 70% of its diet.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Feeding",
+   "quote": "This tern actively follows trawlers, including at night, and during the fishing season trawl discards can constitute 70% of its diet."
+  },
+  {
+   "id": "thalasseus-bergii-71eafa",
+   "text": "In courtship, a male flies around the colony with a fish in its beak, calling loudly, before the pair settle and the gift is exchanged.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Breeding",
+   "quote": "One bird flies around the colony with a fish in its beak, calling loudly; its partner may also fly, but the pair eventually settle and the gift is exchanged."
+  },
+  {
+   "id": "thalasseus-bergii-069c52",
+   "text": "The largest documented colony, with 13,000 to 15,000 pairs, is in the Gulf of Carpentaria in northern Australia.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Breeding",
+   "quote": "the largest documented colony, with 13,000 to 15,000 pairs, is in the Gulf of Carpentaria in northern Australia"
+  },
+  {
+   "id": "thalasseus-bergii-2145af",
+   "text": "Parents can't recognise their own eggs or newly hatched chicks, but can distinguish their chicks by the time they are two days old.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Breeding",
+   "quote": "Parents do not recognize their own eggs or newly hatched chicks, but are able to distinguish their chicks by the time they are two days-old, shortly before they begin to wander from the nest."
+  },
+  {
+   "id": "thalasseus-bergii-55691c",
+   "text": "Young terns fledge after 38 to 40 days but stay dependent on their parents for about four months.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern#Breeding",
+   "quote": "The young terns fledge after 38 to 40 days, but remain dependent on the parents after leaving the colony until they are about four months old."
+  },
+  {
+   "id": "thalasseus-bergii-9e7e66",
+   "text": "With a stable population of more than 500,000 birds, the species faces no global conservation concerns despite local declines.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Greater_crested_tern",
+   "quote": "There are no global conservation concerns for this bird, which has a stable total population of more than 500,000 individuals."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1370596915
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Acanthiza nana",
+ "com": "Yellow Thornbill",
+ "slug": "acanthiza-nana",
+ "wikipedia": {
+  "title": "Yellow thornbill",
+  "url": "https://en.wikipedia.org/wiki/Yellow_thornbill",
+  "revid": 1328256981
+ },
+ "ala": {
+  "name": "Acanthiza (Subacanthiza) nana",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   438,
+   351,
+   433,
+   463,
+   426,
+   424,
+   361,
+   380,
+   338,
+   398,
+   217,
+   247
+  ],
+  "total": 4627,
+  "share": 0.0011275
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.78,
+   0.93,
+   1.2,
+   1.18,
+   1.33,
+   1.5,
+   1.22,
+   1.12,
+   0.85,
+   0.7,
+   0.55,
+   0.64
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthiza-nana-cc58c9",
+   "text": "It has a pale buff-orange throat blending into a soft, creamy-yellow breast, with black legs and bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Adults",
+   "quote": "Their throat and chin is a pale buff-orange that blends into the soft, creamy-yellow of the breast. Legs, toes, and bill are all black."
+  },
+  {
+   "id": "acanthiza-nana-a582d3",
+   "text": "It makes a loud two-note tzid-id call, harsher and less insect-like than that of the striated thornbill.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Vocalisation",
+   "quote": "The yellow thornbill has a loud, two-note tzid-id call, notably different from calls of the closely related striated thornbill by its harsher, less insect-like sound."
+  },
+  {
+   "id": "acanthiza-nana-9707e7",
+   "text": "The call is used to keep in touch while foraging, for defence, and to advertise territory.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Vocalisation",
+   "quote": "The call is repeated at various intervals throughout the day and is associated with contact between birds while foraging, as defence, or as a territorial advertisement."
+  },
+  {
+   "id": "acanthiza-nana-ef358b",
+   "text": "Its rounded, domed nest has a small entrance near the top and is held together with spider-web.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Breeding",
+   "quote": "Yellow thornbill nests are rounded and domed, with a small entrance near the top. Nests are usually made of bark-fibre and grasses matted together with spider-web, located in the upper foliage of shrubs and small trees."
+  },
+  {
+   "id": "acanthiza-nana-fc0735",
+   "text": "It mainly eats insects, sometimes snatching them mid-flight, and will occasionally eat seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Feeding_and_diet",
+   "quote": "Their diet consists mostly of insects, but they will sometimes eat seeds. They will also catch insects mid-flight."
+  },
+  {
+   "id": "acanthiza-nana-f3329e",
+   "text": "It forages in the upper and middle canopy, moving rapidly through outer foliage and even looking under bark.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Feeding_and_diet",
+   "quote": "They prefer the upper and middle levels of forest canopy, and can be found moving rapidly through the outer foliage searching for food, or looking under bark."
+  },
+  {
+   "id": "acanthiza-nana-85a689",
+   "text": "It prefers vegetation dominated by casuarinas or eucalypts, especially in drier climates.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Habitat_and_distribution",
+   "quote": "yellow thornbills are found in a variety of habitats including shrublands, forests and thickets, preferring vegetation dominated by casuarinas or eucalypts, particularly in areas with a drier climate."
+  },
+  {
+   "id": "acanthiza-nana-58faa7",
+   "text": "Juveniles look like adults but with softer, duller feathers and a still-yellow gape when recently fledged.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Juveniles",
+   "quote": "Juveniles appear similar to adults, though feathers are \"softer\" looking and duller by comparison . When recently fledged, their gape is still yellow."
+  },
+  {
+   "id": "acanthiza-nana-677bfa",
+   "text": "Clutches of two to four eggs are incubated for 16–17 days soon after the nest is completed.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Breeding",
+   "quote": "Clutches of two to four eggs are laid soon after the nest has been completed, and are incubated for 16–17 days."
+  },
+  {
+   "id": "acanthiza-nana-99576e",
+   "text": "It usually breeds in solitary pairs, though cooperative breeding has been found in some areas.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow_thornbill#Breeding",
+   "quote": "The yellow thornbill likely breed in solitary pairs, but in some areas, evidence of co-operative breeding has been found."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1328256981
+ }
+}

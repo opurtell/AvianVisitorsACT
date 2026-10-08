@@ -1,0 +1,138 @@
+{
+ "sci": "Psephotus haematonotus",
+ "com": "Red-rumped Parrot",
+ "slug": "psephotus-haematonotus",
+ "wikipedia": {
+  "title": "Red-rumped parrot",
+  "url": "https://en.wikipedia.org/wiki/Red-rumped_parrot",
+  "revid": 1315323561
+ },
+ "ala": {
+  "name": "Psephotus haematonotus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6520,
+   4382,
+   3669,
+   3825,
+   3552,
+   2986,
+   2876,
+   3405,
+   4155,
+   5271,
+   4079,
+   4304
+  ],
+  "total": 50354,
+  "share": 0.0122703
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "rel": [
+   1.11,
+   1.1,
+   0.97,
+   0.93,
+   1.06,
+   1.01,
+   0.93,
+   0.96,
+   1.0,
+   0.89,
+   0.99,
+   1.06
+  ]
+ },
+ "facts": [
+  {
+   "id": "psephotus-haematonotus-8397e7",
+   "text": "Red-rumped parrots call to one another with an attractive chee chillip chee chillip while feeding on the ground.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Behaviour",
+   "quote": "They spend a great deal of time feeding on the ground, and often call to one another with an attractive chee chillip chee chillip."
+  },
+  {
+   "id": "psephotus-haematonotus-8dba0d",
+   "text": "Their green plumage camouflages them so well in grass that they can hide until you are only 10-20 metres away.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Behaviour",
+   "quote": "Their green plumage provides such a good camouflage in ankle length grasses that they can hide quite effectively until the viewer is only 10–20 metres away."
+  },
+  {
+   "id": "psephotus-haematonotus-ddc0bb",
+   "text": "They are most active at dawn and dusk, avoiding activity during the hottest times of day.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Behaviour",
+   "quote": "They are most crepuscular, active during dawn and dusk and avoiding activity during the hottest times of day."
+  },
+  {
+   "id": "psephotus-haematonotus-affaaf",
+   "text": "Red-rumped parrots nest in tree hollows, fenceposts and stumps, laying 4-6 white eggs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Breeding",
+   "quote": "red-rumped parrots nest in tree hollows or similar places, including fenceposts and stumps. They lay 4-6 white eggs"
+  },
+  {
+   "id": "psephotus-haematonotus-a2bc90",
+   "text": "The female incubates the eggs alone for 20-25 days while the father brings her food.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Breeding",
+   "quote": "Incubation takes around 20–25 days and is done by the female alone. The father brings food to the mother while she incubates the eggs"
+  },
+  {
+   "id": "psephotus-haematonotus-773c86",
+   "text": "Courtship involves the male fanning and wagging his tail, bobbing his head and showing off bright yellow and blue wing patches.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Breeding",
+   "quote": "the male stretches out his body, fans out and wags his tail, bobs his head up and down and thrusts out his shoulders, exposing the bright yellow and blue wing patches."
+  },
+  {
+   "id": "psephotus-haematonotus-eca8d5",
+   "text": "Unlike many Australian birds, the red-rumped parrot is likely increasing as land clearing creates more open habitat.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Threats",
+   "quote": "the distribution and population of the red-rumped parrot are likely increasing as ongoing land clearing creates more suitable open habitat for the species."
+  },
+  {
+   "id": "psephotus-haematonotus-6da3e3",
+   "text": "The male red-rumped parrot is mainly bright emerald-green with yellow underparts and a brick-red rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Description",
+   "quote": "The adult male's plumage is mainly a bright emerald-green with yellow underparts."
+  },
+  {
+   "id": "psephotus-haematonotus-701c91",
+   "text": "Red-rumped parrots eat mainly seeds and leaves of grasses and other herbaceous plants, both native and introduced.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Feeding",
+   "quote": "The red-rumped parrot's diet primarily consists of seeds and leaves of grasses and other herbaceous plants, both native and introduced."
+  },
+  {
+   "id": "psephotus-haematonotus-3033e7",
+   "text": "Red-rumped parrots are monogamous and pair for life.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-rumped_parrot#Breeding",
+   "quote": "Red-rumped parrots are monogamous and pair for life."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315323561
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Passer domesticus",
+ "com": "House Sparrow",
+ "slug": "passer-domesticus",
+ "wikipedia": {
+  "title": "House sparrow",
+  "url": "https://en.wikipedia.org/wiki/House_sparrow",
+  "revid": 1376920721
+ },
+ "ala": {
+  "name": "Passer (Passer) domesticus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   5334,
+   2905,
+   1638,
+   2169,
+   1743,
+   1646,
+   1950,
+   2210,
+   2588,
+   3735,
+   3117,
+   3833
+  ],
+  "total": 36077,
+  "share": 0.0087913
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "rel": [
+   1.39,
+   1.12,
+   0.66,
+   0.81,
+   0.79,
+   0.85,
+   0.96,
+   0.94,
+   0.94,
+   0.96,
+   1.16,
+   1.44
+  ]
+ },
+ "facts": [
+  {
+   "id": "passer-domesticus-6485ed",
+   "text": "Male house sparrows wear bold black, white and brown markings, while females and young birds are plain pale brown and grey.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow",
+   "quote": "Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings."
+  },
+  {
+   "id": "passer-domesticus-6ed868",
+   "text": "In breeding season, male house sparrows repeat their chirping call rapidly and emphatically, forming a song sometimes called an ecstatic call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Voice",
+   "quote": "In the breeding season, the male gives this call repetitively, with emphasis and speed, but not much rhythm, forming what is described either as a song or an \"ecstatic call\" similar to a song."
+  },
+  {
+   "id": "passer-domesticus-a3c2f5",
+   "text": "Despite being smaller, female house sparrows dominate at feeders and nests, and will even fight males during the breeding season.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Social_behaviour_and_social_learning",
+   "quote": "At feeding stations and nests, female house sparrows are dominant despite their smaller size, and they can fight over males in the breeding season."
+  },
+  {
+   "id": "passer-domesticus-314f82",
+   "text": "Young house sparrows are fed mostly on insects, especially grasshoppers and crickets, until they are about 15 days old.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Feeding",
+   "quote": "Young house sparrows are fed mostly on insects until about 15 days after hatching."
+  },
+  {
+   "id": "passer-domesticus-64d44a",
+   "text": "The house sparrow has a stout, conical bill strongly built for eating seeds, plus a compact body with a full chest and large rounded head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Measurements_and_shape",
+   "quote": "The house sparrow is a compact bird with a full chest and a large, rounded head. Its bill is stout and conical with a culmen length of 1.1–1.5 cm (0.43–0.59 in), strongly built as an adaptation for eating seeds."
+  },
+  {
+   "id": "passer-domesticus-9e9521",
+   "text": "House sparrows sleep with their bill tucked under the scapular feathers and often roost together in trees or shrubs outside the breeding season.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Sleep_and_roosting",
+   "quote": "House sparrows sleep with the bill tucked underneath the scapular feathers. Outside of the reproductive season, they often roost communally in trees or shrubs."
+  },
+  {
+   "id": "passer-domesticus-dbb051",
+   "text": "In temperate farmland, about 90% of the house sparrow's diet is seeds, and where it has a choice it prefers cereals like oats, wheat or maize.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Feeding",
+   "quote": "Several studies of the house sparrow in temperate agricultural areas have found the proportion of seeds in its diet to be about 90%. It will eat almost any seeds, but where it has a choice, it prefers cereals: oats, wheat or maize."
+  },
+  {
+   "id": "passer-domesticus-247f07",
+   "text": "The house sparrow typically avoids extensive woodlands, grasslands, polar regions and hot, dry deserts far from human development.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow",
+   "quote": "Though found in widely varied habitats and climates, it typically avoids extensive woodlands, grasslands, polar regions, and hot, dry deserts far away from human development."
+  },
+  {
+   "id": "passer-domesticus-fb065e",
+   "text": "House sparrows bathe in dust or water in groups, and scratch their head with a leg over the drooped wing.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Body_maintenance",
+   "quote": "Dust or water bathing is common and often occurs in groups. Anting is rare. Head scratching is done with the leg over the drooped wing."
+  },
+  {
+   "id": "passer-domesticus-b0da3a",
+   "text": "Female house sparrows use a trilled chur-chur-r-r-it-it-it-it call to establish dominance over males while displacing them to feed young or incubate eggs.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/House_sparrow#Voice",
+   "quote": "Aggressive males give a trilled version of their call, transcribed as \"chur-chur-r-r-it-it-it-it\". This call is also used by females in the breeding season, to establish dominance over males while displacing them to feed young or incubate eggs."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376920721
+ }
+}

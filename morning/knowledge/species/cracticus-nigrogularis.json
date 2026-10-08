@@ -1,0 +1,131 @@
+{
+ "sci": "Cracticus nigrogularis",
+ "com": "Pied Butcherbird",
+ "slug": "cracticus-nigrogularis",
+ "wikipedia": {
+  "title": "Pied butcherbird",
+  "url": "https://en.wikipedia.org/wiki/Pied_butcherbird",
+  "revid": 1370648302
+ },
+ "ala": {
+  "name": "Cracticus nigrogularis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   146,
+   79,
+   103,
+   107,
+   76,
+   45,
+   61,
+   65,
+   65,
+   132,
+   76,
+   51
+  ],
+  "total": 1006,
+  "share": 0.0002451
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Nov"
+  ],
+  "rel": [
+   1.23,
+   0.99,
+   1.34,
+   1.29,
+   1.12,
+   0.75,
+   0.97,
+   0.9,
+   0.77,
+   1.1,
+   0.92,
+   0.62
+  ]
+ },
+ "facts": [
+  {
+   "id": "cracticus-nigrogularis-8b140a",
+   "text": "The pied butcherbird sings a song so beautiful it has been described as a \"magic flute\" and is considered the most accomplished songbird in Australia.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Voice",
+   "quote": "The pied butcherbird has been considered the most accomplished songbird in Australia, its song described as a \"magic flute\" by one writer, richer and clearer than the Australian magpie."
+  },
+  {
+   "id": "cracticus-nigrogularis-367a4f",
+   "text": "The pied butcherbird improvises extensively, creating new and complex melodies, and one of its calls has been likened to the opening bars of Beethoven's Fifth Symphony.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Voice",
+   "quote": "The species improvises extensively in creating new and complex melodies. One of its calls has been likened to the opening bars of Beethoven's Fifth Symphony."
+  },
+  {
+   "id": "cracticus-nigrogularis-b7a37d",
+   "text": "The whisper song can last up to 45 minutes and may mimic other bird species, dogs barking, lambs bleating, or even people whistling.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Voice",
+   "quote": "the singer sitting in a tree warbling soft and complex harmonies for up to 45 minutes, often mimicking many other bird species as well as dogs barking, lambs bleating, or even people whistling."
+  },
+  {
+   "id": "cracticus-nigrogularis-393ede",
+   "text": "The pied butcherbird has a black head, nape, and throat forming a distinctive black hood, bounded by a white neck collar.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Description",
+   "quote": "It has a black head, nape, and throat, giving it the appearance of a black hood, which is bounded by a white neck collar"
+  },
+  {
+   "id": "cracticus-nigrogularis-5aeafd",
+   "text": "The pied butcherbird is carnivorous, eating insects as well as small vertebrates like frogs, skinks, mice, and even small birds such as the willie wagtail.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Feeding",
+   "quote": "It preys on vertebrates up to the size of animals such as frogs, skinks, mice, and small birds such as the silvereye (Zosterops lateralis), house sparrow (Passer domesticus), double-barred finch (Taeniopygia bichenovii), willie wagtail (Rhipidura leucophrys), and grey teal (Anas gracilis) duckling."
+  },
+  {
+   "id": "cracticus-nigrogularis-b84b5d",
+   "text": "The pied butcherbird sometimes stores food by impaling it on a stick or barbed wire, or by shoving it into a nook or crevice.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Feeding",
+   "quote": "The pied butcherbird sometimes stores food items by impaling them on a stick or on barbed wire or shoving them in a nook or crevice."
+  },
+  {
+   "id": "cracticus-nigrogularis-bedac3",
+   "text": "Pied butcherbirds engage in cooperative breeding, with mated pairs sometimes assisted by several helper birds that feed the young and defend the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Behaviour",
+   "quote": "There is evidence of cooperative breeding, with some mated pairs being assisted by up to several other helper birds. During breeding season, these birds help feed the young and defend the nest."
+  },
+  {
+   "id": "cracticus-nigrogularis-6508ee",
+   "text": "These bold birds can become tame enough to be fed by people, either by hand or by food tossed in the air, and are looked on favourably by farmers for hunting pests.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Feeding",
+   "quote": "Some individuals look for scraps around houses and picnic sites and can become tame enough to be fed by people, either by hand or by tossing food in the air."
+  },
+  {
+   "id": "cracticus-nigrogularis-df97f4",
+   "text": "The pied butcherbird has even been observed hunting collaboratively with the Australian hobby, catching small birds flushed out of bushes by the larger falcon.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_butcherbird#Feeding",
+   "quote": "The pied butcherbird has been observed hunting collaboratively with the Australian hobby, either picking off common starlings or rufous-throated honeyeaters disturbed by the larger hobby or flushing out small birds from bushes"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1370648302
+ }
+}

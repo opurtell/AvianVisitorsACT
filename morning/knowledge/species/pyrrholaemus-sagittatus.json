@@ -1,0 +1,124 @@
+{
+ "sci": "Pyrrholaemus sagittatus",
+ "com": "Speckled Warbler",
+ "slug": "pyrrholaemus-sagittatus",
+ "wikipedia": {
+  "title": "Speckled warbler",
+  "url": "https://en.wikipedia.org/wiki/Speckled_warbler",
+  "revid": 1355307354
+ },
+ "ala": {
+  "name": "Pyrrholaemus sagittatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   714,
+   531,
+   628,
+   750,
+   705,
+   654,
+   597,
+   623,
+   751,
+   847,
+   412,
+   405
+  ],
+  "total": 7619,
+  "share": 0.0018566
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.76,
+   0.83,
+   1.03,
+   1.14,
+   1.31,
+   1.38,
+   1.2,
+   1.09,
+   1.12,
+   0.89,
+   0.63,
+   0.62
+  ]
+ },
+ "facts": [
+  {
+   "id": "pyrrholaemus-sagittatus-c22a41",
+   "text": "Males have a black upper margin to the brow, while in females it is reddish-brown.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Description",
+   "quote": "The male has a black upper margin to the brow, whereas on the female it is reddish-brown."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-1f4e01",
+   "text": "Its soft, mellow, musical song is interspersed with sharp whistles, and the bird is also a mimic of other species.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Behaviour",
+   "quote": "Its song is soft, mellow and musical, interspersed with sharp whistles, somewhat like that of the western gerygone (Gerygone fusca). It is also a mimic of other species."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-ae6ab4",
+   "text": "Like the redthroat, the speckled warbler makes a distinctive whirring sound with its wings in flight.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Behaviour",
+   "quote": "Like the redthroat (Pyrrholaemus brunneus), the speckled warbler makes a distinctive whirring sound with its wings in flight."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-a2619d",
+   "text": "When disturbed, it gives a grating twitter, flies to a perch, and soon returns to foraging on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Behaviour",
+   "quote": "However, when disturbed, it will make a grating twitter and fly to a perch, then soon return to foraging on the ground."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-00f494",
+   "text": "Mainly insectivorous, its chief prey are beetles, wasps, winged ants, caterpillars, mantids and grasshoppers, with the occasional seed.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Diet_and_foraging",
+   "quote": "It is mainly insectivorous, but occasionally eats seeds. Its chief prey are beetles (Coleoptera), wasps and winged ants (Hymenoptera), moth and butterfly larvae (Lepidoptera), mantids and grasshoppers (Orthoptera)."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-e63891",
+   "text": "From August to January it builds a dome-shaped, side-entrance nest of dried grass, bark-shreds and moss, lined with feathers and fur, resembling surrounding debris.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Breeding",
+   "quote": "It builds a dome-shaped nest with a side-entrance in a slight hollow, near the base of a tree or dense shrub, or among fallen branches. The nest is loosely built of dried grass, bark-shreds and moss, often lined with feathers and fur, and resembling the surrounding debris."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-fc7743",
+   "text": "The female incubates reddish-chocolate eggs for 17–20 days, and both she and the primary male feed the nestlings for 15–19 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Breeding",
+   "quote": "The female incubates the eggs for 17–20 days, and then broods the hatchlings. The nestlings are fed by her and the primary male for 15–19 days."
+  },
+  {
+   "id": "pyrrholaemus-sagittatus-44a8c6",
+   "text": "Despite an estimated population of 400,000, the species appears to be declining, threatened by land clearance, over-grazing, salinization, drought and fire.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Speckled_warbler#Conservation_status",
+   "quote": "Although relatively abundant with a population estimated at 400,000, the speckled warbler appears to be declining within its range. Threats include land clearance, leading to the advent of invasive weeds and increased predator pressure, as well as over-grazing and salinization with consequent fragmentation and degradation of habitat. Drought and fire also pose ongoing threats."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1355307354
+ }
+}

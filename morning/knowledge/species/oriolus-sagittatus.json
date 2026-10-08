@@ -1,0 +1,131 @@
+{
+ "sci": "Oriolus sagittatus",
+ "com": "Olive-backed Oriole",
+ "slug": "oriolus-sagittatus",
+ "wikipedia": {
+  "title": "Olive-backed oriole",
+  "url": "https://en.wikipedia.org/wiki/Olive-backed_oriole",
+  "revid": 1348241732
+ },
+ "ala": {
+  "name": "Oriolus (Mimeta) sagittatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1723,
+   714,
+   562,
+   520,
+   239,
+   158,
+   159,
+   470,
+   1545,
+   2620,
+   2058,
+   1994
+  ],
+  "total": 13184,
+  "share": 0.0032127
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.23,
+   0.76,
+   0.62,
+   0.53,
+   0.3,
+   0.22,
+   0.21,
+   0.55,
+   1.55,
+   1.85,
+   2.1,
+   2.06
+  ]
+ },
+ "facts": [
+  {
+   "id": "oriolus-sagittatus-c4f667",
+   "text": "The olive-backed oriole is a very common medium-sized bird native to northern and eastern Australia and south-central New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole",
+   "quote": "The olive-backed oriole (Oriolus sagittatus), or white-bellied oriole, is a very common medium-sized passerine bird native to northern and eastern Australia and south-central New Guinea."
+  },
+  {
+   "id": "oriolus-sagittatus-c8cd43",
+   "text": "It is the most wide-ranging of the Australasian orioles and is noisy and conspicuous.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole",
+   "quote": "The most wide-ranging of the Australasian orioles, it is noisy and conspicuous."
+  },
+  {
+   "id": "oriolus-sagittatus-d7f2d7",
+   "text": "The olive-backed oriole is not bright in colour, with an olive back marked by small dark streaks.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Description",
+   "quote": "Not bright in colour, it is olive-backed with small dark streaks, with a light chest having black streaks."
+  },
+  {
+   "id": "oriolus-sagittatus-1220a3",
+   "text": "Females have cinnamon-edged wings, and both sexes have reddish bills and eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Description",
+   "quote": "Females have cinnamon-edged wings and both sexes have reddish bills and eyes."
+  },
+  {
+   "id": "oriolus-sagittatus-eca13c",
+   "text": "Unlike the green oriole, it prefers more open woodland environments and tolerates drier climates, though not the desert.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Distribution_and_habitat",
+   "quote": "the olive-backed oriole is more versatile, preferring more open woodland environments, and tolerating drier climates (but not desert)."
+  },
+  {
+   "id": "oriolus-sagittatus-d34ca5",
+   "text": "Its range stretches from the very north of Western Australia across the east and south coasts to Victoria and the corner of South Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Distribution_and_habitat",
+   "quote": "Their range is from the very north of Western Australia across the east and south coasts to Victoria and the corner of South Australia."
+  },
+  {
+   "id": "oriolus-sagittatus-48404e",
+   "text": "It is common to very common in the north but less frequently seen in the south, reaching as far as south-eastern South Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Distribution_and_habitat",
+   "quote": "While common to very common in the north, olive-backed orioles are less frequently seen in the south, but nevertheless reach as far as south-eastern South Australia."
+  },
+  {
+   "id": "oriolus-sagittatus-b5b9fd",
+   "text": "Most olive-backed orioles breed during the tropical wet season, but some migrate south to breed in the southern summer.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Distribution_and_habitat",
+   "quote": "Most birds breed during the tropical wet season, but some migrate south to breed in the southern summer."
+  },
+  {
+   "id": "oriolus-sagittatus-4b1238",
+   "text": "The species was originally described in the genus Coracias by the English ornithologist John Latham in 1801.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Olive-backed_oriole#Taxonomy_and_systematics",
+   "quote": "The olive-backed oriole was originally described in the genus Coracias by the English ornithologist John Latham in 1801."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1348241732
+ }
+}

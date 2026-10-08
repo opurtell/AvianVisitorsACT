@@ -1,0 +1,131 @@
+{
+ "sci": "Petrochelidon nigricans",
+ "com": "Tree Martin",
+ "slug": "petrochelidon-nigricans",
+ "wikipedia": {
+  "title": "Tree martin",
+  "url": "https://en.wikipedia.org/wiki/Tree_martin",
+  "revid": 1367773195
+ },
+ "ala": {
+  "name": "Petrochelidon (Hylochelidon) nigricans",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1130,
+   534,
+   331,
+   189,
+   75,
+   40,
+   83,
+   592,
+   830,
+   1083,
+   740,
+   652
+  ],
+  "total": 6304,
+  "share": 0.0015362
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.64,
+   1.14,
+   0.74,
+   0.39,
+   0.19,
+   0.11,
+   0.23,
+   1.41,
+   1.69,
+   1.55,
+   1.53,
+   1.37
+  ]
+ },
+ "facts": [
+  {
+   "id": "petrochelidon-nigricans-7e0346",
+   "text": "The tree martin averages 13 cm long and has a shallowly forked tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Description",
+   "quote": "The tree martin averages 13 cm (5.1 in) in length and has a shallowly forked tail."
+  },
+  {
+   "id": "petrochelidon-nigricans-967d79",
+   "text": "It has an iridescent blue back and crown, a rufous forehead and a whitish rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Description",
+   "quote": "The adult has an iridescent blue back and crown, brown wings and tail, a rufous forehead and a whitish rump."
+  },
+  {
+   "id": "petrochelidon-nigricans-a175b1",
+   "text": "Its call is a tsweet and its song is a high-pitched twitter.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Description",
+   "quote": "The call of this vocal swallow is a tsweet and the song is a high-pitched twitter."
+  },
+  {
+   "id": "petrochelidon-nigricans-6f19b0",
+   "text": "Nests go in natural holes in dead trees or rock crevices, but increasingly on bridges and buildings.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Behaviour",
+   "quote": "Nests are constructed in natural holes in dead trees or rock crevices, but increasingly in artificial sites on bridges and buildings."
+  },
+  {
+   "id": "petrochelidon-nigricans-83c9ef",
+   "text": "It occasionally relines the nests of welcome swallows and may displace the owners to take the nest.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Behaviour",
+   "quote": "Tree martins also occasionally reline the nests of welcome swallows, and may displace the owners to obtain the nest."
+  },
+  {
+   "id": "petrochelidon-nigricans-faa433",
+   "text": "The clutch is usually four brown and mauve-spotted white eggs, and the species is often double-brooded.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin#Behaviour",
+   "quote": "The clutch is 3–5, usually four, brown and mauve-spotted white eggs, and this species is often double-brooded."
+  },
+  {
+   "id": "petrochelidon-nigricans-65f97f",
+   "text": "It breeds mostly south of latitude 20°S in Australia and on Timor island.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin",
+   "quote": "It breeds in Australia, mostly south of latitude 20°S, and on Timor island."
+  },
+  {
+   "id": "petrochelidon-nigricans-eddd5f",
+   "text": "It winters through most of Australia, New Guinea, Indonesia east of the Wallace Line, and the Solomon Islands.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin",
+   "quote": "It is migratory, wintering through most of Australia, New Guinea, Indonesia east of the Wallace Line, and the Solomon Islands."
+  },
+  {
+   "id": "petrochelidon-nigricans-e30084",
+   "text": "It is increasingly common in urban and suburban areas and prefers open woodland with large trees for nest holes.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Tree_martin",
+   "quote": "This is a bird of open woodland, preferably with large trees to provide nest holes. It is increasingly common in urban and suburban areas."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1367773195
+ }
+}

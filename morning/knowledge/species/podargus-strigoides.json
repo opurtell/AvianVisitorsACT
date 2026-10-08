@@ -1,0 +1,139 @@
+{
+ "sci": "Podargus strigoides",
+ "com": "Tawny Frogmouth",
+ "slug": "podargus-strigoides",
+ "wikipedia": {
+  "title": "Tawny frogmouth",
+  "url": "https://en.wikipedia.org/wiki/Tawny_frogmouth",
+  "revid": 1376327575
+ },
+ "ala": {
+  "name": "Podargus strigoides",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   350,
+   212,
+   225,
+   355,
+   296,
+   245,
+   246,
+   288,
+   495,
+   869,
+   543,
+   290
+  ],
+  "total": 4524,
+  "share": 0.0011024
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.68,
+   0.61,
+   0.67,
+   0.98,
+   1.0,
+   0.94,
+   0.9,
+   0.92,
+   1.34,
+   1.66,
+   1.5,
+   0.81
+  ]
+ },
+ "facts": [
+  {
+   "id": "podargus-strigoides-9bd31b",
+   "text": "The tawny frogmouth is often mistaken for an owl because of its nocturnal habits and similar colouring, but it is not an owl.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth",
+   "quote": "It is a big-headed, stocky bird often mistaken for an owl due to its nocturnal habits and similar colouring."
+  },
+  {
+   "id": "podargus-strigoides-99bd4d",
+   "text": "At night the tawny frogmouth gives a deep, continuous \"oom-oom-oom\" grunting call, often repeated throughout the night.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Vocalisations",
+   "quote": "At night, tawny frogmouths emit a deep and continuous \"oom-oom-oom\" grunting at a frequency of about eight calls in 5 seconds. The steady grunts are often repeated a number of times throughout the night.",
+   "edited": "hand-corrected 2026-10-09 spot check"
+  },
+  {
+   "id": "podargus-strigoides-98bc1b",
+   "text": "Tawny frogmouths pair for life, and during breeding season the male gently grooms the female's plumage in sessions lasting ten minutes or more.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Bonding_and_breeding",
+   "quote": "The male carries out grooming by gently stroking through the plumage of the female with his beak in sessions that can last for 10 minutes or more."
+  },
+  {
+   "id": "podargus-strigoides-69edd7",
+   "text": "The tawny frogmouth thrives in city suburbs, and has adapted so well to people that it nests in parks and gardens with trees.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Distribution_and_habitat",
+   "quote": "Tawny frogmouths are a common nocturnal urban wildlife, especially in residential suburbs, having adapted to human presence. They have been reported nesting in parks and gardens with trees."
+  },
+  {
+   "id": "podargus-strigoides-3fe96b",
+   "text": "Its silvery-grey plumage streaked with white, black and brown lets it blend into trees, looking just like a fractured branch and nearly invisible in daylight.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Camouflage",
+   "quote": "Their silvery-grey plumage, adorned with patterns of white, black, and brown streaks and mottles, enables them to seamlessly blend into the appearance of a fractured tree branch, rendering them nearly invisible in the bright light of day."
+  },
+  {
+   "id": "podargus-strigoides-de2d1b",
+   "text": "The bulk of the tawny frogmouth's diet is large nocturnal insects such as moths, along with spiders, worms, slugs, snails and even scorpions.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Diet_and_feeding",
+   "quote": "The bulk of their diet is composed of large nocturnal insects, such as moths, as well as spiders, worms, slugs, and snails, but also includes a variety of bugs, beetles, wasps, ants, centipedes, millipedes, and scorpions."
+  },
+  {
+   "id": "podargus-strigoides-35f019",
+   "text": "It swallows insects after pulping them at the rim of its beak, but kills larger prey such as lizards or mice by vigorously striking them against a branch.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Diet_and_feeding",
+   "quote": "Insects are generally pulped at the rim of the beak before being swallowed, and larger prey such as lizards or mice are generally killed before consumption by being vigorously struck against a branch."
+  },
+  {
+   "id": "podargus-strigoides-30b625",
+   "text": "The tawny frogmouth's fragile nest sits on a horizontal forked branch, can reach 30 cm across, and can disintegrate easily.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Bonding_and_breeding",
+   "quote": "Nests are usually placed on horizontal, forked tree branches and can reach up to 30 cm (12 in) in diameter. Loose sticks are piled together, and leaf litter and grass stems are placed to soften the centre. The nests are very fragile and can disintegrate easily."
+  },
+  {
+   "id": "podargus-strigoides-eb94a1",
+   "text": "To survive winter's reduced food supply, tawny frogmouths enter daily torpor, with night bouts lasting several hours and lowering body temperature by up to 10 °C.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Torpor",
+   "quote": "Dawn torpor bouts are shorter and temperature reduction may be as small as 0.5 to 1.5 °C, while night torpor bouts last several hours and can reduce body temperature by up to 10 °C."
+  },
+  {
+   "id": "podargus-strigoides-b6c6f2",
+   "text": "When heat-stressed, the tawny frogmouth engorges blood vessels in its mouth and produces a mucus that cools inhaled air, cooling its body.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Tawny_frogmouth#Thermoregulation",
+   "quote": "tawny frogmouths engorge the blood vessels in the mouth to increase the flow of blood to the buccal area and produce a mucus that helps to cool air as it is inhaled, hence cooling the body."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376327575
+ }
+}

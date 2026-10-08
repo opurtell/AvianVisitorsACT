@@ -1,0 +1,124 @@
+{
+ "sci": "Artamus superciliosus",
+ "com": "White-browed Woodswallow",
+ "slug": "artamus-superciliosus",
+ "wikipedia": {
+  "title": "White-browed woodswallow",
+  "url": "https://en.wikipedia.org/wiki/White-browed_woodswallow",
+  "revid": 1315368159
+ },
+ "ala": {
+  "name": "Artamus (Campbellornis) superciliosus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   141,
+   26,
+   4,
+   8,
+   0,
+   1,
+   0,
+   1,
+   67,
+   320,
+   288,
+   132
+  ],
+  "total": 992,
+  "share": 0.0002417
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.39,
+   0.38,
+   0.06,
+   0.11,
+   0.0,
+   0.02,
+   0.0,
+   0.02,
+   0.93,
+   3.13,
+   4.07,
+   1.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "artamus-superciliosus-17c11b",
+   "text": "The white-browed woodswallow is a medium-sized Australian bird with a white brow over a black head, blue-grey upper body and chestnut underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow",
+   "quote": "The white-browed woodswallow has very distinctive plumage consisting of white brow over a black head with the upper body being a deep blue-grey and with a chestnut under body."
+  },
+  {
+   "id": "artamus-superciliosus-7feda9",
+   "text": "It has a divided tongue, like most woodswallows.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow",
+   "quote": "The white-browed woodswallow has a bifurcated (divided) tongue like most woodswallows."
+  },
+  {
+   "id": "artamus-superciliosus-d6900b",
+   "text": "Highly nomadic, it travels in flocks ranging from hundreds to thousands of birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow",
+   "quote": "White-browed woodswallows are highly nomadic travelling in pairs to flocks from hundred to thousands of birds."
+  },
+  {
+   "id": "artamus-superciliosus-d13ec8",
+   "text": "It often heads north for winter and returns south in spring to nest, regularly mixing with masked woodswallows.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow",
+   "quote": "They often wander irregularly around inland Australia, usually heading north for winter in the Northern Territory and central Queensland, and south in spring for nesting. White-browed woodswallows regularly associate with flocks of the masked woodswallow Artamus personatus."
+  },
+  {
+   "id": "artamus-superciliosus-3e6838",
+   "text": "It mainly eats insects but will feed on nectar when blossoms are available.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow#Diet",
+   "quote": "White-browed woodswallows feed on nectar when blossoms are available but mainly feed on insects."
+  },
+  {
+   "id": "artamus-superciliosus-ee1d09",
+   "text": "It nests in shrubs, tree forks, hollow stumps or posts, building a nest of twigs, grass and rootlets.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow#Reproduction",
+   "quote": "The species nests in shrubs, forks of trees, hollow stumps or posts, the nest is usually made of twigs, grass and rootlets."
+  },
+  {
+   "id": "artamus-superciliosus-3c0b87",
+   "text": "It lives in places ranging from rainforest margins and woodlands to golf courses, vineyards and suburban streets.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow#Ecology_and_habitat",
+   "quote": "They inhabit margins of rainforests, woodlands, inland/coastal scrubs, golf courses, vineyards, suburban streets and arid areas of Australia."
+  },
+  {
+   "id": "artamus-superciliosus-616503",
+   "text": "It makes a 'tchip-tchip' call similar to masked woodswallows.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_woodswallow#Ecology_and_habitat",
+   "quote": "They make a 'tchip-tchip' call similar to masked woodswallows."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315368159
+ }
+}

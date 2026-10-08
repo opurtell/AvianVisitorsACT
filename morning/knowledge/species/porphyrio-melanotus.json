@@ -1,0 +1,131 @@
+{
+ "sci": "Porphyrio melanotus",
+ "com": "Australasian Swamphen",
+ "slug": "porphyrio-melanotus",
+ "wikipedia": {
+  "title": "Australasian swamphen",
+  "url": "https://en.wikipedia.org/wiki/Australasian_swamphen",
+  "revid": 1376326964
+ },
+ "ala": {
+  "name": "Porphyrio porphyrio",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4698,
+   3369,
+   3086,
+   3046,
+   2789,
+   2559,
+   2675,
+   3009,
+   3459,
+   3909,
+   3260,
+   2919
+  ],
+  "total": 39041,
+  "share": 0.0095135
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.0,
+   1.06,
+   1.02,
+   0.93,
+   1.04,
+   1.08,
+   1.08,
+   1.05,
+   1.04,
+   0.82,
+   0.99,
+   0.9
+  ]
+ },
+ "facts": [
+  {
+   "id": "porphyrio-melanotus-58a31a",
+   "text": "The Australasian swamphen stands about 51 cm tall, with dark plumage, a bright red bill and a contrasting white undertail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Description",
+   "quote": "Australasian swamphen are long-legged birds, standing about 51 cm tall, with dark plumage, black upper-parts, and a contrasting white undertail. They have a large, bright red bill"
+  },
+  {
+   "id": "porphyrio-melanotus-2e7dd6",
+   "text": "The swamphen is known for its striking blue-purple plumage, red frontal shield and strong red legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen",
+   "quote": "The swamphen is renowned for its distinctive blue-purple plumage, striking red frontal shield, and strong red legs."
+  },
+  {
+   "id": "porphyrio-melanotus-4c4411",
+   "text": "Swamphens forage on roadsides, eating invertebrates struck by vehicles, grazing mown grass shoots, and swallowing grit to help their gizzards process food.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Feeding_and_foraging",
+   "quote": "Their foraging habits extend beyond natural environments, often leading them to forage on roadsides, where they seek out invertebrates struck by vehicles and graze on grass shoots from mown verges. In these areas, they also ingest grit, which aids in processing food in their gizzards."
+  },
+  {
+   "id": "porphyrio-melanotus-2cff22",
+   "text": "Swamphens often breed in social groups of three to nine individuals, with all members helping defend territory, nest and raise chicks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen",
+   "quote": "These groups typically consist of three to nine individuals, including both males and females, which all contribute to territory defence, nesting, and chick rearing."
+  },
+  {
+   "id": "porphyrio-melanotus-b1e546",
+   "text": "Multiple female swamphens lay their differently coloured and sized eggs in a single shared nest, a rare system called joint laying.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Breeding",
+   "quote": "These females lay their eggs in a single nest, resulting in joint laying—a rare avian breeding system where multiple females contribute eggs to the same clutch and provide collective parental care. Each female's eggs differ in colour and size"
+  },
+  {
+   "id": "porphyrio-melanotus-da9654",
+   "text": "In New Zealand, most swamphen eggs are laid between August and February, with breeding peaking in spring between September and December.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Breeding",
+   "quote": "Most eggs are laid between August and February with breeding reaching a peak in spring between September and December."
+  },
+  {
+   "id": "porphyrio-melanotus-15533d",
+   "text": "Swamphen eggs take around 25 days to hatch, with females taking more incubation shifts than males and the dominant female doing the most.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Parental_care",
+   "quote": "the incubation period for their eggs averages around 25 days, typically lasting between 23 and 27 days for eggs laid after continuous incubation has begun, while earlier-laid eggs may take up to 29 days to hatch. During this period, only adults are responsible for incubation, with females generally taking more shifts than males"
+  },
+  {
+   "id": "porphyrio-melanotus-591db9",
+   "text": "The size of a swamphen's frontal shield signals its social status, with larger shields indicating higher dominance.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Territoriality_and_dominance",
+   "quote": "interactions related to dominance are also affected by the size of the frontal shield ornaments on individuals, which serve as signals of social status; larger shields indicate higher social dominance."
+  },
+  {
+   "id": "porphyrio-melanotus-8a3d62",
+   "text": "A swamphen was once found on a tiny Kermadec rock more than 200 km from the nearest population, showing these birds can fly great distances over the sea.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_swamphen#Dispersal",
+   "quote": "a dead bird was found on L'Esperance Rock, a tiny, isolated rock in the Kermadec group of New Zealand, more than 200 km from the nearest established population. This demonstrates the ability of swamphens to fly great distances over the sea."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376326964
+ }
+}

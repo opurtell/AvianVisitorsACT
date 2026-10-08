@@ -1,0 +1,138 @@
+{
+ "sci": "Lalage tricolor",
+ "com": "White-winged Triller",
+ "slug": "lalage-tricolor",
+ "wikipedia": {
+  "title": "White-winged triller",
+  "url": "https://en.wikipedia.org/wiki/White-winged_triller",
+  "revid": 1375674768
+ },
+ "ala": {
+  "name": "Lalage (Lalage) tricolor",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   867,
+   229,
+   57,
+   15,
+   3,
+   0,
+   0,
+   8,
+   294,
+   1737,
+   1560,
+   953
+  ],
+  "total": 5753,
+  "share": 0.0014019
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.47,
+   0.57,
+   0.15,
+   0.04,
+   0.01,
+   0.0,
+   0.0,
+   0.02,
+   0.7,
+   2.91,
+   3.78,
+   2.34
+  ]
+ },
+ "facts": [
+  {
+   "id": "lalage-tricolor-6dc367",
+   "text": "The White-winged Triller is one of the smaller members of the cuckooshrike family, found throughout mainland Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "The white-winged triller (Lalage tricolor) is one of the smaller members of the cuckooshrike family, Campephagidae. It is found throughout mainland Australia"
+  },
+  {
+   "id": "lalage-tricolor-da7679",
+   "text": "It may also live on islands to the north, including New Guinea and eastern Indonesia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "It is found throughout mainland Australia and possibly on the islands to the north, including New Guinea and eastern Indonesia."
+  },
+  {
+   "id": "lalage-tricolor-1b5621",
+   "text": "The male is black above and white below in breeding plumage, and trills cheerfully through much of the day in the breeding season.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "The conspicuous male bird—black above and white below in breeding plumage—trills cheerfully through much of the day during the breeding season"
+  },
+  {
+   "id": "lalage-tricolor-a165dc",
+   "text": "During breeding, males frequently rise on fluttering wings in song flight.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "frequently rising on fluttering wings in song flight"
+  },
+  {
+   "id": "lalage-tricolor-67550a",
+   "text": "The breeding season runs from mid-spring to early summer, when the bird moves to cooler southern Australia.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "the breeding season (mid-spring to early summer)"
+  },
+  {
+   "id": "lalage-tricolor-fde25d",
+   "text": "The female is similarly patterned to the male but in dull fawns and white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "The female is similarly patterned but in dull fawns and white."
+  },
+  {
+   "id": "lalage-tricolor-7a3abb",
+   "text": "Outside the breeding season, males look like females, keeping blackish feathers only on the wings and tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "In the non-breeding season, male birds appear similar to the female, retaining blackish feathers only on the wings and tail."
+  },
+  {
+   "id": "lalage-tricolor-098f62",
+   "text": "It eats a variety of insects, taken on the ground, from foliage, or in the air.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "white-winged trillers eat a variety of insects, which are taken on the ground, from foliage, or in the air"
+  },
+  {
+   "id": "lalage-tricolor-eb9a30",
+   "text": "The Gamilaraay and Yuwaalaraay people of northern New South Wales call it wiigurrun.gurrun, an onomatopoeic name.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "The Gamilaraay and Yuwaalaraay people of northern New South Wales use the onomatopoeic name wiigurrun.gurrun to refer to this species."
+  },
+  {
+   "id": "lalage-tricolor-83c66e",
+   "text": "It favours woodland and open scrub, and stays close to riverbeds in the central arid zone.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-winged_triller",
+   "quote": "White-winged trillers are fairly common in woodland, and open scrub through most of their range, and close to riverbeds in the central arid zone."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375674768
+ }
+}

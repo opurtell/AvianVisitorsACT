@@ -1,0 +1,131 @@
+{
+ "sci": "Eopsaltria australis",
+ "com": "Eastern Yellow Robin",
+ "slug": "eopsaltria-australis",
+ "wikipedia": {
+  "title": "Eastern yellow robin",
+  "url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin",
+  "revid": 1374485458
+ },
+ "ala": {
+  "name": "Eopsaltria (Eopsaltria) australis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1727,
+   1237,
+   1166,
+   1082,
+   993,
+   931,
+   874,
+   1047,
+   844,
+   1265,
+   825,
+   866
+  ],
+  "total": 12857,
+  "share": 0.003133
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.11,
+   1.17,
+   1.15,
+   0.99,
+   1.11,
+   1.18,
+   1.06,
+   1.1,
+   0.76,
+   0.8,
+   0.76,
+   0.8
+  ]
+ },
+ "facts": [
+  {
+   "id": "eopsaltria-australis-2b4974",
+   "text": "The eastern yellow robin lives along coastal and sub-coastal eastern Australia, from far southeast South Australia all the way north to Cooktown.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin",
+   "quote": "The extent of the eastern yellow robin's residence is from the extreme southeast corner of South Australia through most of Victoria and the eastern half of New South Wales and north as far as Cooktown."
+  },
+  {
+   "id": "eopsaltria-australis-985631",
+   "text": "At 15 to 16 cm long, the eastern yellow robin is one of the larger Australasian robins and one of the easiest to observe.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Description",
+   "quote": "At 15 to 16 cm (6 in) in length and 15 to 28 g (0.03 to 0.06 lb), the eastern yellow robin is one of the larger Australasian robins, and one of the most easily observed."
+  },
+  {
+   "id": "eopsaltria-australis-40cd5b",
+   "text": "Pairs and small family parties hold territories, sometimes year-round, and seem little bothered by people.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Description",
+   "quote": "Pairs and small family parties establish a territory—sometimes year-round, sometimes for a season—and seem little disturbed by human presence."
+  },
+  {
+   "id": "eopsaltria-australis-74eba1",
+   "text": "It does not migrate far, but moves locally with the seasons, especially between higher and lower ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Description",
+   "quote": "They appear not to migrate any great distance, but will make local movements with the seasons, particularly to higher and lower ground."
+  },
+  {
+   "id": "eopsaltria-australis-c1b3dc",
+   "text": "Though it uses heaths, mallee, scrub, woodlands and forests, the eastern yellow robin is most often found in damp places or near water.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Distribution_and_habitat",
+   "quote": "The eastern yellow robin occupies a wide range of habitats: heaths, mallee, acacia scrub, woodlands, and sclerophyll forests, but is most often found in damper places or near water."
+  },
+  {
+   "id": "eopsaltria-australis-da9a62",
+   "text": "Like all Australian robins, it hunts by perching and pouncing, typically from a tree trunk, wire, or low branch.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Distribution_and_habitat",
+   "quote": "Like all Australian robins, the eastern yellow robin tends to inhabit fairly dark, shaded locations, and is a perch and pounce hunter, typically from a tree trunk, wire, or low branch."
+  },
+  {
+   "id": "eopsaltria-australis-d0d675",
+   "text": "Its diet is mostly insects, taken from a wide range of small creatures.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Distribution_and_habitat",
+   "quote": "Its diet includes a wide range of small creatures, mostly insects."
+  },
+  {
+   "id": "eopsaltria-australis-62712d",
+   "text": "Breeding in spring is often communal, and the neat cup nest is disguised with lichen, moss, bark, or leaves.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Distribution_and_habitat",
+   "quote": "Breeding takes place in the spring and, as with many Australian birds, is often communal. The nest is a neat cup made of fine plant material and spider web, usually placed in a fork, and expertly disguised with lichen, moss, bark, or leaves."
+  },
+  {
+   "id": "eopsaltria-australis-2c04d5",
+   "text": "Despite the name, the eastern yellow robin is not closely related to either the European robin or the American robin.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_yellow_robin#Taxonomy",
+   "quote": "Like all Australian robins, it is not closely related to either the European robin or the American robin."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1374485458
+ }
+}

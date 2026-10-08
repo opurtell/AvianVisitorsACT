@@ -1,0 +1,138 @@
+{
+ "sci": "Haematopus longirostris",
+ "com": "Pied Oystercatcher",
+ "slug": "haematopus-longirostris",
+ "wikipedia": {
+  "title": "Pied oystercatcher",
+  "url": "https://en.wikipedia.org/wiki/Pied_oystercatcher",
+  "revid": 1339253832
+ },
+ "ala": {
+  "name": "Haematopus longirostris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   15,
+   6,
+   5,
+   3,
+   5,
+   5,
+   24,
+   21,
+   21,
+   25,
+   32,
+   18
+  ],
+  "total": 180,
+  "share": 4.39e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Aug",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "rel": [
+   0.69,
+   0.41,
+   0.36,
+   0.2,
+   0.4,
+   0.46,
+   2.09,
+   1.59,
+   1.36,
+   1.14,
+   2.11,
+   1.2
+  ]
+ },
+ "facts": [
+  {
+   "id": "haematopus-longirostris-5dbc07",
+   "text": "The Australian Pied Oystercatcher is a wading bird native to Australia, commonly found along its coastline.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher",
+   "quote": "It is a wading bird native to Australia and commonly found on its coastline."
+  },
+  {
+   "id": "haematopus-longirostris-9dd886",
+   "text": "Despite the name, Australian Pied Oystercatchers seldom eat oysters, preferring to feed mainly on bivalve molluscs on sandy coastlines.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Description",
+   "quote": "The name \"oystercatcher\" is something of a misnomer for this species, because they seldom eat oysters, which are found mainly on rocky coastlines. Pied oystercatchers frequent sandy coastlines, where they feed mainly on bivalve molluscs"
+  },
+  {
+   "id": "haematopus-longirostris-232b45",
+   "text": "It uses its specially adapted bill to pry apart shells and reach the edible flesh inside bivalve molluscs.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Description",
+   "quote": "which are prised apart with their specially adapted bill. These adaptations allow the Pied oystercatchers to slip their bills between the ventral edges  of these shelled organisms, further allowing them to sever the shells and reach the edible flesh inside."
+  },
+  {
+   "id": "haematopus-longirostris-4a1156",
+   "text": "The Australian Pied Oystercatcher is easily recognized by its 5–8 cm long orange-red beak, slender pink legs and black and white plumage.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Description",
+   "quote": "This Australian species is easily recognized by the characteristic 5–8 cm long orange-red beak, slender pink legs and black and white plumage."
+  },
+  {
+   "id": "haematopus-longirostris-cf4613",
+   "text": "With its wings extended, a white wing-stripe is visible, and males generally have a shorter, wider beak than females.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Description",
+   "quote": "With the wings extended, a white wing-stripe is also visible.  The male and female show little differentiation, except that the males generally sport a shorter, wider beak."
+  },
+  {
+   "id": "haematopus-longirostris-064d98",
+   "text": "The techniques Australian Pied Oystercatchers use to break open mollusc shells vary greatly and are thought to be learned behavior.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Habits",
+   "quote": "The techniques they use to break open the shells of the molluscs vary greatly and are thought to be learned behavior."
+  },
+  {
+   "id": "haematopus-longirostris-674bb7",
+   "text": "Australian Pied Oystercatchers usually feed in pairs or small flocks, focusing their hunting on a single area along shorelines.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Habits",
+   "quote": "Pied oystercatchers are most commonly observed to feed in pairs, or small flocks, concentrating hunting efforts on a single area along shorelines of rocky beaches."
+  },
+  {
+   "id": "haematopus-longirostris-42f68b",
+   "text": "It nests in shallow scrapes near the shore, typically laying a clutch of 2–3 eggs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Habits",
+   "quote": "They nest in shallow scrapes made in open areas near the shore and produce 2–3 eggs in a typical clutch."
+  },
+  {
+   "id": "haematopus-longirostris-cf5380",
+   "text": "Each pair defends its nesting area and often returns to the same spot year after year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Habits",
+   "quote": "Each couple protects its nesting area and often uses the same area year after year."
+  },
+  {
+   "id": "haematopus-longirostris-8ddc84",
+   "text": "Federally the Australian Pied Oystercatcher is considered secure, but in New South Wales it is listed as endangered.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_oystercatcher#Conservation_status",
+   "quote": "The pied oystercatcher is considered federally to be secure and in New South Wales, Australia, is listed as endangered."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1339253832
+ }
+}

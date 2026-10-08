@@ -1,0 +1,131 @@
+{
+ "sci": "Sturnus vulgaris",
+ "com": "European Starling",
+ "slug": "sturnus-vulgaris",
+ "wikipedia": {
+  "title": "Common starling",
+  "url": "https://en.wikipedia.org/wiki/Common_starling",
+  "revid": 1375763236
+ },
+ "ala": {
+  "name": "Sturnus (Sturnus) vulgaris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6165,
+   4308,
+   4567,
+   5093,
+   4567,
+   4393,
+   4550,
+   5014,
+   5750,
+   8832,
+   6529,
+   5615
+  ],
+  "total": 67893,
+  "share": 0.0165442
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.78,
+   0.81,
+   0.89,
+   0.92,
+   1.01,
+   1.1,
+   1.09,
+   1.05,
+   1.02,
+   1.11,
+   1.18,
+   1.03
+  ]
+ },
+ "facts": [
+  {
+   "id": "sturnus-vulgaris-f20f43",
+   "text": "The Common Starling has glossy black plumage with a metallic sheen, speckled with white at some times of the year.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling",
+   "quote": "It is about 20 cm (8 in) long and has glossy black plumage with a metallic sheen, which is speckled with white at some times of the year."
+  },
+  {
+   "id": "sturnus-vulgaris-55b4c3",
+   "text": "Its bill is black in winter and yellow in summer, and young birds have browner plumage than adults.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling",
+   "quote": "The legs are pink and the bill is black in winter and yellow in summer; young birds have browner plumage than the adults."
+  },
+  {
+   "id": "sturnus-vulgaris-a18a6c",
+   "text": "The starling's gift for mimicry has been noted in literature including the Mabinogion and the works of Pliny the Elder and William Shakespeare.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling",
+   "quote": "Its gift for mimicry has been noted in literature including the Mabinogion and the works of Pliny the Elder and William Shakespeare."
+  },
+  {
+   "id": "sturnus-vulgaris-a90587",
+   "text": "Females appear to prefer males with more complex songs, and better singers attract mates earlier and have greater reproductive success.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling#Song_and_calls",
+   "quote": "Those males that engage in longer bouts of singing and that have wider repertoires attract mates earlier and have greater reproductive success than others. Females appear to prefer mates with more complex songs"
+  },
+  {
+   "id": "sturnus-vulgaris-bcfe53",
+   "text": "A wild starling has been observed to mimic a sound it heard only once.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling#Song_and_calls",
+   "quote": "In some instances, a wild starling has been observed to mimic a sound it has heard only once."
+  },
+  {
+   "id": "sturnus-vulgaris-822cfe",
+   "text": "Starlings forage close to the ground and often eat alongside grazing animals, sometimes perching on their backs to feed on the mammal's external parasites.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling#Feeding",
+   "quote": "common starlings prefer foraging amongst short-cropped grasses and eat with grazing animals or perch on their backs, where they will also feed on the mammal's external parasites"
+  },
+  {
+   "id": "sturnus-vulgaris-606281",
+   "text": "Huge murmuration flocks may form near roosts and are thought to be a defence against birds of prey such as peregrine falcons.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling#Behaviour_and_ecology",
+   "quote": "huge, noisy flocks (murmurations) may form near roosts. These dense concentrations of birds are thought to be a defence against attacks by birds of prey such as peregrine falcons"
+  },
+  {
+   "id": "sturnus-vulgaris-8fe2e9",
+   "text": "Roosts of up to 1.5 million birds can form in city centres, with droppings accumulating up to 30 cm deep and killing trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling#Behaviour_and_ecology",
+   "quote": "Very large roosts, up to 1.5 million birds, form in city centres, woodlands and reedbeds, causing problems with their droppings. These may accumulate up to 30 cm (12 in) deep, killing trees by their concentration of chemicals."
+  },
+  {
+   "id": "sturnus-vulgaris-106b06",
+   "text": "The starling lays four or five glossy, pale blue eggs, which take two weeks to hatch and whose young remain in the nest for another three weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_starling",
+   "quote": "four or five glossy, pale blue eggs are laid. These take two weeks to hatch and the young remain in the nest for another three weeks."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375763236
+ }
+}

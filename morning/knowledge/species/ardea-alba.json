@@ -1,0 +1,124 @@
+{
+ "sci": "Ardea alba",
+ "com": "Great Egret",
+ "slug": "ardea-alba",
+ "wikipedia": {
+  "title": "Great egret",
+  "url": "https://en.wikipedia.org/wiki/Great_egret",
+  "revid": 1365982155
+ },
+ "ala": {
+  "name": "Ardea alba",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   794,
+   587,
+   537,
+   533,
+   284,
+   140,
+   106,
+   125,
+   281,
+   521,
+   551,
+   500
+  ],
+  "total": 5040,
+  "share": 0.0012281
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.39,
+   1.52,
+   1.45,
+   1.34,
+   0.87,
+   0.48,
+   0.35,
+   0.36,
+   0.69,
+   0.9,
+   1.38,
+   1.27
+  ]
+ },
+ "facts": [
+  {
+   "id": "ardea-alba-408a01",
+   "text": "The great egret is a large heron dressed entirely in white, standing up to a metre tall.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Description",
+   "quote": "The great egret is a large heron with all-white plumage. Standing up to 1 m (3 ft 3 in) tall"
+  },
+  {
+   "id": "ardea-alba-a64856",
+   "text": "You can pick it out from other white egrets by its yellow bill and black legs and feet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Description",
+   "quote": "the great egret can be distinguished from other white egrets by its yellow bill and black legs and feet"
+  },
+  {
+   "id": "ardea-alba-90fdd0",
+   "text": "In breeding season it grows delicate ornamental plumes along its back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Description",
+   "quote": "In breeding plumage, delicate ornamental feathers are borne on the back."
+  },
+  {
+   "id": "ardea-alba-1ab042",
+   "text": "It is usually quiet, but when disturbed it lets out a low, hoarse croak.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Description",
+   "quote": "The great egret is not normally a vocal bird; it gives a low, hoarse croak when disturbed"
+  },
+  {
+   "id": "ardea-alba-5d0933",
+   "text": "It hunts in shallow water or dry ground, eating fish, frogs, mice, snakes and even grasshoppers.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Diet",
+   "quote": "The great egret forages in shallow water or in drier habitats, feeding mainly on fish, frogs, other amphibians, mice, snakes, crayfish, aquatic insects, grasshoppers, and other insects"
+  },
+  {
+   "id": "ardea-alba-686f02",
+   "text": "Males and females look identical, and pairs are monogamous for each breeding season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Description",
+   "quote": "Males and females are identical in appearance; juveniles look like nonbreeding adults."
+  },
+  {
+   "id": "ardea-alba-70b904",
+   "text": "Around the end of the 19th century, huge numbers were killed in North America so their plumes could decorate hats.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#Threats",
+   "quote": "large numbers of great egrets were killed around the end of the 19th century so that their plumes, known as \"aigrettes\", could be used to decorate hats."
+  },
+  {
+   "id": "ardea-alba-5b2454",
+   "text": "The great egret is the symbol of the National Audubon Society.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Great_egret#In_culture",
+   "quote": "The great egret is the symbol of the National Audubon Society."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1365982155
+ }
+}

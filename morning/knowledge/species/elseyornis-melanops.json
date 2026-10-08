@@ -1,0 +1,131 @@
+{
+ "sci": "Elseyornis melanops",
+ "com": "Black-fronted Dotterel",
+ "slug": "elseyornis-melanops",
+ "wikipedia": {
+  "title": "Black-fronted dotterel",
+  "url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel",
+  "revid": 1379078153
+ },
+ "ala": {
+  "name": "Elseyornis melanops",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   159,
+   92,
+   54,
+   50,
+   41,
+   52,
+   43,
+   63,
+   88,
+   172,
+   102,
+   99
+  ],
+  "total": 1023,
+  "share": 0.0002493
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.37,
+   1.17,
+   0.72,
+   0.62,
+   0.62,
+   0.89,
+   0.7,
+   0.89,
+   1.07,
+   1.47,
+   1.26,
+   1.23
+  ]
+ },
+ "facts": [
+  {
+   "id": "elseyornis-melanops-f41df7",
+   "text": "The black-fronted dotterel wears a striking black face mask, forehead and a v-shaped band across the chest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Description",
+   "quote": "It has a distinct black face mask, forehead and v-shaped band across the chest."
+  },
+  {
+   "id": "elseyornis-melanops-eb7aac",
+   "text": "Unlike many other wading birds, the black-fronted dotterel retains the same plumage all year round.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Description",
+   "quote": "Unlike many other wading birds, black-fronted dotterels retain the same plumage all year round."
+  },
+  {
+   "id": "elseyornis-melanops-465f82",
+   "text": "It eats crustaceans, insects and seeds, foraging in short runs with rapid bobbing pecks.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Food_and_feeding",
+   "quote": "Their diet consists of crustaceans, insects and seeds. They forage in a series of short running motions, holding the body horizontal, stopping to peck from time to time with a rapid bobbing motion."
+  },
+  {
+   "id": "elseyornis-melanops-a70578",
+   "text": "During courtship, both partners call and perform aerial displays together.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Breeding",
+   "quote": "During courtship, both species will call and participate in aerial displays."
+  },
+  {
+   "id": "elseyornis-melanops-252b60",
+   "text": "To protect its eggs from harsh sun, an adult stands over them to shade them or wets its belly feathers to cool them.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Breeding",
+   "quote": "if the eggs get too hot the adults will stand over the eggs to shade them from the harsh sun or wet the feathers on their stomach to wet and cool the eggs."
+  },
+  {
+   "id": "elseyornis-melanops-1c1ef1",
+   "text": "Both parents feign injury and call loudly to lure predators away from the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Breeding",
+   "quote": "Both parents will call loudly and feign injury to lure predators away from the nest."
+  },
+  {
+   "id": "elseyornis-melanops-4c93e2",
+   "text": "Chicks leave the nest just twenty-four hours after hatching to hide in less exposed areas.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Breeding",
+   "quote": "Twenty-four hours after they hatch the chicks leave the nest to hide in less exposed areas, while at the same time both parents look after them."
+  },
+  {
+   "id": "elseyornis-melanops-77be4d",
+   "text": "The species self-introduced itself to New Zealand, first being spotted in Hawke's Bay in 1954.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Distribution_and_habitat",
+   "quote": "The species self-introduced itself to parts of New Zealand in the 1950s, with the bird first being spotted in Hawke's Bay in 1954."
+  },
+  {
+   "id": "elseyornis-melanops-c5ee91",
+   "text": "It lives along the edges of freshwater sources such as wetlands, lakes, dams and billabongs.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Black-fronted_dotterel#Distribution_and_habitat",
+   "quote": "Black-fronted dotterels live along the edges of freshwater sources. They include wetlands, lakes, dams and billabongs, as well as shallow, temporary claypan pools."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379078153
+ }
+}

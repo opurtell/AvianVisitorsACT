@@ -1,0 +1,131 @@
+{
+ "sci": "Daphoenositta chrysoptera",
+ "com": "Varied Sittella",
+ "slug": "daphoenositta-chrysoptera",
+ "wikipedia": {
+  "title": "Varied sittella",
+  "url": "https://en.wikipedia.org/wiki/Varied_sittella",
+  "revid": 1371444163
+ },
+ "ala": {
+  "name": "Daphoenositta (Neositta) chrysoptera",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   351,
+   176,
+   194,
+   275,
+   211,
+   218,
+   210,
+   281,
+   339,
+   532,
+   323,
+   251
+  ],
+  "total": 3371,
+  "share": 0.0008214
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.88,
+   0.65,
+   0.75,
+   0.99,
+   0.92,
+   1.08,
+   0.99,
+   1.16,
+   1.19,
+   1.32,
+   1.16,
+   0.91
+  ]
+ },
+ "facts": [
+  {
+   "id": "daphoenositta-chrysoptera-398b3d",
+   "text": "The varied sittella is a small songbird native to Australia, also known as the Australian nuthatch, orange-winged sittella and the barkpecker.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella",
+   "quote": "About 10–11 cm long, it is also known as the Australian nuthatch, orange-winged sittella and the barkpecker."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-96683e",
+   "text": "Its wings are black with a broad white or cinnamon bar, and its dark orange eye is ringed with orange-yellow.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Description",
+   "quote": "Its wings are black, with a broad bar in either white or cinnamon. The iris is dark orange, and the eye-ring, legs and feet are orange-yellow."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-12fb7b",
+   "text": "The sittella's crown and head can be white, grey or black depending on where it lives.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Description",
+   "quote": "Its crown and head can be white, grey or black, and its body is either whitish or grey often streaked with black and grey."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-3a8f86",
+   "text": "Flocks forage in trees of all heights, often descending erratically down trunks in a nuthatch-like fashion.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "Flocks of the birds forage in trees of all heights, often descending erratically down the trunks in a rather nuthatch-like fashion."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-eb0d18",
+   "text": "The sittella eats spiders and insects, usually prised from beneath the bark.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "Their diet consists of spiders and insects, usually prised from beneath the bark."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-675224",
+   "text": "Its calls are a thin, high-pitched chwit that becomes a louder metallic tchweit-tchweit-tchweit as birds call back and forth.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "Calls are a thin, high-pitched chwit becoming the louder, metallic tchweit-tchweit-tchweit of many birds combining in a constant call-and-response as they move towards another tree."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-f68d7f",
+   "text": "In spring and summer, larger flocks break up into smaller breeding flocks that include a breeding pair and unmated adults from the previous season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "larger flocks break up into smaller breeding flocks, typically composed of a breeding pair, along with several unmated adults and immatures from the previous season."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-82273f",
+   "text": "The cone-shaped nest, made of bark, fibres and spider-webs, is placed 5 to 25 m above ground on a branch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "The nest is cone-shaped, made of bark, fibres and spider-webs, and placed 5 to 25 m above ground in the fork of a branch or on an exposed limb."
+  },
+  {
+   "id": "daphoenositta-chrysoptera-47e337",
+   "text": "The female incubates a clutch of two or three blue-spotted white eggs for 18 to 20 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Varied_sittella#Behaviour",
+   "quote": "A clutch of two or three blue-spotted, white eggs, measuring 17 mm × 13 mm (0.7 in × 0.5 in), is incubated by the female for 18 to 20 days."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371444163
+ }
+}

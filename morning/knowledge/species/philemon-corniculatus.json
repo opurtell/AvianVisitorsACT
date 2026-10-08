@@ -1,0 +1,131 @@
+{
+ "sci": "Philemon corniculatus",
+ "com": "Noisy Friarbird",
+ "slug": "philemon-corniculatus",
+ "wikipedia": {
+  "title": "Noisy friarbird",
+  "url": "https://en.wikipedia.org/wiki/Noisy_friarbird",
+  "revid": 1375669060
+ },
+ "ala": {
+  "name": "Philemon (Tropidorhynchus) corniculatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4891,
+   2746,
+   2187,
+   868,
+   140,
+   37,
+   17,
+   232,
+   2929,
+   6539,
+   4117,
+   3880
+  ],
+  "total": 30036,
+  "share": 0.0073192
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.61,
+   1.34,
+   1.11,
+   0.41,
+   0.08,
+   0.02,
+   0.01,
+   0.13,
+   1.36,
+   2.13,
+   1.94,
+   1.85
+  ]
+ },
+ "facts": [
+  {
+   "id": "philemon-corniculatus-ad3f71",
+   "text": "The noisy friarbird is a large honeyeater with a completely bald black head apart from small tufts under the chin and along the eyebrow.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Description",
+   "quote": "Its black head is completely bald apart from tufts of feathers under the chin and along the eyebrow."
+  },
+  {
+   "id": "philemon-corniculatus-184ca2",
+   "text": "It has a rounded knob above its black bill that is visible even at a distance.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Description",
+   "quote": "It can be distinguished by its rounded knob above the black bill, which is visible at distance."
+  },
+  {
+   "id": "philemon-corniculatus-c4a89d",
+   "text": "One of its calls has been likened to someone saying \"four o'clock\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Description",
+   "quote": "As its name suggests, it is noisy; one of its calls has been likened to \"four o'clock\"."
+  },
+  {
+   "id": "philemon-corniculatus-8e79d8",
+   "text": "Its calls mark out feeding territories and announce food sources worth defending to other birds, not just other friarbirds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Behaviour",
+   "quote": "The calls are used to identify an individual's feeding territory, and also announce the presence of food sources worth defending to other birds—not necessarily friarbirds alone."
+  },
+  {
+   "id": "philemon-corniculatus-188a2c",
+   "text": "It eats nectar, insects and fruit, and raiding commercial grapes and berries can bring it into conflict with people.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Behaviour",
+   "quote": "The consumption of commercially grown fruit, such as grapes and berries, can bring noisy friarbirds into direct conflict with humans who may regard them as pests under those circumstances."
+  },
+  {
+   "id": "philemon-corniculatus-da43bb",
+   "text": "In southern eastern Australia it is migratory, flying north to overwinter and returning south in spring.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Behaviour",
+   "quote": "In southern parts of eastern Australia the species is migratory, moving north to overwinter and returning south in the spring."
+  },
+  {
+   "id": "philemon-corniculatus-350ef7",
+   "text": "It builds a large, deep hanging nest of bark and grass, usually well hidden one to three metres above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Breeding",
+   "quote": "The nest is a large, deep cup with an inverted lip or rim, made of bark and grass hanging from a horizontal branch, 1–3 metres above the ground, and usually well-hidden."
+  },
+  {
+   "id": "philemon-corniculatus-f4ad4c",
+   "text": "It lays two to four eggs, rarely five, splotched with darker pink-brown or purplish colours.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Breeding",
+   "quote": "Two to four (rarely five) eggs are laid, measuring 22 by 33 millimetres (0.87 in × 1.30 in), and buff- to pale-pink splotched with darker pink-brown or purplish colours."
+  },
+  {
+   "id": "philemon-corniculatus-224983",
+   "text": "It is aggressively protective of its nest and is known to swoop at intruders.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_friarbird#Behaviour",
+   "quote": "They are aggressively protective of their nests, and are known to swoop."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375669060
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Pardalotus punctatus",
+ "com": "Spotted Pardalote",
+ "slug": "pardalotus-punctatus",
+ "wikipedia": {
+  "title": "Spotted pardalote",
+  "url": "https://en.wikipedia.org/wiki/Spotted_pardalote",
+  "revid": 1315245408
+ },
+ "ala": {
+  "name": "Pardalotus (Pardalotus) punctatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4303,
+   3819,
+   5101,
+   6200,
+   5112,
+   4249,
+   4359,
+   5371,
+   5135,
+   6553,
+   3562,
+   3391
+  ],
+  "total": 60215,
+  "share": 0.0146732
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.61,
+   0.8,
+   1.11,
+   1.26,
+   1.26,
+   1.19,
+   1.17,
+   1.25,
+   1.02,
+   0.92,
+   0.72,
+   0.69
+  ]
+ },
+ "facts": [
+  {
+   "id": "pardalotus-punctatus-64b46a",
+   "text": "It is one of the smallest of all Australian birds, measuring just 8 to 10 centimetres long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote",
+   "quote": "One of the smallest of all Australian birds at 8 to 10 centimetres (3.1 to 3.9 in) in length"
+  },
+  {
+   "id": "pardalotus-punctatus-4d9385",
+   "text": "The adult male has grey-brown upperparts with buff spots, a black crown, white-spotted wings and tail, and a reddish rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Description",
+   "quote": "The adult male of the nominate subspecies has grey-brown upperparts with numerous paler buff spots, a black crown, wings and tail all with white spots, white eyebrows and reddish rump."
+  },
+  {
+   "id": "pardalotus-punctatus-786698",
+   "text": "Pairs exchange soft, whistling wheet-wheet calls throughout the day that carry a long way.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Nesting",
+   "quote": "Pairs make soft, whistling wheet-wheet calls to one another throughout the day, which carry for quite a distance."
+  },
+  {
+   "id": "pardalotus-punctatus-cf4cd0",
+   "text": "Its contact call is really two calls—an initial call and an almost instant reply—so it can seem to come from two directions at once.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Nesting",
+   "quote": "the contact call is in fact two calls: an initial call and an almost instant response, and thus can come from two different directions."
+  },
+  {
+   "id": "pardalotus-punctatus-8d9597",
+   "text": "It nests underground, digging a tunnel up to 1.5 metres long to a chamber lined with shredded bark.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Nesting",
+   "quote": "The nest is an underground horizontal oval chamber lined with shredded bark, linked by a tunnel 0.5 to 1.5 metres (1 ft 8 in to 4 ft 11 in) long to a hole in the side of a riverbank or slope in a shaded location."
+  },
+  {
+   "id": "pardalotus-punctatus-a8ee90",
+   "text": "Some pardalotes have taken to nesting in carpet rolls and garage roll-a-doors.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Nesting",
+   "quote": "Birds have used carpet rolls and garage roll-a-doors to nest in on occasion."
+  },
+  {
+   "id": "pardalotus-punctatus-cb7472",
+   "text": "The female lays 3 to 4 shiny white eggs, which hatch after 19 days of incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Nesting",
+   "quote": "producing a clutch of 3 to 4 round shiny white eggs 16 mm (0.63 in) long by 13 mm (0.51 in) wide. The eggs are incubated for 19 days until they hatch"
+  },
+  {
+   "id": "pardalotus-punctatus-382e16",
+   "text": "Although moderately common across fertile parts of Australia, it is seldom seen closely enough to identify.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote",
+   "quote": "Although moderately common in all of the reasonably fertile parts of Australia (the east coast, the south-east, and the south-west corner) it is seldom seen closely enough to enable identification."
+  },
+  {
+   "id": "pardalotus-punctatus-86b96a",
+   "text": "Numbers appear to be declining, especially in urban areas, but the species is not considered endangered.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_pardalote#Distribution_and_habitat",
+   "quote": "Spotted pardalote numbers appear to be declining, especially in urban areas, but the species is not considered endangered at this time."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315245408
+ }
+}

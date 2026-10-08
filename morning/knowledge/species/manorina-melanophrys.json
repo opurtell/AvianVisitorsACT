@@ -1,0 +1,138 @@
+{
+ "sci": "Manorina melanophrys",
+ "com": "Bell Miner",
+ "slug": "manorina-melanophrys",
+ "wikipedia": {
+  "title": "Bell miner",
+  "url": "https://en.wikipedia.org/wiki/Bell_miner",
+  "revid": 1362178662
+ },
+ "ala": {
+  "name": "Manorina (Manorina) melanophrys",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6,
+   4,
+   0,
+   2,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "total": 17,
+  "share": 4.1e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Apr"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   3.11,
+   3.06,
+   0.0,
+   1.48,
+   3.61,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.74,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "manorina-melanophrys-af0f02",
+   "text": "The bell miner is named for its bell-like call, and \"miner\" is an old spelling of \"myna\".",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner",
+   "quote": "The common name refers to their bell-like call. \"Miner\" is an old alternative spelling of \"myna\", and is shared with other members of the genus Manorina."
+  },
+  {
+   "id": "manorina-melanophrys-17ffec",
+   "text": "Bell miners are olive-green honeyeaters with bright orange legs, a yellow downturned bill and red-orange bare skin behind the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Description",
+   "quote": "They have the characteristic yellow bill of the miners, which is slightly downturned. The legs are bright orange, and the bare patch behind the eye is red-orange."
+  },
+  {
+   "id": "manorina-melanophrys-648411",
+   "text": "Bell miners aggressively defend their colony territory together, mobbing big birds like kookaburras and currawongs with up to twelve miners.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Social_organization",
+   "quote": "larger avian species, like kookaburras, currawongs, and ravens are mobbed by up to twelve miners from different coteries within the colony."
+  },
+  {
+   "id": "manorina-melanophrys-d51fd9",
+   "text": "Nests may be attended by up to 20 helpers, and nest success is higher when at least six additional helpers attend.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Nest_helpers",
+   "quote": "Nests may be attended by up to 20 helpers, and nest success has been observed to be higher when there are at least 6 additional helpers attending the nest, in addition to the breeding pair."
+  },
+  {
+   "id": "manorina-melanophrys-ec74be",
+   "text": "The female builds the nest over eight days and incubates one to three pink, spotted eggs for 14.5 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Breeding",
+   "quote": "Female bell miners build the nest over eight days, incubate the one to three (but typically two) eggs for 14.5 days"
+  },
+  {
+   "id": "manorina-melanophrys-148cf0",
+   "text": "Bell miner presence is so tied to eucalyptus dieback that the phenomenon is officially named Bell Miner Associated Dieback.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Bell_Miner_Associated_Dieback",
+   "quote": "Bell miners are so closely associated with eucalyptus dieback that the phenomenon has been named Bell Miner Associated Dieback (BMAD)."
+  },
+  {
+   "id": "manorina-melanophrys-3398d2",
+   "text": "Bell miners favour forest edges near permanent water, from Gympie in Queensland south to around Melbourne in Victoria.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Distribution_and_habitat",
+   "quote": "Bell miners are distributed from around Gympie in Queensland, south along the coastal plain and ranges, to Victoria, around Melbourne. They prefer the margins of wet or dry sclerophyll forest and thick woodlands, often with a stream or other permanent water source nearby."
+  },
+  {
+   "id": "manorina-melanophrys-b2e29f",
+   "text": "Bell miners keep up a \"ping\" contact call all day as they forage high in the canopy, so they are heard far more often than seen.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Description",
+   "quote": "they keep up their \"ping\" contact call as they forage throughout the day."
+  },
+  {
+   "id": "manorina-melanophrys-0f46d2",
+   "text": "When bell miners are removed from an area, other forest birds quickly move in and decimate the psyllid colonies the miners had been protecting.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Feeding",
+   "quote": "When bell miners are removed, psyllid colonies are generally quickly decimated by the other forest bird species that move into the miners' former territory."
+  },
+  {
+   "id": "manorina-melanophrys-366521",
+   "text": "Psyllid products such as lerps may make up as much as 90% of the bell miner's diet.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Bell_miner#Feeding",
+   "quote": "Psyllid products may consist of up to 90% of the bell miner's diet."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1362178662
+ }
+}

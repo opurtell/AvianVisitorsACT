@@ -1,0 +1,131 @@
+{
+ "sci": "Cygnus atratus",
+ "com": "Black Swan",
+ "slug": "cygnus-atratus",
+ "wikipedia": {
+  "title": "Black swan",
+  "url": "https://en.wikipedia.org/wiki/Black_swan",
+  "revid": 1377565588
+ },
+ "ala": {
+  "name": "Cygnus atratus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3507,
+   2589,
+   2334,
+   2234,
+   2052,
+   1768,
+   1917,
+   2059,
+   2591,
+   2906,
+   2249,
+   2298
+  ],
+  "total": 28655,
+  "share": 0.0069827
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Jun"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.02,
+   1.11,
+   1.05,
+   0.93,
+   1.04,
+   1.02,
+   1.05,
+   0.99,
+   1.06,
+   0.83,
+   0.93,
+   0.97
+  ]
+ },
+ "facts": [
+  {
+   "id": "cygnus-atratus-c55e6d",
+   "text": "The black swan is monogamous, with both partners sharing incubation and cygnet-rearing duties.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan",
+   "quote": "It is a monogamous breeder, with both partners sharing incubation and cygnet-rearing duties."
+  },
+  {
+   "id": "cygnus-atratus-6b9720",
+   "text": "It has black plumage with white flight feathers and a bright red bill with a pale bar and tip.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Description",
+   "quote": "Black swans are black-feathered birds, with white flight feathers. The bill is bright red, with a pale bar and tip"
+  },
+  {
+   "id": "cygnus-atratus-9b802c",
+   "text": "Its call is a musical, far-reaching bugle-like sound, and it can whistle when disturbed while breeding.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Description",
+   "quote": "The black swan utters a musical and far reaching bugle-like sound, called either on the water or in flight, as well as a range of softer crooning notes. It can also whistle, especially when disturbed while breeding and nesting."
+  },
+  {
+   "id": "cygnus-atratus-ad1d69",
+   "text": "The black swan is almost exclusively herbivorous, eating mainly aquatic and marshland plants.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Diet_and_feeding",
+   "quote": "The black swan is almost exclusively herbivorous, and while there is some regional and seasonal variation, the diet is generally dominated by aquatic and marshland plants."
+  },
+  {
+   "id": "cygnus-atratus-2d1576",
+   "text": "An estimated one-quarter of all pairings are homosexual, mostly between males.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Nesting_and_reproduction",
+   "quote": "An estimated one-quarter of all pairings are homosexual, mostly between males."
+  },
+  {
+   "id": "cygnus-atratus-40d927",
+   "text": "If an egg rolls out of the nest, both sexes will retrieve it using the neck, a feat only the female performs in other swan species.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Incubation_and_parental_care",
+   "quote": "If eggs accidentally roll out of the nest both sexes will retrieve the egg using the neck (in other swan species only the female performs this feat)."
+  },
+  {
+   "id": "cygnus-atratus-c4f198",
+   "text": "It is highly nomadic, with no set migratory pattern, responding opportunistically to rainfall or drought.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Distribution_and_habitat",
+   "quote": "The black swan was once thought to be sedentary, but is now known to be highly nomadic. There is no set migratory pattern, but rather opportunistic responses to either rainfall or drought."
+  },
+  {
+   "id": "cygnus-atratus-63be56",
+   "text": "After breeding it moults all its flight feathers at once and cannot fly for about a month, settling on large open waters for safety.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Distribution_and_habitat",
+   "quote": "The black swan, like many other water fowl, loses all its flight feathers at once when it moults after breeding and is unable to fly for about a month. During this time it will usually settle on large, open waters for safety."
+  },
+  {
+   "id": "cygnus-atratus-2905b0",
+   "text": "It is the emblem and official bird of Western Australia, appearing on the state flag since 1870.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Black_swan#Non-indigenous_cultures",
+   "quote": "From 1870, the black swan featured prominently on the flag of Western Australia; following self-government it became the emblem and official bird of Western Australia"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1377565588
+ }
+}

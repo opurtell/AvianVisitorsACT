@@ -1,0 +1,124 @@
+{
+ "sci": "Melanodryas cucullata",
+ "com": "Hooded Robin",
+ "slug": "melanodryas-cucullata",
+ "wikipedia": {
+  "title": "Hooded robin",
+  "url": "https://en.wikipedia.org/wiki/Hooded_robin",
+  "revid": 1314631991
+ },
+ "ala": {
+  "name": "Melanodryas (Melanodryas) cucullata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   125,
+   53,
+   36,
+   78,
+   108,
+   63,
+   105,
+   103,
+   26,
+   73,
+   15,
+   15
+  ],
+  "total": 801,
+  "share": 0.0001952
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.25,
+   0.78,
+   0.55,
+   1.11,
+   1.88,
+   1.24,
+   1.98,
+   1.69,
+   0.36,
+   0.72,
+   0.21,
+   0.22
+  ]
+ },
+ "facts": [
+  {
+   "id": "melanodryas-cucullata-2cbc85",
+   "text": "The male wears a striking black-and-white outfit, with a black 'hood' over the head and neck and a white stripe along the shoulder.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Description",
+   "quote": "The male has a distinctive pied coloration, with a black head and neck (\"hood\") and a white stripe along its shoulder."
+  },
+  {
+   "id": "melanodryas-cucullata-23130a",
+   "text": "The female is far plainer than the male, being grey-brown above with a pale grey throat and paler underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Description",
+   "quote": "The female is an undistinguished grey-brown above, with a pale grey throat and paler underneath, and dark brown wings and white wing bars."
+  },
+  {
+   "id": "melanodryas-cucullata-22f482",
+   "text": "Juveniles moult through several plumages over a three-year period before gaining adult colouring.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Description",
+   "quote": "Juveniles transition through several moults over a 3-year period."
+  },
+  {
+   "id": "melanodryas-cucullata-f0d724",
+   "text": "The male's square-ended tail shows distinctive white panels that are clearly visible in flight.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Description",
+   "quote": "the square-ended tail is white tipped underneath with distinctive white panels on the dorsal side, each of which are clearly visible in flight."
+  },
+  {
+   "id": "melanodryas-cucullata-9e96fc",
+   "text": "Though normally quiet, hooded robins call in the early morning, and pairs or small groups are often seen together.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Behaviour",
+   "quote": "Though normally a quiet bird, male birds call in the early morning."
+  },
+  {
+   "id": "melanodryas-cucullata-4a6ee6",
+   "text": "Hooded robins catch invertebrates by pouncing on them from an exposed perch close to the ground.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Behaviour",
+   "quote": "catch invertebrates by pouncing on them from an exposed perch close to the ground."
+  },
+  {
+   "id": "melanodryas-cucullata-d14985",
+   "text": "Both sexes may tumble along the ground feigning injury to distract predators approaching their nest.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Behaviour",
+   "quote": "Injury-feigning displays, including tumbling along the ground, have been observed in both sexes, to distract potential predators and humans that encroach upon occupied nests."
+  },
+  {
+   "id": "melanodryas-cucullata-6aac9f",
+   "text": "The hooded robin prefers dry open forests with acacias and eucalypts, using shrubs as perches close to the ground.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Hooded_robin#Habitat",
+   "quote": "The hooded robin shows a preference for dry open forests, combining acacia and eucalypts with shrubs that offer perching positions relatively close to the ground."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1314631991
+ }
+}

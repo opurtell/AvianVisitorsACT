@@ -1,0 +1,138 @@
+{
+ "sci": "Phalacrocorax carbo",
+ "com": "Great Cormorant",
+ "slug": "phalacrocorax-carbo",
+ "wikipedia": {
+  "title": "Great cormorant",
+  "url": "https://en.wikipedia.org/wiki/Great_cormorant",
+  "revid": 1339370010
+ },
+ "ala": {
+  "name": "Phalacrocorax (Phalacrocorax) carbo",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2082,
+   1462,
+   1228,
+   1123,
+   866,
+   535,
+   580,
+   869,
+   1136,
+   1624,
+   1334,
+   1305
+  ],
+  "total": 14218,
+  "share": 0.0034646
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.26,
+   1.31,
+   1.15,
+   0.97,
+   0.91,
+   0.64,
+   0.66,
+   0.87,
+   0.97,
+   0.97,
+   1.15,
+   1.14
+  ]
+ },
+ "facts": [
+  {
+   "id": "phalacrocorax-carbo-76ff38",
+   "text": "The great cormorant's plumage is largely black, with bronze to greenish shine on the wings and tail and a purple tinge on the body.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Description",
+   "quote": "The plumage is largely black, but with bronze to greenish iridescence on the wings and tail, and purple iridescence on the body."
+  },
+  {
+   "id": "phalacrocorax-carbo-bfd4f7",
+   "text": "Adult great cormorants have striking deep sea-green eyes, while juveniles have duller dark grey ones.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Description",
+   "quote": "The eyes are a striking deep sea-green in adults, duller dark grey in juveniles."
+  },
+  {
+   "id": "phalacrocorax-carbo-f63230",
+   "text": "The great cormorant is mostly silent but makes various guttural noises at its breeding colonies.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Description",
+   "quote": "Great cormorants are mostly silent, but they make various guttural noises at their breeding colonies."
+  },
+  {
+   "id": "phalacrocorax-carbo-6d6038",
+   "text": "Great cormorant pairs reuse the same nest site to breed year after year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Breeding",
+   "quote": "Pairs will use the same nest site to breed year after year."
+  },
+  {
+   "id": "phalacrocorax-carbo-fa555d",
+   "text": "The great cormorant lays three to five pale blue or green eggs, which are sometimes covered in a white chalky layer.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Breeding",
+   "quote": "They lay a clutch of three to five eggs that measure 63 by 41 millimetres (2+1⁄2 by 1+5⁄8 in) on average. The eggs are a pale blue or green, and sometimes have a white chalky layer covering them."
+  },
+  {
+   "id": "phalacrocorax-carbo-8cf1a0",
+   "text": "The great cormorant catches fish by diving, with dives lasting one to three minutes and reaching depths of up to 9.5 metres.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Food_and_feeding",
+   "quote": "The duration of its dives varies from 1–3 minutes, with the bird diving to depths of up to a maximum of 9.5 metres (31 ft)."
+  },
+  {
+   "id": "phalacrocorax-carbo-4e7899",
+   "text": "In summer great cormorants eat any fish of suitable size they can catch, but in winter they prefer larger, torpedo-shaped fish.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Food_and_feeding",
+   "quote": "Cormorants consume all fish of appropriate size that they are able to catch in summer and noticeably select for larger, mostly torpedo-shaped fish in winter."
+  },
+  {
+   "id": "phalacrocorax-carbo-469721",
+   "text": "Great cormorants can hear well underwater, which may help them detect fish, though this comes at the cost of reduced hearing sensitivity in air.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Food_and_feeding",
+   "quote": "Studies suggest that their hearing has evolved for underwater usage, possibly aiding their detection of fish. These adaptations also have a cost on their hearing ability in air which is of lowered sensitivity."
+  },
+  {
+   "id": "phalacrocorax-carbo-d57112",
+   "text": "In China and Japan, fishermen traditionally use great cormorants to catch fish, tying a line around their throats so the birds cannot swallow the larger fish.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Relationships_with_humans",
+   "quote": "In this practice, fishermen tie a line around the throats of cormorants, tight enough to prevent swallowing the larger fish they catch, and deploy them from small boats."
+  },
+  {
+   "id": "phalacrocorax-carbo-773889",
+   "text": "In northern Norway, gathering cormorants are seen as good luck, and the birds are traditionally regarded as semi-sacred.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Great_cormorant#Relationships_with_humans",
+   "quote": "In North Norway, cormorants are traditionally seen as semi-sacred. It is regarded as good luck to have cormorants gather near your village or settlement."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1339370010
+ }
+}

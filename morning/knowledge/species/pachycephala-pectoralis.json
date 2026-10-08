@@ -1,0 +1,138 @@
+{
+ "sci": "Pachycephala pectoralis",
+ "com": "Golden Whistler",
+ "slug": "pachycephala-pectoralis",
+ "wikipedia": {
+  "title": "Australian golden whistler",
+  "url": "https://en.wikipedia.org/wiki/Australian_golden_whistler",
+  "revid": 1379212887
+ },
+ "ala": {
+  "name": "Pachycephala (Pachycephala) pectoralis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   218,
+   154,
+   496,
+   1313,
+   1073,
+   823,
+   853,
+   692,
+   564,
+   546,
+   160,
+   118
+  ],
+  "total": 7929,
+  "share": 0.0019321
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "high",
+  "peak": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.24,
+   0.25,
+   0.83,
+   2.04,
+   2.03,
+   1.76,
+   1.75,
+   1.23,
+   0.86,
+   0.58,
+   0.25,
+   0.18
+  ]
+ },
+ "facts": [
+  {
+   "id": "pachycephala-pectoralis-0976b8",
+   "text": "The male golden whistler shows a bright yellow underside and nape, olive-green back and wings, a black head and chest-band, and a white throat.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Description",
+   "quote": "The male has a bright yellow underside and nape, olive-green back and wings, a black head and chest-band, and a white throat."
+  },
+  {
+   "id": "pachycephala-pectoralis-875d4e",
+   "text": "Female golden whistlers in Australia are overall dull brownish-grey, though some have yellowish undertail coverts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Description",
+   "quote": "In Australia females are overall dull brownish-grey, though some have yellowish undertail coverts."
+  },
+  {
+   "id": "pachycephala-pectoralis-c95ecc",
+   "text": "Both sexes of the golden whistler have a black bill, dark legs and red-brown eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Description",
+   "quote": "Both sexes have a black bill, dark legs and red-brown eyes."
+  },
+  {
+   "id": "pachycephala-pectoralis-95786a",
+   "text": "The golden whistler has a strong, musical voice.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Description",
+   "quote": "Australian golden whistlers have a strong, musical voice."
+  },
+  {
+   "id": "pachycephala-pectoralis-835d50",
+   "text": "Golden whistlers breed between September and January, raising only one brood per season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Behaviour",
+   "quote": "This species breeds between September and January."
+  },
+  {
+   "id": "pachycephala-pectoralis-973994",
+   "text": "Both parents build the nest, a shallow bowl of twigs, grass and bark bound together with spider web, and share incubation and care of the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Behaviour",
+   "quote": "Male and female both work on the nest, which is a shallow bowl made of twigs, grass, and bark, and bound together with spider web. Only one brood is raised per season and both birds share incubation and care of young."
+  },
+  {
+   "id": "pachycephala-pectoralis-051a59",
+   "text": "Golden whistler eggs hatch 15 days after laying, and the young leave the nest after just 12 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Behaviour",
+   "quote": "Eggs hatch 15 days after they are laid and the young leave the nest after 12 days."
+  },
+  {
+   "id": "pachycephala-pectoralis-320d05",
+   "text": "Golden whistlers eat berries, insects, spiders and other small arthropods, usually feeding alone at the lower to middle tree level.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Distribution_and_habitat",
+   "quote": "It eats berries, insects, spiders, and other small arthropods. They usually feed alone and obtain food from the lower to middle tree level, or they may alternatively take part in mixed-species feeding flocks."
+  },
+  {
+   "id": "pachycephala-pectoralis-062112",
+   "text": "Golden whistlers live in almost any wooded habitat, especially dense forests, and some south-eastern birds migrate north for winter.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Distribution_and_habitat",
+   "quote": "The Australian golden whistler can be found in almost any wooded habitat, especially dense forests."
+  },
+  {
+   "id": "pachycephala-pectoralis-e99466",
+   "text": "The golden whistler was once known as the white-throated thickhead.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_golden_whistler#Taxonomy",
+   "quote": "This bird was formerly known as white-throated thickhead."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379212887
+ }
+}

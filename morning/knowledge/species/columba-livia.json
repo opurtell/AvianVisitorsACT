@@ -1,0 +1,124 @@
+{
+ "sci": "Columba livia",
+ "com": "Rock Pigeon",
+ "slug": "columba-livia",
+ "wikipedia": {
+  "title": "Rock dove",
+  "url": "https://en.wikipedia.org/wiki/Rock_dove",
+  "revid": 1379238548
+ },
+ "ala": {
+  "name": "Columba (Columba) livia",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3820,
+   3141,
+   2646,
+   2635,
+   2368,
+   2274,
+   2499,
+   2712,
+   2677,
+   3239,
+   2456,
+   2721
+  ],
+  "total": 35281,
+  "share": 0.0085973
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.94,
+   1.15,
+   1.01,
+   0.93,
+   1.02,
+   1.11,
+   1.17,
+   1.1,
+   0.93,
+   0.79,
+   0.87,
+   0.97
+  ]
+ },
+ "facts": [
+  {
+   "id": "columba-livia-9ed8b4",
+   "text": "Wild rock doves are pale grey with two black bars on each wing, and males and females look very similar.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove",
+   "quote": "Wild rock doves are uniformly pale grey with two black bars on each wing, with few differences being seen between males and females"
+  },
+  {
+   "id": "columba-livia-8a1bde",
+   "text": "The rock dove's neck feathers have a glossy greenish to reddish-purple sheen.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Description",
+   "quote": "This species has dark bluish-grey head, neck, and chest feathers with glossy greenish to reddish-purple iridescence along its neck feathers."
+  },
+  {
+   "id": "columba-livia-b788dc",
+   "text": "Rock doves live in flocks of 50 to 500 birds, and a noisy clapping take-off warns flockmates of danger.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Behaviour_and_ecology",
+   "quote": "are often gregarious, living in flocks of 50 to 500 birds (dependent on the food supply). As prey birds, they must keep their vigilance, and when disturbed a pigeon within a flock will take off with a noisy clapping sound that cues for other pigeons to take to flight."
+  },
+  {
+   "id": "columba-livia-b9951d",
+   "text": "Pigeons drink by dipping their bills into water and drinking continuously, without tilting their heads back like most birds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Feeding",
+   "quote": "While most birds take small sips and tilt their heads backwards when drinking, pigeons are able to dip their bills into the water and drink continuously, without having to tilt their heads back."
+  },
+  {
+   "id": "columba-livia-1908bc",
+   "text": "Rock doves are omnivorous, preferring fruit and grains, but sometimes eat worms or insect larvae as a protein supplement.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Feeding",
+   "quote": "Rock doves are omnivorous, but prefer plant matter: chiefly fruit and grains."
+  },
+  {
+   "id": "columba-livia-fe28f7",
+   "text": "They can breed at any time of year because they produce crop milk, and eggs may be laid up to six times per year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Life_cycle",
+   "quote": "The species can breed at any time of the year due to their ability to produce crop milk, but peak times are spring and summer, when the food supply is abundant enough to support embryonic egg development. Laying of eggs can take place up to six times per year."
+  },
+  {
+   "id": "columba-livia-8115dd",
+   "text": "Both parents incubate the two white eggs for 17 to 19 days, and chicks are fed crop milk for the first few days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Life_cycle",
+   "quote": "Two white eggs are laid; incubation, shared by both parents, lasts 17 to 19 days."
+  },
+  {
+   "id": "columba-livia-675a88",
+   "text": "When a predator grabs a pigeon, loose feathers pull out easily and may distract the attacker long enough for an escape.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rock_dove#Predators",
+   "quote": "Their body feathers have dense, fluffy bases and are loosely attached to the skin, hence they drop out easily. When a predator catches a pigeon, large numbers of feathers are often pulled by the attacker's mouth and the pigeon may use this temporary distraction to make an escape."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379238548
+ }
+}

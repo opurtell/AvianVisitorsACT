@@ -1,0 +1,124 @@
+{
+ "sci": "Vanellus miles",
+ "com": "Masked Lapwing",
+ "slug": "vanellus-miles",
+ "wikipedia": {
+  "title": "Masked lapwing",
+  "url": "https://en.wikipedia.org/wiki/Masked_lapwing",
+  "revid": 1376129658
+ },
+ "ala": {
+  "name": "Vanellus (Lobipluvia) miles",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4082,
+   2871,
+   2671,
+   2520,
+   2267,
+   2144,
+   2468,
+   2712,
+   3021,
+   3582,
+   2809,
+   2510
+  ],
+  "total": 34254,
+  "share": 0.008347
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Apr",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.0,
+   1.04,
+   1.01,
+   0.89,
+   0.97,
+   1.04,
+   1.15,
+   1.1,
+   1.04,
+   0.87,
+   0.99,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "vanellus-miles-6245b0",
+   "text": "The masked lapwing is the largest member of its family, measuring 30 to 37 cm long with a wingspan of 75–85 cm.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Description",
+   "quote": "The masked lapwing is the largest representative of the family Charadriidae. It measures from 30 to 37 cm (12 to 15 in) in length and has a wingspan of 75–85 cm (30–33 in)"
+  },
+  {
+   "id": "vanellus-miles-156570",
+   "text": "It calls at any time of day or night, with warning calls, defending calls, courtship calls and calls to its young.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Description",
+   "quote": "The birds have a wide range of calls which can be heard at any time of the day or night: the warning call, a loud defending call, courtship calls, calls to its young, and others."
+  },
+  {
+   "id": "vanellus-miles-bd0472",
+   "text": "Although it rests, the ground-dwelling lapwing never truly sleeps, staying alert at all times.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Description",
+   "quote": "Since the bird lives on the ground, it is always alert and, even though it rests, it never sleeps properly."
+  },
+  {
+   "id": "vanellus-miles-968708",
+   "text": "It nests on almost any open ground, including suburban parks, school ovals, supermarket carparks and flat rooftops.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Behaviour",
+   "quote": "being quite prepared to make a nest on almost any stretch of open ground, including suburban parks and gardens, school ovals, and even supermarket carparks and flat rooftops"
+  },
+  {
+   "id": "vanellus-miles-0a6111",
+   "text": "To lure predators away, a lapwing may fiercely guard a non-existent nest or hop on a single leg as a distraction.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Behaviour",
+   "quote": "The bird may also use diversion tactics against potential predators, such as fiercely protecting a non-existent nest, or a distraction display of hopping on a single leg"
+  },
+  {
+   "id": "vanellus-miles-f77e03",
+   "text": "Despite a widespread myth, the wing spur cannot inject venom.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Behaviour",
+   "quote": "There is a widely-believed myth that the spur can inject venom, however this is false."
+  },
+  {
+   "id": "vanellus-miles-1ea480",
+   "text": "Young lapwings may stay with their parents for one to two years, forming family groups of three to five birds.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing#Behaviour",
+   "quote": "will often stay with the parents for from one to two years, resulting in family groups of three to five birds nesting in one location over the summer"
+  },
+  {
+   "id": "vanellus-miles-f4348b",
+   "text": "The masked lapwing spends most of its time on the ground searching for worms and insects to eat.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Masked_lapwing",
+   "quote": "It spends most of its time on the ground searching for food such as insects and worms"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376129658
+ }
+}

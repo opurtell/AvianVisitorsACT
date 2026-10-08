@@ -1,0 +1,138 @@
+{
+ "sci": "Phylidonyris novaehollandiae",
+ "com": "New Holland Honeyeater",
+ "slug": "phylidonyris-novaehollandiae",
+ "wikipedia": {
+  "title": "New Holland honeyeater",
+  "url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater",
+  "revid": 1379210848
+ },
+ "ala": {
+  "name": "Phylidonyris (Meliornis) novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1129,
+   887,
+   945,
+   1023,
+   1115,
+   1168,
+   1207,
+   1505,
+   1451,
+   1584,
+   1201,
+   1008
+  ],
+  "total": 14368,
+  "share": 0.0035012
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.64,
+   0.74,
+   0.83,
+   0.83,
+   1.1,
+   1.31,
+   1.29,
+   1.41,
+   1.16,
+   0.89,
+   0.97,
+   0.83
+  ]
+ },
+ "facts": [
+  {
+   "id": "phylidonyris-novaehollandiae-e904cb",
+   "text": "The New Holland honeyeater is around 18 cm long and mainly black, with a white iris, white facial tufts and yellow edges on its wing and tail feathers.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Description",
+   "quote": "The bird is around 18 cm (7.1 in) long and is mainly black, with a white iris, white facial tufts and yellow margins on its wing and tail feathers."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-9707ad",
+   "text": "When a bird of prey approaches, New Holland honeyeaters band together and give a warning call to alert each other.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Description",
+   "quote": "When danger approaches a New Holland honeyeater, such as a bird of prey, a group of honeyeaters will form together and give a warning call."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-776251",
+   "text": "It is a very active bird that rarely sits still long enough to be watched closely.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Description",
+   "quote": "It is a very active bird and rarely sits long enough to give an extended view."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-f93ab9",
+   "text": "Young New Holland honeyeaters look much like adults but have grey eyes, a yellow gape and 'whiskers' near the nostrils.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Description",
+   "quote": "Young New Holland honeyeaters (<1 year old) have similar colouring but have grey eyes and a yellow gape and 'whiskers' near the nares."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-21f973",
+   "text": "Females do most of the breeding work, building the nest, incubating the eggs and caring for the nestlings, while males defend the territory.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Breeding",
+   "quote": "males spend a large proportion of their time defending the nest and food resources, while the females invest a large proportion of their time in reproductive labour including nest construction, incubation, and a majority of the nestling care."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-531931",
+   "text": "In Western Australia, the species breeds once a year from July to November, when nectar is plentiful.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Breeding",
+   "quote": "In Western Australia, New Holland honeyeaters have been observed to breed once annually from July to November, when nectar is abundant."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-7b9a6f",
+   "text": "The New Holland honeyeater is a key pollinator of many Australian flowering plants, including Banksia, Hakea, Xanthorrhoea and Acacia.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Food_and_feeding",
+   "quote": "they are key pollinators of many flowering plant species, many of which are endemic to Australia, such as Banksia, Hakea, Xanthorrhoea, and Acacia."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-f4e8e3",
+   "text": "Because nectar contains no protein, the bird must also eat spiders and insects to stay healthy.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Food_and_feeding",
+   "quote": "Nectar does not contain protein, so New Holland honeyeaters must supplement their diet with invertebrates, such as spiders and insects that are rich in protein."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-0d7b62",
+   "text": "It was among the first birds scientifically described in Australia, formally described by John Latham in 1790 as Certhia novaehollandiae.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Taxonomy",
+   "quote": "The New Holland honeyeater was formally described in 1790 by the English ornithologist John Latham. He placed it with the tree creepers in the genus Certhia and coined the binomial name Certhia novaehollandiae."
+  },
+  {
+   "id": "phylidonyris-novaehollandiae-d90f78",
+   "text": "Despite its fondness for nectar, the New Holland honeyeater also eats honeydew, a sugary secretion produced by psyllids.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/New_Holland_honeyeater#Food_and_feeding",
+   "quote": "New Holland honeyeaters may also consume honeydew, a sugary secretion produced by members of the family Psyllidae."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379210848
+ }
+}

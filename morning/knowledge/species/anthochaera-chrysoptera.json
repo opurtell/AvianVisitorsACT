@@ -1,0 +1,131 @@
+{
+ "sci": "Anthochaera chrysoptera",
+ "com": "Little Wattlebird",
+ "slug": "anthochaera-chrysoptera",
+ "wikipedia": {
+  "title": "Little wattlebird",
+  "url": "https://en.wikipedia.org/wiki/Little_wattlebird",
+  "revid": 1350759085
+ },
+ "ala": {
+  "name": "Anthochaera (Anellobia) chrysoptera",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   52,
+   75,
+   133,
+   71,
+   51,
+   117,
+   95,
+   83,
+   51,
+   72,
+   62,
+   69
+  ],
+  "total": 932,
+  "share": 0.0002271
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.43,
+   0.93,
+   1.71,
+   0.85,
+   0.74,
+   1.93,
+   1.5,
+   1.14,
+   0.6,
+   0.59,
+   0.74,
+   0.83
+  ]
+ },
+ "facts": [
+  {
+   "id": "anthochaera-chrysoptera-652729",
+   "text": "The little wattlebird is also known as the brush wattlebird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird",
+   "quote": "The little wattlebird (Anthochaera chrysoptera), also known as the brush wattlebird, is a passerine bird in the honeyeater family Meliphagidae."
+  },
+  {
+   "id": "anthochaera-chrysoptera-7037b2",
+   "text": "Despite its name, the little wattlebird lacks the wattles that characterise other members of its genus.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Description",
+   "quote": "The little wattlebird lacks the wattles, which characterise other members of the genus."
+  },
+  {
+   "id": "anthochaera-chrysoptera-b5fa5e",
+   "text": "Its calls include a strident cookay-cok and a raucous 'fetch the gun'.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Description",
+   "quote": "Calls include a strident cookay-cok, a raucous fetch the gun, a mellow guttural yekkop, yekkop and many squeaky, musical lilting notes."
+  },
+  {
+   "id": "anthochaera-chrysoptera-a19d56",
+   "text": "Breeding takes place from June to December.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Breeding",
+   "quote": "Breeding takes place from June to December."
+  },
+  {
+   "id": "anthochaera-chrysoptera-c735aa",
+   "text": "The female builds a loose, untidy cup nest of twigs placed 1 to 10 m high in a banksia, tea-tree or eucalypt sapling.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Breeding",
+   "quote": "The female wattlebird generally constructs the nest, which is a loose, untidy cup of twigs, lined with shredded bark, and placed from 1 to 10 m high in the fork of a banksia, tea-tree or eucalypt sapling."
+  },
+  {
+   "id": "anthochaera-chrysoptera-03e530",
+   "text": "Its 1-2 eggs may be spotted red-brown, purplish-red or salmon-pink.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Breeding",
+   "quote": "1-2 eggs are laid and may be spotted red-brown, purplish-red or salmon-pink in colour."
+  },
+  {
+   "id": "anthochaera-chrysoptera-5a7cac",
+   "text": "It feeds on nectar using a long, brush-tipped tongue adapted for probing deep into flowers.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Feeding",
+   "quote": "Little wattlebirds feed on nectar obtained with a long, brush-tipped tongue, adapted for probing deep into flowers."
+  },
+  {
+   "id": "anthochaera-chrysoptera-914602",
+   "text": "It eats insects, berries and some seeds, and can catch insects in mid-air.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Feeding",
+   "quote": "They also feed on insects, berries, and some seeds. Most feeding is done perched, but some insects are caught in mid-air."
+  },
+  {
+   "id": "anthochaera-chrysoptera-bb6b9f",
+   "text": "It lives in banksia and eucalypt woodlands, heathlands and even parks and gardens.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Little_wattlebird#Distribution_and_habitat",
+   "quote": "The little wattlebird is found in banksia/eucalypt woodlands, heathlands, tea-tree scrub, sandplain-heaths, lantana thickets, wild tobacco, parks and gardens."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1350759085
+ }
+}

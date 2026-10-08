@@ -1,0 +1,138 @@
+{
+ "sci": "Accipiter cirrocephalus",
+ "com": "Collared Sparrowhawk",
+ "slug": "accipiter-cirrocephalus",
+ "wikipedia": {
+  "title": "Collared sparrowhawk",
+  "url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk",
+  "revid": 1358420986
+ },
+ "ala": {
+  "name": "Accipiter (Paraspizias) cirrocephalus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   418,
+   320,
+   310,
+   329,
+   244,
+   215,
+   207,
+   242,
+   296,
+   386,
+   204,
+   228
+  ],
+  "total": 3593,
+  "share": 0.0008755
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.02,
+   1.16,
+   1.17,
+   1.15,
+   1.04,
+   1.04,
+   0.96,
+   0.98,
+   1.02,
+   0.93,
+   0.71,
+   0.81
+  ]
+ },
+ "facts": [
+  {
+   "id": "accipiter-cirrocephalus-791e81",
+   "text": "The collared sparrowhawk is a small, slim bird of prey that specialises in hunting small birds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk",
+   "quote": "As its name implies the collared sparrowhawk is a specialist in hunting small birds."
+  },
+  {
+   "id": "accipiter-cirrocephalus-facddc",
+   "text": "It has long legs, and the last segment of its middle toe projects beyond the claws of the other toes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk",
+   "quote": "It is characterised by its slight brow ridges and slender feet. The last segment of their middle toe projects beyond the claws of the other toes."
+  },
+  {
+   "id": "accipiter-cirrocephalus-a09545",
+   "text": "It has rounded wings, a long square tail, yellow eyes and long legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Description",
+   "quote": "They are small, fierce, finely built with rounded wings, long square tail, yellow eyes and long legs."
+  },
+  {
+   "id": "accipiter-cirrocephalus-77384a",
+   "text": "Adults are slate-grey above with a chestnut half collar and finely barred rufous and white underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Description",
+   "quote": "Adults have slate-grey upper parts, sometimes with a brown wash, and a chestnut half collar. The underparts are finely barred rufous and white."
+  },
+  {
+   "id": "accipiter-cirrocephalus-7065bf",
+   "text": "It takes prey by stealth and surprise, either hunting in flight or bursting from a concealed perch among foliage.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Food_and_feeding",
+   "quote": "Sparrowhawks rely on stealth and surprise to catch their prey, hunting in flight or bursting from a concealed perch among foliage."
+  },
+  {
+   "id": "accipiter-cirrocephalus-375098",
+   "text": "It eats small birds, insects, lizards and even small mammals including bats.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Food_and_feeding",
+   "quote": "They also catch insects, lizards and small mammals (including small bats)."
+  },
+  {
+   "id": "accipiter-cirrocephalus-b7aea0",
+   "text": "The nest is a platform of sticks lined with green leaves, built in the fork of a living tree.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Breeding",
+   "quote": "The nest is a platform of sticks 27–32 cm across, 12–15 cm deep, lined with green leaves around 4–39 m above ground in the fork of a living tree."
+  },
+  {
+   "id": "accipiter-cirrocephalus-498b4c",
+   "text": "Females usually lay three or four eggs, and incubation takes about 35 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Breeding",
+   "quote": "The clutch size is usually three or four eggs, ranging from two to five. Incubation takes 35 days, and the nesting period is about 28–33 days."
+  },
+  {
+   "id": "accipiter-cirrocephalus-637bff",
+   "text": "It lives across mainland Australia, Tasmania and New Guinea, in every habitat except the driest deserts.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Distribution_and_habitat",
+   "quote": "The collared sparrowhawk is widespread through mainland Australia, Tasmania and New Guinea and is found in all habitats except the driest deserts."
+  },
+  {
+   "id": "accipiter-cirrocephalus-1335dc",
+   "text": "DDT is thought to have reduced the thickness of its eggs by 2%, contributing to declines in cleared areas.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Collared_sparrowhawk#Threats_and_conservation",
+   "quote": "It is thought that their loss of numbers is due to the use of DDT which has reduced the thickness of collared sparrowhawks' eggs by 2%"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358420986
+ }
+}

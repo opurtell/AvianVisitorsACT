@@ -1,0 +1,138 @@
+{
+ "sci": "Acanthorhynchus tenuirostris",
+ "com": "Eastern Spinebill",
+ "slug": "acanthorhynchus-tenuirostris",
+ "wikipedia": {
+  "title": "Eastern spinebill",
+  "url": "https://en.wikipedia.org/wiki/Eastern_spinebill",
+  "revid": 1371239205
+ },
+ "ala": {
+  "name": "Acanthorhynchus tenuirostris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2318,
+   1858,
+   2645,
+   4288,
+   4051,
+   3833,
+   3851,
+   3508,
+   2216,
+   2275,
+   1368,
+   1639
+  ],
+  "total": 37207,
+  "share": 0.0090666
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.53,
+   0.63,
+   0.93,
+   1.4,
+   1.61,
+   1.73,
+   1.66,
+   1.32,
+   0.71,
+   0.51,
+   0.45,
+   0.54
+  ]
+ },
+ "facts": [
+  {
+   "id": "acanthorhynchus-tenuirostris-a3e81e",
+   "text": "The eastern spinebill is a honeyeater found along eastern Australia from Queensland to Tasmania, including city gardens.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill",
+   "quote": "The eastern spinebill (Acanthorhynchus tenuirostris) is a species of honeyeater found in eastern Australia from Queensland to Tasmania in forest and woodland areas, as well as gardens in urban areas."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-ede631",
+   "text": "It is around 15 cm long with black, white and chestnut plumage, a red eye and a long downcurved bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill",
+   "quote": "It is around 15 cm long, and has a distinctive black, white and chestnut plumage, a red eye, and a long downcurved bill."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-03fde0",
+   "text": "Its call is a clear, high-pitched, staccato piping \"chip-chip-chip\" that it sometimes repeats for lengthy periods.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Description",
+   "quote": "The call is a clear, high-pitched, staccato piping \"chip-chip-chip\", sometimes repeated for lengthy periods."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-8323ca",
+   "text": "The eastern spinebill drinks nectar from gum trees, mistletoes, heath and banksias, and also eats small insects and other invertebrates.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Diet",
+   "quote": "The eastern spinebill feeds on nectar from many plants, including the blooms of gum trees, mistletoes Amyema spp., Epacris longiflora, Epacris impressa (common heath), Correa reflexa, and various members of the Proteaceae such as Banksia ericifolia, Banksia integrifolia, Lambertia formosa and Grevillea speciosa, as well as small insects and other invertebrates."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-4e25e9",
+   "text": "Breeding runs from August to January, with one or two broods raised each season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Breeding",
+   "quote": "Breeding season is from August to January, with one or two broods raised."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-dd8449",
+   "text": "Its deep cup nest of grass and bark strips hangs by the rim from the fork of a shrub or small tree, 1-15 m above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Breeding",
+   "quote": "The nest is a deep cup-shaped structure of grass and bark strips, lined with feathers and soft plant fibres, hanging by the rim in the fork of a small bushy tree or shrub, 1–15 m (3–49 ft) above ground."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-99097f",
+   "text": "The female incubates the pinkish, dark-blotched eggs for 13 to 16 days, and both parents then feed the chicks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Breeding",
+   "quote": "The female incubates the eggs for 13 to 16 days before hatching. Both parents feed the chicks and remove the faecal sacs from the nest."
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-7dd14e",
+   "text": "The female is smaller than the male, with an olive-grey crown and slightly duller colouring.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Description",
+   "quote": "Females are smaller with olive-grey crown, similar in colouring to male but slightly duller"
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-a0e21d",
+   "text": "Juveniles are pale warm cinnamon below, with grey to olive-brown upperparts and an orange base to the bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Description",
+   "quote": "juveniles are pale warm cinnamon below with grey to olive-brown upperparts, a brown-red eye and orange base to the bill"
+  },
+  {
+   "id": "acanthorhynchus-tenuirostris-1a7337",
+   "text": "It has been known to feed from exotic plants such as fuchsias.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_spinebill#Diet",
+   "quote": "They have been known to feed from exotic plants such as fuchsias."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371239205
+ }
+}

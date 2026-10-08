@@ -1,0 +1,131 @@
+{
+ "sci": "Glossopsitta concinna",
+ "com": "Musk Lorikeet",
+ "slug": "glossopsitta-concinna",
+ "wikipedia": {
+  "title": "Musk lorikeet",
+  "url": "https://en.wikipedia.org/wiki/Musk_lorikeet",
+  "revid": 1362478203
+ },
+ "ala": {
+  "name": "Glossopsitta concinna",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   13,
+   7,
+   7,
+   8,
+   10,
+   12,
+   6,
+   7,
+   3,
+   2,
+   1,
+   15
+  ],
+  "total": 115,
+  "share": 2.8e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.12,
+   0.89,
+   0.93,
+   0.99,
+   1.51,
+   2.05,
+   0.98,
+   1.0,
+   0.36,
+   0.17,
+   0.12,
+   1.87
+  ]
+ },
+ "facts": [
+  {
+   "id": "glossopsitta-concinna-26ef75",
+   "text": "The musk lorikeet is a small green parrot, about 22 centimetres long, with a red forehead and blue crown.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Description",
+   "quote": "The musk lorikeet is 22 centimetres (8.7 in) long. It is mainly green and it is identified by its red forehead, blue crown and a distinctive yellow band on its wing."
+  },
+  {
+   "id": "glossopsitta-concinna-cd43bf",
+   "text": "A distinctive yellow band marks its wing.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Description",
+   "quote": "It is mainly green and it is identified by its red forehead, blue crown and a distinctive yellow band on its wing."
+  },
+  {
+   "id": "glossopsitta-concinna-d22ade",
+   "text": "Both mandibles of its beak are red at the tip and darker near the base.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Description",
+   "quote": "Both upper and lower mandibles of the beak are red at the tip and darker near its base."
+  },
+  {
+   "id": "glossopsitta-concinna-cc5f31",
+   "text": "Musk lorikeets breed mainly from August to January, nesting in hollow limbs high in trees.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Breeding",
+   "quote": "The musk lorikeet breeds mainly from August to January. The nest is usually built in a hollow limb high in a tree."
+  },
+  {
+   "id": "glossopsitta-concinna-545288",
+   "text": "The female lays two white eggs and incubates them for 22 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Breeding",
+   "quote": "Two white 24 mm × 20 mm (0.94 in × 0.79 in) eggs are laid and incubated for 22 days by the female."
+  },
+  {
+   "id": "glossopsitta-concinna-b15b02",
+   "text": "Young musk lorikeets fledge after 5 to 6 weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Breeding",
+   "quote": "The young are fledged after 5 to 6 weeks."
+  },
+  {
+   "id": "glossopsitta-concinna-0aca64",
+   "text": "Musk lorikeets live in eastern New South Wales, Victoria, South Australia and Tasmania.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Distribution_and_habitat",
+   "quote": "Musk lorikeets are found in eastern New South Wales, Victoria, South Australia and Tasmania."
+  },
+  {
+   "id": "glossopsitta-concinna-0f6ae5",
+   "text": "They are nomadic birds of woodlands and drier forests, and also visit fruit trees to eat apricots, apples and nectar.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Distribution_and_habitat",
+   "quote": "Musk lorikeets have been sighted and are recent common visitors to fruit trees in the Punchbowl Area, near Launceston, Northern Tasmania. Favourite foods seem to include apricots, apples, bottlebrush flowers & nectar, as well as seeds and nectar from Grevillea spp."
+  },
+  {
+   "id": "glossopsitta-concinna-665527",
+   "text": "The musk lorikeet is one of the few animals able to survive and thrive in rapidly urbanizing areas, with flocks adopting cities like Melbourne and Sydney over the past 30 years.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_lorikeet#Urban_influence",
+   "quote": "Musk lorikeets are one of the few animals with the plasticity to survive and thrive in rapid urbanization. Over the past 30 years, flocks of musk lorikeets have been adopting Australia's cities, such as Melbourne and Sydney."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1362478203
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Platycercus eximius",
+ "com": "Eastern Rosella",
+ "slug": "platycercus-eximius",
+ "wikipedia": {
+  "title": "Eastern rosella",
+  "url": "https://en.wikipedia.org/wiki/Eastern_rosella",
+  "revid": 1378892483
+ },
+ "ala": {
+  "name": "Platycercus (Violania) eximius",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7353,
+   4958,
+   5360,
+   6242,
+   5309,
+   4950,
+   5356,
+   6045,
+   6886,
+   9222,
+   5656,
+   5242
+  ],
+  "total": 77466,
+  "share": 0.0188769
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.84,
+   0.83,
+   0.94,
+   1.02,
+   1.05,
+   1.11,
+   1.15,
+   1.13,
+   1.1,
+   1.04,
+   0.92,
+   0.86
+  ]
+ },
+ "facts": [
+  {
+   "id": "platycercus-eximius-8139f9",
+   "text": "The eastern rosella is a parrot native to south-eastern Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella",
+   "quote": "The eastern rosella (Platycercus eximius) is a parrot native and endemic to south-eastern Australia."
+  },
+  {
+   "id": "platycercus-eximius-f8ae47",
+   "text": "The eastern rosella has white cheeks, a red head, a red upper breast, and a yellow lower breast that fades to pale green.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Description",
+   "quote": "Its cheeks are white, and it has a red-coloured head. The beak is white, and the irises are brown. Its upper breast is red, and its lower breast is yellow and fades to pale green over the abdomen."
+  },
+  {
+   "id": "platycercus-eximius-f81d87",
+   "text": "The eastern rosella grows to 30 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Description",
+   "quote": "The eastern rosella is 30 cm (12 in) long."
+  },
+  {
+   "id": "platycercus-eximius-cf9f88",
+   "text": "The eastern rosella mostly feeds on grass seeds, buds, flowers, nectars, fruits, insects and larvae.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Diet_and_foraging_behaviour",
+   "quote": "the eastern rosella mostly feeds on grass seeds, buds, flowers, nectars, fruits, as well as insects and their larvae."
+  },
+  {
+   "id": "platycercus-eximius-49b750",
+   "text": "Eastern rosellas are reported to feed on 50 different plant species and 15 species of animals.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Diet_and_foraging_behaviour",
+   "quote": "with reports of them feeding on 50 different plant species and 15 species of animals."
+  },
+  {
+   "id": "platycercus-eximius-518afc",
+   "text": "In Australia, eastern rosellas usually breed from August to February, nesting in hollow trees and nest boxes.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Breeding",
+   "quote": "In Australia, eastern rosellas usually breed in the austral summer from August to February. They are cavity nesters, and build their nests in the hollow trees and nest boxes."
+  },
+  {
+   "id": "platycercus-eximius-315190",
+   "text": "Female eastern rosellas lay 5 to 6 eggs on average, and the eggs are incubated for 18 to 22 days until hatching.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Breeding",
+   "quote": "Female eastern rosellas lay 5 to 6 eggs on average, at intervals of 1 to 3 days. The eggs are usually laid in mid-November and mid-December and are incubated for 18 to 22 days until hatching."
+  },
+  {
+   "id": "platycercus-eximius-f17aeb",
+   "text": "Eastern rosellas are highly territorial and may destroy the eggs of other rosellas nesting too close to their own nest.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Breeding",
+   "quote": "Eastern rosellas can be highly territorial, and may destroy the eggs of conspecifics nesting too closely to their own nest."
+  },
+  {
+   "id": "platycercus-eximius-d4db7a",
+   "text": "New Zealand's eastern rosellas became established after birds were released off Otago Heads around 1910, when Customs prohibited their entry.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_rosella#Distribution_in_New_Zealand",
+   "quote": "Its first introduction occurred around 1910, when a small shipment of eastern rosellas, as well as a few crimson rosellas (P. elegans), was prohibited entry into New Zealand by the Customs Department. The birds were released off Otago Heads by the ship's crew before returning to Sydney."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378892483
+ }
+}

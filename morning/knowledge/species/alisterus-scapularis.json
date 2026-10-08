@@ -1,0 +1,138 @@
+{
+ "sci": "Alisterus scapularis",
+ "com": "Australian King-Parrot",
+ "slug": "alisterus-scapularis",
+ "wikipedia": {
+  "title": "Australian king parrot",
+  "url": "https://en.wikipedia.org/wiki/Australian_king_parrot",
+  "revid": 1378891317
+ },
+ "ala": {
+  "name": "Alisterus scapularis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4335,
+   4586,
+   4504,
+   6017,
+   5365,
+   4946,
+   5217,
+   5143,
+   4479,
+   5096,
+   2884,
+   2024
+  ],
+  "total": 60050,
+  "share": 0.014633
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.63,
+   0.99,
+   1.01,
+   1.25,
+   1.36,
+   1.42,
+   1.43,
+   1.23,
+   0.92,
+   0.73,
+   0.6,
+   0.43
+  ]
+ },
+ "facts": [
+  {
+   "id": "alisterus-scapularis-64e2db",
+   "text": "The Australian king parrot lives only in eastern Australia, from Cooktown in Queensland down to Port Campbell in Victoria.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot",
+   "quote": "a species of parrot endemic to eastern Australia ranging from Cooktown in Queensland to Port Campbell in Victoria."
+  },
+  {
+   "id": "alisterus-scapularis-af65f9",
+   "text": "It prefers humid, heavily forested upland areas, including eucalyptus woodland beside subtropical and temperate rainforest.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot",
+   "quote": "Found in humid and heavily forested upland regions of the eastern portion of the continent, including eucalyptus wooded areas in and directly adjacent to subtropical and temperate rainforest."
+  },
+  {
+   "id": "alisterus-scapularis-371cb8",
+   "text": "It feeds on fruits and seeds, gathering food from trees or on the ground.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot",
+   "quote": "They feed on fruits and seeds gathered from trees or on the ground."
+  },
+  {
+   "id": "alisterus-scapularis-13b04e",
+   "text": "The male stands out with a red head and breast, a blue band on the back of the neck, green wings with pale green shoulder bands, and a blue rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Description",
+   "quote": "The adult male has a red head, breast, and lower undersides, with a blue band on the back of the neck between the red above and green on the back, the wings are green and each has a pale green shoulder band, the tail is green, and the rump is blue."
+  },
+  {
+   "id": "alisterus-scapularis-88d441",
+   "text": "Females look very different from males, with a green head and breast, a grey beak, and a small or missing pale shoulder band.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Description",
+   "quote": "The plumage of the female is very different from the male having a green head and breast, a grey beak, and the pale shoulder band is small or absent."
+  },
+  {
+   "id": "alisterus-scapularis-812d40",
+   "text": "Rare individuals lacking melanin have orange to yellow feathers and can look strikingly different from the usual scarlet and green birds.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Description",
+   "quote": "On those rare individuals which have areas without melanin, feathers are orange to yellow. Such a bird can look startingly different from the more common scarlet and green variety."
+  },
+  {
+   "id": "alisterus-scapularis-78496f",
+   "text": "Canberra birders can spot king parrots in winter, when they venture beyond their normal eastern upland habitat.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Distribution_and_habitat",
+   "quote": "Further from their normal eastern upland habitat, they are also found in Canberra during winter, the outer western and northern suburbs of Sydney, and the Carnarvon Gorge in central Queensland."
+  },
+  {
+   "id": "alisterus-scapularis-7986f3",
+   "text": "Hand-raised king parrots make calm, relatively quiet household pets and can become very devoted to people.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Aviculture",
+   "quote": "king parrots are occasionally bred in aviaries and kept as calm and relatively quiet household pets if hand-raised.\nAs pets, they have limited \"talking\" ability and normally prefer not to be handled, but they do bond readily to people and can be very devoted."
+  },
+  {
+   "id": "alisterus-scapularis-1a178f",
+   "text": "Some pet king parrots have lived up to 25 years, though their lifespan in the wild is unknown.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Aviculture",
+   "quote": "Life expectancy in the wild is unknown, but some pets have been known to live up to 25 years."
+  },
+  {
+   "id": "alisterus-scapularis-e1c1a8",
+   "text": "At a seed source, king parrots rank near the bottom of the pecking order, below galahs and just above crimson rosellas.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_king_parrot#Aviculture",
+   "quote": "King parrots are near the bottom of the pecking order. At a food source of seeds, the approximate order is as follows: cockatoo, rainbow lorikeet, magpie, corella, galah, king parrot, crimson rosella."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378891317
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Gerygone mouki",
+ "com": "Brown Gerygone",
+ "slug": "gerygone-mouki",
+ "wikipedia": {
+  "title": "Brown gerygone",
+  "url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+  "revid": 1351986289
+ },
+ "ala": {
+  "name": "Gerygone mouki",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   30,
+   33,
+   54,
+   40,
+   70,
+   41,
+   62,
+   92,
+   27,
+   22,
+   39,
+   47
+  ],
+  "total": 558,
+  "share": 0.000136
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   0.41,
+   0.67,
+   1.14,
+   0.79,
+   1.68,
+   1.11,
+   1.61,
+   2.08,
+   0.52,
+   0.3,
+   0.77,
+   0.93
+  ]
+ },
+ "facts": [
+  {
+   "id": "gerygone-mouki-6eb1c7",
+   "text": "The brown gerygone is a small bird of eastern coastal Australia, once known as the brown warbler.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "The brown gerygone (Gerygone mouki), previously known as the brown warbler, is a small passerine bird native to eastern coastal Australia."
+  },
+  {
+   "id": "gerygone-mouki-5eef29",
+   "text": "It is only about 10 cm long, with olive-brown upper parts and much paler grey or cream underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "The upper parts are olive-brown (or olive-grey for the nominate subspecies native to far-north Queensland), while its face and underparts are a much paler grey, cream, or washed-out brown. The tail feathers are dark and may be white-tipped. It is approximately 10 cm in length."
+  },
+  {
+   "id": "gerygone-mouki-8a40e1",
+   "text": "Its tail feathers are dark and may be tipped with white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "The tail feathers are dark and may be white-tipped."
+  },
+  {
+   "id": "gerygone-mouki-fefb59",
+   "text": "The brown gerygone's call is a soft what-is-it.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "The brown gerygone call is a soft what-is-it."
+  },
+  {
+   "id": "gerygone-mouki-584b75",
+   "text": "It feeds on insects and may be seen singly or in small groups of two to four birds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "It may be sighted in coastal rainforest, singly or in small groups of two to four. It feeds on insects."
+  },
+  {
+   "id": "gerygone-mouki-7ad4b3",
+   "text": "Despite its name, it is not a true warbler but belongs to a group of tropical and Australian passerines that includes crows.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "It is not closely related to either true Old World Warblers or the New World Warblers, but belongs rather to the Corvida parvorder comprising many tropical and Australian passerines, as well as crows."
+  },
+  {
+   "id": "gerygone-mouki-78af37",
+   "text": "You can tell it apart from the large-billed gerygone by its distinctive white eyebrow and grey-tinged face.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "It differs from the former by having a distinctive white eyebrow and a grey-tinged face."
+  },
+  {
+   "id": "gerygone-mouki-38c98c",
+   "text": "The brown gerygone is considered of least concern by the IUCN.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_gerygone",
+   "quote": "Although total population trends have not been quantified, it is considered of \"least concern\" by the IUCN."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1351986289
+ }
+}

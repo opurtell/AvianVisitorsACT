@@ -1,0 +1,138 @@
+{
+ "sci": "Hirundapus caudacutus",
+ "com": "White-throated Needletail",
+ "slug": "hirundapus-caudacutus",
+ "wikipedia": {
+  "title": "White-throated needletail",
+  "url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+  "revid": 1378918375
+ },
+ "ala": {
+  "name": "Hirundapus caudacutus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   155,
+   190,
+   261,
+   16,
+   0,
+   0,
+   0,
+   0,
+   1,
+   6,
+   16,
+   77
+  ],
+  "total": 754,
+  "share": 0.0001837
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.85,
+   3.36,
+   4.82,
+   0.27,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.02,
+   0.07,
+   0.27,
+   1.33
+  ]
+ },
+ "facts": [
+  {
+   "id": "hirundapus-caudacutus-34d221",
+   "text": "The white-throated needletail is reputed to reach speeds of up to 170 km/h in horizontal flight, though this remains unverified.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "It is reputed to reach speeds of up to 170 km/h (110 mph) in horizontal flight, but this is unverified because the methods used to measure its speed have not been published."
+  },
+  {
+   "id": "hirundapus-caudacutus-ebe2d4",
+   "text": "A likelier cruising speed is 75 km/h, which is still at least 100 times the bird's body length per second.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "75 km/h (47 mph) is more likely, but this is still at least 100 times the bird's length per second."
+  },
+  {
+   "id": "hirundapus-caudacutus-275e71",
+   "text": "It nests in rock crevices in cliffs or in hollow trees.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "They build their nests in rock crevices in cliffs or hollow trees."
+  },
+  {
+   "id": "hirundapus-caudacutus-936ec7",
+   "text": "The white-throated needletail spends most of its time in the air and dislikes sitting on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "They do not like to sit on the ground and spend most of their time in the air."
+  },
+  {
+   "id": "hirundapus-caudacutus-580200",
+   "text": "It feeds on small flying insects, including beetles, flies, bees and moths.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "They feed on small, flying insects like beetles, flies, bees and moths."
+  },
+  {
+   "id": "hirundapus-caudacutus-9adabe",
+   "text": "The white-throated needletail migrates, breeding in Central Asia and southern Siberia and wintering in places including Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "The white-throated needletail is a migratory bird, breeding in Central Asia and southern Siberia, and wintering south in the Indian subcontinent, Southeast Asia and Australia."
+  },
+  {
+   "id": "hirundapus-caudacutus-2d8a63",
+   "text": "It is about 20 cm long, weighs 110 to 120 grams, and has a robust, barrel-like body.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "White-throated needletails are large swifts with a robust, barrel-like body. They measure about 20 cm (7.9 in) and weigh between 110 and 120 grams (3.9 and 4.2 oz)."
+  },
+  {
+   "id": "hirundapus-caudacutus-502cf3",
+   "text": "It is greyish-brown with a white throat and a white patch running from the base of the tail to the flanks.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "They are greyish-brown except for a white throat and a white patch, extending from the base of the tail to the flanks."
+  },
+  {
+   "id": "hirundapus-caudacutus-c6cca2",
+   "text": "The needletail is named for the spined end of its tail, which is not forked like the tails of typical swifts.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "Needle-tailed swifts get their name from the spined end of their tail, which is not forked as it is in the typical swifts of the genus Apus."
+  },
+  {
+   "id": "hirundapus-caudacutus-1833d3",
+   "text": "In 2013 a needletail seen in Great Britain for the first time in 22 years later died after flying into a wind turbine, and its body went to a museum.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_needletail",
+   "quote": "In June 2013, an individual was spotted in Great Britain for the first time in 22 years. It later flew into a wind turbine and died; its body was sent to a museum."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378918375
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Grallina cyanoleuca",
+ "com": "Magpie-lark",
+ "slug": "grallina-cyanoleuca",
+ "wikipedia": {
+  "title": "Magpie-lark",
+  "url": "https://en.wikipedia.org/wiki/Magpie-lark",
+  "revid": 1377404839
+ },
+ "ala": {
+  "name": "Grallina cyanoleuca",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   15789,
+   11500,
+   11455,
+   11823,
+   9960,
+   9112,
+   9647,
+   10267,
+   11117,
+   14628,
+   10661,
+   10947
+  ],
+  "total": 144116,
+  "share": 0.0351182
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.95,
+   1.03,
+   1.07,
+   1.02,
+   1.05,
+   1.09,
+   1.1,
+   1.02,
+   0.94,
+   0.87,
+   0.92,
+   0.95
+  ]
+ },
+ "facts": [
+  {
+   "id": "grallina-cyanoleuca-f8cc5a",
+   "text": "The male magpie-lark has a black throat and a white eyebrow, while the female has a white throat.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Description",
+   "quote": "the female has a white throat, the male a black throat and a white \"eyebrow\"."
+  },
+  {
+   "id": "grallina-cyanoleuca-4d4206",
+   "text": "The magpie-lark grows to 25 to 30 cm long, about the same size as a European common blackbird.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Description",
+   "quote": "a small to medium size bird, reaching 25 to 30 cm (9.8 to 11.8 in) long when fully grown, or about the same size as a European common blackbird"
+  },
+  {
+   "id": "grallina-cyanoleuca-fd5855",
+   "text": "Magpie-larks are one of only about 200 bird species worldwide that sing in duet, with partners singing half a second apart.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Duet_singing",
+   "quote": "one of the 200-odd species of bird around the world that are known to sing in duet; each partner producing about one note a second, but a half-second apart, so that humans find it difficult to tell that there are actually two birds singing, not one."
+  },
+  {
+   "id": "grallina-cyanoleuca-0645c4",
+   "text": "Pairs sing duets together to defend their territory, and sing most vigorously at strangers rather than familiar neighbours.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Duet_singing",
+   "quote": "the duet singing is now known to be cooperative: pairs sing together to defend their territory. Magpie-larks sing more vigorously in response to duet calls from other birds than they do to the call of a single rival, and more vigorously still if the callers are strangers"
+  },
+  {
+   "id": "grallina-cyanoleuca-a21d22",
+   "text": "The magpie-lark fearlessly attacks much larger birds, including magpies, ravens, kookaburras and even the wedge-tailed eagle.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Behaviour_and_ecology",
+   "quote": "will fearlessly defend its territory against larger species such as magpies, ravens, kookaburras, and even the wedge-tailed eagle."
+  },
+  {
+   "id": "grallina-cyanoleuca-85f6bf",
+   "text": "Magpie-larks sometimes attack their own reflections in mirrors and windows, mistaking them for rival intruders.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Behaviour_and_ecology",
+   "quote": "They are also known to attack mirrors, windows and other reflective surfaces in which they mistake their reflection for an intruder into their territory."
+  },
+  {
+   "id": "grallina-cyanoleuca-18d0dc",
+   "text": "Both parents incubate a clutch of three to five eggs, which hatch after up to eighteen days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Breeding",
+   "quote": "Both parents incubate a clutch of between three and five eggs. Incubation of eggs takes up to eighteen days"
+  },
+  {
+   "id": "grallina-cyanoleuca-f4098c",
+   "text": "The magpie-lark lives across almost all of Australia except Tasmania, as well as southern New Guinea and Timor.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Magpie-lark#Distribution_and_habitat",
+   "quote": "occupying all parts of Australia except for Tasmania and some of the inland desert in the far north-west of Western Australia, and appears to have adapted well to the presence of humans. It is also found in southern New Guinea and on the island of Timor."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1377404839
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Colluricincla harmonica",
+ "com": "Gray Shrikethrush",
+ "slug": "colluricincla-harmonica",
+ "wikipedia": {
+  "title": "Grey shrikethrush",
+  "url": "https://en.wikipedia.org/wiki/Grey_shrikethrush",
+  "revid": 1371401292
+ },
+ "ala": {
+  "name": "Colluricincla (Colluricincla) harmonica",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2099,
+   1040,
+   1427,
+   2289,
+   2216,
+   2103,
+   1964,
+   2100,
+   1898,
+   3105,
+   1559,
+   1358
+  ],
+  "total": 23405,
+  "share": 0.0057033
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.74,
+   0.54,
+   0.77,
+   1.15,
+   1.35,
+   1.46,
+   1.3,
+   1.21,
+   0.94,
+   1.08,
+   0.78,
+   0.69
+  ]
+ },
+ "facts": [
+  {
+   "id": "colluricincla-harmonica-d8d18f",
+   "text": "The grey shrikethrush, once commonly known as the grey thrush, is a songbird found across Australasia.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush",
+   "quote": "The grey shrikethrush or grey shrike-thrush (Colluricincla harmonica), formerly commonly known as grey thrush, is a songbird of Australasia."
+  },
+  {
+   "id": "colluricincla-harmonica-8eee6c",
+   "text": "It is common across most of Australia, only absent from the driest inland deserts.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush",
+   "quote": "It is moderately common to common in most parts of Australia, but absent from the driest of the inland deserts."
+  },
+  {
+   "id": "colluricincla-harmonica-459c63",
+   "text": "The grey shrikethrush is also found in New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush",
+   "quote": "moderately common to common in most parts of Australia, but absent from the driest of the inland deserts. It is also found in New Guinea."
+  },
+  {
+   "id": "colluricincla-harmonica-1d437f",
+   "text": "In casual conversation, locals usually just call it the thrush.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Description",
+   "quote": "The grey shrikethrush — usually just thrush in casual conversation — is of medium size (about 24 cm or 9.4 in long)"
+  },
+  {
+   "id": "colluricincla-harmonica-b078e7",
+   "text": "It is a medium-sized bird of about 24 cm, without bright colours.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Description",
+   "quote": "is of medium size (about 24 cm or 9.4 in long) and lacks bright colours."
+  },
+  {
+   "id": "colluricincla-harmonica-3ecc49",
+   "text": "Its song is a recognizable ringing melody.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Description",
+   "quote": "lacks bright colours. It has a recognizable ringing melody."
+  },
+  {
+   "id": "colluricincla-harmonica-5e76e9",
+   "text": "One population of the grey shrikethrush lives in Tasmania and the islands of Bass Strait.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Subspecies",
+   "quote": "C. h. strigata – Swainson, 1838: Originally described as a separate species. Found in Tasmania and the islands in the Bass Strait (Australia)"
+  },
+  {
+   "id": "colluricincla-harmonica-1f402b",
+   "text": "Another population occurs in eastern New Guinea, Torres Strait islands and north-eastern Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Subspecies",
+   "quote": "Found in eastern New Guinea, islands in the Torres Strait and north-eastern Australia"
+  },
+  {
+   "id": "colluricincla-harmonica-d9fe34",
+   "text": "The grey shrikethrush is listed as least concern on the IUCN Red List of Threatened Species.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_shrikethrush#Status",
+   "quote": "The grey shrikethrush is evaluated as least concern on the IUCN Red List of Threatened Species."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371401292
+ }
+}

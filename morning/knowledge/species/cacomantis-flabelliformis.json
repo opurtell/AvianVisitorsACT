@@ -1,0 +1,131 @@
+{
+ "sci": "Cacomantis flabelliformis",
+ "com": "Fan-tailed Cuckoo",
+ "slug": "cacomantis-flabelliformis",
+ "wikipedia": {
+  "title": "Fan-tailed cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo",
+  "revid": 1335058668
+ },
+ "ala": {
+  "name": "Cacomantis (Vidgenia) flabelliformis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   740,
+   337,
+   298,
+   217,
+   101,
+   67,
+   107,
+   373,
+   878,
+   1673,
+   745,
+   573
+  ],
+  "total": 6126,
+  "share": 0.0014928
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.12,
+   0.76,
+   0.7,
+   0.47,
+   0.27,
+   0.2,
+   0.31,
+   0.93,
+   1.87,
+   2.51,
+   1.61,
+   1.26
+  ]
+ },
+ "facts": [
+  {
+   "id": "cacomantis-flabelliformis-ded639",
+   "text": "The fan-tailed cuckoo is found in Australia, Fiji, New Caledonia, New Guinea, Solomon Islands, and Vanuatu.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo",
+   "quote": "It is found in Australia, Fiji, New Caledonia, New Guinea, Solomon Islands, and Vanuatu."
+  },
+  {
+   "id": "cacomantis-flabelliformis-154049",
+   "text": "The fan-tailed cuckoo has a slate-grey head, back and wings, rufous underparts and a barred black and white tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Description",
+   "quote": "The fan-tailed cuckoo has a slate-grey head, back and wings, rufous underparts and barred black and white tail."
+  },
+  {
+   "id": "cacomantis-flabelliformis-e2355d",
+   "text": "A yellow orbital eye ring helps to distinguish the fan-tailed cuckoo from the smaller and paler brush cuckoo.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Description",
+   "quote": "Its eye is surrounded by a yellow orbital eye ring which helps to distinguish it from the smaller and paler brush cuckoo (C. variolosus) and the also smaller chestnut-breasted cuckoo (C. castaneiventris)."
+  },
+  {
+   "id": "cacomantis-flabelliformis-7c71e0",
+   "text": "The fan-tailed cuckoo eats insects, fruits, vegetables, small reptiles, mammals and birds, especially bird chicks.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Diet",
+   "quote": "The species in Australia eats a variety of insect and their larvae, fruits and vegetables, small reptiles, mammals and birds, especially bird chicks."
+  },
+  {
+   "id": "cacomantis-flabelliformis-1ce1b1",
+   "text": "It perches in an exposed position to locate its prey and then pounces, catching it in the air or on the ground.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Diet",
+   "quote": "It perches in an exposed position to locate its prey and then pounces, catching it in the air or on the ground."
+  },
+  {
+   "id": "cacomantis-flabelliformis-7d30a1",
+   "text": "In Australia the fan-tailed cuckoo breeds from July to January.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Breeding_and_social_habits",
+   "quote": "In Australia the species breeds from July to January."
+  },
+  {
+   "id": "cacomantis-flabelliformis-c1003c",
+   "text": "It lays only one mauve white egg, spotted with red and/or brown, in the nests of other birds like fairywrens or thornbills.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Breeding_and_social_habits",
+   "quote": "They only lay one mauve white with red and/or brown spotted egg in the nest of other birds (see brood parasitism) like fairywrens or thornbills."
+  },
+  {
+   "id": "cacomantis-flabelliformis-c87ff2",
+   "text": "Its voice is a descending trill with a grasshopper-like chirp.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Breeding_and_social_habits",
+   "quote": "Its voice is similar to descending trill with a grasshopper-like chirp."
+  },
+  {
+   "id": "cacomantis-flabelliformis-6777b0",
+   "text": "It lives in temperate forests, mangrove forests, montane forests, paddocks, orchards and gardens.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Fan-tailed_cuckoo#Habitat",
+   "quote": "Its natural habitats are temperate forests, subtropical or tropical mangrove forests, subtropical or tropical moist montane forests, paddocks, orchards and gardens."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1335058668
+ }
+}

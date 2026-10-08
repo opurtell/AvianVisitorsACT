@@ -1,0 +1,124 @@
+{
+ "sci": "Scythrops novaehollandiae",
+ "com": "Channel-billed Cuckoo",
+ "slug": "scythrops-novaehollandiae",
+ "wikipedia": {
+  "title": "Channel-billed cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo",
+  "revid": 1348779274
+ },
+ "ala": {
+  "name": "Scythrops novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   26,
+   6,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   7,
+   36,
+   64,
+   47
+  ],
+  "total": 195,
+  "share": 4.75e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.27,
+   0.43,
+   0.23,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.08,
+   0.48,
+   1.73,
+   4.46,
+   3.31
+  ]
+ },
+ "facts": [
+  {
+   "id": "scythrops-novaehollandiae-3aec4b",
+   "text": "The channel-billed cuckoo is the largest cuckoo in the world and the biggest brood parasite on Earth.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo",
+   "quote": "The species is the largest brood parasite in the world, and the largest cuckoo."
+  },
+  {
+   "id": "scythrops-novaehollandiae-85e9ae",
+   "text": "It measures 56–70 cm long and can weigh up to 935 g, with a wingspan of up to 107 cm.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Description",
+   "quote": "the channel-billed cuckoo measures between 56–70 cm (22–28 in) long, with a  88–107 cm (35–42 in) wingspan, and weighing between 560–935 g (1.235–2.061 lb)."
+  },
+  {
+   "id": "scythrops-novaehollandiae-ca9c26",
+   "text": "Its large, slightly curved grey-and-straw bill resembles a hornbill's, and it is sometimes mistakenly called a hornbill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Description",
+   "quote": "The bill is bi-coloured, with a grey base becoming straw-coloured at the tip. The bill is large slightly curved and reminiscent of the bills of hornbills; in fact, the bird is sometimes erroneously referred to as a hornbill."
+  },
+  {
+   "id": "scythrops-novaehollandiae-164521",
+   "text": "Its loud raucous call means it is more often heard than seen, as it hides in tree canopies at most hours.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Behaviour",
+   "quote": "Its loud raucous call makes it more often heard than seen."
+  },
+  {
+   "id": "scythrops-novaehollandiae-3e33b5",
+   "text": "Pairs team up to fool host birds: the male provokes a mobbing response while the female sneaks into the nest to lay her egg.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Breeding",
+   "quote": "the male will fly over the nest in order to provoke the nest occupants into a mobbing response, whereupon the female will slip into the nest and lay an egg."
+  },
+  {
+   "id": "scythrops-novaehollandiae-c03e21",
+   "text": "Its chicks do not evict host eggs or chicks like many cuckoos, but they still monopolise the food the host parents bring.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Breeding",
+   "quote": "Unlike many other cuckoos, the chicks of the channel-billed cuckoo do not eject the other host eggs upon hatching or kill the host's chicks, but these seldom survive as the cuckoo chick is able to monopolise the supply of food."
+  },
+  {
+   "id": "scythrops-novaehollandiae-e88e87",
+   "text": "It lays eggs mainly in the nests of ravens, currawongs, butcherbirds and Australian magpies.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Breeding",
+   "quote": "the most commonly targeted hosts are ravens, currawongs, butcherbirds and Australian magpies."
+  },
+  {
+   "id": "scythrops-novaehollandiae-f46880",
+   "text": "In northern Australia its spring arrival coincides with the rains, earning it names like storm-bird and rain-bird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Channel-billed_cuckoo#Relationship_with_humans",
+   "quote": "In northern Australia their migration coincides with the beginning of the rainy season, leading to the species being given a range of colloquial names such as storm-bird, flood-bird or rain-bird."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1348779274
+ }
+}

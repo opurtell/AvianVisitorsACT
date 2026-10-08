@@ -1,0 +1,124 @@
+{
+ "sci": "Cracticus torquatus",
+ "com": "Gray Butcherbird",
+ "slug": "cracticus-torquatus",
+ "wikipedia": {
+  "title": "Grey butcherbird",
+  "url": "https://en.wikipedia.org/wiki/Grey_butcherbird",
+  "revid": 1370644444
+ },
+ "ala": {
+  "name": "Cracticus torquatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3306,
+   2908,
+   3631,
+   4157,
+   2767,
+   1967,
+   1919,
+   2104,
+   1991,
+   2739,
+   1780,
+   1891
+  ],
+  "total": 32792,
+  "share": 0.0079908
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.87,
+   1.13,
+   1.47,
+   1.56,
+   1.27,
+   1.02,
+   0.95,
+   0.91,
+   0.73,
+   0.71,
+   0.67,
+   0.72
+  ]
+ },
+ "facts": [
+  {
+   "id": "cracticus-torquatus-625e87",
+   "text": "The grey butcherbird sings a loud, rollicking territorial song, often performed as a duet or by the whole group.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Song",
+   "quote": "All members of the territorial group contribute to the territorial song, a loud and rollicking song with both musical and harsh elements."
+  },
+  {
+   "id": "cracticus-torquatus-f28bfd",
+   "text": "The grey butcherbird preys on small vertebrates, including other small birds, their nestlings and lizards.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird",
+   "quote": "The grey butcherbird preys on small vertebrates including other birds."
+  },
+  {
+   "id": "cracticus-torquatus-dc8109",
+   "text": "Grey butcherbirds catch more food than they need and store the surplus in the fork of a branch to eat later.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Behaviour_and_diet",
+   "quote": "They have a tendency to catch more food than they need and have a habit to store food in the fork of a branch to be consumed later."
+  },
+  {
+   "id": "cracticus-torquatus-1d1892",
+   "text": "It hunts by sitting and waiting, then pouncing on prey on the ground or striking small birds and insects in flight.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Behaviour_and_diet",
+   "quote": "Prey is captured by the grey butcherbird sally-pouncing the prey on the ground. Small birds and insects can be captured in flight by using sally-striking."
+  },
+  {
+   "id": "cracticus-torquatus-455a9d",
+   "text": "The grey butcherbird has adapted well to city living and can be found in the suburbs of many Australian cities.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird",
+   "quote": "It appears to be adapting well to city living, and can be encountered in the suburbs of many Australian cities including Brisbane, Melbourne, Perth, Sydney and Hobart."
+  },
+  {
+   "id": "cracticus-torquatus-1629be",
+   "text": "The adult has a black head, a white chin and throat, and a beak with a slight downwards hook at the tip.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Description",
+   "quote": "The adult grey butcherbird has a black head, top and sides; and a white chin and throat through to the lower hindneck."
+  },
+  {
+   "id": "cracticus-torquatus-39ff01",
+   "text": "Grey butcherbirds usually breed in single territorial pairs from July to January, and both sexes defend the territory all year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Breeding_and_habitat",
+   "quote": "The grey butcherbird usually breed in single territorial pairs from July to January. Both sexes defend their territories and nest throughout the year."
+  },
+  {
+   "id": "cracticus-torquatus-bc8a9f",
+   "text": "The nest is a shallow bowl of sticks and twigs, lined with grasses and usually built within 10 m of the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Grey_butcherbird#Breeding_and_habitat",
+   "quote": "The nest is a shallow, bowl-shaped made from sticks and twigs. The nest is lined with grasses and other soft fibres. Nests are normally located within 10 m (33 ft) off the ground."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1370644444
+ }
+}

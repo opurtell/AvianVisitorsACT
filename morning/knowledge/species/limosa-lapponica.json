@@ -1,0 +1,131 @@
+{
+ "sci": "Limosa lapponica",
+ "com": "Bar-tailed Godwit",
+ "slug": "limosa-lapponica",
+ "wikipedia": {
+  "title": "Bar-tailed godwit",
+  "url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+  "revid": 1373652716
+ },
+ "ala": {
+  "name": "Limosa lapponica",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   21,
+   1,
+   0
+  ],
+  "total": 22,
+  "share": 5.4e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   11.23,
+   0.77,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "limosa-lapponica-8a38ad",
+   "text": "The bar-tailed godwit has a long, slightly upturned bill that is pink at the base and black towards the tip, with blue-grey legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Description",
+   "quote": "The adult has blue-grey legs and a long, tapering, slightly upturned bi-coloured bill, pink at the base and black towards the tip."
+  },
+  {
+   "id": "limosa-lapponica-e6cefd",
+   "text": "In breeding plumage the neck, breast and belly are unbroken brick red, while females look much duller than males.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Description",
+   "quote": "The neck, breast and belly are unbroken brick red in breeding plumage, and dark brown above. Females breeding plumage is much duller than males"
+  },
+  {
+   "id": "limosa-lapponica-a54550",
+   "text": "It feeds mainly on bristle-worms, which can make up to 70% of its diet, supplemented by small bivalves and crustaceans.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Food_and_feeding",
+   "quote": "Their main source of food in wetlands is bristle-worms (up to 70%), supplemented by small bivalves and crustaceans."
+  },
+  {
+   "id": "limosa-lapponica-adcad7",
+   "text": "Males and females use different feeding strategies, with shorter-billed males taking surface prey like snails while females eat deeply-buried worms.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Food_and_feeding",
+   "quote": "shorter-billed birds (males) fed mostly on small surface prey like Potamopyrgus snails, half being snail specialists, whereas females consumed more deeply-buried prey such as worms"
+  },
+  {
+   "id": "limosa-lapponica-b33781",
+   "text": "Both parents incubate the eggs for 20 to 21 days, with the male sitting during the day and the female at night.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Breeding",
+   "quote": "Both sexes share incubation of the eggs for 20 to 21 days, the male during the day and the female at night."
+  },
+  {
+   "id": "limosa-lapponica-12eaa6",
+   "text": "Males perform spectacular ceremonial song flights with four stages, from ascent through gliding to descent, mainly to attract females.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Sexual_and_antagonistic_behaviour",
+   "quote": "There are 4 stages in ceremonial flights; (1) ascent, (2) limping flight, (3) gliding, and (4) descent to attract the females."
+  },
+  {
+   "id": "limosa-lapponica-7556df",
+   "text": "The subspecies from Alaska makes the longest known non-stop flight of any bird, crossing the Pacific from Alaska to New Zealand without pausing to feed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+   "quote": "The migration of the subspecies Limosa lapponica baueri across the Pacific Ocean from Alaska to New Zealand is the longest known non-stop flight of any bird, and also the longest journey without pausing to feed by any animal."
+  },
+  {
+   "id": "limosa-lapponica-393d74",
+   "text": "To fuel its huge flights, it carries the greatest fat loads of any migratory bird studied, even shrinking its digestive organs to do so.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit#Distribution_and_migration",
+   "quote": "They undertake the longest non-stop migrations of any bird, and to fuel they carry the greatest fat loads of any migratory bird so far studied, reducing the size of their digestive organs to do so."
+  },
+  {
+   "id": "limosa-lapponica-4eebfd",
+   "text": "Bar-tailed godwits breed on Arctic coasts and tundra from Scandinavia to Alaska, then spend the southern summer on Australian and New Zealand coasts.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Bar-tailed_godwit",
+   "quote": "Bar-tailed godwits breed on Arctic coasts and tundra from Scandinavia to Alaska, and overwinter on coasts in temperate and tropical regions of Australia and New Zealand."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1373652716
+ }
+}

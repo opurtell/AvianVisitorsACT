@@ -1,0 +1,138 @@
+{
+ "sci": "Petroica goodenovii",
+ "com": "Red-capped Robin",
+ "slug": "petroica-goodenovii",
+ "wikipedia": {
+  "title": "Red-capped robin",
+  "url": "https://en.wikipedia.org/wiki/Red-capped_robin",
+  "revid": 1314603195
+ },
+ "ala": {
+  "name": "Petroica (Petroica) goodenovii",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   132,
+   87,
+   108,
+   112,
+   63,
+   38,
+   42,
+   86,
+   170,
+   217,
+   109,
+   83
+  ],
+  "total": 1249,
+  "share": 0.0003044
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   0.92,
+   0.9,
+   1.16,
+   1.12,
+   0.77,
+   0.52,
+   0.55,
+   0.99,
+   1.66,
+   1.49,
+   1.09,
+   0.84
+  ]
+ },
+ "facts": [
+  {
+   "id": "petroica-goodenovii-c74684",
+   "text": "The male Red-capped Robin sports a striking scarlet cap and breast, with jet-black upperparts, white shoulder bars and a black tail tipped with white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Description",
+   "quote": "The male has a distinctive scarlet cap and breast. Its upperparts are jet-black with white shoulder bars, and its tail is black with white tips."
+  },
+  {
+   "id": "petroica-goodenovii-eab419",
+   "text": "The female is a modest grey-brown bird, though some females carry a reddish tint to the breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Description",
+   "quote": "The female is an undistinguished grey-brown above with a reddish tint to the crown, and paler underneath with dark brown wings and pale buff wing-patch."
+  },
+  {
+   "id": "petroica-goodenovii-dd56a6",
+   "text": "Young males don't get their eye-catching adult colours until their second moult, at around a year old.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Description",
+   "quote": "Immature birds initially resemble the female; it is only with their second moult, which takes place at around a year of age that males adopt their distinctive adult plumage."
+  },
+  {
+   "id": "petroica-goodenovii-1464f8",
+   "text": "Despite its name, the Red-capped Robin is not related to the European or American robin, and is an early offshoot of the songbird family tree.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin",
+   "quote": "it and its relatives are unrelated to European or American robins, but they appear to be an early offshoot of the songbird infraorder Passerida."
+  },
+  {
+   "id": "petroica-goodenovii-c31f79",
+   "text": "In courtship, the male proposes nest sites by rubbing his body over a tree fork while trilling, and the female makes the final choice.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Breeding",
+   "quote": "The male proposes suitable nest sites to the female by rubbing his body over a suitable tree fork, all the while trilling continuously. He may indicate several sites before the female ultimately makes the decision where to build, at which point she constructs the nest alone."
+  },
+  {
+   "id": "petroica-goodenovii-ba4635",
+   "text": "Extra-pair romance is common: nearly a quarter of nestlings have a father different from the male raising them.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Breeding",
+   "quote": "Extra-pair mating and fertilisation is fairly common, with 23% of nestlings and 37% of broods having a different father to the one rearing them"
+  },
+  {
+   "id": "petroica-goodenovii-b5aa73",
+   "text": "Once common in Sydney's western suburbs, the species has almost vanished from the Sydney Basin as the landscape has changed.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Threats",
+   "quote": "Once common on the Cumberland Plain in Sydney's western suburbs, it has now almost disappeared from the Sydney Basin."
+  },
+  {
+   "id": "petroica-goodenovii-7a57fd",
+   "text": "The Red-capped Robin is a tiny bird, just 10.5–12.5 cm long and weighing around 7–9 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Description",
+   "quote": "the red-capped robin is 10.5–12.5 cm (4.1–4.9 in) long with a wingspan of 15–19.5 cm (5.9–7.7 in), and weighs around 7–9 g (0.25–0.31 oz)"
+  },
+  {
+   "id": "petroica-goodenovii-0851fd",
+   "text": "Near Kambalda in Western Australia, one study found beetles made up 96% of the Red-capped Robin's diet, with ants making up the rest.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Feeding",
+   "quote": "One study of red-capped robin faeces conducted near Kambalda, Western Australia, revealed 96% of their diet was made up of beetles, while ants made up the remainder."
+  },
+  {
+   "id": "petroica-goodenovii-aa03ab",
+   "text": "The Red-capped Robin mostly pounces on prey on the ground, though it can also swoop and catch creatures while airborne.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-capped_robin#Feeding",
+   "quote": "The red-capped robin mostly pounces on prey on the ground, although it can swoop and catch creatures while airborne."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1314603195
+ }
+}

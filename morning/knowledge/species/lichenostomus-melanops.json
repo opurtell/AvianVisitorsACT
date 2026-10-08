@@ -1,0 +1,138 @@
+{
+ "sci": "Lichenostomus melanops",
+ "com": "Yellow-tufted Honeyeater",
+ "slug": "lichenostomus-melanops",
+ "wikipedia": {
+  "title": "Yellow-tufted honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater",
+  "revid": 1334404348
+ },
+ "ala": {
+  "name": "Lichenostomus melanops",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12,
+   2,
+   16,
+   47,
+   73,
+   92,
+   71,
+   54,
+   20,
+   9,
+   1,
+   0
+  ],
+  "total": 407,
+  "share": 9.92e-05
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.21,
+   0.05,
+   0.44,
+   1.19,
+   2.26,
+   3.22,
+   2.37,
+   1.57,
+   0.5,
+   0.16,
+   0.03,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "lichenostomus-melanops-19b421",
+   "text": "The yellow-tufted honeyeater sports a bright yellow forehead, crown and throat, a glossy black mask and striking golden ear-tufts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Description",
+   "quote": "It has a bright yellow forehead, crown and throat, a glossy black mask and bright golden ear-tufts."
+  },
+  {
+   "id": "lichenostomus-melanops-7989ad",
+   "text": "It is a noisy, active bird that lives in colonies ranging from just a few individuals up to a hundred.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Behaviour",
+   "quote": "Yellow-tufted honeyeaters are a noisy, active species in colonies from a few up to a hundred."
+  },
+  {
+   "id": "lichenostomus-melanops-ea73b2",
+   "text": "The species fiercely defends its territories around flowering trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Behaviour",
+   "quote": "It aggressively defends territories around flowering trees."
+  },
+  {
+   "id": "lichenostomus-melanops-8930d4",
+   "text": "Its calls range from a warbled \"tui-t-tui-t-tui\" and a whistled \"wheit-wheit\" to a sharp \"querk\" or a harsh \"chop-chop\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Behaviour",
+   "quote": "It has a great variety of calls from a warbled \"tui-t-tui-t-tui\", a whistled \"wheit-wheit\", a sharp \"querk\" to a harsh contact-call \"yip\" or \"chop-chop\"."
+  },
+  {
+   "id": "lichenostomus-melanops-ea3c71",
+   "text": "The yellow-tufted honeyeater mostly eats insects and spiders, and also enjoys lerps, honeydew, nectar and sap flows from eucalypts.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Diet_and_Foraging",
+   "quote": "The diet of the yellow-tufted honeyeater is primarily arthropods, such as a variety of insects and spiders, and occasionally snails. It also feeds on lerps and honeydew, nectar and sap flows from eucalypts, occasionally fruit and flowers."
+  },
+  {
+   "id": "lichenostomus-melanops-80bc64",
+   "text": "It catches insects on the wing as well as by probing the bark of tree-trunks and limbs.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Diet_and_Foraging",
+   "quote": "It takes insects in flight and by probing the bark of tree-trunks and limbs."
+  },
+  {
+   "id": "lichenostomus-melanops-2bd487",
+   "text": "Breeding runs from July to March, with the cup-shaped nest hung by its rim in dense shrubbery and bound together with spider webs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Breeding",
+   "quote": "Breeding takes place between July and March (mostly from September to January), with one or two broods each season. The nest is a cup-shaped structure of dried grasses, bits of bark and other plant material, bound with spider webs and lined with fur and feathers, hung by its rim in dense shrubbery or regrowth."
+  },
+  {
+   "id": "lichenostomus-melanops-9e1066",
+   "text": "Nestlings are fed by both parents and any helpers, leaving the nest at 13–15 days old and becoming independent by about six weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Breeding",
+   "quote": "The nestlings are brooded by the female and fed by both sexes and any helpers, fledging at 13–15 days post-hatch and usually becoming independent by 6 weeks."
+  },
+  {
+   "id": "lichenostomus-melanops-1dbcc0",
+   "text": "Cuckoos, including the fan-tailed, pallid and shining bronze-cuckoo, sneak their eggs into the honeyeater's nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Breeding",
+   "quote": "The nests are parasitized by the fan-tailed cuckoo (Cacomantis flabelliformis), pallid cuckoo (Cacomantis pallidus) and shining bronze-cuckoo (Chrysococcyx lucidus)."
+  },
+  {
+   "id": "lichenostomus-melanops-d5dc78",
+   "text": "The endangered helmeted honeyeater survives only in a 5 km strip of bushland in the Yellingbo Nature Conservation Reserve, east of Melbourne.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Yellow-tufted_honeyeater#Subspecies",
+   "quote": "L. m. cassidix, helmeted honeyeater, is restricted to a 5 km length of remnant bushland along two streams in the Yellingbo Nature Conservation Reserve, 50 km east of Melbourne, in Victoria."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1334404348
+ }
+}

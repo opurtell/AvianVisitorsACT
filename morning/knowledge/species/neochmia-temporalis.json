@@ -1,0 +1,138 @@
+{
+ "sci": "Neochmia temporalis",
+ "com": "Red-browed Firetail",
+ "slug": "neochmia-temporalis",
+ "wikipedia": {
+  "title": "Red-browed finch",
+  "url": "https://en.wikipedia.org/wiki/Red-browed_finch",
+  "revid": 1371741738
+ },
+ "ala": {
+  "name": "Neochmia (Aegintha) temporalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3135,
+   2485,
+   2556,
+   2603,
+   2093,
+   1712,
+   1789,
+   1974,
+   2274,
+   2792,
+   2151,
+   1991
+  ],
+  "total": 28060,
+  "share": 0.0068377
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.94,
+   1.1,
+   1.18,
+   1.12,
+   1.09,
+   1.01,
+   1.01,
+   0.97,
+   0.96,
+   0.83,
+   0.92,
+   0.86
+  ]
+ },
+ "facts": [
+  {
+   "id": "neochmia-temporalis-622f40",
+   "text": "The red-browed finch is easily recognised by a bright red stripe above the eye and a bright red rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch",
+   "quote": "The species is distinguished by the bright red stripe above the eye and bright red rump."
+  },
+  {
+   "id": "neochmia-temporalis-2d9009",
+   "text": "It is highly sociable, usually appearing in small flocks of 10 to 20 individuals.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "The red-browed finch is highly sociable and is usually seen in small flocks of 10 to 20 individuals."
+  },
+  {
+   "id": "neochmia-temporalis-abaa59",
+   "text": "When disturbed, the whole flock disperses while cheeping, then re-congregates nearby.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "When disturbed, the whole flock will disperse, cheeping, and re-congregate nearby."
+  },
+  {
+   "id": "neochmia-temporalis-e0238b",
+   "text": "The finch mostly eats grass and sedge seed but will happily feed on many non-native seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "N. temporalis is a seed eater, living mostly on grass and sedge seed, but will happily feed on many non-native seeds."
+  },
+  {
+   "id": "neochmia-temporalis-f320d0",
+   "text": "Wild birds will even enter large-mesh aviaries in suburban areas to eat seed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "Wild birds will even enter large-mesh aviaries in suburban areas to eat seed, given the opportunity."
+  },
+  {
+   "id": "neochmia-temporalis-fe72af",
+   "text": "It builds a large domed nest with a side entrance, woven from grass and small twigs, usually 2–3 metres above the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "The red-browed finch builds a large domed nest with a side entrance, woven from grass and small twigs. Nests are usually built 2–3 metres (6.6–9.8 ft) above the ground in dense shrubs."
+  },
+  {
+   "id": "neochmia-temporalis-bd8d3c",
+   "text": "Both parents share nest building, incubation, and feeding of the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "Both parents share nest building, incubation of the eggs, and feed the young together."
+  },
+  {
+   "id": "neochmia-temporalis-d453a6",
+   "text": "Four to six white eggs are laid per clutch two or three times per year, between October and April.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "Four to six white eggs are laid per clutch two or three times per year, between October and April."
+  },
+  {
+   "id": "neochmia-temporalis-ce8c8f",
+   "text": "In captivity it sometimes hybridises with the star finch, crimson finch, and zebra finch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Biology_and_ecology",
+   "quote": "The red-browed finch will sometimes hybridise with the star finch, crimson finch, and zebra finch if kept together in captivity."
+  },
+  {
+   "id": "neochmia-temporalis-3ff6cd",
+   "text": "The species is listed as being of least concern on the IUCN Red List.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Red-browed_finch#Conservation_status",
+   "quote": "The species is listed as being of least concern on the IUCN Red List."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371741738
+ }
+}

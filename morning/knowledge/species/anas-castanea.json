@@ -1,0 +1,138 @@
+{
+ "sci": "Anas castanea",
+ "com": "Chestnut Teal",
+ "slug": "anas-castanea",
+ "wikipedia": {
+  "title": "Chestnut teal",
+  "url": "https://en.wikipedia.org/wiki/Chestnut_teal",
+  "revid": 1361796145
+ },
+ "ala": {
+  "name": "Anas (Nettion) castanea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   632,
+   474,
+   388,
+   297,
+   245,
+   201,
+   249,
+   352,
+   510,
+   524,
+   463,
+   493
+  ],
+  "total": 4828,
+  "share": 0.0011765
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.11,
+   1.23,
+   1.05,
+   0.75,
+   0.75,
+   0.7,
+   0.82,
+   1.02,
+   1.26,
+   0.91,
+   1.16,
+   1.25
+  ]
+ },
+ "facts": [
+  {
+   "id": "anas-castanea-fa0393",
+   "text": "The chestnut teal is a dabbling duck found in Australia and is protected under the National Parks and Wildlife Act 1974.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal",
+   "quote": "The chestnut teal (Anas castanea) is a dabbling duck found in Australia. It is protected under the National Parks and Wildlife Act 1974."
+  },
+  {
+   "id": "anas-castanea-1b5f7a",
+   "text": "The chestnut teal is darker and slightly bigger than the grey teal.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Description",
+   "quote": "The chestnut teal is darker and a slightly bigger bird than the grey teal."
+  },
+  {
+   "id": "anas-castanea-a03e04",
+   "text": "The male has a distinctive green head and a mottled brown body, while the female has a brown head and mottled brown body.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Description",
+   "quote": "The male has a distinctive green coloured head and mottled brown body. The female has a brown head and mottled brown body."
+  },
+  {
+   "id": "anas-castanea-caeef5",
+   "text": "The female has a loud penetrating \"laughing\" quack repeated rapidly nine times or more.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Description",
+   "quote": "The female chestnut teal has a loud penetrating \"laughing\" quack repeated rapidly nine times or more."
+  },
+  {
+   "id": "anas-castanea-9cf620",
+   "text": "Chestnut teals form monogamous pairs that stay together outside the breeding season and defend the nest site.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Breeding",
+   "quote": "Chestnut teals form monogamous pairs that stay together outside the breeding season, defend the nest site and look after the young when hatched."
+  },
+  {
+   "id": "anas-castanea-0ba56e",
+   "text": "Nests are usually in a down-lined tree hollow about 6-10 m high over water, but sometimes on the ground among grass clumps near water.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Breeding",
+   "quote": "Nests are usually located over water, in a down-lined tree hollow about 6–10 m (20–33 ft) high. Sometimes nests are placed on the ground, among clumps of grass near water."
+  },
+  {
+   "id": "anas-castanea-c7b808",
+   "text": "The young hatch and are ready to swim and walk within a day.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Breeding",
+   "quote": "The young hatch and are ready to swim and walk within a day."
+  },
+  {
+   "id": "anas-castanea-155b36",
+   "text": "It is common in south-eastern and south-western Australia, with Tasmania and southern Victoria its stronghold, and vagrants reaching New Guinea and New Zealand.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Distribution_and_habitat",
+   "quote": "Tasmania and southern Victoria are the species' stronghold, while vagrants have been found as far north as New Guinea and Lord Howe Island, and as far south as New Zealand."
+  },
+  {
+   "id": "anas-castanea-15cf7c",
+   "text": "It prefers coastal estuaries and wetlands, is indifferent to salinity, and eats both plant and animal food as an omnivore.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Distribution_and_habitat",
+   "quote": "The chestnut teal prefers coastal estuaries and wetlands, and is indifferent to salinity. This bird is an omnivore."
+  },
+  {
+   "id": "anas-castanea-d310e6",
+   "text": "Its scientific name castanea comes from the Latin for \"chestnut-coloured\" or \"chestnut-brown\".",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Chestnut_teal#Taxonomy",
+   "quote": "The specific epithet castanea is from the Latin castaneus for \"chestnut-coloured\" or \"chestnut-brown\"."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1361796145
+ }
+}

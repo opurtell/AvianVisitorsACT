@@ -1,0 +1,138 @@
+{
+ "sci": "Zoothera lunulata",
+ "com": "Bassian Thrush",
+ "slug": "zoothera-lunulata",
+ "wikipedia": {
+  "title": "Bassian thrush",
+  "url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+  "revid": 1346796311
+ },
+ "ala": {
+  "name": "Zoothera (Zoothera) lunulata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   133,
+   59,
+   83,
+   129,
+   176,
+   104,
+   147,
+   219,
+   77,
+   97,
+   86,
+   67
+  ],
+  "total": 1378,
+  "share": 0.0003358
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   0.76,
+   0.5,
+   0.73,
+   1.05,
+   1.75,
+   1.17,
+   1.58,
+   2.05,
+   0.62,
+   0.55,
+   0.7,
+   0.55
+  ]
+ },
+ "facts": [
+  {
+   "id": "zoothera-lunulata-25a4f2",
+   "text": "The Bassian thrush, also called the olive-tailed thrush, is a medium-sized thrush that eats mostly insects.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The Bassian thrush (Zoothera lunulata), also known as the olive-tailed thrush, is a medium-sized mostly insectivorous thrush"
+  },
+  {
+   "id": "zoothera-lunulata-0e050b",
+   "text": "It ranges from northern Queensland to southeastern Australia, and also lives in Tasmania, on some larger Bass Strait islands and on Kangaroo Island.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "found from northern Queensland to southeastern Australia. It also occurs in Tasmania, on some larger islands of Bass Strait, and on Kangaroo Island."
+  },
+  {
+   "id": "zoothera-lunulata-8c8330",
+   "text": "It is brown to olive in colour, with a white ring around its eyes and black bars on its back, rear and head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The thrush ranges in colour from brown to olive, with a white ring around its eyes and black bars on its back, rear, and head."
+  },
+  {
+   "id": "zoothera-lunulata-a5ab1f",
+   "text": "Its underbody is paler with dark scalloping, and its wings carry a dark bar along the underside.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "Its underbody is paler, with dark scalloping, and its wings have a dark bar running the length of the underside."
+  },
+  {
+   "id": "zoothera-lunulata-3695cf",
+   "text": "It flushes insects out of leaf litter by disturbing the piles, then moves quietly and pauses to listen for the insects moving.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "Bassian thrushes are known to dislodge their prey out of piles of leaves by disturbing the leaf litter. The birds move quietly and often pause to listen for the movements of the insects."
+  },
+  {
+   "id": "zoothera-lunulata-072d87",
+   "text": "It lives in shrubland, forests and rainforests, and although mostly a resident, some individuals show nomadic tendencies in the non-breeding season.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The Bassian thrush lives in shrubland, forests, and rainforests. It appears to be a resident species, but there is some evidence that some individuals have nomadic tendencies, usually in the non-breeding season."
+  },
+  {
+   "id": "zoothera-lunulata-a2b648",
+   "text": "Nesting starts in winter from late June and continues until the end of summer.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "Nesting begins in the winter months (from late June) and continues till the end of summer."
+  },
+  {
+   "id": "zoothera-lunulata-9bdae0",
+   "text": "The two or three eggs in a clutch range in colour from pale green or blue to light stone.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The two or three eggs which form a clutch vary from pale green or blue to light stone."
+  },
+  {
+   "id": "zoothera-lunulata-d234ec",
+   "text": "The cup-shaped nest is usually built of bark strips, sometimes mixed with leaves, and lined with grasses and rootlets, often in a tree fork.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The cup-shaped nest is usually built of strips of bark, at times mixed with leaves, and is lined with grasses and rootlets. Sites vary from a few feet to 50 feet (15 m) from ground. A fork in a tree is usually favoured"
+  },
+  {
+   "id": "zoothera-lunulata-29153b",
+   "text": "Its population appears to be declining because of ongoing habitat destruction and degradation, but not at a concerning rate.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Bassian_thrush",
+   "quote": "The population appears to be declining because of ongoing habitat destruction and degradation, but not at a rate that is concerning."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1346796311
+ }
+}

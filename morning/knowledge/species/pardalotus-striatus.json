@@ -1,0 +1,131 @@
+{
+ "sci": "Pardalotus striatus",
+ "com": "Striated Pardalote",
+ "slug": "pardalotus-striatus",
+ "wikipedia": {
+  "title": "Striated pardalote",
+  "url": "https://en.wikipedia.org/wiki/Striated_pardalote",
+  "revid": 1379211091
+ },
+ "ala": {
+  "name": "Pardalotus (Pardalotinus) striatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4172,
+   2673,
+   3186,
+   2998,
+   1951,
+   1709,
+   2113,
+   3621,
+   4559,
+   7435,
+   3925,
+   3456
+  ],
+  "total": 43962,
+  "share": 0.0107127
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.86,
+   0.81,
+   1.01,
+   0.88,
+   0.7,
+   0.69,
+   0.82,
+   1.22,
+   1.32,
+   1.51,
+   1.15,
+   1.03
+  ]
+ },
+ "facts": [
+  {
+   "id": "pardalotus-striatus-77b5a6",
+   "text": "The striated pardalote is the least colourful but most common of the four pardalote species.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote",
+   "quote": "The striated pardalote (Pardalotus striatus) is the least colourful and most common of the four pardalote species."
+  },
+  {
+   "id": "pardalotus-striatus-2b2024",
+   "text": "It also goes by the names pickwick, wittachew and chip-chip.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote",
+   "quote": "Other common names include pickwick, wittachew and chip-chip."
+  },
+  {
+   "id": "pardalotus-striatus-42de94",
+   "text": "The striated pardalote is a very small, short-tailed bird that is more often heard than seen.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote",
+   "quote": "It is a very small, short-tailed bird that is more often heard than seen, foraging noisily for lerps and other small creatures in the treetops."
+  },
+  {
+   "id": "pardalotus-striatus-713781",
+   "text": "Its call is a clear, sharp, musical witta-witta, with the second part slightly lower, repeated for long periods.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Call",
+   "quote": "Call is a clear, sharp, musical witta-witta, the second part slightly lower, repeated regularly in intervals for long periods; striated pardalotes also give off soft, low trills."
+  },
+  {
+   "id": "pardalotus-striatus-9972bd",
+   "text": "The striated pardalote feeds on insects and insect larvae, usually high in eucalyptus foliage in small groups.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Feeding",
+   "quote": "Striated pardalotes feed on insects and insect larvae. They usually do so in the high foliage of eucalyptus trees, but may come closer to the ground where there are lower shrubs. Feeding takes place in small groups."
+  },
+  {
+   "id": "pardalotus-striatus-156454",
+   "text": "Breeding runs from June to February, with two to five white, oval-shaped eggs laid in a nest of bark fiber, rootlets and fine grass.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Breeding",
+   "quote": "Breeding occurs from June to February. Two to five white, oval-shaped eggs are laid in a nest is made of bark fiber, rootlets and fine grass, and placed in tree hollow, a tunnel excavated in the side of a bank or within crevices in man-made objects."
+  },
+  {
+   "id": "pardalotus-striatus-c3bf3e",
+   "text": "Both sexes incubate the eggs and care for the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Breeding",
+   "quote": "Both sexes incubate and care for the young."
+  },
+  {
+   "id": "pardalotus-striatus-b407d7",
+   "text": "The striated pardalote lives in habitats from tall mountain rainforest to arid scrubland, favouring eucalyptus forest and woodlands.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Distribution_and_habitat",
+   "quote": "Striated pardalotes occupy a vast range of habitat types from tall mountain rainforest to arid scrubland, although they favour eucalyptus forest and woodlands."
+  },
+  {
+   "id": "pardalotus-striatus-c643e5",
+   "text": "It is found in all parts of Australia except some of the Western Australian deserts.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Striated_pardalote#Distribution_and_habitat",
+   "quote": "They are found in all parts of Australia except some of the Western Australian deserts."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379211091
+ }
+}

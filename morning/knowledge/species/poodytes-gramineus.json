@@ -1,0 +1,138 @@
+{
+ "sci": "Poodytes gramineus",
+ "com": "Little Grassbird",
+ "slug": "poodytes-gramineus",
+ "wikipedia": {
+  "title": "Little grassbird",
+  "url": "https://en.wikipedia.org/wiki/Little_grassbird",
+  "revid": 1358422783
+ },
+ "ala": {
+  "name": "Poodytes gramineus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1617,
+   752,
+   439,
+   275,
+   226,
+   196,
+   224,
+   522,
+   1046,
+   1442,
+   1213,
+   1258
+  ],
+  "total": 9233,
+  "share": 0.0022499
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.58,
+   1.08,
+   0.66,
+   0.38,
+   0.38,
+   0.38,
+   0.41,
+   0.84,
+   1.43,
+   1.39,
+   1.69,
+   1.77
+  ]
+ },
+ "facts": [
+  {
+   "id": "poodytes-gramineus-5805a1",
+   "text": "The little grassbird is olive-brown to brown-grey, about 13 to 15 cm long, with a pale eyebrow and dark grey streaks on the throat, crown and cheeks.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Description",
+   "quote": "It is an olive-brown/ brown-grey bird, measuring 13 to 15 cm, with a pale eyebrow and dark grey streaks in the throat, crown and cheeks."
+  },
+  {
+   "id": "poodytes-gramineus-901fd6",
+   "text": "Its song is a plaintive, three-note monotone, often written as tee-ti-teee.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Description",
+   "quote": "the voice is a \"plaintive  three noted monotone, tee-ti-teee.\""
+  },
+  {
+   "id": "poodytes-gramineus-2747fd",
+   "text": "In the breeding season it repeats a sequence of two to three plaintive piping whistles incessantly, so it is more often heard than seen.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Description",
+   "quote": "particularly in the breeding season where it gives \"a sequence of 2-3 plaintive piping whistles p-pee-pee repeated incessantly.\""
+  },
+  {
+   "id": "poodytes-gramineus-a267d4",
+   "text": "The little grassbird eats insects and other small arthropods, staying hidden in the dense cover of grasses and swamp vegetation.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Food_and_feeding",
+   "quote": "The little Grassbird eats insects and other small arthropods, usually remaining in the dense cover of grasses and swamp vegetation."
+  },
+  {
+   "id": "poodytes-gramineus-38844f",
+   "text": "It breeds from August to December or after rain, building a deep cup-shaped nest of grass, twigs and stems lined with feathers in tall grasses, reeds and low shrubs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Breeding",
+   "quote": "Nests are deep and cup-shaped consisting of grass, twigs and stems lined with feathers, typically of the Australasian swamphen (Porphyrio melanotus), and situated in tall grasses, reeds and low shrubs."
+  },
+  {
+   "id": "poodytes-gramineus-8d2ec5",
+   "text": "A clutch contains 3-5 whitish or pink-white eggs speckled with grey.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Breeding",
+   "quote": "A clutch consists of 3-5 whitish/pink-white, grey speckled eggs."
+  },
+  {
+   "id": "poodytes-gramineus-4ec10f",
+   "text": "The little grassbird lives in dense wetland vegetation, sedges, reeds and rank grass, and also uses lignum shrubs, saltmarsh and low mangroves.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Distribution_and_habitat",
+   "quote": "It lives in dense wetland vegetation, sedges, reeds  and rank grass.  It also uses shrubs such as lignum, saltmarsh and low mangroves."
+  },
+  {
+   "id": "poodytes-gramineus-18e1b8",
+   "text": "After rain the little grassbird moves into temporary wetlands.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Distribution_and_habitat",
+   "quote": "After rains the little grassbird will move into temporary wetlands."
+  },
+  {
+   "id": "poodytes-gramineus-379f1e",
+   "text": "Male and female little grassbirds look indistinguishable to the naked eye, though males are larger in most measurements.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Description",
+   "quote": "Adult male and female grassbirds are indistinguishable to the naked eye; however, males are larger for all parameters aside from the bill."
+  },
+  {
+   "id": "poodytes-gramineus-f9c3e7",
+   "text": "The little grassbird is listed as Least Concern and its population trend appears to be increasing.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Little_grassbird#Status",
+   "quote": "The species has been assessed as Least Concern by the IUCN. The population trend appears to be increasing"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358422783
+ }
+}

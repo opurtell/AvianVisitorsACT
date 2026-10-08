@@ -1,0 +1,131 @@
+{
+ "sci": "Manorina melanocephala",
+ "com": "Noisy Miner",
+ "slug": "manorina-melanocephala",
+ "wikipedia": {
+  "title": "Noisy miner",
+  "url": "https://en.wikipedia.org/wiki/Noisy_miner",
+  "revid": 1376327356
+ },
+ "ala": {
+  "name": "Manorina (Myzantha) melanocephala",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   7515,
+   5948,
+   6141,
+   6904,
+   6180,
+   5085,
+   5485,
+   5998,
+   5792,
+   7091,
+   5137,
+   5227
+  ],
+  "total": 74802,
+  "share": 0.0182278
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.84,
+   0.99,
+   1.07,
+   1.11,
+   1.21,
+   1.13,
+   1.16,
+   1.11,
+   0.91,
+   0.79,
+   0.83,
+   0.85
+  ]
+ },
+ "facts": [
+  {
+   "id": "manorina-melanocephala-adbd23",
+   "text": "The noisy miner is a large honeyeater, 24–28 centimetres long, with a wingspan of 36–45 centimetres.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner#Appearance",
+   "quote": "The noisy miner is a large honeyeater, 24–28 centimetres (9.4–11.0 in) in length, with a wingspan of 36–45 centimetres (14–18 in), and weighing 70–80 grams (2.5–2.8 oz)."
+  },
+  {
+   "id": "manorina-melanocephala-e85e93",
+   "text": "It is a grey bird with a black head, bright orange-yellow beak and feet, and a distinctive patch of yellow skin behind the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner",
+   "quote": "This miner is a grey bird, with a black head, orange-yellow beak and feet, a distinctive yellow patch behind the eye, and white tips on the tail feathers."
+  },
+  {
+   "id": "manorina-melanocephala-9afec1",
+   "text": "Males, females and juveniles look similar, though young birds are a brownish-grey.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner",
+   "quote": "Males, females and juveniles are similar in appearance, though young birds are a brownish-grey."
+  },
+  {
+   "id": "manorina-melanocephala-3c4575",
+   "text": "Living up to its name, the noisy miner is almost constantly vocal, with a large range of songs, calls, scoldings and alarms.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner",
+   "quote": "As the common name suggests, the noisy miner is a vocal species with a large range of songs, calls, scoldings and alarms, and almost constant vocalisations, particularly from young birds."
+  },
+  {
+   "id": "manorina-melanocephala-84bdd2",
+   "text": "It sings a communal 'dawn song' of clear, whistled notes in chorus in the early hours of the morning from May through January.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner#Vocalisations",
+   "quote": "The noisy miner has a song described as the 'dawn song'—a communal song of clear, whistled notes emitted in chorus in the early hours of the morning from May through January."
+  },
+  {
+   "id": "manorina-melanocephala-cc6645",
+   "text": "The birds live in colonies that can contain several hundred birds, foraging, bathing, roosting and breeding together.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner",
+   "quote": "they forage, bathe, roost, breed and defend territory communally, forming colonies that can contain several hundred birds"
+  },
+  {
+   "id": "manorina-melanocephala-05e402",
+   "text": "When mobbing a potential predator, temporary flocks called coalitions can swell to up to 40 birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner#Social_organisation",
+   "quote": "These flocks, called 'coalitions', usually comprise five to eight birds, although coalitions of up to 40 birds can occur when mobbing a potential predator."
+  },
+  {
+   "id": "manorina-melanocephala-2f6204",
+   "text": "Chicks are raised communally, with males of the coterie bringing food to the nestlings and even removing their faecal sacs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner#Social_organisation",
+   "quote": "Looking after the young is communal, with males of the coterie bringing food to the nestlings and removing faecal sacs."
+  },
+  {
+   "id": "manorina-melanocephala-af74fe",
+   "text": "The species has benefited from landscaping practices that create open areas dominated by eucalypts, and its populations have significantly increased in many locations.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Noisy_miner",
+   "quote": "studies now show that the noisy miner has benefited primarily from landscaping practices that create open areas dominated by eucalypts."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376327356
+ }
+}

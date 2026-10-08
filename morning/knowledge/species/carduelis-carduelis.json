@@ -1,0 +1,124 @@
+{
+ "sci": "Carduelis carduelis",
+ "com": "European Goldfinch",
+ "slug": "carduelis-carduelis",
+ "wikipedia": {
+  "title": "European goldfinch",
+  "url": "https://en.wikipedia.org/wiki/European_goldfinch",
+  "revid": 1373949279
+ },
+ "ala": {
+  "name": "Carduelis carduelis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1909,
+   1133,
+   745,
+   654,
+   629,
+   535,
+   614,
+   796,
+   1027,
+   1465,
+   1049,
+   1061
+  ],
+  "total": 11782,
+  "share": 0.002871
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.41,
+   1.24,
+   0.85,
+   0.69,
+   0.81,
+   0.78,
+   0.86,
+   0.97,
+   1.07,
+   1.07,
+   1.11,
+   1.13
+  ]
+ },
+ "facts": [
+  {
+   "id": "carduelis-carduelis-5acfc8",
+   "text": "The European goldfinch has a red face with black markings around the eyes, a black-and-white head and a broad yellow bar on its black wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch",
+   "quote": "The breeding male has a red face with black markings around the eyes, and a black-and-white head."
+  },
+  {
+   "id": "carduelis-carduelis-80f387",
+   "text": "It is a small finch, 12–13 cm long, with a wingspan of 21–25 cm and a weight of 14 to 19 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Description",
+   "quote": "The average European goldfinch is 12–13 cm (4.7–5.1 in) long, has a wingspan of 21–25 cm (8.3–9.8 in) and weighs 14 to 19 g (0.49 to 0.67 oz)."
+  },
+  {
+   "id": "carduelis-carduelis-a5d21f",
+   "text": "Its song is a pleasant silvery twittering, and its call is a melodic tickeLIT.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Description",
+   "quote": "The song can be described as a pleasant silvery twittering. The call is a melodic tickeLIT, and the song is a tinkling medley of trills and twitters"
+  },
+  {
+   "id": "carduelis-carduelis-af72c6",
+   "text": "The female builds the neat, compact nest entirely herself, generally completing it within a week, while the male accompanies her but does not contribute.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Breeding",
+   "quote": "The female builds the nest entirely herself, generally completing it within a week. The male accompanies her, but does not contribute."
+  },
+  {
+   "id": "carduelis-carduelis-5eb158",
+   "text": "The nest is attached to twigs with spider silk and lined with plant down such as that from thistles.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Breeding",
+   "quote": "It is made of moss and lichen and is lined with plant down, such as that from thistles. It is attached to the twigs of the tree with spider silk."
+  },
+  {
+   "id": "carduelis-carduelis-25013d",
+   "text": "Its preferred food is small seeds from thistles, cornflowers and teasels, though it also eats insects when feeding its young.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Feeding",
+   "quote": "The European goldfinch's preferred food is small seeds such as beige-coloured sunflower hearts and those from thistles (the Latin name is from Carduus, a genus of thistles), cornflowers, and teasels, but it also eats insects when it feeds its young."
+  },
+  {
+   "id": "carduelis-carduelis-e11015",
+   "text": "It uses its tweezerlike bill to extract hard-to-get seeds, and one goldfinch in Armenia ate 30 seeds from a sunflower head in a single hour.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Feeding",
+   "quote": "One European Goldfinch in Armenia ate 30 seeds from a sunflower head in a single hour."
+  },
+  {
+   "id": "carduelis-carduelis-f6ae3d",
+   "text": "The word 'goldfinch' first appeared in English in the 14th century, used by Geoffrey Chaucer in his unfinished The Cook's Tale.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/European_goldfinch#Taxonomy",
+   "quote": "The English word 'goldfinch' was first used in the second half of the 14th century by Geoffrey Chaucer in his unfinished The Cook's Tale: \"Gaillard he was as goldfynch in the shawe (Gaily dressed he was as is a goldfinch in the woods)\"."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1373949279
+ }
+}

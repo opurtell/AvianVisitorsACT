@@ -1,0 +1,138 @@
+{
+ "sci": "Calidris ruficollis",
+ "com": "Red-necked Stint",
+ "slug": "calidris-ruficollis",
+ "wikipedia": {
+  "title": "Red-necked stint",
+  "url": "https://en.wikipedia.org/wiki/Red-necked_stint",
+  "revid": 1373843931
+ },
+ "ala": {
+  "name": "Calidris (Ereunetes) ruficollis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   20,
+   49,
+   36,
+   7
+  ],
+  "total": 115,
+  "share": 2.8e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Mar",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   0.17,
+   0.0,
+   0.0,
+   0.12,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   2.38,
+   4.1,
+   4.36,
+   0.86
+  ]
+ },
+ "facts": [
+  {
+   "id": "calidris-ruficollis-96c07a",
+   "text": "Breeding adults have an unstreaked orange breast bordered with dark markings below, plus a white V on the back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Description",
+   "quote": "The breeding adult has an unstreaked orange breast, bordered with dark markings below, and a white V on its back."
+  },
+  {
+   "id": "calidris-ruficollis-4c520b",
+   "text": "Red-necked stints are highly gregarious, forming flocks with other small waders such as sharp-tailed sandpipers and curlew sandpipers.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Behaviour",
+   "quote": "Red-necked stints are highly gregarious and will form flocks with other small Calidris waders, such as sharp-tailed sandpipers and curlew sandpipers in their non-breeding areas."
+  },
+  {
+   "id": "calidris-ruficollis-6b672a",
+   "text": "Both parents incubate the clutch of 3 or 4 eggs for 20–22 days, but the female leaves soon after hatching.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Breeding",
+   "quote": "The clutch of 3 or 4 eggs is incubated for 20-22 days by both parents. The females leaves soon after the eggs hatch while the male continues to care for the chicks until they fledge at 16-17 days."
+  },
+  {
+   "id": "calidris-ruficollis-9cd4d3",
+   "text": "Red-necked stints spend the non-breeding season in Southeast Asia and Australasia, as far south as Tasmania and New Zealand.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Distribution_and_habitat",
+   "quote": "Red-necked stints are strongly migratory, breeding along the Arctic littoral of eastern Eurasia and spending the non-breeding season in Southeast Asia and Australasia as far south as Tasmania and New Zealand."
+  },
+  {
+   "id": "calidris-ruficollis-879271",
+   "text": "The species was formally described in 1776 by the German naturalist Peter Simon Pallas.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Taxonomy",
+   "quote": "The red-necked stint was formally described in 1776 by the German naturalist Peter Simon Pallas under the binomial name Trynga ruficollis."
+  },
+  {
+   "id": "calidris-ruficollis-8dace5",
+   "text": "Its scientific name ruficollis is Modern Latin for \"red-necked\".",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Taxonomy",
+   "quote": "The specific epithet ruficollis is Modern Latin meaning \"red-necked\" from Latin rufus meaning \"red\" or \"rufous\" and -collis meaning \"-necked\" or \"-throated\"."
+  },
+  {
+   "id": "calidris-ruficollis-04d841",
+   "text": "It breeds on low altitude tundra, usually in dry raised areas, and lays its eggs in June.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Breeding",
+   "quote": "The breeding habitat is low altitude tundra usually in dry raised areas. The birds have only a low degree of site fidelity. The eggs are laid in June."
+  },
+  {
+   "id": "calidris-ruficollis-c64127",
+   "text": "The male cares for the chicks until they fledge at 16-17 days, and only a single brood is raised each year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Breeding",
+   "quote": "the male continues to care for the chicks until they fledge at 16-17 days. Only a single brood is raised each year."
+  },
+  {
+   "id": "calidris-ruficollis-989b8b",
+   "text": "It forages in wet grassland and soft mud, mainly picking up food by sight.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Food_and_feeding",
+   "quote": "They forage in wet grassland and soft mud, mainly picking up food by sight."
+  },
+  {
+   "id": "calidris-ruficollis-6d2089",
+   "text": "In its non-breeding habitat it feeds on intertidal mudflats and along the muddy margins of freshwater lakes.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Red-necked_stint#Food_and_feeding",
+   "quote": "In their non-breeding habitat they feed on intertidal mudflats and along the muddy margins of freshwater lakes."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1373843931
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "sci": "Alauda arvensis",
+ "com": "Eurasian Skylark",
+ "slug": "alauda-arvensis",
+ "wikipedia": {
+  "title": "Eurasian skylark",
+  "url": "https://en.wikipedia.org/wiki/Eurasian_skylark",
+  "revid": 1378764210
+ },
+ "ala": {
+  "name": "Alauda arvensis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   643,
+   39,
+   28,
+   116,
+   120,
+   63,
+   87,
+   355,
+   614,
+   925,
+   730,
+   568
+  ],
+  "total": 4308,
+  "share": 0.0010498
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "Jun"
+  ],
+  "rel": [
+   1.37,
+   0.12,
+   0.09,
+   0.35,
+   0.45,
+   0.27,
+   0.35,
+   1.24,
+   1.84,
+   1.95,
+   2.22,
+   1.75
+  ],
+  "computed": "summer migrant",
+  "reason": "Resident in grassland; the spring-summer peak in records is song flight making it easy to find"
+ },
+ "facts": [
+  {
+   "id": "alauda-arvensis-8ea2ab",
+   "text": "A skylark's song usually lasts two to three minutes, but can stretch to 20 minutes or more later in the mating season.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "The song generally lasts two to three minutes, but it tends to last longer later in the mating season, when songs can last for 20 minutes or more."
+  },
+  {
+   "id": "alauda-arvensis-2f97f5",
+   "text": "Near wind farms, male skylarks sing at higher frequencies so their songs carry over turbine noise.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "At wind farm sites, male skylarks have been found to sing at higher frequencies as a result of wind turbine noise."
+  },
+  {
+   "id": "alauda-arvensis-66d777",
+   "text": "Male skylarks have broader wings than females, an adaptation for the long hovering flights that females seem to favour.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "The male has broader wings than the female. This adaptation for more efficient hovering flight may have evolved because of female Eurasian skylarks' preference for males that sing and hover for longer periods and so demonstrate that they are likely to have good overall fitness."
+  },
+  {
+   "id": "alauda-arvensis-f51622",
+   "text": "Skylark chicks leave the nest after eight to ten days, well before they can fly, hiding in vegetation while their parents keep feeding them.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark",
+   "quote": "The chicks are fed by both parents but leave the nest after eight to ten days, well before they can fly. They scatter and hide in the vegetation but continue to be fed by the parents until they can fly at 18 to 20 days of age."
+  },
+  {
+   "id": "alauda-arvensis-13784f",
+   "text": "Unlike finches, skylarks swallow seeds whole, husk and all.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Feeding",
+   "quote": "Unlike a finch (family Fringillidae) it swallows seeds without removing the husk."
+  },
+  {
+   "id": "alauda-arvensis-594db6",
+   "text": "The male Eurasian skylark delivers his song in hovering flight from heights of 50 to 100 metres, where he may appear as just a dot in the sky.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "It is known for the song of the male, which is delivered in hovering flight from heights of 50 to 100 m, when the singing bird may appear as just a dot in the sky from the ground."
+  },
+  {
+   "id": "alauda-arvensis-a4e41b",
+   "text": "The Eurasian skylark has a short blunt crest on its head that can be raised and lowered.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "It has a short blunt crest on the head, which can be raised and lowered."
+  },
+  {
+   "id": "alauda-arvensis-c0c42b",
+   "text": "The Eurasian skylark is 18–19 cm long and is a rather dull-looking species, mainly brown above and paler below.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Description",
+   "quote": "The Eurasian skylark is 18–19 cm (7.1–7.5 in) in length. Like most other larks, the Eurasian skylark is a rather dull-looking species, being mainly brown above and paler below."
+  },
+  {
+   "id": "alauda-arvensis-e89134",
+   "text": "The female lays three to five eggs and incubates them for around 11 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark",
+   "quote": "She lays three to five eggs which she incubates for around 11 days."
+  },
+  {
+   "id": "alauda-arvensis-c51628",
+   "text": "Skylark parents can raise up to 4 broods in a season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_skylark#Breeding",
+   "quote": "The parents can have up to 4 broods in a season."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378764210
+ }
+}

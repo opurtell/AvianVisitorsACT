@@ -1,0 +1,124 @@
+{
+ "sci": "Himantopus leucocephalus",
+ "com": "Pied Stilt",
+ "slug": "himantopus-leucocephalus",
+ "wikipedia": {
+  "title": "Pied stilt",
+  "url": "https://en.wikipedia.org/wiki/Pied_stilt",
+  "revid": 1355308891
+ },
+ "ala": {
+  "name": "Himantopus himantopus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   394,
+   66,
+   4,
+   0,
+   13,
+   1,
+   0,
+   46,
+   173,
+   326,
+   537,
+   389
+  ],
+  "total": 1949,
+  "share": 0.0004749
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.9,
+   0.47,
+   0.03,
+   0.0,
+   0.11,
+   0.01,
+   0.0,
+   0.36,
+   1.17,
+   1.55,
+   3.69,
+   2.71
+  ]
+ },
+ "facts": [
+  {
+   "id": "himantopus-leucocephalus-4e7fb6",
+   "text": "The pied stilt is also known as the white-headed stilt.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt",
+   "quote": "The pied stilt (Himantopus leucocephalus), also known as the white-headed stilt, is a shorebird in the family Recurvirostridae."
+  },
+  {
+   "id": "himantopus-leucocephalus-720792",
+   "text": "The pied stilt grows to about 36 cm long with a wingspan of about 67 cm.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Description",
+   "quote": "The pied stilt grows to a length of about 14 in (36 cm) with a wingspan of about 26.5 in (67 cm)."
+  },
+  {
+   "id": "himantopus-leucocephalus-7ff9b6",
+   "text": "Its head, back and upper wings are glossy greenish-black, while the rest of its plumage is white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Description",
+   "quote": "The back of the head and neck, the back and the upper surfaces of the wings are glossy greenish-black. The undersides of the wings are plain black and the remainder of the plumage is white"
+  },
+  {
+   "id": "himantopus-leucocephalus-e78ebf",
+   "text": "The pied stilt has long thin pink legs, and its irises and eyelids are red.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Description",
+   "quote": "The long, thin legs are pink and the toes have black claws. The long slender beak is black and the irises and the eyelids are red."
+  },
+  {
+   "id": "himantopus-leucocephalus-2d3848",
+   "text": "As it flies, the pied stilt gives a repeated yelping cry and its legs trail behind, swaying from side-to-side.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Behaviour_and_ecology",
+   "quote": "It emits a repeated yelping cry as it flies, and the legs trail behind it, tending to sway from side-to-side."
+  },
+  {
+   "id": "himantopus-leucocephalus-a69cf5",
+   "text": "In spring it nests in a shallow scrape, usually laying four yellowish-brown eggs dappled with dark blotches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Behaviour_and_ecology",
+   "quote": "It prepares a nest in a shallow depression or in a scrape in the ground where it usually lays four, ovoido-conical eggs. These are yellowish-brown dappled irregularly with dark blotches and spots."
+  },
+  {
+   "id": "himantopus-leucocephalus-b37f6d",
+   "text": "Parent birds reveal their hidden nest by flying in circles and uttering distress cries.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Behaviour_and_ecology",
+   "quote": "The nest is difficult to find as the eggs are well-camouflaged. But the parent birds give away the presence of the nest by mounting into the air and flying in circles, uttering distress cries."
+  },
+  {
+   "id": "himantopus-leucocephalus-e23202",
+   "text": "A parent pied stilt sometimes feigns a leg injury to lure intruders away from its chicks, which freeze when alarmed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_stilt#Behaviour_and_ecology",
+   "quote": "The chicks are able to leave the nest almost as soon as they have hatched. They are difficult to detect because their downy plumage is well-camouflaged and they \"freeze\" when alarmed. A parent bird sometimes feigns a leg injury to draw intruders away from its chicks."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1355308891
+ }
+}

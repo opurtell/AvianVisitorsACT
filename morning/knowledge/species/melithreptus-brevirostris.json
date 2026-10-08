@@ -1,0 +1,131 @@
+{
+ "sci": "Melithreptus brevirostris",
+ "com": "Brown-headed Honeyeater",
+ "slug": "melithreptus-brevirostris",
+ "wikipedia": {
+  "title": "Brown-headed honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater",
+  "revid": 1360773157
+ },
+ "ala": {
+  "name": "Melithreptus (Eidopsarus) brevirostris",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   804,
+   440,
+   434,
+   465,
+   440,
+   385,
+   448,
+   529,
+   736,
+   990,
+   460,
+   479
+  ],
+  "total": 6638,
+  "share": 0.0016176
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "low": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "rel": [
+   1.03,
+   0.83,
+   0.86,
+   0.85,
+   0.98,
+   0.97,
+   1.08,
+   1.11,
+   1.32,
+   1.25,
+   0.84,
+   0.88
+  ]
+ },
+ "facts": [
+  {
+   "id": "melithreptus-brevirostris-fda007",
+   "text": "It is olive-brown above and buff below, with a brown head, nape and throat.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Description",
+   "quote": "it is olive-brown above and buff below, with a brown head, nape and throat"
+  },
+  {
+   "id": "melithreptus-brevirostris-38dd4c",
+   "text": "A patch of bare skin over its eye is cream or orange, and its legs and feet are orange.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Description",
+   "quote": "a cream or orange patch of bare skin over the eye, and a dull white crescent-shaped patch on the nape. The legs and feet are orange."
+  },
+  {
+   "id": "melithreptus-brevirostris-c8f258",
+   "text": "It makes a scratchy chwik-chwik-chwik call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Description",
+   "quote": "It makes a scratchy chwik-chwik-chwik call."
+  },
+  {
+   "id": "melithreptus-brevirostris-8d4cb3",
+   "text": "Insects form the bulk of the brown-headed honeyeater's diet.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Diet",
+   "quote": "Insects form the bulk of the diet"
+  },
+  {
+   "id": "melithreptus-brevirostris-906c74",
+   "text": "It forages by probing in the bark of trunks and branches of trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Diet",
+   "quote": "the brown-headed honeyeater forages by probing in the bark of trunks and branches of trees."
+  },
+  {
+   "id": "melithreptus-brevirostris-49f413",
+   "text": "Brown-headed honeyeaters may nest from July to December, breeding once or twice during this time.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Breeding",
+   "quote": "Brown-headed honeyeaters may nest from July to December, breeding once or twice during this time."
+  },
+  {
+   "id": "melithreptus-brevirostris-4d64de",
+   "text": "The nest is a thick-walled bowl of grasses and bits of bark, hidden in the outer foliage of a tall tree, usually a eucalypt.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Breeding",
+   "quote": "The nest is a thick-walled bowl of grasses and bits of bark, lined with softer plant material, hidden in the outer foliage of a tall tree, usually a eucalypt."
+  },
+  {
+   "id": "melithreptus-brevirostris-6ac264",
+   "text": "Two or three shiny, buff-pink eggs sparsely spotted with red-brown are laid.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater#Breeding",
+   "quote": "Two or three eggs are laid, 16 x 13 mm in size, and shiny, buff-pink, sparsely spotted with red-brown"
+  },
+  {
+   "id": "melithreptus-brevirostris-6305b8",
+   "text": "It is endemic to Australia and lives in temperate forests and Mediterranean-type shrubby vegetation.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Brown-headed_honeyeater",
+   "quote": "It is endemic to Australia. Its natural habitats are temperate forests and Mediterranean-type shrubby vegetation."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1360773157
+ }
+}

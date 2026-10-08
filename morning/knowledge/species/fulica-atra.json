@@ -1,0 +1,131 @@
+{
+ "sci": "Fulica atra",
+ "com": "Eurasian Coot",
+ "slug": "fulica-atra",
+ "wikipedia": {
+  "title": "Eurasian coot",
+  "url": "https://en.wikipedia.org/wiki/Eurasian_coot",
+  "revid": 1357275609
+ },
+ "ala": {
+  "name": "Fulica atra",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6116,
+   4225,
+   3856,
+   3903,
+   3660,
+   3401,
+   3559,
+   3937,
+   4227,
+   4795,
+   3772,
+   3680
+  ],
+  "total": 49467,
+  "share": 0.0120541
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   1.02,
+   1.05,
+   1.0,
+   0.94,
+   1.07,
+   1.13,
+   1.13,
+   1.09,
+   1.0,
+   0.79,
+   0.9,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "fulica-atra-225138",
+   "text": "The Eurasian coot is a slaty-black waterbird with a glossy black head, a white bill and a white frontal shield.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot",
+   "quote": "It has a slaty-black body, a glossy black head and a white bill with a white frontal shield."
+  },
+  {
+   "id": "fulica-atra-e8218a",
+   "text": "The phrase \"as bald as a coot\" refers to its white frontal shield and has been in use since as early as 1430.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Description",
+   "quote": "It is largely black except for the white bill and frontal shield (which gives rise to the phrase \"as bald as a coot\", in use as early as 1430)."
+  },
+  {
+   "id": "fulica-atra-1c8ed7",
+   "text": "It is a noisy bird with a wide repertoire of crackling, explosive, or trumpeting calls, often given at night.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Description",
+   "quote": "The Eurasian coot is a noisy bird with a wide repertoire of crackling, explosive, or trumpeting calls, often given at night."
+  },
+  {
+   "id": "fulica-atra-398816",
+   "text": "Reluctant to fly, it takes off by running across the water surface with much splashing.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Behaviour_and_ecology",
+   "quote": "It is reluctant to fly and when taking off runs across the water surface with much splashing."
+  },
+  {
+   "id": "fulica-atra-9588ae",
+   "text": "It fights other waterbirds by charging its opponent and striking them with its long legs.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Behaviour_and_ecology",
+   "quote": "When fighting other waterbirds (especially other coots), the coot attacks by charging its opponent and striking them with its long legs."
+  },
+  {
+   "id": "fulica-atra-9c5e84",
+   "text": "The omnivorous coot eats small live prey, including the eggs of other waterbirds, as well as algae, vegetation, seeds and fruit.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Feeding",
+   "quote": "The coot is an omnivore, and will take a variety of small live prey including the eggs of other water birds, as well as algae, vegetation, seeds and fruit."
+  },
+  {
+   "id": "fulica-atra-80a26f",
+   "text": "The nest floats on the water or sits on a low stump, and the male collects most of the material while the female incorporates it.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Breeding",
+   "quote": "It is built by both sexes with the male collecting most of the material which is incorporated by the female."
+  },
+  {
+   "id": "fulica-atra-480590",
+   "text": "Under food pressure, coots can be brutal to their own young, biting begging chicks until they stop, sometimes killing them.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Breeding",
+   "quote": "Coots can be very brutal to their own young under pressure such as the lack of food. They will bite young that are begging for food and repeatedly do this until it stops begging."
+  },
+  {
+   "id": "fulica-atra-77fa82",
+   "text": "It breeds on freshwater lakes and ponds and has adapted well to urban environments, often living in parks and gardens with water.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_coot#Distribution_and_habitat",
+   "quote": "The coot breeds across much of the Old World on freshwater lakes and ponds, and like its relative the common moorhen, has adapted well to living in urban environments, often being found in parks and gardens with access to water."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1357275609
+ }
+}

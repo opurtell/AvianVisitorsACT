@@ -1,0 +1,124 @@
+{
+ "sci": "Taeniopygia guttata",
+ "com": "Zebra Finch",
+ "slug": "taeniopygia-guttata",
+ "wikipedia": {
+  "title": "Sunda zebra finch",
+  "url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch",
+  "revid": 1353230988
+ },
+ "ala": {
+  "name": "Taeniopygia guttata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   14,
+   12,
+   14,
+   44,
+   3,
+   4,
+   4,
+   1,
+   3,
+   0,
+   3,
+   4
+  ],
+  "total": 106,
+  "share": 2.58e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.1,
+   1.39,
+   1.7,
+   4.94,
+   0.41,
+   0.62,
+   0.59,
+   0.13,
+   0.33,
+   0.0,
+   0.34,
+   0.45
+  ]
+ },
+ "facts": [
+  {
+   "id": "taeniopygia-guttata-f39ed7",
+   "text": "The Sunda zebra finch lives in the Lesser Sundas.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch",
+   "quote": "It is found in the Lesser Sundas."
+  },
+  {
+   "id": "taeniopygia-guttata-88d3ab",
+   "text": "Purebred adult males have a grey throat, while their Australian relatives show black-and-white barring there.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Species_identification",
+   "quote": "Purebred adult males, however, can immediately distinguished by the grey throat of T.guttata, while that region is barred black-and-white in T.castanotis."
+  },
+  {
+   "id": "taeniopygia-guttata-d18592",
+   "text": "In the Sunda zebra finch, the namesake zebra markings are only a barely visible patch on the sides of the lower neck.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Species_identification",
+   "quote": "These namesake \"zebra\" markings are limited to a barely visible patch on the sides of the lower neck in T.guttata."
+  },
+  {
+   "id": "taeniopygia-guttata-ee80bd",
+   "text": "During courtship, Sunda males adopt a more upright pose and fluff their forehead feathers, unlike the Australian species.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Species_identification",
+   "quote": "the Sunda species' males adopt a more upright pose than the Australian ones, and while the latter fluff up the feathers at the back of the head, the Sunda males fluff the forehead feathers instead."
+  },
+  {
+   "id": "taeniopygia-guttata-6c99a1",
+   "text": "The two zebra finch species only mate with each other in captivity if no partners of their own kind are available.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Species_identification",
+   "quote": "individuals of the two zebrafinch species will only mate with each other if no conspecific partners are available."
+  },
+  {
+   "id": "taeniopygia-guttata-aafca9",
+   "text": "Each zebra finch has its own individual song.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Vocalization",
+   "quote": "Each finch has an individual song."
+  },
+  {
+   "id": "taeniopygia-guttata-f37d2f",
+   "text": "Young zebra finches learn to sing between 25 and 90 days old by copying adult songs, and sometimes other juveniles.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Vocalization",
+   "quote": "Between the ages of 25 and 90 days old, young zebra finches learn to sing by copying the songs of adults, and sometimes by copying the songs of other juveniles."
+  },
+  {
+   "id": "taeniopygia-guttata-de5d67",
+   "text": "The Sunda zebra finch seems totally resistant to the avian malaria parasite Plasmodium relictum.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Sunda_zebra_finch#Parasites",
+   "quote": "T. guttata seems totally resistant to the malaria parasite that is most common among avians, Plasmodium relictum."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1353230988
+ }
+}

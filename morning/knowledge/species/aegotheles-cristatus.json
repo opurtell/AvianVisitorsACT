@@ -1,0 +1,138 @@
+{
+ "sci": "Aegotheles cristatus",
+ "com": "Australian Owlet-nightjar",
+ "slug": "aegotheles-cristatus",
+ "wikipedia": {
+  "title": "Australian owlet-nightjar",
+  "url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar",
+  "revid": 1378637783
+ },
+ "ala": {
+  "name": "Aegotheles (Aegotheles) cristatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   232,
+   195,
+   202,
+   149,
+   100,
+   70,
+   68,
+   161,
+   167,
+   146,
+   100,
+   113
+  ],
+  "total": 1716,
+  "share": 0.0004182
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jun",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.14,
+   1.42,
+   1.54,
+   1.05,
+   0.86,
+   0.68,
+   0.63,
+   1.3,
+   1.16,
+   0.71,
+   0.7,
+   0.8
+  ]
+ },
+ "facts": [
+  {
+   "id": "aegotheles-cristatus-13b52d",
+   "text": "It is colloquially known as the moth owl or fairy owl, and the Warlpiri people call it Jarlajirrpi.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar",
+   "quote": "It is colloquially known as the moth owl or fairy owl and Jarlajirrpi by the Warlpiri people."
+  },
+  {
+   "id": "aegotheles-cristatus-96584f",
+   "text": "The Australian owlet-nightjar has large dark eyes that do not reflect light, unlike many other nocturnal birds.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Description",
+   "quote": "It has large dark eyes that are non-reflective when a light is shone upon them; unlike many other nocturnal birds."
+  },
+  {
+   "id": "aegotheles-cristatus-4bd085",
+   "text": "When disturbed, some owlet-nightjars puff up, sway side to side, open their mouths wide to show a pink gape and hiss.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Threat_display",
+   "quote": "There are a few anecdotal reports of Australian owlet-nightjars flattening themselves or puffing up to seem larger, swaying side to side, opening their mouths wide to show their pink gape and hissing."
+  },
+  {
+   "id": "aegotheles-cristatus-222458",
+   "text": "Pairs are thought to mate for life, breeding between August and December, with the female incubating three or four eggs for just under a month.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Reproduction",
+   "quote": "Australian owlet-nightjar pairs are thought to mate for life, and pairs breed between August and December. Three or four eggs are laid and incubated by the female for just under a month."
+  },
+  {
+   "id": "aegotheles-cristatus-e8c660",
+   "text": "Nest holes are lined with eucalyptus leaves by both parents, thought to act as a beneficial insecticide.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Reproduction",
+   "quote": "which are provisioned with leaves by both of the pair. It is thought that the frequent addition of eucalyptus leaves is because they act as a beneficial insecticide."
+  },
+  {
+   "id": "aegotheles-cristatus-794ca1",
+   "text": "In winter it often enters torpor daily, usually around dawn for 3-4 hours, to conserve energy.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Torpor",
+   "quote": "They usually enter torpor once a day around dawn for 3–4 hours, if they enter torpor twice in a day it is always a morning bout followed by a bout in the afternoon or night."
+  },
+  {
+   "id": "aegotheles-cristatus-225eb4",
+   "text": "It is 21–25 cm long, with grey upperparts, a white barred front and dark and pale patterning on the head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Description",
+   "quote": "It is 21–25 cm long, making it a small to medium-sized owlet-nightjar with grey upperparts and a white, barred front and a distinct dark and pale patterning on the head."
+  },
+  {
+   "id": "aegotheles-cristatus-2d5148",
+   "text": "It is frequently heard but not often seen, with calls described as churr, cry, yuk, cho-ok, hiss and screech.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Vocalizations",
+   "quote": "Adult Australian owlet-nightjars appear to have a few main calls described as: \"churr, cry, yuk, cho-ok, hiss, screech and other short harsh rattling notes\"."
+  },
+  {
+   "id": "aegotheles-cristatus-1a2d9a",
+   "text": "On average it moves between roost sites over about 300 m every nine days, and may use two to six different cavities over six months.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Roosting",
+   "quote": "On average they move between roost sites over a distance of about 300 m every nine days and in one study used between two and six different cavities over a six month period."
+  },
+  {
+   "id": "aegotheles-cristatus-aac85f",
+   "text": "It prefers hunting on moonlit nights, but on full moon nights hunts only enough to meet its energy requirements.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_owlet-nightjar#Hunting_and_diet",
+   "quote": "this is likely why their hunting behaviour is reduced on nights with full moons, when they only hunt enough to meet their energy requirements."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378637783
+ }
+}

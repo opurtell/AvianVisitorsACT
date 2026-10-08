@@ -1,0 +1,138 @@
+{
+ "sci": "Monarcha melanopsis",
+ "com": "Black-faced Monarch",
+ "slug": "monarcha-melanopsis",
+ "wikipedia": {
+  "title": "Black-faced monarch",
+  "url": "https://en.wikipedia.org/wiki/Black-faced_monarch",
+  "revid": 1313840629
+ },
+ "ala": {
+  "name": "Monarcha (Monarcha) melanopsis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   16,
+   18,
+   1,
+   61,
+   0,
+   0,
+   0,
+   1,
+   9,
+   23,
+   18,
+   33
+  ],
+  "total": 180,
+  "share": 4.39e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Mar",
+   "Nov"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   0.79,
+   1.32,
+   0.08,
+   4.33,
+   0.0,
+   0.0,
+   0.0,
+   0.08,
+   0.63,
+   1.13,
+   1.28,
+   2.37
+  ]
+ },
+ "facts": [
+  {
+   "id": "monarcha-melanopsis-8d50d0",
+   "text": "The black-faced monarch is a songbird that lives along the eastern seaboard of Australia and in New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch",
+   "quote": "The black-faced monarch (Monarcha melanopsis) is a passerine songbird in the family Monarchidae found along the eastern seaboard of Australia, and also New Guinea"
+  },
+  {
+   "id": "monarcha-melanopsis-abaa9c",
+   "text": "Most black-faced monarchs migrate to New Guinea during the austral winter, from May to August.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch",
+   "quote": "(where most birds migrate to during the austral winter; May to August)"
+  },
+  {
+   "id": "monarcha-melanopsis-3f4f77",
+   "text": "The black-faced monarch is grey with rufous underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Description",
+   "quote": "The black-faced monarch is grey, with rufous underparts"
+  },
+  {
+   "id": "monarcha-melanopsis-5ef9ff",
+   "text": "Mature black-faced monarchs have a black patch on the face.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Description",
+   "quote": "mature birds have a black patch on the face"
+  },
+  {
+   "id": "monarcha-melanopsis-04464c",
+   "text": "The black-faced monarch prefers rainforest and wet forest.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Distribution_and_habitat",
+   "quote": "The preferred habitat is rainforest and wet forest."
+  },
+  {
+   "id": "monarcha-melanopsis-cf29fe",
+   "text": "The black-faced monarch's scientific name comes from Ancient Greek words meaning black face.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Taxonomy_and_systematics",
+   "quote": "The specific name is from the Ancient Greek words melas \"black\" and ops \"face\"."
+  },
+  {
+   "id": "monarcha-melanopsis-5fed67",
+   "text": "Alternate names for the black-faced monarch include the black-faced flycatcher and the pearly-winged monarch.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Taxonomy_and_systematics",
+   "quote": "Alternate names include the  \"black-faced flycatcher\", \"carinated flycatcher\", \"grey-winged monarch\""
+  },
+  {
+   "id": "monarcha-melanopsis-f83361",
+   "text": "The black-faced monarch is most closely related to the black-winged monarch.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Taxonomy_and_systematics",
+   "quote": "Within the genus, it is most closely related to the black-winged monarch (Monarcha frater)."
+  },
+  {
+   "id": "monarcha-melanopsis-6e7e9b",
+   "text": "The species has no recognised subspecies, making it monotypic.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Taxonomy_and_systematics",
+   "quote": "The species is monotypic: no subspecies are recognised."
+  },
+  {
+   "id": "monarcha-melanopsis-5eb07a",
+   "text": "\"Black-faced monarch\" is the official common name designated by the International Ornithologists' Union.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_monarch#Taxonomy_and_systematics",
+   "quote": "\"Black-faced monarch\"  has been designated as the official common name for the species by the International Ornithologists' Union (IOC)."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1313840629
+ }
+}

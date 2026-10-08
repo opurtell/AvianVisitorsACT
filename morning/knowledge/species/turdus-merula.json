@@ -1,0 +1,138 @@
+{
+ "sci": "Turdus merula",
+ "com": "Eurasian Blackbird",
+ "slug": "turdus-merula",
+ "wikipedia": {
+  "title": "Common blackbird",
+  "url": "https://en.wikipedia.org/wiki/Common_blackbird",
+  "revid": 1370087119
+ },
+ "ala": {
+  "name": "Turdus merula",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   5787,
+   2358,
+   2104,
+   2950,
+   2512,
+   2373,
+   2773,
+   3265,
+   3947,
+   6012,
+   5113,
+   5687
+  ],
+  "total": 49021,
+  "share": 0.0119455
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "rel": [
+   1.09,
+   0.66,
+   0.61,
+   0.8,
+   0.83,
+   0.89,
+   0.99,
+   1.02,
+   1.05,
+   1.12,
+   1.38,
+   1.56
+  ]
+ },
+ "facts": [
+  {
+   "id": "turdus-merula-26def3",
+   "text": "The male common blackbird is glossy black with a yellow eye-ring and an orange-yellow bill, while the female is sooty-brown.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Description",
+   "quote": "The adult male has glossy black plumage, blackish-brown legs, a yellow eye-ring and an orange-yellow bill. Its bill darkens somewhat in winter. The adult female is sooty-brown with a dull yellowish-brownish bill"
+  },
+  {
+   "id": "turdus-merula-a0a70e",
+   "text": "The male sings a varied, melodious, low-pitched fluted warble from trees, rooftops and other elevated perches mainly from March to June.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Songs_and_calls",
+   "quote": "The male's song is a varied, melodious, low-pitched fluted warble sung from trees, rooftops and other elevated perches mainly in the period from March to June"
+  },
+  {
+   "id": "turdus-merula-2d242b",
+   "text": "Blackbirds can mimic sounds around them, including other birds' songs, whistling and even car alarms.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Songs_and_calls",
+   "quote": "The nominate subspecies T. m. merula is known to mimic sounds in the local environment, including the songs of other birds, as well as human-made sounds, such as whistling and car alarms."
+  },
+  {
+   "id": "turdus-merula-f9c27f",
+   "text": "The male defends his territory with a \"bow and run\" display: a short run, then raising and bowing his head with his tail dipped.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Behaviour_and_ecology",
+   "quote": "This consists of a short run followed by the bird raising its head then bowing it downward with its tail dipped simultaneously."
+  },
+  {
+   "id": "turdus-merula-6d8e45",
+   "text": "The blackbird is omnivorous, pulling earthworms from the soil by sight or hearing and hunting small amphibians, lizards and occasionally small mammals.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Feeding",
+   "quote": "It pulls earthworms from the soil, usually finding them by sight but sometimes also by hearing, and searches through leaf litter for other invertebrates. Small amphibians, lizards and, on rare occasions, small mammals are also occasionally hunted."
+  },
+  {
+   "id": "turdus-merula-f6c705",
+   "text": "Gardens are the blackbird's best breeding habitat, supporting up to 7.3 pairs per hectare, far more than woodland.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Distribution_and_habitat",
+   "quote": "However, gardens provide the best breeding habitat, supporting up to 7.3 pairs per hectare (nearly three pairs per acre), with woodland typically holding about a tenth of that density"
+  },
+  {
+   "id": "turdus-merula-6e401f",
+   "text": "The female lays three to five, usually four, bluish-green eggs marked with reddish-brown blotches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Breeding",
+   "quote": "She lays three to five (usually four) bluish-green eggs marked with reddish-brown blotches"
+  },
+  {
+   "id": "turdus-merula-f179f1",
+   "text": "The female incubates her eggs for 12–14 days before the chicks hatch, naked and blind.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Breeding",
+   "quote": "The female incubates the eggs for 12–14 days before the altricial chicks  hatch, naked and blind."
+  },
+  {
+   "id": "turdus-merula-65e6ef",
+   "text": "A common blackbird lives on average 2.4 years, though the oldest recorded bird reached 21 years and 10 months.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Breeding",
+   "quote": "A common blackbird has an average life expectancy of 2.4 years, and, based on data from bird ringing, the oldest recorded age is 21 years and 10 months."
+  },
+  {
+   "id": "turdus-merula-30176a",
+   "text": "Blackbirds sing quietly to themselves through the northern winter; only September and October are song-free months.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_blackbird#Songs_and_calls",
+   "quote": "During the northern winter, blackbirds can be heard quietly singing to themselves, so much so that September and October are the only months in which the song cannot be heard."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1370087119
+ }
+}

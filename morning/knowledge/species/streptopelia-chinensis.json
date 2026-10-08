@@ -1,0 +1,138 @@
+{
+ "sci": "Streptopelia chinensis",
+ "com": "Spotted Dove",
+ "slug": "streptopelia-chinensis",
+ "wikipedia": {
+  "title": "Spotted dove",
+  "url": "https://en.wikipedia.org/wiki/Spotted_dove",
+  "revid": 1371920444
+ },
+ "ala": {
+  "name": "Spilopelia chinensis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1981,
+   1314,
+   937,
+   744,
+   549,
+   578,
+   642,
+   798,
+   1058,
+   1398,
+   1155,
+   1374
+  ],
+  "total": 13219,
+  "share": 0.0032212
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.35,
+   1.33,
+   0.99,
+   0.73,
+   0.65,
+   0.78,
+   0.83,
+   0.9,
+   1.02,
+   0.94,
+   1.13,
+   1.36
+  ]
+ },
+ "facts": [
+  {
+   "id": "streptopelia-chinensis-d0b4e3",
+   "text": "The spotted dove wears a black half collar on the back and sides of its neck, made of black feathers tipped with white spots.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Description",
+   "quote": "There is a half collar on the back and sides of the neck made of black feathers that bifurcate and have white spots at the two tips."
+  },
+  {
+   "id": "streptopelia-chinensis-ea6940",
+   "text": "Spotted doves forage on the ground for grass seeds, grains and fallen fruits, and sometimes snack on winged termites.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "Spotted doves move around in pairs or small groups as they forage on the ground for grass seeds, grains, fallen fruits and seeds of other plants. They may however take insects occasionally and have been recorded feeding on winged termites."
+  },
+  {
+   "id": "streptopelia-chinensis-112a40",
+   "text": "Its soft cooing call sounds like Krookruk-krukroo... kroo kroo kroo.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "The vocalizations of the spotted dove include cooing softly with a Krookruk-krukroo... kroo kroo kroo with the number of terminal kroos varying in the Indian population"
+  },
+  {
+   "id": "streptopelia-chinensis-b91d7b",
+   "text": "Both parents share the work of building the nest, incubating the eggs and feeding the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "Both parents take part in building the nest, incubating and feeding the young."
+  },
+  {
+   "id": "streptopelia-chinensis-ed0804",
+   "text": "The eggs hatch after about 13 days, and the chicks leave the nest after a fortnight, with more than one brood possible.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "The eggs hatch after about 13 days and fledge after a fortnight. More than one brood may be raised."
+  },
+  {
+   "id": "streptopelia-chinensis-7d3bb4",
+   "text": "In southern Australia, spotted doves breed mostly from September to January.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "In southern Australia, they breed mostly from September to January, and in the north in autumn."
+  },
+  {
+   "id": "streptopelia-chinensis-3adfe0",
+   "text": "Startled spotted doves fly up from the ground with an explosive flutter and will sometimes glide down to a perch.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove",
+   "quote": "They fly from the ground with an explosive flutter and will sometimes glide down to a perch."
+  },
+  {
+   "id": "streptopelia-chinensis-0cebba",
+   "text": "The spotted dove's tail tips are white and its wing coverts have light buff spots.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove",
+   "quote": "The tail tips are white and the wing coverts have light buff spots."
+  },
+  {
+   "id": "streptopelia-chinensis-2b3e9c",
+   "text": "The spotted dove is also called the mountain dove, pearl-necked dove, lace-necked dove, and spotted turtle-dove.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove",
+   "quote": "It is also called the mountain dove, pearl-necked dove, lace-necked dove, and spotted turtle-dove."
+  },
+  {
+   "id": "streptopelia-chinensis-e845f7",
+   "text": "In courtship, males coo, bow and make aerial displays.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotted_dove#Behaviour_and_ecology",
+   "quote": "Males coo, bow and make aerial displays in courtship."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371920444
+ }
+}

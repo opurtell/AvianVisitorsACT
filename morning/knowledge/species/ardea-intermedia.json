@@ -1,0 +1,131 @@
+{
+ "sci": "Ardea intermedia",
+ "com": "Intermediate Egret",
+ "slug": "ardea-intermedia",
+ "wikipedia": {
+  "title": "Medium egret",
+  "url": "https://en.wikipedia.org/wiki/Medium_egret",
+  "revid": 1374419833
+ },
+ "ala": {
+  "name": "Ardea intermedia",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   213,
+   297,
+   273,
+   137,
+   80,
+   8,
+   1,
+   1,
+   10,
+   103,
+   109,
+   127
+  ],
+  "total": 1360,
+  "share": 0.0003314
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   1.36,
+   2.8,
+   2.69,
+   1.25,
+   0.89,
+   0.1,
+   0.01,
+   0.01,
+   0.09,
+   0.65,
+   0.99,
+   1.17
+  ]
+ },
+ "facts": [
+  {
+   "id": "ardea-intermedia-37e7cf",
+   "text": "The intermediate egret is a medium-sized heron, intermediate in size between the great egret and smaller white egrets like the little egret.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Description",
+   "quote": "The medium egret, as its scientific name implies, is intermediate in size between the great egret and smaller white egrets like the little egret and cattle egret, though nearer to little than great."
+  },
+  {
+   "id": "ardea-intermedia-2b4a07",
+   "text": "It is about 56-72 cm long with a 105-115 cm wingspan and weighs around 400 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Description",
+   "quote": "It is about 56–72 cm (22–28 in) long with a 105–115 cm (41–45 in) wingspan and weighs c. 400 g (14 oz), with all-white plumage, generally dark legs and a thickish yellow bill."
+  },
+  {
+   "id": "ardea-intermedia-2f5bfb",
+   "text": "Breeding birds may show a reddish or black bill, greenish yellow gape skin and loose filamentous plumes on the breast and back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Description",
+   "quote": "Breeding birds may have a reddish or black bill, greenish yellow gape skin, loose filamentous plumes on their breast and back, and dull yellow or pink on their upper legs (regional variations)."
+  },
+  {
+   "id": "ardea-intermedia-18471c",
+   "text": "It can be told apart from the great egret by its slightly domed head, shorter thicker bill and upright stalking posture.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Differences_from_other_egrets",
+   "quote": "the intermediate is smaller, with neck length a little less than body length, a slightly domed head, and a shorter, thicker bill."
+  },
+  {
+   "id": "ardea-intermedia-fc5995",
+   "text": "The intermediate egret stalks its prey methodically in shallow coastal or fresh water, including flooded fields.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Behaviour",
+   "quote": "The medium egret stalks its prey methodically in shallow coastal or fresh water, including flooded fields."
+  },
+  {
+   "id": "ardea-intermedia-4fd084",
+   "text": "Its diet includes fish, frogs, crustaceans and insects.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Behaviour",
+   "quote": "It eats fish, frogs, crustaceans and insects."
+  },
+  {
+   "id": "ardea-intermedia-60a051",
+   "text": "It often nests in colonies with other herons, building platforms of sticks in trees or shrubs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Behaviour",
+   "quote": "It often nests in colonies with other herons, usually on platforms of sticks in trees or shrubs."
+  },
+  {
+   "id": "ardea-intermedia-a8ce9c",
+   "text": "Adults defend nests from aerial predators by crouching over the nest, raising their plumes and pointing their bill at the threat.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Behaviour",
+   "quote": "defending the nests from aerial predators during both incubation and brooding, they crouch over the nest and raise their plumes and point their bill towards the threat."
+  },
+  {
+   "id": "ardea-intermedia-ed947b",
+   "text": "Populations of the intermediate egret are more successful in wet years than in dry years.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Medium_egret#Behaviour",
+   "quote": "Intermediate egret populations are more successful in wet years than in dry years."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1374419833
+ }
+}

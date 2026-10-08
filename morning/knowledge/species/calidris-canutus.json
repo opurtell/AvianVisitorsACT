@@ -1,0 +1,138 @@
+{
+ "sci": "Calidris canutus",
+ "com": "Red Knot",
+ "slug": "calidris-canutus",
+ "wikipedia": {
+  "title": "Red knot",
+  "url": "https://en.wikipedia.org/wiki/Red_knot",
+  "revid": 1376001551
+ },
+ "ala": {
+  "name": "Calidris (Calidris) canutus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  "total": 1,
+  "share": 2e-07
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   12.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "calidris-canutus-2c3f81",
+   "text": "The red knot breeds in the far north of Canada, Europe, and Russia, and forms enormous flocks when not breeding.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot",
+   "quote": "The red knot or just knot (Calidris canutus) is a medium-sized shorebird which breeds in tundra and the Arctic Cordillera in the far north of Canada, Europe, and Russia."
+  },
+  {
+   "id": "calidris-canutus-edd3c8",
+   "text": "In breeding plumage the red knot has a cinnamon face, throat and breast, mottled grey upperparts, and a light-coloured rear belly.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Description_and_anatomy",
+   "quote": "The breeding plumage is mottled grey on top with a cinnamon face, throat and breast and light-coloured rear belly."
+  },
+  {
+   "id": "calidris-canutus-331c74",
+   "text": "When feeding on mudflats the red knot is a tactile forager, probing into the mud for prey it cannot see.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Diet_and_feeding",
+   "quote": "While feeding in mudflats during the winter and migration red knots are tactile feeders, probing for unseen prey in the mud."
+  },
+  {
+   "id": "calidris-canutus-4ad575",
+   "text": "The red knot can sense molluscs buried under wet sand using pressure sensors called Herbst corpuscles in its bill.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Diet_and_feeding",
+   "quote": "They are able to detect molluscs buried under wet sand from changes in the pressure of water that they sense using Herbst corpuscles in their bill."
+  },
+  {
+   "id": "calidris-canutus-d1d9d1",
+   "text": "In Delaware Bay the red knot feeds heavily on horseshoe crab eggs, a rich and easily digestible food source.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Diet_and_feeding",
+   "quote": "In Delaware Bay, they feed in large numbers on the eggs of horseshoe crabs, a rich, easily digestible food source, which spawn just as the birds arrive in spring."
+  },
+  {
+   "id": "calidris-canutus-00f631",
+   "text": "Before migration the red knot's flight muscles and fat increase while its stomach and gizzard shrink.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Dependence_on_horseshoe_crab_eggs_as_food_source",
+   "quote": "flight muscle mass increases, while leg muscle mass decreases. Stomach and gizzard masses decrease, while fat mass increases by more than 50 percent"
+  },
+  {
+   "id": "calidris-canutus-5fd90e",
+   "text": "During stopovers of about 10–14 days a red knot may double its body weight to fuel the rest of its journey.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Dependence_on_horseshoe_crab_eggs_as_food_source",
+   "quote": "Body weight may be up to doubled during stopover stays lasting around 10–14 days from constant consumption of food to increase their body fat enough to continue the remainder of their trip."
+  },
+  {
+   "id": "calidris-canutus-94964e",
+   "text": "The male red knot defends a territory and builds three to five nest scrapes before the females arrive.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Breeding",
+   "quote": "Males construct three to five nest scrapes in their territories prior to the arrival of the females."
+  },
+  {
+   "id": "calidris-canutus-8238f9",
+   "text": "Both red knot parents incubate the eggs for around 22 days, but the female leaves the care of the young to the male.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Breeding",
+   "quote": "Both parents incubate the eggs, sharing the duties equally. The off duty parent forages in flocks with others of the same species. The incubation period lasting around 22 days."
+  },
+  {
+   "id": "calidris-canutus-3ff462",
+   "text": "A red knot ringed in Scotland in 1978 was still alive 27 years, 3 months, and 29 days later in the Netherlands.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Red_knot#Distribution_and_migration",
+   "quote": "a bird ringed at Brora in northern Scotland as a first-winter in October 1978 (when 3–4 months old) was resighted still alive at Den Helder in the Netherlands in February 2006, 27 years, 3 months, and 29 days after being ringed."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376001551
+ }
+}

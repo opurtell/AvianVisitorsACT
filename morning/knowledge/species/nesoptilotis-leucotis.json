@@ -1,0 +1,138 @@
+{
+ "sci": "Nesoptilotis leucotis",
+ "com": "White-eared Honeyeater",
+ "slug": "nesoptilotis-leucotis",
+ "wikipedia": {
+  "title": "White-eared honeyeater",
+  "url": "https://en.wikipedia.org/wiki/White-eared_honeyeater",
+  "revid": 1315265612
+ },
+ "ala": {
+  "name": "Nesoptilotis leucotis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1137,
+   792,
+   1082,
+   2334,
+   2261,
+   1950,
+   1598,
+   1367,
+   768,
+   1492,
+   586,
+   590
+  ],
+  "total": 16251,
+  "share": 0.00396
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.55,
+   0.57,
+   0.81,
+   1.63,
+   1.92,
+   1.88,
+   1.47,
+   1.1,
+   0.53,
+   0.72,
+   0.41,
+   0.42
+  ]
+ },
+ "facts": [
+  {
+   "id": "nesoptilotis-leucotis-75fb20",
+   "text": "The white-eared honeyeater is easy to spot thanks to its olive-green body, black head and striking white ear-patch.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater",
+   "quote": "White-eared honeyeaters are easily identifiable by their olive-green body, black head and white ear-patch."
+  },
+  {
+   "id": "nesoptilotis-leucotis-7681f9",
+   "text": "It is a medium-sized honeyeater, 19–22 centimetres in length, weighing about 20 g, and males and females look alike.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Description",
+   "quote": "The white-eared honeyeater is a medium-sized honeyeater 19–22 centimetres (7.5–8.7 in) in length. There is no sexual dimorphism, with males and females looking alike. They weigh approximately 20 g (0.71 oz)"
+  },
+  {
+   "id": "nesoptilotis-leucotis-2f0e24",
+   "text": "Its call is deep and mellow, with phrases like chwok, chwok, chwok-whit and kwitchu, kwitchu.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Voice",
+   "quote": "Their voice is deep and mellow but slightly metallic chwok, chwok, chwok-whit and kwitchu, kwitchu; very sharply scratchy, metallic chwik!."
+  },
+  {
+   "id": "nesoptilotis-leucotis-253608",
+   "text": "Usually solitary, the white-eared honeyeater can be sedentary, nomadic or locally migratory.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Behaviour",
+   "quote": "White-eared honeyeaters are usually solitary, but may also be found in small family groups. They can be sedentary, nomadic or locally migratory."
+  },
+  {
+   "id": "nesoptilotis-leucotis-d44477",
+   "text": "It plucks fur and hair from livestock, humans, kangaroos and wallabies to line its cobweb-bound cup nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Breeding",
+   "quote": "White-eared honeyeaters will pluck fur and hairs from livestock, humans, and native wildlife, such as kangaroos and wallabies."
+  },
+  {
+   "id": "nesoptilotis-leucotis-ec9458",
+   "text": "While foraging, it searches intensively for insect prey, averaging one insect every 5 seconds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Food_and_feeding",
+   "quote": "While foraging, the white-eared honeyeater searches intensively for its insect prey, averaging one insect every 5 seconds."
+  },
+  {
+   "id": "nesoptilotis-leucotis-12fcca",
+   "text": "It eats nectar in spring and summer (August - December) but switches to insects for the rest of the year.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Food_and_feeding",
+   "quote": "They feed on nectar during the spring and summer (August - December), but switch to insects for the rest of the year."
+  },
+  {
+   "id": "nesoptilotis-leucotis-0a6304",
+   "text": "Its preferred habitat is forests, woodlands, heathlands, mallee and dry inland scrublands with a eucalyptus canopy, rough bark and a shrub layer.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Distribution_and_habitat",
+   "quote": "The white-eared honeyeater's preferred habitat is in forests, woodlands, heathlands, mallee and dry inland scrublands. A eucalyptus canopy, rough bark and a shrub layer are the most important requirements for white-eared honeyeaters."
+  },
+  {
+   "id": "nesoptilotis-leucotis-fc3262",
+   "text": "Despite a decreasing population, its extensive distribution means it is considered of least concern on the IUCN Red List.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Conservation_status",
+   "quote": "Although the white-eared honeyeater has a decreasing population, it has an extensive distribution, and is considered to be of least concern on the IUCN Red List."
+  },
+  {
+   "id": "nesoptilotis-leucotis-2b69ab",
+   "text": "The species was first described by English ornithologist John Latham in 1801 as Turdus leucotis.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-eared_honeyeater#Taxonomy",
+   "quote": "The white-eared honeyeater was first described by English ornithologist John Latham in 1801 as Turdus leucotis."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315265612
+ }
+}

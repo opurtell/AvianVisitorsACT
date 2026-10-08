@@ -1,0 +1,138 @@
+{
+ "sci": "Calidris ferruginea",
+ "com": "Curlew Sandpiper",
+ "slug": "calidris-ferruginea",
+ "wikipedia": {
+  "title": "Curlew sandpiper",
+  "url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+  "revid": 1379041727
+ },
+ "ala": {
+  "name": "Calidris (Erolia) ferruginea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   9,
+   0,
+   20,
+   0
+  ],
+  "total": 29,
+  "share": 7.1e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   3.68,
+   0.0,
+   8.32,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "calidris-ferruginea-641006",
+   "text": "The curlew sandpiper breeds in the bogs and coastal lowlands of the Siberian Arctic, arriving in June and staying until August or September.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "It is a long-distance migrant, breeding in the bogs and coastal lowlands of the Siberian Arctic, arriving there in June and staying until August or September."
+  },
+  {
+   "id": "calidris-ferruginea-c35f54",
+   "text": "In breeding plumage, its entire front is tinted a deep rusty colour, most strikingly in males.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "The breeding plumage is much more striking, with the entire front tinted a deep rusty colour, more intensely so in males."
+  },
+  {
+   "id": "calidris-ferruginea-ce13e3",
+   "text": "In flight, the curlew sandpiper shows a distinctive white stripe across the wing.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper#Description",
+   "quote": "in flight show a distinctive white stripe going across the wing."
+  },
+  {
+   "id": "calidris-ferruginea-202b60",
+   "text": "During courtship, the male builds a faux nest on the ground to show the female, dances around her displaying his tail and rump, and chases her through the air while warbling.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "In one, the male constructs a faux nest on the ground to present to the female. Another is a graceful aerial chase accompanied by frequent warbling calls. In a third, the male dances around the female on the ground, displaying his tail feathers and rump"
+  },
+  {
+   "id": "calidris-ferruginea-77b33b",
+   "text": "Its chicks hatch after 20 days and are relatively mature and mobile at birth.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "which hatch after 20 days and fully fledge at 14–20 days. Chicks are relatively mature and mobile at birth."
+  },
+  {
+   "id": "calidris-ferruginea-4f5dc1",
+   "text": "Breeding success depends on lemmings: in years with many lemmings, predators hunt them instead of sandpiper chicks.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "The curlew sandpiper's breeding success is linked to the lemming population; in years with many lemmings, its predators hunt them instead."
+  },
+  {
+   "id": "calidris-ferruginea-329c36",
+   "text": "The male's whine call is a loud ascending whaay, whaay, whaay that can be heard hundreds of metres away and seems to defend his territory.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper#Vocalisations",
+   "quote": "The whine call is a loud and ascending whaay, whaay, whaay, audible hundreds of metres away, nearly identical to the stilt sandpiper's whine. It is only given by the male and seems to be used to defend its territory."
+  },
+  {
+   "id": "calidris-ferruginea-f354a5",
+   "text": "The curlew sandpiper eats insects and other small invertebrates like crabs, molluscs and worms, plus various seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper#Feeding_and_diet",
+   "quote": "Its diet consists of insects and other small invertebrates such as crabs, molluscs, and worms, supplemented with various seeds."
+  },
+  {
+   "id": "calidris-ferruginea-2278ce",
+   "text": "During migration it flies at an estimated 70–75 km/h.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper#Behaviour",
+   "quote": "Its flight speed during migration has been estimated to be around 70–75 km/h."
+  },
+  {
+   "id": "calidris-ferruginea-bf217a",
+   "text": "The curlew sandpiper is listed as vulnerable because habitat loss from land development and invasive smooth cordgrass, plus climate change, have hurt its populations.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+   "quote": "The curlew sandpiper is listed as a vulnerable species on the IUCN Red List because land development and the invasive smooth cordgrass have caused significant habitat loss to its overwintering and migratory sites, and climate change has lowered its breeding produ"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379041727
+ }
+}

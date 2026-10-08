@@ -1,0 +1,138 @@
+{
+ "sci": "Petroica boodang",
+ "com": "Scarlet Robin",
+ "slug": "petroica-boodang",
+ "wikipedia": {
+  "title": "Scarlet robin",
+  "url": "https://en.wikipedia.org/wiki/Scarlet_robin",
+  "revid": 1315363129
+ },
+ "ala": {
+  "name": "Petroica (Petroica) boodang",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   411,
+   377,
+   1045,
+   2172,
+   1897,
+   1795,
+   1752,
+   1369,
+   461,
+   707,
+   247,
+   195
+  ],
+  "total": 12494,
+  "share": 0.0030445
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.25,
+   0.33,
+   0.96,
+   1.86,
+   1.98,
+   2.12,
+   1.98,
+   1.35,
+   0.39,
+   0.42,
+   0.21,
+   0.17
+  ]
+ },
+ "facts": [
+  {
+   "id": "petroica-boodang-7e13ec",
+   "text": "The scarlet robin is a common red-breasted Australasian robin found across continental Australia and its offshore islands, including Tasmania.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin",
+   "quote": "The scarlet robin (Petroica boodang)  is a common red-breasted Australasian robin in the passerine bird genus Petroica.  The species is found on continental Australia and its offshore islands, including Tasmania."
+  },
+  {
+   "id": "petroica-boodang-320121",
+   "text": "The male scarlet robin has a black head, back and tail, black and white wings, a scarlet red breast and a white belly, forehead and rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Description",
+   "quote": "The males have black heads, backs and tails, black and white wings, a scarlet red breast, and white belly, forehead and rump."
+  },
+  {
+   "id": "petroica-boodang-bbfaa2",
+   "text": "The female looks like a washed-out version of the male, with brown plumage instead of black, a duller red breast and a buff belly.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Description",
+   "quote": "The female matches the male in pattern, but is duller, with brown plumage instead of black, a much more washed-out red on the breast, and a buff belly."
+  },
+  {
+   "id": "petroica-boodang-1c9d8f",
+   "text": "The scarlet robin eats arthropods such as insects and spiders, foraging on the ground in winter but snatching prey from bark and foliage in summer and spring.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Behaviour",
+   "quote": "The scarlet robin feeds on arthropods, such as insects and spiders. It adjusts its foraging behaviour seasonally, feeding mostly on the ground during the winter, but during the summer and spring prey is more commonly snatched from bark and foliage."
+  },
+  {
+   "id": "petroica-boodang-645ca1",
+   "text": "The scarlet robin is territorial and monogamous, defending its nesting territory from rivals and even from pairs of the related flame robin.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Breeding_biology",
+   "quote": "The scarlet robin is a territorial and monogamous species, and defends its nesting territories both from others of the same species and from pairs of the related flame robin."
+  },
+  {
+   "id": "petroica-boodang-3cee77",
+   "text": "Both parents choose the nest site, but only the female builds the nest, a task that takes four to ten days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Breeding_biology",
+   "quote": "Both the male and the female participate in selecting the nesting site, but only the female constructs the nest,  a task which takes four to ten days."
+  },
+  {
+   "id": "petroica-boodang-6fab33",
+   "text": "Clutches hold one to four eggs, averaging three, and the eggs are grey, green or pale blue with brown to olive-brown splotches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Breeding_biology",
+   "quote": "The clutch size is between one and four eggs, with three being the average. The eggs are grey, green or pale blue, and marked with brown to olive-brown splotches and spots, usually concentrated around the large end."
+  },
+  {
+   "id": "petroica-boodang-6b1330",
+   "text": "Only the female incubates the eggs, and the male feeds her while she sits on the nest; the chicks hatch after 14 to 18 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Breeding_biology",
+   "quote": "Only the females incubate the eggs, and the males feed the females on the nest. The chicks hatch after 14 to 18 days."
+  },
+  {
+   "id": "petroica-boodang-96bcdf",
+   "text": "Nesting success is often low, and the robins lose nests to raiding snakes and to cuckoos that lay their eggs in scarlet robin nests.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Breeding_biology",
+   "quote": "Nesting success is generally low, between 8 and 40%. Scarlet robin nests are raided by snakes, and they are victims of brood parasitism by various species of cuckoo."
+  },
+  {
+   "id": "petroica-boodang-c297f7",
+   "text": "The scarlet robin favours eucalyptus woodland and forest up to 1000 m, especially open habitats with grassy and shrubby understoreys, and visits urban areas in winter.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Scarlet_robin#Distribution%2C_movements_and_habitat",
+   "quote": "The scarlet robin is most commonly found in eucalyptus woodland and forest, from sea level to 1000 m, particularly the more open habitats with grassy and shrubby understories. During the winter, more open environments, including urban habitats, are frequented."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315363129
+ }
+}

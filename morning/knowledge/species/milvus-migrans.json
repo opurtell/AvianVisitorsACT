@@ -1,0 +1,138 @@
+{
+ "sci": "Milvus migrans",
+ "com": "Black Kite",
+ "slug": "milvus-migrans",
+ "wikipedia": {
+  "title": "Black kite",
+  "url": "https://en.wikipedia.org/wiki/Black_kite",
+  "revid": 1365921877
+ },
+ "ala": {
+  "name": "Milvus migrans",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   21,
+   30,
+   65,
+   11,
+   21,
+   0,
+   5,
+   8,
+   17,
+   8,
+   7,
+   11
+  ],
+  "total": 206,
+  "share": 5.02e-05
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Jul",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   0.84,
+   1.78,
+   4.04,
+   0.63,
+   1.47,
+   0.0,
+   0.38,
+   0.53,
+   0.96,
+   0.32,
+   0.4,
+   0.64
+  ]
+ },
+ "facts": [
+  {
+   "id": "milvus-migrans-d6fe8b",
+   "text": "The black kite is thought to be the world's most abundant species of Accipitridae, with global population estimates running up to 6.7 million individuals.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite",
+   "quote": "It is thought to be the world's most abundant species of Accipitridae, although some populations have experienced dramatic declines or fluctuations. Current global population estimates run up to 6.7 million individuals."
+  },
+  {
+   "id": "milvus-migrans-fb99a3",
+   "text": "The black kite's angled wing and distinctive forked tail make it easy to identify in flight.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite",
+   "quote": "Their angled wing and distinctive forked tail make them easy to identify."
+  },
+  {
+   "id": "milvus-migrans-45217b",
+   "text": "The black kite has a distinctive shrill whistle followed by a rapid whinnying call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Description",
+   "quote": "They have a distinctive shrill whistle followed by a rapid whinnying call."
+  },
+  {
+   "id": "milvus-migrans-90a361",
+   "text": "Black kites in northern Australia spread wildfires by picking up and dropping burning twigs to flush out prey, earning them the name 'firehawks'.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Food_and_foraging",
+   "quote": "Kites are also known to spread wildfires in northern Australia by picking up and dropping burning twigs so as to flush prey, leading to their being known in some circles as 'firehawks'."
+  },
+  {
+   "id": "milvus-migrans-177c2f",
+   "text": "Black kites are attracted to smoke and fires, where they seek escaping prey.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Food_and_foraging",
+   "quote": "They are attracted to smoke and fires, where they seek escaping prey."
+  },
+  {
+   "id": "milvus-migrans-f1582a",
+   "text": "In some Indian cities, black kites will swoop and snatch food held by humans, diving for meat thrown into the air.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Food_and_foraging",
+   "quote": "In some places, they will readily swoop and snatch food held by humans. The meat is thrown into the air and the kites dive-bomb for the meat."
+  },
+  {
+   "id": "milvus-migrans-5f1750",
+   "text": "The typical clutch size is 2 or sometimes 3 eggs, with an incubation period of 30 to 34 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Breeding",
+   "quote": "The typical clutch size is 2 or sometimes 3 eggs. The incubation period varies from 30 to 34 days."
+  },
+  {
+   "id": "milvus-migrans-612eeb",
+   "text": "Nests may be decorated with bright materials such as white plastic, which may signal to keep away other kites.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Breeding",
+   "quote": "The nests may sometimes be decorated with bright materials such as white plastic and a study in Spain suggests that they may have a role in signalling to keep away other kites."
+  },
+  {
+   "id": "milvus-migrans-4b0965",
+   "text": "In winter, black kites form large communal roosts, and when migrating they form larger flocks than other migratory raptors.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Flocking_and_roosting",
+   "quote": "In winter, kites form large communal roosts. Flocks may fly about before settling at the roost. When migrating, the black kite has a greater propensity to form large flocks than other migratory raptors"
+  },
+  {
+   "id": "milvus-migrans-730635",
+   "text": "The Eurasian eagle-owl is the black kite's single serious predator, and can sharply reduce kite breeding success when nesting nearby.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Black_kite#Mortality_factors",
+   "quote": "However, they do have a single serious predator: the Eurasian eagle-owl (Bubo bubo). The eagle-owl freely picks off kites of any age and eagle-owls were noted to precipitously decrease kite breeding success when nesting within kilometres of the kites in the Italian Alps."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1365921877
+ }
+}

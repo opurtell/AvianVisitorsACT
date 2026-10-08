@@ -1,0 +1,138 @@
+{
+ "sci": "Climacteris picumnus",
+ "com": "Brown Treecreeper",
+ "slug": "climacteris-picumnus",
+ "wikipedia": {
+  "title": "Brown treecreeper",
+  "url": "https://en.wikipedia.org/wiki/Brown_treecreeper",
+  "revid": 1375667018
+ },
+ "ala": {
+  "name": "Climacteris (Climacteris) picumnus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   161,
+   82,
+   75,
+   78,
+   100,
+   87,
+   118,
+   63,
+   62,
+   109,
+   44,
+   53
+  ],
+  "total": 1032,
+  "share": 0.0002515
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.27,
+   0.96,
+   0.92,
+   0.88,
+   1.38,
+   1.36,
+   1.76,
+   0.82,
+   0.69,
+   0.85,
+   0.5,
+   0.61
+  ]
+ },
+ "facts": [
+  {
+   "id": "climacteris-picumnus-e368ad",
+   "text": "The brown treecreeper is the largest of the Australasian treecreepers and lives only in eastern Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper",
+   "quote": "The brown treecreeper (Climacteris picumnus) is the largest Australasian treecreeper. The bird, endemic to eastern Australia"
+  },
+  {
+   "id": "climacteris-picumnus-941961",
+   "text": "Its call has been described as a spink spink.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Description",
+   "quote": "The call has been described as a spink spink."
+  },
+  {
+   "id": "climacteris-picumnus-dd7f58",
+   "text": "The brown treecreeper is usually seen in pairs or small groups of up to eight birds, and often tolerates visits from other groups.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Social_organisation_and_feeding_behaviour",
+   "quote": "Usually observed in pairs or a small group of up to eight individuals, incursions by other groups of brown treecreeper are often tolerated by residents of the same species."
+  },
+  {
+   "id": "climacteris-picumnus-7590f1",
+   "text": "It eats mainly ants, beetles and insect larvae, hopping along logs or spiralling up rough-barked trees to probe cracks and hollows.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Social_organisation_and_feeding_behaviour",
+   "quote": "feeding mainly on ants, beetles and insect larvae. While occasionally feeding on nectar, the brown treecreeper more often probes fissures, cracks and hollows of trees, gleaning and probing as it hops along logs or spirals up rough barked trees"
+  },
+  {
+   "id": "climacteris-picumnus-f428f1",
+   "text": "The female usually lays three slightly pink or rose eggs, and incubation is carried out by her alone.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Breeding",
+   "quote": "usually lays a clutch-size usually of three smooth (sometimes two or four), slightly glossy, fine-grained, slightly pink or rose, reddish-brown or red and purplish-red speckled eggs"
+  },
+  {
+   "id": "climacteris-picumnus-99dca6",
+   "text": "The female lays eggs in a tree hollow, and the whole group builds the nest over one to two weeks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Nesting",
+   "quote": "The nest is usually located in a tree hollow beneath a canopy, often nearby the boundary of another brown treecreeper territory to attract extra help feeding. Building of the nest is undertaken by all members of the group over a period of 1–2 weeks."
+  },
+  {
+   "id": "climacteris-picumnus-6af5ae",
+   "text": "Nest materials include twigs, grass, bark, dung, animal fur, and even human rubbish like aluminium foil; one bird was seen taking fur from a live possum.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Nesting",
+   "quote": "Nest materials consist of twigs, grass, leaves, bark, dung, animal fur and sometimes human refuse such as aluminum foil. One bird has been recorded collecting fur from a live possum."
+  },
+  {
+   "id": "climacteris-picumnus-a6f028",
+   "text": "Adults avoid feeding ants to their chicks, probably because of the ants' formic acid.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Breeding",
+   "quote": "Adults avoid feeding the young ants, likely due to the ant's formic acid content."
+  },
+  {
+   "id": "climacteris-picumnus-1181be",
+   "text": "Nests helped by extra birds are four times more likely to succeed, and one helper was recorded serving nests in five different territories.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Breeding",
+   "quote": "Records exist of a single helper servicing the nests of five different territories. Records indicate that in nests attended by helpers, breeding success is four times more likely and significantly more offspring are produced."
+  },
+  {
+   "id": "climacteris-picumnus-d03ec0",
+   "text": "Young chicks leave the nest at 21 to 26 days old and are fed by group members until they are independent thirty to forty days later.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_treecreeper#Fledging_and_dispersal",
+   "quote": "Chicks fledge between 21 and 26 days most likely over a period of a few hours. Initially not able to fly strongly, the fledglings roost in hollows and spouts of trees for one or two days, and are fed by members of the group until independent thirty to forty days later."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375667018
+ }
+}

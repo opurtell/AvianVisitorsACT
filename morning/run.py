@@ -25,7 +25,8 @@ def build(day, db, history, out, end=None):
     ed = edition_for(day, db, history, end=end)
     prose = template_prose(ed)
     path = render_edition(ed, prose, out)
-    history.record(ed.date, ed.lead and ed.lead.sci, ed.regular and ed.regular.sci)
+    history.record(ed.date, ed.lead and ed.lead.sci, ed.regular and ed.regular.sci,
+                   [f["id"] for _, f in ed.facts])
     return ed, prose, path
 
 

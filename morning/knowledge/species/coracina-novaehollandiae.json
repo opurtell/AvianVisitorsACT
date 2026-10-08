@@ -1,0 +1,138 @@
+{
+ "sci": "Coracina novaehollandiae",
+ "com": "Black-faced Cuckooshrike",
+ "slug": "coracina-novaehollandiae",
+ "wikipedia": {
+  "title": "Black-faced cuckooshrike",
+  "url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike",
+  "revid": 1313986280
+ },
+ "ala": {
+  "name": "Coracina (Coracina) novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   6854,
+   3652,
+   3369,
+   3061,
+   1016,
+   656,
+   667,
+   1213,
+   4332,
+   7556,
+   5139,
+   5142
+  ],
+  "total": 44108,
+  "share": 0.0107483
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.46,
+   1.15,
+   1.1,
+   0.93,
+   0.38,
+   0.28,
+   0.27,
+   0.42,
+   1.29,
+   1.59,
+   1.56,
+   1.58
+  ]
+ },
+ "facts": [
+  {
+   "id": "coracina-novaehollandiae-2475b0",
+   "text": "The black-faced cuckooshrike is a common bird found across Australia and southern New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike",
+   "quote": "The black-faced cuckooshrike (Coracina novaehollandiae) is a common omnivorous passerine bird native to Australia and southern New Guinea."
+  },
+  {
+   "id": "coracina-novaehollandiae-09ead4",
+   "text": "Adults have a black face and throat, grey plumage, white underparts and a somewhat hooked bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Description",
+   "quote": "Adult birds have a prominent black face and throat, grey plumage, white underparts and a somewhat hooked bill."
+  },
+  {
+   "id": "coracina-novaehollandiae-bc2adf",
+   "text": "It gives a shrill, screaming call that sounds like creearck.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Description",
+   "quote": "with a shrill, screaming call, sounding like creearck."
+  },
+  {
+   "id": "coracina-novaehollandiae-45ef09",
+   "text": "It eats insects, larvae, caterpillars and other invertebrates, plus some fruits and seeds.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Food_and_feeding",
+   "quote": "The diet consists of insects, their larvae, caterpillars or other invertebrates. These may be caught in flight, or caught when searching through the foliage. In addition, some fruits and seeds are also eaten."
+  },
+  {
+   "id": "coracina-novaehollandiae-45bc6d",
+   "text": "It often catches prey in mid-air or while searching through foliage.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Food_and_feeding",
+   "quote": "These may be caught in flight, or caught when searching through the foliage."
+  },
+  {
+   "id": "coracina-novaehollandiae-14b08e",
+   "text": "Breeding season runs chiefly from August to February, with both partners building the small nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Breeding",
+   "quote": "Breeding season is chiefly from August to February each year. Both partners build the rather small nest."
+  },
+  {
+   "id": "coracina-novaehollandiae-887bcd",
+   "text": "Young birds resemble adults, but their black mask is reduced to an eye stripe.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Breeding",
+   "quote": "They look like the adults, except the black facial mask is reduced to an eye stripe."
+  },
+  {
+   "id": "coracina-novaehollandiae-6a6c1b",
+   "text": "Outside the breeding season it forms flocks of up to a hundred birds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Breeding",
+   "quote": "Outside the breeding season, they like to flock in groups of up to a hundred birds."
+  },
+  {
+   "id": "coracina-novaehollandiae-11f53d",
+   "text": "It is a familiar sight on power lines in Australian cities such as Sydney and Perth.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike",
+   "quote": "But they can also occur in urban areas, and are a fairly common sight on power lines in Australian cities such as Sydney and Perth."
+  },
+  {
+   "id": "coracina-novaehollandiae-c46518",
+   "text": "The Yindjibarndi people know it as julgira and have kept it as a pet.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Black-faced_cuckooshrike#Taxonomy",
+   "quote": "The Yindjibarndi people of the central and western Pilbara know the species as julgira; they would clip their wings and keep them as pets."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1313986280
+ }
+}

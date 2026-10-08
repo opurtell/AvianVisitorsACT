@@ -1,0 +1,124 @@
+{
+ "sci": "Podiceps cristatus",
+ "com": "Great Crested Grebe",
+ "slug": "podiceps-cristatus",
+ "wikipedia": {
+  "title": "Great crested grebe",
+  "url": "https://en.wikipedia.org/wiki/Great_crested_grebe",
+  "revid": 1379047399
+ },
+ "ala": {
+  "name": "Podiceps cristatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   220,
+   93,
+   51,
+   61,
+   22,
+   8,
+   5,
+   14,
+   28,
+   89,
+   143,
+   141
+  ],
+  "total": 875,
+  "share": 0.0002132
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   2.3,
+   1.44,
+   0.82,
+   0.91,
+   0.4,
+   0.17,
+   0.1,
+   0.24,
+   0.41,
+   0.92,
+   2.14,
+   2.13
+  ]
+ },
+ "facts": [
+  {
+   "id": "podiceps-cristatus-5aa887",
+   "text": "Its courtship display involves synchronised dances between partners.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe",
+   "quote": "elaborate courtship display that involves synchronised dances and displays."
+  },
+  {
+   "id": "podiceps-cristatus-3bfbe5",
+   "text": "In summer the adult has unmistakable head and neck decorations, while in winter it is whiter with a pink bill.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Description",
+   "quote": "The adults are unmistakable in summer with head and neck decorations. In winter, this is whiter than most grebes, with white above the eye, and a pink bill."
+  },
+  {
+   "id": "podiceps-cristatus-20abf1",
+   "text": "Its call is a loud barking rah-rah-rah, and it can also click and growl.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Description",
+   "quote": "The call is a loud barking rah-rah-rah. They can also produce a clicking kek call, and deep growls."
+  },
+  {
+   "id": "podiceps-cristatus-b59527",
+   "text": "It pursues fish prey underwater as an excellent swimmer and diver.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Description",
+   "quote": "It is an excellent swimmer and diver, and pursues its fish prey underwater."
+  },
+  {
+   "id": "podiceps-cristatus-52de74",
+   "text": "Its diet also includes small crustaceans, insects, small frogs and newts.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Feeding",
+   "quote": "The great crested grebe feeds mainly on fish, but also small crustaceans, insects, small frogs and newts."
+  },
+  {
+   "id": "podiceps-cristatus-c6fcb0",
+   "text": "Both parents incubate the eggs, which hatch after 27 to 29 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Breeding",
+   "quote": "Incubation is by both parents and begins as soon as the first egg is laid. The eggs hatch asynchronously after 27 to 29 days."
+  },
+  {
+   "id": "podiceps-cristatus-4502d3",
+   "text": "Adults teach chicks to dive by carrying them on their backs and leaving them floating, then re-emerging nearby so the chicks swim back.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Breeding",
+   "quote": "The adults teach these skills to their young by carrying them on their back and diving, leaving the chicks to float on the surface; they then re-emerge a few feet away so that the chicks may swim back onto them."
+  },
+  {
+   "id": "podiceps-cristatus-096b6b",
+   "text": "In the 19th century it was hunted in the UK for hat plumes, prompting the founding of the RSPB.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Great_crested_grebe#Relationship_to_humans",
+   "quote": "This species was hunted almost to extinction in the United Kingdom in the 19th century for its head plumes, which were used to decorate ladies' hats and garments. The Royal Society for the Protection of Birds was set up to help protect this species, which is again a common sight."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379047399
+ }
+}

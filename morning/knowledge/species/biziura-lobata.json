@@ -1,0 +1,131 @@
+{
+ "sci": "Biziura lobata",
+ "com": "Musk Duck",
+ "slug": "biziura-lobata",
+ "wikipedia": {
+  "title": "Musk duck",
+  "url": "https://en.wikipedia.org/wiki/Musk_duck",
+  "revid": 1361688571
+ },
+ "ala": {
+  "name": "Biziura lobata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   217,
+   87,
+   116,
+   86,
+   93,
+   69,
+   50,
+   52,
+   49,
+   87,
+   35,
+   82
+  ],
+  "total": 1023,
+  "share": 0.0002493
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Apr"
+  ],
+  "low": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "rel": [
+   1.8,
+   1.06,
+   1.48,
+   1.02,
+   1.34,
+   1.13,
+   0.78,
+   0.71,
+   0.57,
+   0.71,
+   0.41,
+   0.98
+  ]
+ },
+ "facts": [
+  {
+   "id": "biziura-lobata-2fc503",
+   "text": "The musk duck gets its common name from the peculiar musky smell it gives off during the breeding season.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck",
+   "quote": "This animal derives its common name from the peculiar musky odour it emanates during the breeding season."
+  },
+  {
+   "id": "biziura-lobata-2e7bdd",
+   "text": "A male musk duck has a distinctive large, leathery lobe under its bill, which swells during the breeding season.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Description",
+   "quote": "Adult males are 60 to 70 cm (24 to 28 in) long and have a distinctive large, leathery lobe underneath the bill"
+  },
+  {
+   "id": "biziura-lobata-b60263",
+   "text": "Musk ducks float very low in the water, almost like a cormorant, with their large webbed feet set well back on the body.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Description",
+   "quote": "Musk ducks float very low in the water, almost like a cormorant, and the large, webbed feet are well back on the body."
+  },
+  {
+   "id": "biziura-lobata-59779d",
+   "text": "During breeding season, males advertise with a splash, two soft calls, a loud whistle and a deep grunt, repeated every 4 or 5 seconds for up to half an hour.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Reproduction",
+   "quote": "then two soft, sharp cuc cuc calls; then a loud whistle and a deep grunt. This sequence can be started at any time of day or night, with or without an associated visual display, and repeated every 4 or 5 seconds for as long as half an hour at a time."
+  },
+  {
+   "id": "biziura-lobata-b04dbf",
+   "text": "In 1987 a musk duck named Ripper at Tidbinbilla Nature Reserve was recorded apparently mimicking human speech, saying \"you bloody fool\".",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#1987_speech_mimicry_tape_rediscovered",
+   "quote": "a rediscovered tape that originally was recorded in 1987 of a musk duck named Ripper at Tidbinbilla Nature Reserve in the Australian Capital Territory, who appeared to be the first duck recorded to  mimic human speech"
+  },
+  {
+   "id": "biziura-lobata-74ef3f",
+   "text": "The male musk duck plays no part in building the nest or raising the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Reproduction",
+   "quote": "The male plays no part in building the nest or raising the young."
+  },
+  {
+   "id": "biziura-lobata-4b24d1",
+   "text": "Musk ducks rarely fly and are awkward on land, but when needed they fly swiftly for long distances with rapid, shallow wing beats.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Ecology_and_status",
+   "quote": "However, at need musk ducks fly swiftly and for long distances, with rapid, shallow wing beats."
+  },
+  {
+   "id": "biziura-lobata-67eda1",
+   "text": "Musk ducks stay on the water at night, sleeping well out from land with the head tucked into the body or under a wing.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Ecology_and_status",
+   "quote": "They stay on the water at night, sleeping well out from land with the head tucked into the body or under a wing."
+  },
+  {
+   "id": "biziura-lobata-c8abc1",
+   "text": "A female musk duck slips quietly into the water and submerges when leaving the nest to feed, not surfacing until she is well away from it.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Musk_duck#Reproduction",
+   "quote": "When leaving the nest to feed, she slips quietly into the water and submerges, not surfacing until she is well away from it."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1361688571
+ }
+}

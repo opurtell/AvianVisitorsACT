@@ -1,0 +1,138 @@
+{
+ "sci": "Microeca fascinans",
+ "com": "Jacky-winter",
+ "slug": "microeca-fascinans",
+ "wikipedia": {
+  "title": "Jacky winter",
+  "url": "https://en.wikipedia.org/wiki/Jacky_winter",
+  "revid": 1375669680
+ },
+ "ala": {
+  "name": "Microeca (Microeca) fascinans",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   168,
+   71,
+   98,
+   128,
+   99,
+   87,
+   114,
+   103,
+   138,
+   191,
+   105,
+   83
+  ],
+  "total": 1391,
+  "share": 0.000339
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   1.01,
+   0.63,
+   0.91,
+   1.1,
+   1.04,
+   1.04,
+   1.3,
+   1.02,
+   1.17,
+   1.14,
+   0.91,
+   0.72
+  ]
+ },
+ "facts": [
+  {
+   "id": "microeca-fascinans-29d77d",
+   "text": "The jacky winter got its name from its rapid calls, which sound like jacky-jacky winter-winter.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter",
+   "quote": "The jacky winter acquired its name due to rapid and strong vocalisations, which sound like jacky-jacky winter-winter."
+  },
+  {
+   "id": "microeca-fascinans-cbe9ff",
+   "text": "Its song is often described as sounding like peter-peter-peter.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter",
+   "quote": "Their call is also often referred to as sounding like peter-peter-peter."
+  },
+  {
+   "id": "microeca-fascinans-a7e63b",
+   "text": "It sings before sunrise and usually stops by the middle of the day, sometimes singing again near sunset.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Behaviour",
+   "quote": "The jacky winter can be heard vocalising before sunrise and usually stops towards the middle of the day. Occasionally closer to sunset, it can be heard again."
+  },
+  {
+   "id": "microeca-fascinans-ada6f7",
+   "text": "Males and females look almost identical, so the male uses song rather than bright plumage to attract a mate.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Reproduction",
+   "quote": "The jacky winter is instead a sexually monomorphic bird, which means that both the male and female are almost identical in appearance. Rather than plumage playing a significant role in attracting the opposite sex, the jacky winter male uses song to attract a female during courtship."
+  },
+  {
+   "id": "microeca-fascinans-76c8f3",
+   "text": "Its tiny cup-shaped nest of grass and bark strips is glued together with spider webs on an exposed branch fork.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Reproduction",
+   "quote": "They build a small, open cup-shaped nest, which is often made from grass and bark strips held together by spider webs. The nest is built in an exposed position, usually on a fork of a branch."
+  },
+  {
+   "id": "microeca-fascinans-30ca71",
+   "text": "The female lays two eggs in 92 per cent of clutches and does all the incubating, while the male helps feed the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Reproduction",
+   "quote": "Only the female will incubate the eggs, while the male will help feed the young once they have hatched. 92 per cent of the time, the female will lay only two eggs per clutch."
+  },
+  {
+   "id": "microeca-fascinans-2819e4",
+   "text": "Its scientific name Microeca means 'small house', referring to the smallest nest built by any Australian bird.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Taxonomy",
+   "quote": "The generic name Microeca derives from the Greek micros meaning 'small' and oikos meaning 'house'. This refers to the fact that they build the smallest nest of any Australian bird."
+  },
+  {
+   "id": "microeca-fascinans-f15247",
+   "text": "The jacky winter perches on trees and posts during the day, preening its feathers or sunning to kill parasites among them.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Behaviour",
+   "quote": "During the day they can be seen perched atop trees and posts, preening their feathers or even sunning to kill the parasites, which may be present in amongst the feathers."
+  },
+  {
+   "id": "microeca-fascinans-d8a923",
+   "text": "It is a small grey-brown robin found commonly throughout Australia and also in Papua New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter",
+   "quote": "The jacky winter (Microeca fascinans) is a small grey-brown robin found commonly throughout Australia and also in Papua New Guinea."
+  },
+  {
+   "id": "microeca-fascinans-01b5ef",
+   "text": "The jacky winter is around 12 – 14 cm in length and its weight varies from 14 – 18 g.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Jacky_winter#Description",
+   "quote": "The jacky winter is around 12 – 14 cm in length (including the tail) and its weight varies from 14 – 18 g."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375669680
+ }
+}

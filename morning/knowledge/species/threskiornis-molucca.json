@@ -1,0 +1,124 @@
+{
+ "sci": "Threskiornis molucca",
+ "com": "Australian Ibis",
+ "slug": "threskiornis-molucca",
+ "wikipedia": {
+  "title": "Australian white ibis",
+  "url": "https://en.wikipedia.org/wiki/Australian_white_ibis",
+  "revid": 1378044437
+ },
+ "ala": {
+  "name": "Threskiornis moluccus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4044,
+   2893,
+   2409,
+   1840,
+   1174,
+   882,
+   883,
+   1340,
+   2074,
+   3202,
+   2837,
+   2758
+  ],
+  "total": 26734,
+  "share": 0.0065146
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.33,
+   1.41,
+   1.22,
+   0.87,
+   0.67,
+   0.57,
+   0.55,
+   0.73,
+   0.96,
+   1.04,
+   1.33,
+   1.31
+  ]
+ },
+ "facts": [
+  {
+   "id": "threskiornis-molucca-333251",
+   "text": "The Australian white ibis is a native Australian bird, not a feral species introduced by people, despite urban myths that it comes from Egypt.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis",
+   "quote": "Contrary to urban myth, it is not a feral species introduced to Australia by people, and it does not come from Egypt."
+  },
+  {
+   "id": "threskiornis-molucca-2285e7",
+   "text": "The ibis has white plumage, a bare black head and neck, long downcurved black bill, and black legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis",
+   "quote": "It has a predominantly white plumage with a bare, black head, long downcurved bill, and black legs."
+  },
+  {
+   "id": "threskiornis-molucca-bb8b8c",
+   "text": "The male ibis is slightly heavier than the female, weighing 1.7–2.5 kg compared to her 1.4–1.9 kg.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#Description",
+   "quote": "There is some sexual dimorphism in size, as the slightly heavier male weighs 1.7–2.5 kg (3.7–5.5 lb) compared to the 1.4–1.9 kg (3.1–4.2 lb) female."
+  },
+  {
+   "id": "threskiornis-molucca-11ba15",
+   "text": "When breeding, the ibis's upper tail turns yellow and it shows off lacy black secondary plumes like a tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#Description",
+   "quote": "Inner secondary plumes are displayed as lacy black \"tail\" feathers. The upper tail becomes yellow when the bird is breeding."
+  },
+  {
+   "id": "threskiornis-molucca-db941d",
+   "text": "The ibis favours crayfish and mussels, digging them out with its long bill, but also eats human scraps.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#Feeding",
+   "quote": "The most favoured foods are crayfish and mussels, which the bird obtains by digging with its long bill."
+  },
+  {
+   "id": "threskiornis-molucca-b6835d",
+   "text": "Ibises can safely eat cane toads by flicking them to release their toxin and then washing them in water before eating.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#Feeding",
+   "quote": "Ibises have also been observed to eat cane toads by \"flicking\" them about to make them secrete their defensive toxin, then washing the toad in a nearby water source before consuming it."
+  },
+  {
+   "id": "threskiornis-molucca-b75b23",
+   "text": "Despite their nuisance reputation, the ibis is a protected species in Queensland, New South Wales and Victoria.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#Relationship_with_humans",
+   "quote": "They are a protected species in Queensland, New South Wales and Victoria."
+  },
+  {
+   "id": "threskiornis-molucca-4993dd",
+   "text": "In the Solomon Islands, ibises gather in groups of up to 30 and forage on the ground alongside domestic chickens in villages.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_white_ibis#In_Solomon_Islands",
+   "quote": "The ibis is fairly common and is seen in groups of up to 30 birds along roads, on beaches and in the forest. It also visits villages where it forages with the domestic chickens."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378044437
+ }
+}

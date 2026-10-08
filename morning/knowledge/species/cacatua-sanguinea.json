@@ -1,0 +1,138 @@
+{
+ "sci": "Cacatua sanguinea",
+ "com": "Little Corella",
+ "slug": "cacatua-sanguinea",
+ "wikipedia": {
+  "title": "Little corella",
+  "url": "https://en.wikipedia.org/wiki/Little_corella",
+  "revid": 1365796810
+ },
+ "ala": {
+  "name": "Cacatua (Licmetis) sanguinea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3785,
+   2993,
+   2823,
+   2487,
+   1865,
+   1737,
+   1979,
+   2314,
+   2462,
+   3428,
+   2668,
+   2976
+  ],
+  "total": 33323,
+  "share": 0.0081202
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Sep"
+  ],
+  "rel": [
+   1.0,
+   1.17,
+   1.15,
+   0.94,
+   0.86,
+   0.91,
+   0.99,
+   1.01,
+   0.92,
+   0.9,
+   1.01,
+   1.14
+  ]
+ },
+ "facts": [
+  {
+   "id": "cacatua-sanguinea-97ba98",
+   "text": "The little corella is a small white cockatoo that also goes by names like the bare-eyed cockatoo and blood-stained cockatoo.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella",
+   "quote": "also known as the short-billed corella, bare-eyed cockatoo, blood-stained cockatoo, and little cockatoo is a white cockatoo native to Australia and southern New Guinea"
+  },
+  {
+   "id": "cacatua-sanguinea-e9817d",
+   "text": "The Yindjibarndi people keep little corellas as pets and use their downy feathers in traditional ceremonies and dances.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella",
+   "quote": "They would keep them as pets, or traditionally cook and eat them. The downy feathers are used in traditional ceremonies and dances where they adorn head and armbands."
+  },
+  {
+   "id": "cacatua-sanguinea-494dde",
+   "text": "Little corellas grow to 35–41 cm in length and weigh between 370 and 630 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Description",
+   "quote": "The little corella is a small white cockatoo growing to 35–41 cm (14–16 in) in length and weighs 370–630 g (13–22 oz)"
+  },
+  {
+   "id": "cacatua-sanguinea-051a4a",
+   "text": "Unlike the long-billed corella, the little corella lacks an orange throat bar.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Description",
+   "quote": "It is easily distinguished from the long-billed corella by the lack of an orange throat bar."
+  },
+  {
+   "id": "cacatua-sanguinea-7d18f6",
+   "text": "Large flocks calling together create a deafening screeching sound that can be heard from several kilometers away.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Call",
+   "quote": "Large flocks will call simultaneously and can create a deafening screeching sound audible from several kilometers away."
+  },
+  {
+   "id": "cacatua-sanguinea-41d4db",
+   "text": "Little corellas gather in flocks of up to several thousand, often mixing with galahs and other cockatoos.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Behaviour",
+   "quote": "Little corellas congregate in flocks of up to several thousand, which often include other birds such as galahs, sulphur-crested cockatoos and red-tailed black cockatoos."
+  },
+  {
+   "id": "cacatua-sanguinea-4e851b",
+   "text": "When playing, little corellas show off by hanging themselves upside-down with their feet, beaks or both.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Playing",
+   "quote": "Little corellas show off by hanging themselves upside-down with their feet, beaks or both."
+  },
+  {
+   "id": "cacatua-sanguinea-c87828",
+   "text": "Little corellas eat wild and cultivated seeds, lawn grasses, and cereal crops like wheat, barley and maize, sometimes becoming an agricultural pest.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Feeding",
+   "quote": "They eat a variety of both wild and cultivated seeds and regularly feed on lawn grasses in urban areas. They frequently feed on cereal crops such as wheat, barley and maize and can become a considerable agricultural pest in some areas."
+  },
+  {
+   "id": "cacatua-sanguinea-62b4e6",
+   "text": "Breeding takes place from May to October, with nests usually in a tree hollow, cliff cavity or termite mound.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Breeding",
+   "quote": "Breeding occurs from May to October, and usually takes place earlier in the north of its range. The nest is usually in a tree hollow, cliff cavity or termite mound."
+  },
+  {
+   "id": "cacatua-sanguinea-5e08b6",
+   "text": "Little corellas can be seen in Canberra, where they feed on lawns and playing fields.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Little_corella#Distribution_and_habitat",
+   "quote": "Little corellas can also be found in urban areas, including Melbourne, Canberra, Sydney and Brisbane, where they feed on lawns and playing fields."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1365796810
+ }
+}

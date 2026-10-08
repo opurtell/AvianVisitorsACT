@@ -1,0 +1,131 @@
+{
+ "sci": "Strepera graculina",
+ "com": "Pied Currawong",
+ "slug": "strepera-graculina",
+ "wikipedia": {
+  "title": "Pied currawong",
+  "url": "https://en.wikipedia.org/wiki/Pied_currawong",
+  "revid": 1351182012
+ },
+ "ala": {
+  "name": "Strepera (Strepera) graculina",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   12163,
+   9016,
+   10092,
+   11908,
+   9683,
+   8584,
+   9650,
+   10952,
+   11107,
+   14532,
+   9627,
+   9525
+  ],
+  "total": 134673,
+  "share": 0.0328172
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.79,
+   0.86,
+   1.01,
+   1.1,
+   1.09,
+   1.1,
+   1.18,
+   1.16,
+   1.01,
+   0.93,
+   0.89,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "strepera-graculina-36a87d",
+   "text": "The pied currawong is a black bird with striking white patches in its wings and tail and bright yellow eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Description",
+   "quote": "The pied currawong is generally a black bird with white in the wing, undertail coverts, the base of the tail and most visibly, the tip of the tail. It has yellow eyes."
+  },
+  {
+   "id": "strepera-graculina-e959a8",
+   "text": "Its name currawong is believed to come from an indigenous word imitating its own melodious call.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong",
+   "quote": "Known for its melodious calls, the species' name currawong is believed to be of indigenous origin."
+  },
+  {
+   "id": "strepera-graculina-2bfea4",
+   "text": "Pied currawongs are noisiest early in the morning, in the evening before roosting, and even before rain falls.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Voice",
+   "quote": "They are noisier early in the morning and in the evening before roosting, as well as before rain."
+  },
+  {
+   "id": "strepera-graculina-b5b2b3",
+   "text": "In autumn and winter, currawongs gather into flocks of fifty or more birds after spending warmer months in small groups.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Behaviour",
+   "quote": "Although often solitary or encountered in small groups, the species may form larger flocks of fifty or more birds in autumn and winter."
+  },
+  {
+   "id": "strepera-graculina-aeacd5",
+   "text": "Flocks of pied currawongs play by swooping and diving at a bird perched on a tall tree or spire, trying to dislodge it.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Behaviour",
+   "quote": "Flocks of birds appear to engage in play; one routine involves a bird perching atop a tall tree, pole or spire, and others swooping, tumbling or diving and attempting to dislodge it."
+  },
+  {
+   "id": "strepera-graculina-f4fed9",
+   "text": "The female lays a clutch of three pinkish-brown eggs, coloured like silly putty, with darker pink-brown and lavender splotches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Breeding",
+   "quote": "It produces a clutch of three eggs; they are a light pinkish-brown colour (likened by one author to that of silly putty) with splotches of darker pink-brown and lavender."
+  },
+  {
+   "id": "strepera-graculina-f5f7d9",
+   "text": "The channel-billed cuckoo sneaks its eggs into currawong nests, tricking the currawongs into raising the cuckoo chicks.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Breeding",
+   "quote": "The channel-billed cuckoo (Scythrops novaehollandiae) parasitises pied currawong nests, laying eggs which are then raised by the unsuspecting foster parents."
+  },
+  {
+   "id": "strepera-graculina-523f16",
+   "text": "These omnivores eat beetles and ants, fruit and berries, and will boldly scavenge scraps around picnic areas.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Feeding",
+   "quote": "They will often scavenge, eating scraps and rubbish and can be quite bold when seeking food from people, lingering around picnic areas and bird-feeding trays."
+  },
+  {
+   "id": "strepera-graculina-d67a7c",
+   "text": "Australia's pied currawong population doubled from three million birds in the 1960s to six million by the early 1990s.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pied_currawong#Distribution_and_habitat",
+   "quote": "One 1992 survey reported the total number of pied currawongs in Australia had doubled from three million birds in the 1960s to six million in the early 1990s."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1351182012
+ }
+}

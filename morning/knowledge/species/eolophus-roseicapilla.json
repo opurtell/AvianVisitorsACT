@@ -1,0 +1,124 @@
+{
+ "sci": "Eolophus roseicapilla",
+ "com": "Galah",
+ "slug": "eolophus-roseicapilla",
+ "wikipedia": {
+  "title": "Galah",
+  "url": "https://en.wikipedia.org/wiki/Galah",
+  "revid": 1372340641
+ },
+ "ala": {
+  "name": "Eolophus roseicapilla",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   13085,
+   8649,
+   8500,
+   9642,
+   8618,
+   8179,
+   8760,
+   9552,
+   10233,
+   13573,
+   9699,
+   10080
+  ],
+  "total": 126005,
+  "share": 0.0307049
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.91,
+   0.89,
+   0.91,
+   0.96,
+   1.05,
+   1.13,
+   1.15,
+   1.09,
+   1.0,
+   0.93,
+   0.96,
+   1.01
+  ]
+ },
+ "facts": [
+  {
+   "id": "eolophus-roseicapilla-ef8f5d",
+   "text": "You can often tell a male galah from a female by the eyes: males have almost black irises while females have mid-brown or red ones.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Description",
+   "quote": "adult birds differ in the colour of the irises; the male has very dark brown (almost black) irises and the female has mid-brown or red irises."
+  },
+  {
+   "id": "eolophus-roseicapilla-f18b5a",
+   "text": "Galahs gather in flocks that can number anywhere from 10 to 1,000 birds, sometimes mixed with other cockatoo species.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Behaviour",
+   "quote": "The galah is often found in flocks of 10 to 1,000 individuals. These can be mixed flocks, the members of which may include the pink cockatoo, the little corella, and the sulphur-crested cockatoo."
+  },
+  {
+   "id": "eolophus-roseicapilla-88cc29",
+   "text": "Large galah flocks feed on seeds on the ground, mainly in the morning and late afternoon, and can even kill trees by stripping them bare.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Behaviour",
+   "quote": "The galah feeds on seeds gathered on the ground, mainly feeding in the morning and late afternoon. Idly, it will strip leaves and bark from trees, and large flocks have been observed to kill trees through defoliation."
+  },
+  {
+   "id": "eolophus-roseicapilla-0838a8",
+   "text": "Galahs nest in tree cavities, laying a clutch of usually two to five white eggs, with both parents sharing the roughly 25 days of incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Breeding",
+   "quote": "The galah nests in tree cavities. The eggs are white, usually two to five in a clutch. The eggs are incubated for about 25 days, and the male and female share the incubation."
+  },
+  {
+   "id": "eolophus-roseicapilla-c52882",
+   "text": "The name galah comes from gilaa, a word from the Yuwaalaraay and neighbouring Aboriginal languages of north-western New South Wales.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Etymology",
+   "quote": "The term galah is derived from gilaa, a word from the Yuwaalaraay and neighbouring Aboriginal languages spoken in north-western New South Wales."
+  },
+  {
+   "id": "eolophus-roseicapilla-6dcb06",
+   "text": "In Australian slang, calling someone a galah means calling them a fool, clown or idiot, thanks to the bird's loud and gaudy reputation.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Cultural_references",
+   "quote": "\"Galah\" is also derogatory Australian slang, synonymous with \"fool\", \"clown\", or \"idiot\". Because of the bird's distinctive bright pink colour, the term is also used to describe gaudy dress."
+  },
+  {
+   "id": "eolophus-roseicapilla-ae96dc",
+   "text": "European settlement actually helped galahs, as forest clearing and stock watering points in dry zones opened up vast new habitat for them.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Distribution_and_habitat",
+   "quote": "The changes brought by European settlement, which have been disastrous for many species, have been highly beneficial for the galah, because of the clearing of forests in fertile areas and the provision of stock-watering points in arid zones."
+  },
+  {
+   "id": "eolophus-roseicapilla-8edaf6",
+   "text": "As pets, galahs can be affectionate birds that learn to talk and mimic sounds, though their noise can make them unsuitable for apartments.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Galah#Aviculture",
+   "quote": "When tame, it can be an affectionate and friendly bird that can learn to talk, as well as mimic other sounds heard in its environment. While it is a noisy bird that may be unsuitable for apartment living, it is comparatively quieter than other cockatoo species."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372340641
+ }
+}

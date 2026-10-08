@@ -1,0 +1,138 @@
+{
+ "sci": "Leucosarcia melanoleuca",
+ "com": "Wonga Pigeon",
+ "slug": "leucosarcia-melanoleuca",
+ "wikipedia": {
+  "title": "Wonga pigeon",
+  "url": "https://en.wikipedia.org/wiki/Wonga_pigeon",
+  "revid": 1358078096
+ },
+ "ala": {
+  "name": "Leucosarcia melanoleuca",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   208,
+   63,
+   45,
+   30,
+   21,
+   24,
+   14,
+   33,
+   32,
+   86,
+   93,
+   78
+  ],
+  "total": 727,
+  "share": 0.0001772
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Aug"
+  ],
+  "rel": [
+   2.62,
+   1.17,
+   0.87,
+   0.54,
+   0.46,
+   0.6,
+   0.33,
+   0.68,
+   0.57,
+   1.07,
+   1.67,
+   1.42
+  ]
+ },
+ "facts": [
+  {
+   "id": "leucosarcia-melanoleuca-59a7af",
+   "text": "The wonga pigeon is a large, plump pigeon with a short neck, broad wings, and a long tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Description",
+   "quote": "The wonga pigeon is a large, plump pigeon that has a short neck, broad wings, and a long tail."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-c00041",
+   "text": "It has pastel blue-grey back feathers, a creamy-white head, and a white underside dotted with dark grey spots forming a white V on its chest.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Description",
+   "quote": "It has pastel blue-grey back feathers. The head fades to a creamy-white colour. The underside is white with dotted dark grey spots such that a white V can be seen on its chest."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-c2cab8",
+   "text": "Its eyes are dark red-brown and ringed by pink eye-rings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Description",
+   "quote": "Their eyes are a dark red-brown colour and they have pink eye-rings that encircle them."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-ef8bcf",
+   "text": "The call is a loud, high-pitched 'coo' repeated over long periods, and displaying males bow while giving a soft, trilling coo.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Call",
+   "quote": "The call of the wonga pigeon is a loud, high-pitched 'coo' repeated over long periods of time for a number of seconds. When males are displaying mating, bowing occurs with a soft, trilling coo."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-702cc3",
+   "text": "It is an elusive bird, more often heard than seen, and claps its wings explosively when disturbed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Diet_and_behaviour",
+   "quote": "They are very elusive birds, more often being heard but not seen, producing explosive wing claps when disturbed."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-101e4a",
+   "text": "It forages on the ground, eating fruit, berries, seeds from native forest trees and the odd insect.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Diet_and_behaviour",
+   "quote": "They tend to occur on the ground foraging and are located in rainforests, wet eucalypt forests, coastal forests, picnic areas, walking tracks, car parks and gardens. Their diet consists of fruit, berries, seeds from native forest trees and the odd insect."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-45fafc",
+   "text": "The wonga pigeon is monogamous, breeding between October and January.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Breeding",
+   "quote": "The wonga pigeon is monogamous and breeds between October and January."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-3752bb",
+   "text": "It builds a twig platform nest about 30 centimetres wide, from 3 to 20 metres above the ground, defended by breeding pairs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Breeding",
+   "quote": "It builds a twig platform nest with a diameter of about 30 centimetres (12 in), from about 3 to 20 metres (10 to 66 ft) above the ground, defended by breeding pairs."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-9df08e",
+   "text": "It sometimes reuses abandoned nests from topknot pigeons or tawny frogmouths and normally lays two eggs up to 4 centimetres long.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Breeding",
+   "quote": "The pigeon will sometimes use abandoned nests from topknot pigeons or tawny frogmouths. Two eggs up to 4 centimetres (1.6 in) long are normally laid."
+  },
+  {
+   "id": "leucosarcia-melanoleuca-c1fa90",
+   "text": "Land clearance, 1940s shootings for crop protection and fox predation pushed it out of areas around Cairns and the Dandenongs, though populations have improved.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Wonga_pigeon#Distribution_and_habitat",
+   "quote": "Previously they could be found as far north as Cairns and as far south as the Dandenongs, but due to land clearance, shootings in the 1940s for crop protection, and fox predation, they are rarely seen in these areas, but their populations have improved."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1358078096
+ }
+}

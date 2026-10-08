@@ -1,0 +1,124 @@
+{
+ "sci": "Acridotheres tristis",
+ "com": "Common Myna",
+ "slug": "acridotheres-tristis",
+ "wikipedia": {
+  "title": "Common myna",
+  "url": "https://en.wikipedia.org/wiki/Common_myna",
+  "revid": 1378526374
+ },
+ "ala": {
+  "name": "Acridotheres tristis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   8316,
+   5589,
+   3648,
+   3538,
+   2999,
+   3011,
+   3250,
+   3460,
+   3953,
+   6686,
+   5449,
+   6472
+  ],
+  "total": 60680,
+  "share": 0.0147865
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.25,
+   1.25,
+   0.85,
+   0.76,
+   0.79,
+   0.9,
+   0.93,
+   0.86,
+   0.84,
+   1.0,
+   1.17,
+   1.41
+  ]
+ },
+ "facts": [
+  {
+   "id": "acridotheres-tristis-ece6a2",
+   "text": "The common myna is easily recognised by its brown body, black hooded head, bare yellow patch behind the eye and bright yellow bill and legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Description",
+   "quote": "The common myna is readily identified by the brown body, black hooded head and the bare yellow patch behind the eye. The bill and legs are bright yellow."
+  },
+  {
+   "id": "acridotheres-tristis-d1492b",
+   "text": "Common mynas are popular cage birds thanks to their singing and ability to mimic speech.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Vocalization",
+   "quote": "Common mynas are popular as cage birds for their singing and \"speaking\" abilities."
+  },
+  {
+   "id": "acridotheres-tristis-4ed080",
+   "text": "Before settling to sleep in communal roosts, common mynas vocalise together in a chorus known as 'communal noise'.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Vocalization",
+   "quote": "Before sleeping in communal roosts, common mynas vocalise in unison, which is known as \"communal noise\"."
+  },
+  {
+   "id": "acridotheres-tristis-a43b47",
+   "text": "Common mynas are believed to mate for life, and birds are usually seen in pairs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Breeding",
+   "quote": "Common mynas are believed to pair for life."
+  },
+  {
+   "id": "acridotheres-tristis-2beada",
+   "text": "Mynas build nests from twigs, roots, tow and rubbish, and have even used tissue paper, tin foil and sloughed-off snake skin.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Breeding",
+   "quote": "Nesting material used by common mynas includes twigs, roots, tow and rubbish. Common mynas have been known to use tissue paper, tin foil and sloughed off snake-skin."
+  },
+  {
+   "id": "acridotheres-tristis-c1b875",
+   "text": "The common myna eats everything from grasshoppers and earthworms to fruit, nectar, roadkill and discarded human food.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Food_and_feeding",
+   "quote": "It feeds on insects, grubs, earthworms, arachnids, crustaceans, reptiles, small mammals, seeds, grain, fruits, flower nectar and petals, and discarded waste from human habitation."
+  },
+  {
+   "id": "acridotheres-tristis-8405d2",
+   "text": "The genus name Acridotheres means 'grasshopper hunter', earned from the myna's habit of foraging for grasshoppers on the ground.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Food_and_feeding",
+   "quote": "It forages on the ground among grass for insects, and especially for grasshoppers, from which it gets the generic name Acridotheres, \"grasshopper hunter\"."
+  },
+  {
+   "id": "acridotheres-tristis-bfba6a",
+   "text": "In Canberra, just 110 mynas released between 1968 and 1971 gave rise to an average density of 15 birds per square kilometer by 1991.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Common_myna#Distribution_and_habitat",
+   "quote": "in Canberra, for instance, 110 common mynas were released between 1968 and 1971. By 1991, common myna population density in Canberra averaged 15 birds per square kilometer."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378526374
+ }
+}

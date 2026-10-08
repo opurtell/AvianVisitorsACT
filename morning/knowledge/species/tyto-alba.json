@@ -1,0 +1,131 @@
+{
+ "sci": "Tyto alba",
+ "com": "Barn Owl",
+ "slug": "tyto-alba",
+ "wikipedia": {
+  "title": "Eastern barn owl",
+  "url": "https://en.wikipedia.org/wiki/Eastern_barn_owl",
+  "revid": 1364144905
+ },
+ "ala": {
+  "name": "Tyto javanica",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   21,
+   10,
+   20,
+   43,
+   26,
+   34,
+   31,
+   112,
+   65,
+   31,
+   5,
+   7
+  ],
+  "total": 412,
+  "share": 0.0001004
+ },
+ "seasonality": {
+  "class": "winter visitor",
+  "confidence": "low",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.4,
+   0.28,
+   0.59,
+   1.19,
+   0.87,
+   1.3,
+   1.13,
+   3.55,
+   1.76,
+   0.59,
+   0.14,
+   0.19
+  ]
+ },
+ "facts": [
+  {
+   "id": "tyto-alba-aa5742",
+   "text": "The Eastern Barn Owl hunts in complete darkness, locating prey by an extremely acute sense of hearing.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Behaviour_and_ecology",
+   "quote": "Like most owls, the barn owl is nocturnal, relying on its acute sense of hearing when hunting in complete darkness."
+  },
+  {
+   "id": "tyto-alba-0a650f",
+   "text": "Serrations on the leading edges of its flight feathers break up airflow, letting the owl fly almost silently.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Behaviour_and_ecology",
+   "quote": "tiny serrations on the leading edges of its flight feathers and a hairlike fringe to the trailing edges help to break up the flow of air over the wings, thereby reducing turbulence and the noise that accompanies it."
+  },
+  {
+   "id": "tyto-alba-9784a1",
+   "text": "In moist temperate areas, more than 90% of its prey is small mammals such as mice, small rats and voles.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Behaviour_and_ecology",
+   "quote": "in moist temperate areas over 90% of the prey tends to be small mammals"
+  },
+  {
+   "id": "tyto-alba-1ea13f",
+   "text": "Even when earthworms are plentiful and other prey is scarce, Eastern Barn Owls do not seem to eat them.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Behaviour_and_ecology",
+   "quote": "Even when they are plentiful and other prey scarce, earthworms do not seem to be consumed."
+  },
+  {
+   "id": "tyto-alba-a76f10",
+   "text": "Eastern Barn Owls usually stay with one partner for life, only re-pairing if one of the pair dies.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Breeding",
+   "quote": "Barn owls are usually monogamous, sticking to one partner for life unless one of the pair dies."
+  },
+  {
+   "id": "tyto-alba-f54c89",
+   "text": "In arid parts of Australia, breeding can happen at irregular times, triggered by temporary booms in small mammal numbers.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Breeding",
+   "quote": "In arid regions, such as parts of Australia, breeding may be irregular and may happen in wet periods, triggered by temporary increases in the populations of small mammals."
+  },
+  {
+   "id": "tyto-alba-573946",
+   "text": "A threatened Eastern Barn Owl hisses, snaps its beak and sways its lowered head from side to side.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Moulting",
+   "quote": "an angry barn owl lowers its head and sways it from side to side, or the head may be lowered and stretched forward and the wings drooped while the bird emits hisses and makes snapping noises with its beak."
+  },
+  {
+   "id": "tyto-alba-937882",
+   "text": "In Australia the owls drift toward the northern coast in the dry season and south again in the wet, following rodent plagues.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Distribution",
+   "quote": "In Australia there is some migration as the birds move towards the northern coast in the dry season and southward in the wet, and also nomadic movements in association with rodent plagues."
+  },
+  {
+   "id": "tyto-alba-ca7c05",
+   "text": "In Malaysia, installing two hundred nest boxes in oil palm plantations led to almost total occupancy and one of the densest Eastern Barn Owl populations in the world.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Eastern_barn_owl#Status_and_conservation",
+   "quote": "The provision of two hundred nest boxes in a trial saw almost one hundred percent occupancy and as the programme expanded, the plantations supported one of the densest barn owl populations in the world."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1364144905
+ }
+}

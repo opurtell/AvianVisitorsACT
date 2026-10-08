@@ -1,0 +1,131 @@
+{
+ "sci": "Zosterops lateralis",
+ "com": "Silvereye",
+ "slug": "zosterops-lateralis",
+ "wikipedia": {
+  "title": "Silvereye",
+  "url": "https://en.wikipedia.org/wiki/Silvereye",
+  "revid": 1353131601
+ },
+ "ala": {
+  "name": "Zosterops lateralis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   8245,
+   5915,
+   5599,
+   6273,
+   4030,
+   2978,
+   3132,
+   3606,
+   4545,
+   7181,
+   4936,
+   5493
+  ],
+  "total": 66277,
+  "share": 0.0161504
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   1.13,
+   1.19,
+   1.18,
+   1.23,
+   0.96,
+   0.8,
+   0.81,
+   0.81,
+   0.87,
+   0.97,
+   0.96,
+   1.08
+  ]
+ },
+ "facts": [
+  {
+   "id": "zosterops-lateralis-af3be9",
+   "text": "The silvereye has a conspicuous ring of white feathers around its eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Description",
+   "quote": "A small bird 11 to 13 cm in length and around 10 g in weight, it has a conspicuous ring of white feathers around its eye."
+  },
+  {
+   "id": "zosterops-lateralis-fa04d1",
+   "text": "Silvereyes build a tiny cup nest of grass, moss, hair, spiderweb and thistledown, suspended from a branch fork in small trees or shrubs.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Behaviour",
+   "quote": "making a tiny cup of grass, moss, hair, spiderweb, and thistledown, suspended from a branch fork in the outer reaches of small trees or shrubs"
+  },
+  {
+   "id": "zosterops-lateralis-96d8b7",
+   "text": "The silvereye lays two to four pale blue eggs and may raise two or three broods each breeding season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Behaviour",
+   "quote": "They lay two to four pale blue eggs, and two (or sometimes three) broods may be raised during each breeding season."
+  },
+  {
+   "id": "zosterops-lateralis-194037",
+   "text": "Most Tasmanian silvereyes cross Bass Strait to disperse into Victoria, New South Wales and south-eastern Queensland.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Behaviour",
+   "quote": "Most of the Tasmanian population crosses the Bass Strait (an astonishing feat for 12 cm birds weighing only a few grams) and disperses into Victoria, New South Wales, and south-eastern Queensland."
+  },
+  {
+   "id": "zosterops-lateralis-c56e98",
+   "text": "Silvereyes eat insects, spiders, berries, fruit and nectar, and visit bird tables for sugar water, bread, cooked meats and fat when winter food is scarce.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Behaviour",
+   "quote": "When food is scarce in winter they will take a wide variety of foods from bird tables, ranging from sugar water through bread and cooked meats, to solid lumps of fat."
+  },
+  {
+   "id": "zosterops-lateralis-2e66bf",
+   "text": "Silvereyes do valuable pest control in gardens and orchards, eating aphids, scale insects and the diamondback moth.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Horticulture",
+   "quote": "They perform a valuable service in gardens and orchards, eating insects harmful to produce, including aphids, scale insects, and the diamondback moth."
+  },
+  {
+   "id": "zosterops-lateralis-615116",
+   "text": "Being so small, silvereyes simply ignore bird nets, popping in and out through orchard netting at will.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Horticulture",
+   "quote": "some orchardists, grape growers and home gardeners regard them as a serious pest particularly as, being so small, they simply ignore bird nets, popping in and out through the netting at will."
+  },
+  {
+   "id": "zosterops-lateralis-13e4dc",
+   "text": "A silvereye named Honey is the main character of children's books by Ursula Dubosarsky, illustrated by Ron Brooks.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#In_literature",
+   "quote": "A silvereye features as the main character, Honey, in the illustrated children's books Honey and Bear, Special Days with Honey and Bear and The Honey and Bear Stories, by Ursula Dubosarsky and illustrated by Ron Brooks."
+  },
+  {
+   "id": "zosterops-lateralis-1ddeb1",
+   "text": "The silvereye lives in almost any vegetated area, from forest and scrub to urban gardens.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Silvereye#Distribution_and_habitat",
+   "quote": "The silvereye is liable to be found in any vegetated area, apart from open grasslands, within its distribution range, including forest, scrub, horticultural blocks and urban gardens."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1353131601
+ }
+}

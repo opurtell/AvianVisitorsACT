@@ -1,0 +1,131 @@
+{
+ "sci": "Gerygone olivacea",
+ "com": "White-throated Gerygone",
+ "slug": "gerygone-olivacea",
+ "wikipedia": {
+  "title": "White-throated gerygone",
+  "url": "https://en.wikipedia.org/wiki/White-throated_gerygone",
+  "revid": 1377163038
+ },
+ "ala": {
+  "name": "Gerygone olivacea",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1391,
+   687,
+   779,
+   194,
+   10,
+   7,
+   1,
+   19,
+   878,
+   2419,
+   1402,
+   1001
+  ],
+  "total": 8826,
+  "share": 0.0021507
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.51,
+   1.11,
+   1.31,
+   0.3,
+   0.02,
+   0.02,
+   0.0,
+   0.03,
+   1.34,
+   2.6,
+   2.18,
+   1.57
+  ]
+ },
+ "facts": [
+  {
+   "id": "gerygone-olivacea-590df0",
+   "text": "The white-throated gerygone lives in Australia and Papua New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone",
+   "quote": "It is found in Australia and Papua New Guinea."
+  },
+  {
+   "id": "gerygone-olivacea-799e2f",
+   "text": "It makes its home in temperate forests and subtropical or tropical moist lowland forests.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone",
+   "quote": "Its natural habitats are temperate forests and subtropical or tropical moist lowland forests."
+  },
+  {
+   "id": "gerygone-olivacea-85a8db",
+   "text": "The white-throated gerygone also goes by the names white-throated warbler, white-throated flyeater, bush canary, and native canary.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone",
+   "quote": "Its common names include white-throated warbler, white-throated flyeater, bush canary, and native canary."
+  },
+  {
+   "id": "gerygone-olivacea-50edd6",
+   "text": "It favours open dry eucalyptus woodland and dense riparian vegetation.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Distribution_and_habitat",
+   "quote": "The white-throated gerygone is primarily found in open dry eucalyptus woodland and dense riparian vegetation."
+  },
+  {
+   "id": "gerygone-olivacea-a3f391",
+   "text": "The white-throated gerygone lives in tropical, subtropical, and temperate zones.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Distribution_and_habitat",
+   "quote": "It occupies tropical, subtropical, and temperate zones."
+  },
+  {
+   "id": "gerygone-olivacea-ad7cb3",
+   "text": "It sometimes turns up in remnant woods on farmland, in gardens, and in open eucalypt savannah.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Distribution_and_habitat",
+   "quote": "Less commonly, it may occur in remnant woods in farmland and gardens, and in open eucalypt savannah."
+  },
+  {
+   "id": "gerygone-olivacea-2932ea",
+   "text": "In New Guinea it can be found in Melaleuca, or paperbark, forests from the coast up to 650 m.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Distribution_and_habitat",
+   "quote": "In New Guinea, they may be found in Melaleuca (paperbark) forests from the coast to 650 m."
+  },
+  {
+   "id": "gerygone-olivacea-85b3da",
+   "text": "The genus name Gerygone comes from the Greek word 'gerugonos', meaning 'echos'.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Taxonomy_and_Systematics",
+   "quote": "Gerygone comes from the Greek word \"gerugonos\" meaning \"echos\"."
+  },
+  {
+   "id": "gerygone-olivacea-50005b",
+   "text": "The species name olivacea is Latin for 'olive-green', a nod to its underbelly colour.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-throated_gerygone#Taxonomy_and_Systematics",
+   "quote": "The species name olivacea is latin for 'olive-green', given for its underbelly coloration."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1377163038
+ }
+}

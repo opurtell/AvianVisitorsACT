@@ -1,0 +1,138 @@
+{
+ "sci": "Anhinga novaehollandiae",
+ "com": "Australasian Darter",
+ "slug": "anhinga-novaehollandiae",
+ "wikipedia": {
+  "title": "Australasian darter",
+  "url": "https://en.wikipedia.org/wiki/Australasian_darter",
+  "revid": 1316609702
+ },
+ "ala": {
+  "name": "Anhinga novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2186,
+   1851,
+   1870,
+   1799,
+   1466,
+   1020,
+   831,
+   820,
+   915,
+   1408,
+   1171,
+   1408
+  ],
+  "total": 16787,
+  "share": 0.0040907
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Aug",
+   "Sep",
+   "Oct"
+  ],
+  "rel": [
+   1.08,
+   1.35,
+   1.43,
+   1.27,
+   1.26,
+   1.0,
+   0.78,
+   0.67,
+   0.64,
+   0.69,
+   0.83,
+   1.01
+  ]
+ },
+ "facts": [
+  {
+   "id": "anhinga-novaehollandiae-23c571",
+   "text": "The Australasian darter is a slim bird with a snakelike slender neck, measuring 86–94 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Description",
+   "quote": "The Australasian darter is a slim bird measuring 86–94 cm (34–37 in) long with a snakelike slender neck."
+  },
+  {
+   "id": "anhinga-novaehollandiae-2da8d0",
+   "text": "Male darters are black with a white streak down the side of the head and neck, while females have white underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Description",
+   "quote": "The male has black plumage with a white streak down the side of its head and neck, while the female has white underparts."
+  },
+  {
+   "id": "anhinga-novaehollandiae-cad022",
+   "text": "Its feathers soak up water between them, reducing buoyancy so the bird can swim underwater.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Feeding",
+   "quote": "Its feathers soak up water in spaces between them, allowing the bird to reduce its natural buoyancy and swim underwater."
+  },
+  {
+   "id": "anhinga-novaehollandiae-27aefd",
+   "text": "It often forages with only its head and neck exposed above the water.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Feeding",
+   "quote": "The Australasian darter forages in water, often with only its head and neck exposed."
+  },
+  {
+   "id": "anhinga-novaehollandiae-155eeb",
+   "text": "It eats a wide variety of fish, from Australian smelt and bony bream to introduced carp and goldfish.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Feeding",
+   "quote": "It eats a wide variety of fish such as Australian smelt (Retropinna semoni), bony bream (Nematalosa erebi), queensland mouth breeder (Glossamia aprion), surf bream (Acanthopagrus australis), spangled perch (Leiopotherapon unicolor), flathead gudgeon (Philypnodon grandiceps), and introduced species such as redfin perch (Perca fluviatilis), goldfish (Carassius auratus) and carp (Cyprinus carpio)."
+  },
+  {
+   "id": "anhinga-novaehollandiae-3f7b2c",
+   "text": "Its menu also includes snakes, shrimp, worms and many insects like flies, moths and water beetles.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Feeding",
+   "quote": "The New Guinea snake-necked turtle (Chelodina novaeguineae) is a prey item, as are many invertebrates including freshwater shrimp, worms and cephalopods, and insects such as flies, moths, water scavenger beetles (hydrophilidae), water beetles (dytiscidae), water boatmen (corixidae), giant water bugs (Diplonychus rusticus), and backswimmers (notonectidae)."
+  },
+  {
+   "id": "anhinga-novaehollandiae-571abd",
+   "text": "Breeding happens once a year, or twice if two floods occur in the same year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Breeding",
+   "quote": "Breeding process will takes place once a year, or twice on rare occasions of two floods in the one year."
+  },
+  {
+   "id": "anhinga-novaehollandiae-47519e",
+   "text": "The nest is a large dish of sticks lined with reeds and leaves, often in a partly submerged tree.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Breeding",
+   "quote": "The nest is a large, wide dish-shaped structure made of sticks and lined with reeds, leaves and rushes, often located in the branches of a partly submerged tree or tree overhanging water."
+  },
+  {
+   "id": "anhinga-novaehollandiae-c0ba34",
+   "text": "It lays three to five pale blue eggs covered in a chalky lime layer that gets scratched and stained over incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Breeding",
+   "quote": "Three to five elongated oval eggs are laid, measuring 56 by 34 mm. They are pale blue but covered in a layer of chalky lime, and become progressively scratched and stained over the incubation period."
+  },
+  {
+   "id": "anhinga-novaehollandiae-f57e5c",
+   "text": "It prefers freshwater or brackish wetlands more than 0.5 m deep with fallen trees and vegetated banks.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australasian_darter#Distribution_and_habitat",
+   "quote": "Typical habitat is freshwater or brackish wetlands more than 0.5 m deep with fallen trees or logs and vegetated banks; less commonly, darters are found in inland saltwater environments."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1316609702
+ }
+}

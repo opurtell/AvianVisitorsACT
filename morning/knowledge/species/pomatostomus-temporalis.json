@@ -1,0 +1,131 @@
+{
+ "sci": "Pomatostomus temporalis",
+ "com": "Gray-crowned Babbler",
+ "slug": "pomatostomus-temporalis",
+ "wikipedia": {
+  "title": "Grey-crowned babbler",
+  "url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler",
+  "revid": 1375668784
+ },
+ "ala": {
+  "name": "Pomatostomus (Pomatostomus) temporalis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   4,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   3,
+   0
+  ],
+  "total": 11,
+  "share": 2.7e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Sep"
+  ],
+  "rel": [
+   3.26,
+   1.2,
+   2.51,
+   0.0,
+   0.0,
+   0.0,
+   1.54,
+   0.0,
+   0.0,
+   0.0,
+   3.49,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "pomatostomus-temporalis-a52014",
+   "text": "The grey-crowned babbler lives in Australia and New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler",
+   "quote": "They are found in Australia and New Guinea (Indonesia and Papua New Guinea)."
+  },
+  {
+   "id": "pomatostomus-temporalis-0f2734",
+   "text": "It occupies dry forests, moist lowland forests, shrublands and savannas.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler",
+   "quote": "Its habitats include tropical and subtropical dry broadlife forests, tropical moist lowland forests, shrublands, and savannas."
+  },
+  {
+   "id": "pomatostomus-temporalis-e117da",
+   "text": "The Yuwaalaraay people of northern New South Wales call this bird dhadhalurraa.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Naming",
+   "quote": "The Yuwaalaraay people of northern New South Wales use the name dhadhalurraa to refer to this species."
+  },
+  {
+   "id": "pomatostomus-temporalis-6cd106",
+   "text": "One of its popular alternate names, 'yahoo', comes from its distinctive call.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Naming",
+   "quote": "Yahoo – This popular alternate name is based on the distinctive call of the grey-crowned babbler."
+  },
+  {
+   "id": "pomatostomus-temporalis-4149c0",
+   "text": "It is also known as happy-jack, a name linked to its talkative family groups.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Naming",
+   "quote": "Happy-jack – Popular name, quoted by A. J. North and others, relating to the species habit of moving about in 'talkative' family groups."
+  },
+  {
+   "id": "pomatostomus-temporalis-f97623",
+   "text": "Names like dog-bird and barker presumably come from its cackling soft tuk note.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Naming",
+   "quote": "Dog-bird, barker, barking-bird – Popular names whose sources are not known.  Presumably named due to cackling soft tuk note."
+  },
+  {
+   "id": "pomatostomus-temporalis-ad9b36",
+   "text": "The bird is thought to be a vagrant or accidental visitor to the Australian Capital Territory.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Taxonomy",
+   "quote": "It is a vagrant or accidental visitor to the Australian Capital Territory."
+  },
+  {
+   "id": "pomatostomus-temporalis-18df97",
+   "text": "In Victoria the grey-crowned babbler is listed as endangered.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#States_of_Australia",
+   "quote": "On the 2007 advisory list of threatened vertebrate fauna in Victoria, the grey-crowned babbler is listed as endangered."
+  },
+  {
+   "id": "pomatostomus-temporalis-24abd7",
+   "text": "The eastern subspecies has vanished from over 50% of its former range and is declining in the south.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Grey-crowned_babbler#Australia",
+   "quote": "this subspecies has disappeared from over 50% of its former area of occupancy and/or extent of occurrence and are at risk of further decline. Although there has been little evident change at the northern edge of its range, the subspecies has been declining noticeably in the southern half of its range"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375668784
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "sci": "Haliaeetus leucogaster",
+ "com": "White-bellied Sea-Eagle",
+ "slug": "haliaeetus-leucogaster",
+ "wikipedia": {
+  "title": "White-bellied sea eagle",
+  "url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle",
+  "revid": 1379042491
+ },
+ "ala": {
+  "name": "Haliaeetus (Pontoaetus) leucogaster",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   131,
+   147,
+   151,
+   227,
+   162,
+   111,
+   108,
+   123,
+   101,
+   145,
+   149,
+   107
+  ],
+  "total": 1667,
+  "share": 0.0004062
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Dec"
+  ],
+  "rel": [
+   0.64,
+   1.06,
+   1.13,
+   1.58,
+   1.37,
+   1.07,
+   0.99,
+   0.98,
+   0.69,
+   0.7,
+   1.04,
+   0.75
+  ]
+ },
+ "facts": [
+  {
+   "id": "haliaeetus-leucogaster-2fe113",
+   "text": "The White-bellied Sea-Eagle is a large raptor whose adult has a white head, breast and tail with grey upperparts and contrasting black flight feathers.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle",
+   "quote": "the adult white-bellied sea eagle has a white head, breast, under-wing coverts and tail. The upper parts are grey and the black under-wing flight feathers contrast with the white coverts."
+  },
+  {
+   "id": "haliaeetus-leucogaster-4f9184",
+   "text": "Females are larger than males and can reach 90 cm long, weigh 4.5 kg, and have a wingspan of up to 2.2 m.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle",
+   "quote": "the female is larger than the male, and can measure up to 90 cm (35 in) long with a wingspan of up to 2.2 m (7.2 ft), and weigh 4.5 kg (9.9 lb)."
+  },
+  {
+   "id": "haliaeetus-leucogaster-fa40c5",
+   "text": "Pairs stay together for life, and a surviving bird quickly seeks a new mate if its partner dies, so some nest sites are used for decades.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Behaviour",
+   "quote": "The species is monogamous, with pairs remaining together until one bird dies, after which the surviving bird quickly seeks a new mate. This can lead to some nest sites being continuously occupied for many years"
+  },
+  {
+   "id": "haliaeetus-leucogaster-b379c7",
+   "text": "Though globally of Least Concern, it is listed as Threatened in Victoria and Vulnerable in South Australia and Tasmania, mainly due to human disturbance.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle",
+   "quote": "It is ranked as Threatened in Victoria and Vulnerable in South Australia and Tasmania. Human disturbance to its habitat is the main threat"
+  },
+  {
+   "id": "haliaeetus-leucogaster-62d11d",
+   "text": "Australian naturalist David Fleay judged its call to be among the loudest and furthest-carrying of all Australian bird calls.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Description",
+   "quote": "Australian naturalist David Fleay observed that the call is among the loudest and furthest-carrying of all Australian bird calls, in stark contrast to the relatively quiet calls of the wedge-tailed eagle."
+  },
+  {
+   "id": "haliaeetus-leucogaster-f7e3b9",
+   "text": "Its main fish prey are catfish and barramundi, and it hunts specimens which can exceed 50 cm (20 in).",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Feeding",
+   "quote": "Main fish prey is usually catfish and barramundi. and the eagles frequently hunt both small and large specimens, which can exceed 50 cm (20 in)."
+  },
+  {
+   "id": "haliaeetus-leucogaster-3ab5de",
+   "text": "While hunting over water on sunny days, it often flies directly into the sun, seemingly to avoid casting shadows over the water and alerting potential prey.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Feeding",
+   "quote": "While hunting over water on sunny days, it often flies directly into the sun or at right angles to it, seemingly to avoid casting shadows over the water and hence alerting potential prey."
+  },
+  {
+   "id": "haliaeetus-leucogaster-90cd8f",
+   "text": "In a talon-grappling display, one bird flips upside down in flight and, if successful, the two plunge cartwheeling before separating as they approach the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Breeding",
+   "quote": "A talon-grappling display has been recorded where the pair will fly high before one flips upside down and tries to grapple the other's talons with its own. If successful, the two then plunge cartwheeling before separating as they approach the ground."
+  },
+  {
+   "id": "haliaeetus-leucogaster-c12ed3",
+   "text": "A clutch of two dull, white, oval eggs is incubated over six weeks before hatching.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Breeding",
+   "quote": "Normally a clutch of two dull, white, oval eggs are laid. Measuring 73×55 mm, they are incubated over six weeks before hatching."
+  },
+  {
+   "id": "haliaeetus-leucogaster-c7756d",
+   "text": "It nests on cliffs, and on islands nests are sometimes built directly on the ground.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-bellied_sea_eagle#Breeding",
+   "quote": "Cliffs are also suitable nesting sites, and on islands nests are sometimes built directly on the ground."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1379042491
+ }
+}

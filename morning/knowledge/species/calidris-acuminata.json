@@ -1,0 +1,138 @@
+{
+ "sci": "Calidris acuminata",
+ "com": "Sharp-tailed Sandpiper",
+ "slug": "calidris-acuminata",
+ "wikipedia": {
+  "title": "Sharp-tailed sandpiper",
+  "url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper",
+  "revid": 1351000369
+ },
+ "ala": {
+  "name": "Calidris (Erolia) acuminata",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   86,
+   19,
+   1,
+   0,
+   0,
+   0,
+   0,
+   6,
+   143,
+   252,
+   111,
+   70
+  ],
+  "total": 688,
+  "share": 0.0001677
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.24,
+   0.4,
+   0.02,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.14,
+   2.89,
+   3.58,
+   2.28,
+   1.45
+  ]
+ },
+ "facts": [
+  {
+   "id": "calidris-acuminata-84bdc3",
+   "text": "The sharp-tailed sandpiper is a portly little wader with a pot belly, chestnut cap and a dark stripe through each eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Description",
+   "quote": "A small-medium wader, the portly sandpiper has a pot belly, flat back and somewhat drawn-out rear end. It has a mottled chestnut-brown upper body with sharp-looking feathers with a dark centre, a chestnut cap on its head and a brown stripe through each eye."
+  },
+  {
+   "id": "calidris-acuminata-1846b2",
+   "text": "Juvenile sharp-tailed sandpipers are brighter than adults in autumn and early winter, with chestnut crowns and bright buffy chests.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Description",
+   "quote": "The juveniles are brighter in colour in autumn and early winter than adults, with sharper feathers and brighter chestnut-coloured crowns contrasting with the white mantle stripes and bright, buffy chests."
+  },
+  {
+   "id": "calidris-acuminata-c69d19",
+   "text": "It nests on the ground in a shallow hollow lined with leaves and grass, hidden and hard to distinguish from the surrounding landscape.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Breeding",
+   "quote": "making shallow, hollow, lined nests made of leaves and grass. The nests are hidden on the ground and hard to distinguish from surrounding the surrounding landscape."
+  },
+  {
+   "id": "calidris-acuminata-0aac6d",
+   "text": "Females usually incubate a clutch of four eggs and raise the chicks alone during the short Siberian summer.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Breeding",
+   "quote": "The clutch size is usually four eggs, with the females incubating and raising the chicks."
+  },
+  {
+   "id": "calidris-acuminata-e27730",
+   "text": "The sharp-tailed sandpiper mainly eats aquatic insects, molluscs, crustaceans and worms, picking up food by sight or probing the mud.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Foraging_and_feeding",
+   "quote": "Picking up food by sight or sometimes by probing, they mainly eat aquatic insects, molluscs, crustaceans, worms, occasionally seeds and other invertebrates."
+  },
+  {
+   "id": "calidris-acuminata-c71bdc",
+   "text": "After rain it can turn up in paddocks of short grass well away from water, and at high tide it moves inland to freshwater wetlands.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Foraging_and_feeding",
+   "quote": "After rain they can be found in paddocks of short grass, well away from water. At low tides they can be found on the intertidal mudflats, before moving inland to freshwater wetlands at the high tide."
+  },
+  {
+   "id": "calidris-acuminata-2d0f30",
+   "text": "Some sharp-tailed sandpipers make a direct non-stop flight of more than 10,000 km across the Pacific to reach Australia and New Zealand.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Distribution_and_occurrence",
+   "quote": "it is presumed they then take a direct non-stop trans-Pacific flight of more than 10,000 km to reach Australia and New Zealand."
+  },
+  {
+   "id": "calidris-acuminata-e017cf",
+   "text": "It breeds solely in eastern Siberia, with most of the population wintering in Australasia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Distribution_and_occurrence",
+   "quote": "Sharp-tailed sandpipers are strongly migratory, breeding solely in eastern Siberia from the Taymyr Peninsula to Chaunskaya Bay in Chukotka."
+  },
+  {
+   "id": "calidris-acuminata-273f3d",
+   "text": "In Australia the species is largely found around wetlands, preferring freshwater inland wetlands with grassy edges.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Habitat",
+   "quote": "In Australia they are largely found around wetlands, preferring freshwater inland wetlands with grassy edges."
+  },
+  {
+   "id": "calidris-acuminata-a5e5af",
+   "text": "Listed as vulnerable by the IUCN, the sharp-tailed sandpiper numbers an estimated 60,000 to 120,000 mature individuals with a declining trend.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper#Conservation",
+   "quote": "The species is currently listed as vulnerable globally by the IUCN in 2021, with an estimated number of 60,000 to 120,000 mature individuals and a decreasing population trend."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1351000369
+ }
+}

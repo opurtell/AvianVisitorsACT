@@ -1,0 +1,138 @@
+{
+ "sci": "Chroicocephalus novaehollandiae",
+ "com": "Silver Gull",
+ "slug": "chroicocephalus-novaehollandiae",
+ "wikipedia": {
+  "title": "Silver gull",
+  "url": "https://en.wikipedia.org/wiki/Silver_gull",
+  "revid": 1377807414
+ },
+ "ala": {
+  "name": "Chroicocephalus novaehollandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   3534,
+   2313,
+   2049,
+   1859,
+   1428,
+   1131,
+   1302,
+   1866,
+   2361,
+   2970,
+   2630,
+   2519
+  ],
+  "total": 26181,
+  "share": 0.0063798
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.16,
+   1.12,
+   1.03,
+   0.87,
+   0.81,
+   0.73,
+   0.8,
+   1.0,
+   1.09,
+   0.96,
+   1.23,
+   1.19
+  ]
+ },
+ "facts": [
+  {
+   "id": "chroicocephalus-novaehollandiae-087252",
+   "text": "The silver gull is the most common gull in Australia, found throughout the continent, especially near the coast.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull",
+   "quote": "It is the most common gull of Australia. It has been found throughout the continent, but particularly at or near coastal areas."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-b1e30b",
+   "text": "An adult silver gull has a white head, body and tail, with light grey wings tipped in black with white spots.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Adult",
+   "quote": "The head, body, and tail of an adult silver gull are white, and the wings are light grey with white-spotted, black tips."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-67762d",
+   "text": "Adults have bright red beaks that become even brighter during breeding or as the bird ages.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Adult",
+   "quote": "Adults have bright red beaks which gets brighter during breeding or when they get older."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-1b1d1d",
+   "text": "The silver gull's most common call is a harsh, high pitched 'kwarwh', part of a varied repertoire.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Behaviour",
+   "quote": "The silver gull has a sharp voice consisting of a variety of calls. The most common call is a harsh, high pitched 'kwarwh'."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-9d20e2",
+   "text": "It naturally eats worms, fish, insects and crustaceans, but is also a successful scavenger around people.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Feeding",
+   "quote": "The silver gull naturally feeds on worms, fish, insects and crustaceans. It is a successful scavenger, allowing increased numbers near human settlements."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-dd2bba",
+   "text": "Silver gulls are known to pester humans for chips and steal unattended food.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Feeding",
+   "quote": "It is known to pester humans for chips and steal unattended food."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-09a9a7",
+   "text": "Breeding from August to December, they nest in large colonies on offshore islands, with both parents sharing all duties.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Breeding",
+   "quote": "Breeding occurs from August to December, typically in large colonies on offshore islands."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-5f86c5",
+   "text": "A typical clutch holds one to three eggs, and a pair often raises two broods in a year.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Breeding",
+   "quote": "Typical clutch size is one to three eggs. Often two broods are raised in a year, and both adults share nest-building, incubation and feeding."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-276188",
+   "text": "Silver gulls thrive in urban environments, doing so well that nesting grounds are the only limit on their population growth.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Distribution_and_habitat",
+   "quote": "Their successful adaption to urban habitats have seen their population increase in areas of human activity, with the availability of nesting grounds the only limiting factor on population growth."
+  },
+  {
+   "id": "chroicocephalus-novaehollandiae-d4514b",
+   "text": "The nest sits on the ground and is built from seaweed, roots and plant stems, sometimes placed in shrubs, rocks or jetties.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Silver_gull#Breeding",
+   "quote": "The nest is located on the ground and consists of seaweed, roots, and plant stems. The nests may be found in low shrubs, rocks and jetties."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1377807414
+ }
+}

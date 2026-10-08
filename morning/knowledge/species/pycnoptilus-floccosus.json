@@ -1,0 +1,133 @@
+{
+ "sci": "Pycnoptilus floccosus",
+ "com": "Pilotbird",
+ "slug": "pycnoptilus-floccosus",
+ "wikipedia": {
+  "title": "Pilotbird",
+  "url": "https://en.wikipedia.org/wiki/Pilotbird",
+  "revid": 1362472456
+ },
+ "ala": {
+  "name": "Pycnoptilus floccosus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   287,
+   151,
+   67,
+   40,
+   19,
+   22,
+   24,
+   32,
+   33,
+   81,
+   75,
+   69
+  ],
+  "total": 900,
+  "share": 0.0002193
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   2.92,
+   2.27,
+   1.05,
+   0.58,
+   0.34,
+   0.44,
+   0.46,
+   0.54,
+   0.47,
+   0.81,
+   1.09,
+   1.02
+  ],
+  "computed": "summer migrant",
+  "reason": "Sedentary. The summer peak in ALA records follows bushwalkers into the ranges, not the birds"
+ },
+ "facts": [
+  {
+   "id": "pycnoptilus-floccosus-22fb51",
+   "text": "The pilotbird is a large, plump bird about 18 centimetres long that weighs around 27 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Description",
+   "quote": "The pilotbird is a large, plump species of acanthizid, measuring around 18 centimetres (7.1 in) in length and weighing 27 grams (0.95 oz)."
+  },
+  {
+   "id": "pycnoptilus-floccosus-152dee",
+   "text": "It has reddish-brown underparts with scalloping on the chest, and chocolate-brown upperparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Description",
+   "quote": "The plumage of the underparts is reddish-brown with scalloping on the chest and the centre of the belly speckled dull white. The upperparts are chocolate-brown."
+  },
+  {
+   "id": "pycnoptilus-floccosus-4991bd",
+   "text": "Its broad, semi-erect tail is flicked up and down while it feeds.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Description",
+   "quote": "Its tail is broad and semi-erect, and flicked up and down when feeding."
+  },
+  {
+   "id": "pycnoptilus-floccosus-befe38",
+   "text": "The pilotbird is named for its supposed habit of following lyrebirds to snatch prey they flush.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Behaviour",
+   "quote": "Its name comes from its supposed habit of following lyrebirds, taking prey that they flush, and also from its call guiding bushmen seeking for lyrebirds."
+  },
+  {
+   "id": "pycnoptilus-floccosus-970f5c",
+   "text": "When disturbed on the ground, it runs swiftly away on strong legs.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Behaviour",
+   "quote": "The pilotbird is highly terrestrial, feeding on or near the ground and when disturbed it runs swiftly on strong legs."
+  },
+  {
+   "id": "pycnoptilus-floccosus-1d706c",
+   "text": "The male sings a far-carrying wit-wit-weet-WHEER, which the female may answer with a softer wit-a-wit-ee.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Behaviour",
+   "quote": "The male makes a far-carrying call of wit-wit-weet-WHEER to which the female may respond with a softer wit-a-wit-ee."
+  },
+  {
+   "id": "pycnoptilus-floccosus-db810e",
+   "text": "From August to December it builds an untidy, globular nest with a side entrance, hidden in debris on the forest floor.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Breeding",
+   "quote": "The breeding season for the pilotbird is from August to December. The globular nest is built with a side-entrance and hidden amongst the accumulated debris on the forest floor. It is an untidy construction of bark, ferns, dead leaves and rootlets."
+  },
+  {
+   "id": "pycnoptilus-floccosus-df4c4f",
+   "text": "The female incubates a clutch of usually two grey-green to purple-brown eggs for 20 to 22 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Breeding",
+   "quote": "A clutch of usually two eggs, each measuring 27 by 20 mm (1.06 by 0.79 in) and varying in colour from grey-green to purple-brown, is incubated by the female for 20–22 days."
+  },
+  {
+   "id": "pycnoptilus-floccosus-38d621",
+   "text": "The 2019/2020 bushfires burnt 47% of its distribution, prompting a Vulnerable listing under the EPBC Act in 2022.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Pilotbird#Conservation",
+   "quote": "The pilotbird was listed as Vulnerable under the EPBC Act in 2022, in response to the 2019/2020 Australian Bushfires, which burnt 47% of its distribution, and contributed to an estimated 30-50% decline in the population."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1362472456
+ }
+}

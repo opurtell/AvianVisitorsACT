@@ -18,7 +18,7 @@ from zoneinfo import ZoneInfo
 from astral import Observer
 from astral.sun import sun
 
-from . import config
+from . import config, kb
 
 SPECIES_CSV = config.ROOT.parent / "avian" / "scripts" / "act-species-canberra.csv"
 
@@ -33,6 +33,7 @@ RECORD_BONUS = 0.15
 RECORD_MIN_DAYS = 3         # a "busiest day yet" needs this much history
 RECENT_LEAD_DAYS = 7        # a bird that led within this many days…
 RECENT_LEAD_PENALTY = 0.4   # …is held back unless it has fresh news
+LEAD_FACTS, REGULAR_FACTS = 2, 1  # Did You Know items per featured bird
 
 
 @dataclass
@@ -128,6 +129,7 @@ class Edition:
     arrivals: list = field(default_factory=list)
     night_shift: list = field(default_factory=list)
     unconfirmed: list = field(default_factory=list)
+    facts: list = field(default_factory=list)    # [(SpeciesDay, kb fact dict)]
 
     @property
     def number(self):
@@ -173,13 +175,23 @@ def load_detections(db_path, until):
     return out
 
 
-def load_regional(path=SPECIES_CSV):
-    """sci -> (occurrence_v2, percentile rarity in [0, 1])."""
+def load_regional(path=SPECIES_CSV, ala=None):
+    """sci -> (occurrence_v2, percentile rarity in [0, 1]).
+
+    Rarity averages two percentiles: BirdNET's occurrence score at Canberra,
+    and the species' share of ACT bird records on the Atlas of Living
+    Australia (from the knowledge base; skipped if it hasn't been built).
+    """
     with open(path, newline="") as f:
         occ = {r["scientific_name"]: float(r["occurrence_v2"]) for r in csv.DictReader(f)}
     ranked = sorted(occ, key=occ.get, reverse=True)  # commonest first
     n = max(1, len(ranked) - 1)
-    return {sci: (occ[sci], i / n) for i, sci in enumerate(ranked)}
+    ala = kb.ala_rarity() if ala is None else ala
+    out = {}
+    for i, sci in enumerate(ranked):
+        r = i / n
+        out[sci] = (occ[sci], (r + ala[sci]) / 2 if sci in ala else r)
+    return out
 
 
 def solar(day, cfg):
@@ -243,7 +255,7 @@ def analyse(db_path, end, cfg, regional=None):
     for d in in_window:
         s = species.get(d.sci)
         if s is None:
-            s = species[d.sci] = SpeciesDay(d.sci, d.com, slugify(d.sci))
+            s = species[d.sci] = SpeciesDay(d.sci, kb.display_name(d.sci, d.com), slugify(d.sci))
         s.n += 1
         s.best_conf = max(s.best_conf, d.conf)
         s.first_at = s.first_at or d.at
@@ -334,6 +346,11 @@ def pick_features(ed, history):
            [s for s in credible if s is not ed.lead]
     if pool:
         ed.regular = min(pool, key=lambda s: (history.last_featured(s.sci, ed.date) or date.min, s.sci))
+
+    used = history.facts_used(ed.date)
+    for s, n in ((ed.lead, LEAD_FACTS), (ed.regular, REGULAR_FACTS)):
+        if s:
+            ed.facts += [(s, f) for f in kb.pick_facts(s.sci, used, ed.date, n)]
 
 
 def edition_for(day, db_path, history, cfg=None, end=None):

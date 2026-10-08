@@ -1,0 +1,138 @@
+{
+ "sci": "Anthus novaeseelandiae",
+ "com": "Australasian Pipit",
+ "slug": "anthus-novaeseelandiae",
+ "wikipedia": {
+  "title": "Australian pipit",
+  "url": "https://en.wikipedia.org/wiki/Australian_pipit",
+  "revid": 1300078675
+ },
+ "ala": {
+  "name": "Anthus novaeseelandiae",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1016,
+   341,
+   232,
+   335,
+   271,
+   198,
+   270,
+   415,
+   643,
+   1237,
+   836,
+   712
+  ],
+  "total": 6580,
+  "share": 0.0016034
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "May"
+  ],
+  "rel": [
+   1.39,
+   0.69,
+   0.49,
+   0.66,
+   0.65,
+   0.54,
+   0.7,
+   0.94,
+   1.24,
+   1.67,
+   1.64,
+   1.41
+  ]
+ },
+ "facts": [
+  {
+   "id": "anthus-novaeseelandiae-78257b",
+   "text": "The Australian Pipit is a slender bird, 16 to 19 cm long, that weighs about 40 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Description",
+   "quote": "It is a slender bird, 16 to 19 cm long, and weighs about 40 grams."
+  },
+  {
+   "id": "anthus-novaeseelandiae-8c8ddc",
+   "text": "It is pale brown above with dark streaks, pale underparts with streaks on the breast, and a pale stripe over the eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Description",
+   "quote": "The plumage is pale brown above with dark streaks. The underparts are pale with streaks on the breast. There is a pale stripe over the eye"
+  },
+  {
+   "id": "anthus-novaeseelandiae-321ca0",
+   "text": "The pipit's long tail has white outer-feathers and is often wagged up and down.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Description",
+   "quote": "The long tail has white outer-feathers and is often wagged up and down."
+  },
+  {
+   "id": "anthus-novaeseelandiae-da5cbb",
+   "text": "It gives a sparrow-like chirruping call as well as a drawn-out tswee call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Description",
+   "quote": "It has a sparrow-like chirruping call and a drawn-out tswee call."
+  },
+  {
+   "id": "anthus-novaeseelandiae-e68308",
+   "text": "The pipit lives in open habitats such as grassland, farmland, roadsides, dry river beds, sand dunes and open woodland.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Ecology",
+   "quote": "It is a bird of open habitats such as grassland, farmland, roadsides, dry river beds, sand dunes and open woodland."
+  },
+  {
+   "id": "anthus-novaeseelandiae-2fc641",
+   "text": "It forages on the ground for beetles, spiders and insect larvae, and will also eat seeds such as those of grasses.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Ecology",
+   "quote": "It forages on the ground for small invertebrates such as beetles, spiders and insect larvae. It will also eat seeds such as those of grasses."
+  },
+  {
+   "id": "anthus-novaeseelandiae-4f424d",
+   "text": "The breeding season begins in August, with the cup-shaped nest placed at the base of vegetation or in the shelter of a stone.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Ecology",
+   "quote": "The breeding season begins in August. The cup-shaped nest is placed at the base of vegetation or in the shelter of a stone."
+  },
+  {
+   "id": "anthus-novaeseelandiae-2aaf5b",
+   "text": "The female builds the grass nest, and two to five eggs are laid, three or four being most common.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Ecology",
+   "quote": "It is made of grass and built by the female. Two to five eggs are laid, three or four being most common."
+  },
+  {
+   "id": "anthus-novaeseelandiae-a5c89c",
+   "text": "Its buff-white, brown-blotched eggs are incubated for 14 to 15 days, and the young can fly after 14 to 16 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Ecology",
+   "quote": "They are buff-white with brown blotching and are incubated for 14 to 15 days. The young birds are fed by both parents and are able to fly after 14 to 16 days."
+  },
+  {
+   "id": "anthus-novaeseelandiae-8705ae",
+   "text": "The pipit was formerly grouped with other pipits as Richard's pipit before being split into separate species.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pipit#Taxonomy",
+   "quote": "The Australian pipit was formerly grouped with other pipits as Richard's pipit Anthus novaeseelandiae. This species was split into Richard's, African, Mountain, Paddyfield and Australasian pipits."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1300078675
+ }
+}

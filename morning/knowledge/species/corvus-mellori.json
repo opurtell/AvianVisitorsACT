@@ -1,0 +1,138 @@
+{
+ "sci": "Corvus mellori",
+ "com": "Little Raven",
+ "slug": "corvus-mellori",
+ "wikipedia": {
+  "title": "Little raven",
+  "url": "https://en.wikipedia.org/wiki/Little_raven",
+  "revid": 1365402575
+ },
+ "ala": {
+  "name": "Corvus mellori",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   787,
+   483,
+   496,
+   744,
+   409,
+   361,
+   549,
+   654,
+   512,
+   968,
+   503,
+   516
+  ],
+  "total": 7023,
+  "share": 0.0017114
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "rel": [
+   0.94,
+   0.86,
+   0.92,
+   1.28,
+   0.85,
+   0.86,
+   1.24,
+   1.29,
+   0.86,
+   1.15,
+   0.86,
+   0.89
+  ]
+ },
+ "facts": [
+  {
+   "id": "corvus-mellori-ed5790",
+   "text": "The little raven is completely black, with black feathers, beak and legs, and its adult eyes are white.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven",
+   "quote": "with completely black plumage, beak, and legs; as with all Australian species of Corvus, the black feathers have a grey base, and the iris of the adult bird is white"
+  },
+  {
+   "id": "corvus-mellori-c9205d",
+   "text": "Young little ravens change eye colour as they grow: nestlings have blue-grey eyes, juveniles brown, and immatures hazel with blue eyerings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Description",
+   "quote": "nestlings up to three months old have blue-grey eyes, juveniles aged from three to eleven months have brown eyes, and immature birds have hazel eyes with blue eyerings around the pupil"
+  },
+  {
+   "id": "corvus-mellori-a68387",
+   "text": "It is a sociable bird that often forms large flocks which roam widely in search of food.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Description",
+   "quote": "The little raven is a somewhat more sociable species than the Australian raven, often forming large flocks that roam freely over wide areas in search of food."
+  },
+  {
+   "id": "corvus-mellori-e39f1c",
+   "text": "Little ravens often nest in loose colonies of up to fifteen pairs, with nests only a few metres apart.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Breeding",
+   "quote": "Little ravens often nest in a loose colony of up to fifteen pairs, with nests few metres apart."
+  },
+  {
+   "id": "corvus-mellori-a6e04d",
+   "text": "Both parents build the thin cup nest of sticks, with the male bringing material while the female lines the bowl with feathers.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Breeding",
+   "quote": "Both birds build the nest, with the female taking over the lining of the nest while the male brings her material."
+  },
+  {
+   "id": "corvus-mellori-1f6c03",
+   "text": "Little ravens eat many ground-dwelling invertebrates such as spiders, grasshoppers and centipedes, which they behead before eating.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Feeding",
+   "quote": "Common invertebrates eaten include spiders, millipedes, centipedes (which ravens behead before eating), grasshoppers, cicadas and caterpillars"
+  },
+  {
+   "id": "corvus-mellori-cb8680",
+   "text": "These intelligent birds have been recorded using tools and finding innovative ways to seek out food.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Feeding",
+   "quote": "Little ravens are intelligent birds, and have been recorded using tools as well as having innovative methods of seeking out food."
+  },
+  {
+   "id": "corvus-mellori-c6406b",
+   "text": "The little raven gives a harsh, guttural \"kar-kar-kar-karrr\" or \"ark-ark-ark-arrk\" call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Vocalisations",
+   "quote": "Its call is a harsh, guttural \"kar-kar-kar-karrr\" or \"ark-ark-ark-arrk\""
+  },
+  {
+   "id": "corvus-mellori-3e0556",
+   "text": "Like all corvids, the little raven is capable of vocal mimicry, though this is mostly recorded in captivity.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Vocalisations",
+   "quote": "Like all corvids, the little raven is capable of vocal mimicry, but this behavior is mostly recorded in captivity and only rarely in the wild."
+  },
+  {
+   "id": "corvus-mellori-e34b46",
+   "text": "A clutch can hold up to six eggs, though usually four or five are laid.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Little_raven#Breeding",
+   "quote": "A clutch can comprise up to six eggs, though usually four or five are laid"
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1365402575
+ }
+}

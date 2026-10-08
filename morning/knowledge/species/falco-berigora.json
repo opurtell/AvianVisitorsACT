@@ -1,0 +1,138 @@
+{
+ "sci": "Falco berigora",
+ "com": "Brown Falcon",
+ "slug": "falco-berigora",
+ "wikipedia": {
+  "title": "Brown falcon",
+  "url": "https://en.wikipedia.org/wiki/Brown_falcon",
+  "revid": 1313706871
+ },
+ "ala": {
+  "name": "Falco (Ieracidea) berigora",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   392,
+   211,
+   210,
+   276,
+   283,
+   266,
+   326,
+   279,
+   332,
+   460,
+   346,
+   223
+  ],
+  "total": 3613,
+  "share": 0.0008804
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "rel": [
+   0.89,
+   0.71,
+   0.74,
+   0.9,
+   1.13,
+   1.2,
+   1.41,
+   1.05,
+   1.07,
+   1.04,
+   1.13,
+   0.74
+  ]
+ },
+ "facts": [
+  {
+   "id": "falco-berigora-103dc7",
+   "text": "The brown falcon is a relatively large falcon native to Australia and New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon",
+   "quote": "The brown falcon (Falco berigora) is a relatively large falcon native to Australia and New Guinea."
+  },
+  {
+   "id": "falco-berigora-27311d",
+   "text": "Brown falcons come in pale and dark plumage forms, both usually with dark brown upper parts and wing coverts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon",
+   "quote": "A number of plumage morphs occur, with the primary distinction being between the pale morph and the dark morph. Both morphs usually have dark brown upper parts and wing coverts."
+  },
+  {
+   "id": "falco-berigora-9b7585",
+   "text": "Pale morph birds have white underparts streaked with brown, and prominently white under tail coverts may be diagnostic.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon",
+   "quote": "Pale morph birds have white underparts that are varyingly streaked with brown, sometimes heavily so. Pale individuals may also have prominently white under tail coverts and these may be diagnostic."
+  },
+  {
+   "id": "falco-berigora-58a219",
+   "text": "In the breeding season, brown falcons make a loud, high pitched cackle call, like a laying hen, while in flight.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon",
+   "quote": "A distinctive aspect of their behaviour is shown in the breeding season when brown falcons make a loud, high pitched, cackle call (like a laying hen) and screeching while in flight."
+  },
+  {
+   "id": "falco-berigora-07bc71",
+   "text": "The species name berigora has Aboriginal origins.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon",
+   "quote": "The species name berigora has Aboriginal origins."
+  },
+  {
+   "id": "falco-berigora-994699",
+   "text": "Brown falcons and other Australian firehawks have been said to pick up burning sticks and drop them to spread fires and prey on escaping animals.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon#Behaviour",
+   "quote": "Brown falcons and other Australian firehawks have been said to pick up sticks with flames and dropping them to spread fires and prey on escaping animals."
+  },
+  {
+   "id": "falco-berigora-b2cfda",
+   "text": "The brown falcon eats small mammals including house mice and young rabbits in summer, plus small birds, lizards and snakes.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon#Diet",
+   "quote": "The brown falcon eats small mammals, including house mice. They also eat young rabbits in the summer. It also eats small birds, lizards, snakes, and a variety of invertebrates"
+  },
+  {
+   "id": "falco-berigora-51f4c0",
+   "text": "In winter, insects form the bulk of the brown falcon's diet, and it often chases them on the ground.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon#Diet",
+   "quote": "Insects form the bulk of the animals' diets during winter and the falcons often chase the insects on the ground."
+  },
+  {
+   "id": "falco-berigora-7bb235",
+   "text": "Brown falcons breed from June to November, usually in an old nest of a larger passerine or another hawk, sometimes in a tree hollow.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon#Breeding_and_habitat",
+   "quote": "Brown falcons breed from June to November, usually in an old nest of a larger passerine or another hawk species; they occasionally nest in hollow limbs of trees."
+  },
+  {
+   "id": "falco-berigora-4b2740",
+   "text": "The brown falcon lays two to five eggs with red and brown spots and blotches.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_falcon#Breeding_and_habitat",
+   "quote": "The brown falcon lays between two and five eggs that have red and brown spots and blotches."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1313706871
+ }
+}

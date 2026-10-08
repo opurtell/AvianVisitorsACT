@@ -1,0 +1,139 @@
+{
+ "sci": "Gymnorhina tibicen",
+ "com": "Australian Magpie",
+ "slug": "gymnorhina-tibicen",
+ "wikipedia": {
+  "title": "Australian magpie",
+  "url": "https://en.wikipedia.org/wiki/Australian_magpie",
+  "revid": 1378646963
+ },
+ "ala": {
+  "name": "Gymnorhina tibicen",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   17222,
+   12910,
+   13380,
+   14426,
+   12602,
+   11927,
+   12770,
+   13234,
+   13365,
+   17822,
+   12266,
+   12158
+  ],
+  "total": 172336,
+  "share": 0.0419949
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.86,
+   0.95,
+   1.03,
+   1.03,
+   1.1,
+   1.18,
+   1.2,
+   1.09,
+   0.94,
+   0.88,
+   0.87,
+   0.88
+  ]
+ },
+ "facts": [
+  {
+   "id": "gymnorhina-tibicen-9fe4f4",
+   "text": "The Australian magpie can mimic more than 35 species of native and introduced birds, as well as dogs and horses.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Magpie_Sounds",
+   "quote": "the bird can mimic over 35 species of native and introduced bird species, as well as dogs and horses."
+  },
+  {
+   "id": "gymnorhina-tibicen-bafaf5",
+   "text": "Magpies can recognise at least 100 different people and may spare those they have befriended when swooping.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie",
+   "quote": "Research has shown that magpies can recognise at least 100 different people, and may be less likely to swoop individuals they have befriended."
+  },
+  {
+   "id": "gymnorhina-tibicen-be2e1b",
+   "text": "It has learned to eat poisonous cane toads safely by flipping them over and eating the underparts.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Feeding",
+   "quote": "It has even learnt to safely eat the poisonous cane toad by flipping it over and consuming the underparts."
+  },
+  {
+   "id": "gymnorhina-tibicen-d67f43",
+   "text": "Before swallowing prey, magpies rub off bee stingers and the irritating hairs of caterpillars.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Feeding",
+   "quote": "Smaller prey are swallowed whole, although magpies rub off the stingers of bees, stinging ants and wasps and irritating hairs of caterpillars before swallowing."
+  },
+  {
+   "id": "gymnorhina-tibicen-9ae6bf",
+   "text": "Chicks hatch around 20 days after incubation begins, pink, naked and blind with a bright red throat.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Breeding",
+   "quote": "The chicks hatch synchronously around 20 days after incubation begins; like all passerines, the chicks are altricial—they are born pink, naked, and blind with large feet, a short broad beak and a bright red throat."
+  },
+  {
+   "id": "gymnorhina-tibicen-391c3d",
+   "text": "A small minority of breeding magpies, almost always males, swoop at people who approach their nests.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie",
+   "quote": "a small minority of breeding magpies (almost always males) become aggressive, swooping and attacking those who approach their nests.",
+   "edited": "hand-corrected 2026-10-09 spot check"
+  },
+  {
+   "id": "gymnorhina-tibicen-45c91c",
+   "text": "Pairs of magpies sing a loud musical duet called carolling to advertise or defend their territory.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Magpie_Sounds",
+   "quote": "Pairs of magpies often take up a loud musical calling known as carolling to advertise or defend their territory"
+  },
+  {
+   "id": "gymnorhina-tibicen-bfe702",
+   "text": "The female builds the nest alone, usually high up in a tree fork and often in an exposed position.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Breeding",
+   "quote": "Nests are built exclusively by females and generally placed high up in a tree fork, often in an exposed position."
+  },
+  {
+   "id": "gymnorhina-tibicen-1aa0de",
+   "text": "Australian magpies generally live to around 25 years of age, with some recorded reaching 30 years.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Description",
+   "quote": "Australian magpies generally live to around 25 years of age, though ages of up to 30 years have been recorded."
+  },
+  {
+   "id": "gymnorhina-tibicen-7f82f1",
+   "text": "Helper birds sometimes assist magpie pairs in feeding and raising their young, a practice known as cooperative breeding.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_magpie#Breeding",
+   "quote": "The Australian magpie is known to engage in cooperative breeding, and helper birds will assist in feeding and raising young."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378646963
+ }
+}

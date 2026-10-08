@@ -1,0 +1,138 @@
+{
+ "sci": "Arenaria interpres",
+ "com": "Ruddy Turnstone",
+ "slug": "arenaria-interpres",
+ "wikipedia": {
+  "title": "Ruddy turnstone",
+  "url": "https://en.wikipedia.org/wiki/Ruddy_turnstone",
+  "revid": 1373713117
+ },
+ "ala": {
+  "name": "Arenaria interpres",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   15,
+   1,
+   0
+  ],
+  "total": 20,
+  "share": 4.9e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   0.56,
+   0.0,
+   0.86,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   1.56,
+   8.23,
+   0.79,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "arenaria-interpres-8599cb",
+   "text": "The ruddy turnstone flips over stones and other objects to reach prey hiding underneath, which is how it got its name.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Feeding_and_diet",
+   "quote": "It often flips over stones and other objects to get at prey items hiding underneath; this behaviour is the origin of the name \"turnstone\"."
+  },
+  {
+   "id": "arenaria-interpres-a39546",
+   "text": "Ruddy turnstones are highly migratory, breeding in northern Eurasia and North America and wintering on coastlines almost worldwide.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone",
+   "quote": "It is a highly migratory bird, breeding in northern parts of Eurasia and North America, and flying south to winter on coastlines almost worldwide."
+  },
+  {
+   "id": "arenaria-interpres-768936",
+   "text": "It has a harlequin-like pattern of brown, black and white all year, with bright orange legs.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Description",
+   "quote": "In all seasons, the plumage is dominated by a harlequin-like pattern of brown, black and white."
+  },
+  {
+   "id": "arenaria-interpres-b9af11",
+   "text": "The ruddy turnstone eats a varied diet including carrion, eggs, fish and plant material, but mainly feeds on invertebrates.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Feeding_and_diet",
+   "quote": "The ruddy turnstone has a varied diet including carrion, eggs, fish and plant material but it feeds mainly on invertebrates."
+  },
+  {
+   "id": "arenaria-interpres-c6f721",
+   "text": "It has a staccato, rattling call plus a chattering alarm-call given mainly during the breeding season.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Description",
+   "quote": "The ruddy turnstone has a staccato, rattling call and also a chattering alarm-call which is mainly given during the breeding season."
+  },
+  {
+   "id": "arenaria-interpres-38d141",
+   "text": "Turnstones use their unique plumage patterns to recognise individuals and tell intruders apart from neighbours.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Aggression_and_territory_defence",
+   "quote": "Turnstones use these unique plumage patterns to recognize individuals and discriminate intruders in their territory from neighbours occupying an adjacent territory."
+  },
+  {
+   "id": "arenaria-interpres-5c1b4e",
+   "text": "The ruddy turnstone is monogamous, and pairs may stay together for more than one breeding season.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Reproduction",
+   "quote": "It is a monogamous bird and pairs may remain together for more than one breeding season."
+  },
+  {
+   "id": "arenaria-interpres-ba7cdb",
+   "text": "Incubation lasts about 22–24 days, with the female mainly incubating though the male may help towards the end.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Reproduction",
+   "quote": "Incubation begins when the first egg is laid and lasts for about 22–24 days. The female is mainly responsible for incubating the eggs but the male may help towards the end."
+  },
+  {
+   "id": "arenaria-interpres-676031",
+   "text": "Ruddy turnstones are very loyal to wintering sites; in one study, 95% of birds returned the following autumn.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Ecology",
+   "quote": "It found that 95% of birds resident to the area at the end of winter returned the following autumn."
+  },
+  {
+   "id": "arenaria-interpres-4ae2fc",
+   "text": "They are long-lived waders, averaging 9 years, with 20 years the longest recorded.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Ruddy_turnstone#Ecology",
+   "quote": "Their average lifespan is 9 years, with 20 years being the longest recorded."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1373713117
+ }
+}

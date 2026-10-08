@@ -1,0 +1,138 @@
+{
+ "sci": "Circus approximans",
+ "com": "Swamp Harrier",
+ "slug": "circus-approximans",
+ "wikipedia": {
+  "title": "Swamp harrier",
+  "url": "https://en.wikipedia.org/wiki/Swamp_harrier",
+  "revid": 1356579104
+ },
+ "ala": {
+  "name": "Circus approximans",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   132,
+   53,
+   28,
+   20,
+   20,
+   21,
+   22,
+   47,
+   106,
+   169,
+   107,
+   58
+  ],
+  "total": 784,
+  "share": 0.000191
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   1.54,
+   0.91,
+   0.5,
+   0.33,
+   0.41,
+   0.48,
+   0.48,
+   0.9,
+   1.74,
+   1.94,
+   1.78,
+   0.98
+  ]
+ },
+ "facts": [
+  {
+   "id": "circus-approximans-0ba580",
+   "text": "The swamp harrier is a large, slim bird of prey found widely across Australasia and is also called the Australasian marsh harrier.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier",
+   "quote": "The swamp harrier (Circus approximans), also known as the Australasian marsh harrier or Australasian harrier, is a large, slim bird of prey widely distributed across Australasia."
+  },
+  {
+   "id": "circus-approximans-85761a",
+   "text": "In New Zealand the swamp harrier carries the Māori name kāhu.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier",
+   "quote": "In New Zealand, it is also known by the Māori name kāhu."
+  },
+  {
+   "id": "circus-approximans-6599ce",
+   "text": "It is largely dark brown, becomes lighter with age, and has a distinct white rump.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Description",
+   "quote": "The swamp harrier is largely dark brown, becoming lighter with age, and has a distinct white rump."
+  },
+  {
+   "id": "circus-approximans-186aaf",
+   "text": "The swamp harrier hunts by flying slowly and low to the ground on upswept wings.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Description",
+   "quote": "It hunts by flying slowly, low to the ground, on upswept wings."
+  },
+  {
+   "id": "circus-approximans-b403da",
+   "text": "Females are significantly larger than males; in New Zealand, 66 females averaged 870 g against 640 g for 54 males.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Description",
+   "quote": "Females are significantly larger than the males. In New Zealand, 54 males averaged 640 g (1.41 lb) and 66 females averaged 870 g (1.92 lb)."
+  },
+  {
+   "id": "circus-approximans-5b03f9",
+   "text": "Its diet includes ground birds, waterbirds, rabbits, small mammals, reptiles, frogs and fish.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Diet",
+   "quote": "The swamp harrier mainly feeds on ground birds and waterbirds, rabbits and other small mammals, reptiles, frogs, and fish."
+  },
+  {
+   "id": "circus-approximans-69f111",
+   "text": "In winter it eats carrion such as roadkill and is often hit by vehicles while feeding.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Diet",
+   "quote": "During the winter months harriers feed to a large extent on carrion, including roadkill, frequently falling victim to vehicles themselves."
+  },
+  {
+   "id": "circus-approximans-79fe93",
+   "text": "It nests on the ground in a mound of reeds or dense vegetation, sometimes even in fields of oats or barley.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Breeding",
+   "quote": "This species nests on the ground, often in wetlands, on a mound in reeds or other dense vegetation. In some districts they nest in fields of oats or barley."
+  },
+  {
+   "id": "circus-approximans-4e7119",
+   "text": "The female alone incubates the clutch of usually three or four eggs for 31 to 34 days.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Breeding",
+   "quote": "The clutch size may range from two to seven, but is usually three or four. The incubation period is 31 to 34 days, and is carried out by the female alone."
+  },
+  {
+   "id": "circus-approximans-e09b55",
+   "text": "The swamp harrier is the only bird of prey used for falconry in New Zealand, hunting pūkeko and young rabbits.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Swamp_harrier#Behaviour",
+   "quote": "Swamp harriers are the only bird of prey used for falconry in New Zealand. The quarry is usually pūkeko and young rabbits."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1356579104
+ }
+}

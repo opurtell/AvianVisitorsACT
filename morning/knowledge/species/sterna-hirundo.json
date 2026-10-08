@@ -1,0 +1,131 @@
+{
+ "sci": "Sterna hirundo",
+ "com": "Common Tern",
+ "slug": "sterna-hirundo",
+ "wikipedia": {
+  "title": "Common tern",
+  "url": "https://en.wikipedia.org/wiki/Common_tern",
+  "revid": 1378430477
+ },
+ "ala": {
+  "name": "Sterna (Sterna) hirundo",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   7,
+   0,
+   0
+  ],
+  "total": 8,
+  "share": 1.9e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Jan",
+   "Feb",
+   "Jun"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.0,
+   2.06,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   9.94,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "sterna-hirundo-56bac5",
+   "text": "The common tern plunge-dives for fish in the sea or freshwater, and molluscs and crustaceans can be a significant part of its diet in some areas.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern",
+   "quote": "Like most terns, this species feeds by plunge-diving for fish, either in the sea or in freshwater, but molluscs, crustaceans and other invertebrate prey may form a significant part of the diet in some areas."
+  },
+  {
+   "id": "sterna-hirundo-a1fc38",
+   "text": "Breeding adults wear a black cap, orange-red legs and a narrow pointed bill that may be mostly red with a black tip.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Description",
+   "quote": "Breeding adults have pale grey upperparts, very pale grey underparts, a black cap, orange-red legs, and a narrow pointed bill that can be mostly red with a black tip"
+  },
+  {
+   "id": "sterna-hirundo-463b93",
+   "text": "Both parents incubate the eggs, which hatch in around 21–22 days, longer if predators disturb the colony.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern",
+   "quote": "Incubation is by both sexes, and the eggs hatch in around 21–22 days, longer if the colony is disturbed by predators."
+  },
+  {
+   "id": "sterna-hirundo-8f77e2",
+   "text": "Its most distinctive call is the alarm KEE-yah, stressed on the first syllable.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Voice",
+   "quote": "The most distinctive sound is the alarm KEE-yah, stressed on the first syllable, in contrast to the second-syllable stress of the Arctic tern."
+  },
+  {
+   "id": "sterna-hirundo-88bafb",
+   "text": "Parents and chicks find each other by call, and siblings recognise each other's voices from about the twelfth day after hatching.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Voice",
+   "quote": "Parents and chicks can locate one another by call, and siblings also recognise each other's vocalisations from about the twelfth day from hatching, which helps to keep the brood together."
+  },
+  {
+   "id": "sterna-hirundo-5fabbc",
+   "text": "It adapts readily to artificial nesting sites such as floating rafts, nesting on any flat, poorly vegetated surface near water.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern",
+   "quote": "the common tern nests on any flat, poorly vegetated surface close to water, including beaches and islands, and it readily adapts to artificial substrates such as floating rafts."
+  },
+  {
+   "id": "sterna-hirundo-27d418",
+   "text": "Some pairs are remarkably loyal, with one recorded pair returning to the same territory for 17 successive breeding seasons.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Territory",
+   "quote": "the same site is re-used year after year, with a record of one pair returning for 17 successive breeding seasons."
+  },
+  {
+   "id": "sterna-hirundo-0411a4",
+   "text": "Colonies sometimes perform a 'dread', flying in silence low and fast out to sea for no known reason.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Territory",
+   "quote": "Especially in the early part of the breeding season, for no known reason, most or all of the terns will fly in silence low and fast out to sea. This phenomenon is called a \"dread\"."
+  },
+  {
+   "id": "sterna-hirundo-8499d4",
+   "text": "During nocturnal migration it flies at 43–54 km/h at heights of 1,000–3,000 m.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Common_tern#Description",
+   "quote": "Its average flight speed during the nocturnal migration flight is 43–54 km/h (27–34 mph) at a height of 1,000–3,000 m (3,300–9,800 ft)."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378430477
+ }
+}

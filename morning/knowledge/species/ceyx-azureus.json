@@ -1,0 +1,131 @@
+{
+ "sci": "Ceyx azureus",
+ "com": "Azure Kingfisher",
+ "slug": "ceyx-azureus",
+ "wikipedia": {
+  "title": "Azure kingfisher",
+  "url": "https://en.wikipedia.org/wiki/Azure_kingfisher",
+  "revid": 1367386523
+ },
+ "ala": {
+  "name": "Ceyx azureus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   72,
+   89,
+   62,
+   34,
+   27,
+   33,
+   27,
+   27,
+   8,
+   16,
+   22,
+   28
+  ],
+  "total": 445,
+  "share": 0.0001084
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "rel": [
+   1.32,
+   2.41,
+   1.75,
+   0.89,
+   0.86,
+   1.2,
+   0.93,
+   0.81,
+   0.21,
+   0.29,
+   0.58,
+   0.74
+  ]
+ },
+ "facts": [
+  {
+   "id": "ceyx-azureus-714986",
+   "text": "The azure kingfisher is a very colourful bird, with a deep blue to azure back and rufous-buff underparts streaked with blue-violet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Description",
+   "quote": "It is a very colourful bird, with deep blue to azure back, a large white to buff spot on the side of the neck and throat, rufous-buff with some blue-violet streaks on the breast and flanks."
+  },
+  {
+   "id": "ceyx-azureus-55ef34",
+   "text": "It has red feet with only two forward toes, an unusual trait among birds.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Description",
+   "quote": "The feet are red with only two forward toes."
+  },
+  {
+   "id": "ceyx-azureus-eec65b",
+   "text": "The white spots on its face may help ward off potential predators.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Description",
+   "quote": "The lores (the region between the eye and the bill) are white and inconspicuous except in front view, where they stand out as two large white eye-like spots which may have a role in warding off potential predators."
+  },
+  {
+   "id": "ceyx-azureus-e5e155",
+   "text": "Usually silent, the azure kingfisher gives a high-pitched, shrill \"pseet-pseet\" call, often while in flight.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Voice",
+   "quote": "Its voice is a high-pitched, shrill \"pseet-pseet\", often in flight."
+  },
+  {
+   "id": "ceyx-azureus-6ddb60",
+   "text": "It eats small fish, crustaceans, water beetles, spiders, locusts, and small frogs or tadpoles.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Feeding",
+   "quote": "The azure kingfisher feeds on small fish, crustaceans (such as shrimps, amphipods and freshwater yabbies), water beetles, spiders, locusts, and small frogs or tadpoles."
+  },
+  {
+   "id": "ceyx-azureus-98830e",
+   "text": "It is hard to spot until it suddenly darts from a perch above the water to catch prey.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Feeding",
+   "quote": "It is often difficult to see until it quickly darts from a perch above water."
+  },
+  {
+   "id": "ceyx-azureus-627a66",
+   "text": "The nest sits in a chamber at the end of a 1 m long burrow dug into an earthen creek bank.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Breeding",
+   "quote": "The nest is in a chamber at the end of a 1 m (3 ft 3 in) long burrow in an earthen creek bank."
+  },
+  {
+   "id": "ceyx-azureus-a03b62",
+   "text": "In southern Australia the breeding season runs from August to February, sometimes producing two broods.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Breeding",
+   "quote": "The breeding season of the azure kingfisher is from September to April in northern Australia and from August to February in southern Australia, sometimes with two broods."
+  },
+  {
+   "id": "ceyx-azureus-739ced",
+   "text": "Although its population is decreasing, the azure kingfisher is still listed as a species of least concern thanks to its wide distribution.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Azure_kingfisher#Conservation_status",
+   "quote": "Although the population of azure kingfishers is decreasing, their wide distribution enables classification as a species of least concern on the IUCN Red List."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1367386523
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Pomatostomus superciliosus",
+ "com": "White-browed Babbler",
+ "slug": "pomatostomus-superciliosus",
+ "wikipedia": {
+  "title": "White-browed babbler",
+  "url": "https://en.wikipedia.org/wiki/White-browed_babbler",
+  "revid": 1326058114
+ },
+ "ala": {
+  "name": "Pomatostomus (Morganornis) superciliosus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1,
+   1,
+   11,
+   0,
+   2,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "total": 20,
+  "share": 4.9e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Feb",
+   "Mar",
+   "Apr"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.38,
+   0.57,
+   6.53,
+   0.0,
+   1.34,
+   0.0,
+   0.73,
+   1.9,
+   0.0,
+   0.0,
+   0.0,
+   0.56
+  ]
+ },
+ "facts": [
+  {
+   "id": "pomatostomus-superciliosus-4acb09",
+   "text": "The white-browed babbler is the smallest of the Australian babblers, measuring 17 to 21 cm long.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Description",
+   "quote": "Ranging from 17  cm to 21  cm in length, the white-browed babbler is the smallest of the Australian babblers."
+  },
+  {
+   "id": "pomatostomus-superciliosus-bb35b1",
+   "text": "It has a long, downcurved bill, short rounded wings, a plump body and a long tail that is often fanned or raised.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Description",
+   "quote": "It is a medium-sized terrestrial bird with a long and decurved bill. The wings are short and rounded in shape, adjacent to a plump, full body"
+  },
+  {
+   "id": "pomatostomus-superciliosus-f83d00",
+   "text": "The adult is dark grey-brown to solid dark brown, with a striking white eyebrow and a dark brown eye stripe.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Description",
+   "quote": "the adult babbler generally varies from a dark grey-brown to solid dark brown with distinguished white supercilium and dark brown eye stripe"
+  },
+  {
+   "id": "pomatostomus-superciliosus-d9d6fe",
+   "text": "Its Latin name superciliosus refers to the eyebrow marking that is shared by the pomatostomine babblers.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler",
+   "quote": "The Latin name superciliosus refers to the supercilium, or 'eyebrow', which is a feature synonymous with the pomatostomine babblers"
+  },
+  {
+   "id": "pomatostomus-superciliosus-6ed1fb",
+   "text": "The most common call is a low repeated 'chuck', thought to keep the group in contact while foraging.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Voice",
+   "quote": "The most common call heard is a low repeated 'chuck' call, which is thought to be a contact call while foraging."
+  },
+  {
+   "id": "pomatostomus-superciliosus-903dbe",
+   "text": "Breeding is cooperative: groups of two to four breeding pairs and other individuals take turns incubating eggs and repairing nests.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Breeding",
+   "quote": "This is when groups of between two and four breeding pairs and various other individuals form a breeding community, which take turns incubating eggs and repairing nests."
+  },
+  {
+   "id": "pomatostomus-superciliosus-9bae8c",
+   "text": "During drought, breeding slows or females lay fewer eggs, dropping from four or five down to two.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Breeding",
+   "quote": "During drought, breeding is less prevalent, or the number of eggs laid can be reduced from four or five to two."
+  },
+  {
+   "id": "pomatostomus-superciliosus-52946c",
+   "text": "Incubation takes around 19 days, and the chicks spend a further 20 days developing in the nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Breeding",
+   "quote": "Incubation takes around 19 days, followed by a further 20 days developing in the nest."
+  },
+  {
+   "id": "pomatostomus-superciliosus-a24dc8",
+   "text": "Its diet includes insects, spiders, amphibians, crustaceans, reptiles, fruit, seeds and nuts, mostly found on the ground where it spends most of its time.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/White-browed_babbler#Feeding_and_diet",
+   "quote": "Insects, spiders, amphibians, crustaceans, reptiles, fruit, seeds and nuts have been found to be part of their diet, most commonly varieties of these which can be found on the ground where they spend the majority of their time."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1326058114
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "sci": "Malacorhynchus membranaceus",
+ "com": "Pink-eared Duck",
+ "slug": "malacorhynchus-membranaceus",
+ "wikipedia": {
+  "title": "Pink-eared duck",
+  "url": "https://en.wikipedia.org/wiki/Pink-eared_duck",
+  "revid": 1375967358
+ },
+ "ala": {
+  "name": "Malacorhynchus membranaceus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1248,
+   692,
+   545,
+   579,
+   626,
+   601,
+   571,
+   517,
+   602,
+   736,
+   974,
+   928
+  ],
+  "total": 8619,
+  "share": 0.0021003
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Mar",
+   "Apr",
+   "Sep"
+  ],
+  "rel": [
+   1.2,
+   0.99,
+   0.81,
+   0.8,
+   1.05,
+   1.14,
+   1.04,
+   0.82,
+   0.82,
+   0.7,
+   1.34,
+   1.29
+  ]
+ },
+ "facts": [
+  {
+   "id": "malacorhynchus-membranaceus-1b77f0",
+   "text": "The pink-eared duck has a large spatulate bill like the Australasian shoveler, but is smaller at 38–40 cm in length.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Description",
+   "quote": "The pink-eared duck has a large spatulate bill like the Australasian shoveler, but is smaller at 38–40 cm length."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-3ddf77",
+   "text": "Its brown back and crown, black and white barred sides and black eye patches on an otherwise white face make the bird unmistakable.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Description",
+   "quote": "Its brown back and crown, black and white barred sides and black eye patches on its otherwise white face make this bird unmistakable."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-76cad9",
+   "text": "The pink 'ear' that gives the duck its name is only noticeable at close distance.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Description",
+   "quote": "Its vernacular name refers to a pink spot in the corner formed by the black head pattern; it is only noticeable at close distance however"
+  },
+  {
+   "id": "malacorhynchus-membranaceus-eefc0d",
+   "text": "The pink-eared duck feeds on plankton, crustaceans, mollusks and insects.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Food",
+   "quote": "They are dependent on plankton, as well as crustaceans, mollusks and insects."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-77346a",
+   "text": "Two pink-eared ducks sometimes feed by vortexing, spinning around a central point to concentrate food in a gyrating water column.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Food",
+   "quote": "They also feed by vortexing, in which two ducks spin about a central point with the head of one opposite the tail of the other, concentrating food in a gyrating water column."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-363c4f",
+   "text": "In good years, large numbers of pink-eared ducks gather in shallow flood plains to nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Breeding",
+   "quote": "In good years, large numbers of pink-eared ducks concentrate in shallow flood plains."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-284d3f",
+   "text": "The species can appear anywhere in Australia with standing water, especially in dry inland regions.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Distribution",
+   "quote": "Widely distributed throughout Australia and highly mobile, these ducks can appear anywhere there is standing water, especially in dry inland regions"
+  },
+  {
+   "id": "malacorhynchus-membranaceus-ecf1ea",
+   "text": "It is the only member of the order Anseriformes known to have carotenoid pigments in its feathers.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Taxonomy_and_systematics",
+   "quote": "This species is the only member of the order Anseriformes known to have carotenoid pigments in its feathers, in the characteristic pink \"ear\" spot."
+  },
+  {
+   "id": "malacorhynchus-membranaceus-acd1b5",
+   "text": "An X-ray study in Victoria found that between 6% and 19% of all hunted ducks live with embedded shot pellets in their bodies.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Pink-eared_duck#Relationship_with_humans",
+   "quote": "An X-ray study of ducks caught using nets in Victoria found that between 6% and 19% of all hunted ducks live with embedded shot pellets in their bodies."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1375967358
+ }
+}

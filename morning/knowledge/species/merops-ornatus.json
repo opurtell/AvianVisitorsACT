@@ -1,0 +1,131 @@
+{
+ "sci": "Merops ornatus",
+ "com": "Rainbow Bee-eater",
+ "slug": "merops-ornatus",
+ "wikipedia": {
+  "title": "Rainbow bee-eater",
+  "url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater",
+  "revid": 1378766450
+ },
+ "ala": {
+  "name": "Merops (Merops) ornatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   539,
+   306,
+   323,
+   9,
+   4,
+   4,
+   2,
+   2,
+   23,
+   654,
+   500,
+   257
+  ],
+  "total": 2647,
+  "share": 0.000645
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Feb",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.97,
+   1.65,
+   1.82,
+   0.05,
+   0.03,
+   0.03,
+   0.01,
+   0.01,
+   0.12,
+   2.36,
+   2.61,
+   1.36
+  ]
+ },
+ "facts": [
+  {
+   "id": "merops-ornatus-997ed2",
+   "text": "The rainbow bee-eater is a brilliantly coloured bird with a green upper back and wings and a bright blue lower back.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Description",
+   "quote": "Rainbow bee-eaters are brilliantly coloured birds that grow to be 23–28 cm (9.1–11.0 in) in length, including the elongated tail feathers, and weighing 20–33 g (0.71–1.16 oz). The upper back and wings are green, and the lower back and under-tail coverts are bright blue."
+  },
+  {
+   "id": "merops-ornatus-9d4b52",
+   "text": "Its two central tail feathers are longer than the others, and they are longer in males than in females.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Description",
+   "quote": "The rainbow bee-eater's two central tail feathers are longer than the other tail feathers, and are longer in the male rainbow bee-eaters than in the females."
+  },
+  {
+   "id": "merops-ornatus-0596e9",
+   "text": "It has a black stripe edged with blue running through its bright red eye.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Description",
+   "quote": "it has a black crescent-shaped gorget and a black stripe, edged with blue, extending through its bright red eye"
+  },
+  {
+   "id": "merops-ornatus-7766ed",
+   "text": "The rainbow bee-eater makes loud, melodious \"pir-r-r\" calls, usually while flying.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Vocal_behaviour",
+   "quote": "The rainbow bee-eater makes a series of loud, melodious \"pir-r-r\" calls, characterised by rapid vibrating and high pitch, usually in flight."
+  },
+  {
+   "id": "merops-ornatus-000866",
+   "text": "It is a very social bird that roosts together in large groups when not breeding.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Behaviour",
+   "quote": "Like all bee-eaters, rainbow bee-eaters are very social birds. When they are not breeding they roost together in large groups in dense undergrowth or large trees."
+  },
+  {
+   "id": "merops-ornatus-846aa8",
+   "text": "It can spot a flying insect up to 45 metres away and swoops down to catch it in its long, slender, black bill.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Diet",
+   "quote": "Rainbow bee-eaters are always watching for flying insects, and can spot a potential meal up to 45 metres away. Once it spots an insect a bee-eater will swoop down from its perch and catch it in its long, slender, black bill and fly back to its perch."
+  },
+  {
+   "id": "merops-ornatus-48d673",
+   "text": "It rubs a captured bee's stinger against its perch to remove it, closing its eyes to avoid poison from the ruptured poison sac.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Diet",
+   "quote": "upon capturing a bee they will rub the insect's stinger against their perch to remove it, closing their eyes to avoid being squirted with poison from the ruptured poison sac"
+  },
+  {
+   "id": "merops-ornatus-73a002",
+   "text": "A bee-eater can eat several hundred bees a day, which makes it unpopular with beekeepers despite controlling pest insects like locusts.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Diet",
+   "quote": "Bee-eaters can eat several hundred bees a day, so they are obviously resented by beekeepers, but their damage is generally balanced by their role in keeping pest insects such as locusts and hornets under control."
+  },
+  {
+   "id": "merops-ornatus-13a304",
+   "text": "Rainbow bee-eaters are common in southern Australia in summer and migrate north to northern Australia, New Guinea, and Indonesian islands in winter.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Rainbow_bee-eater#Distribution_and_habitat",
+   "quote": "Rainbow bee-eaters are a common species and can be found during the summer in forested areas in most of southern Australia, excluding Tasmania. They migrate north during the winter into northern Australia, New Guinea, and some of the southern islands of Indonesia."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1378766450
+ }
+}

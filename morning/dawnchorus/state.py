@@ -1,6 +1,6 @@
 """What earlier editions featured, so leads and regulars rotate.
 
-state/featured.json: {"YYYY-MM-DD": {"lead": sci, "regular": sci}, ...}
+state/featured.json: {"YYYY-MM-DD": {"lead": sci, "regular": sci, "facts": [id, ...]}, ...}
 
 Lookups only consider dates *before* the edition being built, so
 re-running a date (or a backtest) gives the same picks.
@@ -43,8 +43,16 @@ class History:
         hits = [d for d, v in self._before(day) if sci in (v.get("lead"), v.get("regular"))]
         return max(hits, default=None)
 
-    def record(self, day, lead, regular):
-        self.entries[day.isoformat()] = {"lead": lead, "regular": regular}
+    def facts_used(self, day):
+        """fact id -> most recent date before `day` it was printed."""
+        out = {}
+        for d, v in self._before(day):
+            for fid in v.get("facts", []):
+                out[fid] = max(d, out.get(fid, d))
+        return out
+
+    def record(self, day, lead, regular, facts=()):
+        self.entries[day.isoformat()] = {"lead": lead, "regular": regular, "facts": list(facts)}
 
     def save(self):
         self.path.parent.mkdir(parents=True, exist_ok=True)

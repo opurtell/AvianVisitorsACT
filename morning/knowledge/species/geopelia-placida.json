@@ -1,0 +1,131 @@
+{
+ "sci": "Geopelia placida",
+ "com": "Peaceful Dove",
+ "slug": "geopelia-placida",
+ "wikipedia": {
+  "title": "Peaceful dove",
+  "url": "https://en.wikipedia.org/wiki/Peaceful_dove",
+  "revid": 1376652208
+ },
+ "ala": {
+  "name": "Geopelia placida",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   103,
+   47,
+   37,
+   54,
+   35,
+   16,
+   19,
+   43,
+   32,
+   37,
+   34,
+   38
+  ],
+  "total": 500,
+  "share": 0.0001218
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Oct"
+  ],
+  "rel": [
+   1.79,
+   1.21,
+   0.99,
+   1.34,
+   1.06,
+   0.55,
+   0.62,
+   1.23,
+   0.78,
+   0.63,
+   0.84,
+   0.95
+  ]
+ },
+ "facts": [
+  {
+   "id": "geopelia-placida-4a743a",
+   "text": "The peaceful dove is a small pigeon found across Australia and New Guinea.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove",
+   "quote": "The peaceful dove (Geopelia placida) is a pigeon native to Australia and New Guinea."
+  },
+  {
+   "id": "geopelia-placida-82773c",
+   "text": "It has a pink-grey breast with chequered grey-brown wings.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Description",
+   "quote": "The peaceful dove has a pink-grey breast with chequered grey-brown wings."
+  },
+  {
+   "id": "geopelia-placida-169af5",
+   "text": "Its calls include high-pitched 'doodle-doo', 'co-co-coo' and 'croorrr!'.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Description",
+   "quote": "Calls of the peaceful dove are high-pitched \"doodle-doo\", \"co-co-coo\" and \"croorrr!\"."
+  },
+  {
+   "id": "geopelia-placida-a05d5d",
+   "text": "The peaceful dove feeds off the ground and is commonly seen in streets and gardens.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Behaviour",
+   "quote": "They feed off the ground and are found commonly in streets and gardens."
+  },
+  {
+   "id": "geopelia-placida-50c924",
+   "text": "When not feeding on the ground, it can be found roosting in trees.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Behaviour",
+   "quote": "When not found on the ground feeding, they can be found in trees roosting."
+  },
+  {
+   "id": "geopelia-placida-dfcb5e",
+   "text": "Its wings make a flushing 'frrr' noise when the birds are in flight.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Behaviour",
+   "quote": "The wings make a flushing \"frrr\" noise when the birds are in flight."
+  },
+  {
+   "id": "geopelia-placida-e42ba2",
+   "text": "Two white eggs are laid in nests built on horizontal branches of trees.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Nesting",
+   "quote": "Nests are built on horizontal branches of trees. Two white eggs are laid."
+  },
+  {
+   "id": "geopelia-placida-27ee0d",
+   "text": "Peaceful doves become very aggressive to other birds when breeding.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Nesting",
+   "quote": "The doves are very aggressive to other birds when breeding."
+  },
+  {
+   "id": "geopelia-placida-712a01",
+   "text": "Its range is shrinking because of competition with the introduced spotted turtle dove.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Peaceful_dove#Distribution",
+   "quote": "Unfortunately, the doves' range is reducing due to competition with the introduced spotted turtle dove."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376652208
+ }
+}

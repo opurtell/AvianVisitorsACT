@@ -116,7 +116,7 @@
     {% endif %}
     {% if prose.did_you_know %}
     <h3 class="dyk">Did You Know?</h3>
-    <ul>{% for f in prose.did_you_know %}<li>{{ f }}</li>{% endfor %}</ul>
+    <ul>{% for f in prose.did_you_know %}<li><b>{{ f.com }}.</b> {{ f.text }} <a class="src" href="{{ f.source_url }}" title="Source: Wikipedia, {{ f.com }}">[source]</a></li>{% endfor %}</ul>
     {% endif %}
   </section>
 </section>
@@ -151,7 +151,7 @@
 
 <footer>
   <p><b>About this paper.</b> The Dawn Chorus is written each morning from a microphone in {{ ed.place }} running BirdNET, which identifies birds by their calls. Counts are calls detected, not individual birds. Times are local; the edition covers the 24 hours to {{ ed.window_end|clock }}.</p>
-  <p>Illustrations: AvianVisitors ACT, CC BY-NC-SA 4.0. Range scores: BirdNET (K. Lisa Yang Center for Conservation Bioacoustics &amp; Chemnitz University of Technology).{% if prose.source == 'template' %} Text set by the house template.{% endif %}</p>
+  <p>Illustrations: AvianVisitors ACT, CC BY-NC-SA 4.0. Range scores: BirdNET (K. Lisa Yang Center for Conservation Bioacoustics &amp; Chemnitz University of Technology). Bird facts drawn from Wikipedia (CC BY-SA 4.0; each links to its article). Seasonal patterns from ACT records on the <a href="https://www.ala.org.au/">Atlas of Living Australia</a>.{% if prose.source == 'template' %} Text set by the house template.{% endif %}</p>
   <p><a href="archive.html">Past editions</a></p>
 </footer>
 </div>

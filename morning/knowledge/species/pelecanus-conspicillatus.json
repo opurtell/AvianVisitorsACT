@@ -1,0 +1,138 @@
+{
+ "sci": "Pelecanus conspicillatus",
+ "com": "Australian Pelican",
+ "slug": "pelecanus-conspicillatus",
+ "wikipedia": {
+  "title": "Australian pelican",
+  "url": "https://en.wikipedia.org/wiki/Australian_pelican",
+  "revid": 1371952605
+ },
+ "ala": {
+  "name": "Pelecanus conspicillatus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1941,
+   1232,
+   1006,
+   986,
+   697,
+   566,
+   636,
+   783,
+   1028,
+   1503,
+   1397,
+   1439
+  ],
+  "total": 13264,
+  "share": 0.0032322
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "rel": [
+   1.25,
+   1.18,
+   1.0,
+   0.91,
+   0.79,
+   0.72,
+   0.78,
+   0.83,
+   0.93,
+   0.96,
+   1.29,
+   1.35
+  ]
+ },
+ "facts": [
+  {
+   "id": "pelecanus-conspicillatus-84f5ab",
+   "text": "During courtship, the skin around its eye and the tip of its bill turn orange, while the pouch shifts through dark blue, pink and scarlet.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Description",
+   "quote": "During courtship, the orbital skin and distal quarter of the bill are orange-coloured with the pouch variously turning dark blue, pink and scarlet."
+  },
+  {
+   "id": "pelecanus-conspicillatus-ff9c93",
+   "text": "Pelicans hunt cooperatively, working in groups to herd fish into shallow water where they snatch prey with their sensitive bills.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Feeding",
+   "quote": "They work in groups to drive fish to shallower water, where they stick their sensitive bills in to snatch their prey."
+  },
+  {
+   "id": "pelecanus-conspicillatus-89e297",
+   "text": "It has no fixed migration schedule, simply following food supplies; when Lake Eyre filled in 1974 to 1976, coastal cities were left with only a handful of pelicans.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Distribution_and_habitat",
+   "quote": "Australian pelicans follow no particular schedule of regular movement, simply following the availability of food supplies. Drought frequently precedes movements. When the normally barren Lake Eyre filled during 1974 to 1976, for example, only a handful of pelicans remained around the coastal cities"
+  },
+  {
+   "id": "pelecanus-conspicillatus-08c48a",
+   "text": "In parts of South Australia the pelican is known by its Ngarrindjeri name, nori, and it was the totem of singer Ruby Hunter.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Local_names",
+   "quote": "In parts of South Australia the pelican is known by its Ngarrindjeri name, nori. It was the totem of singer Ruby Hunter."
+  },
+  {
+   "id": "pelecanus-conspicillatus-43e08a",
+   "text": "It has the largest bill in the avian world, a pale pinkish bill that is enormous even by pelican standards.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Description",
+   "quote": "The pale, pinkish bill is enormous, even by pelican standards, and is the largest bill in the avian world."
+  },
+  {
+   "id": "pelecanus-conspicillatus-a67769",
+   "text": "With an average weight of 5.5 kg, it is the second heaviest Australian flying bird species, after the brolga.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Description",
+   "quote": "The average weight of four unsexed Australian pelicans was 5.5 kg (12 lb), making this the second heaviest Australian flying bird species on average, after the brolga"
+  },
+  {
+   "id": "pelecanus-conspicillatus-f2af8b",
+   "text": "It is an occasional kleptoparasite, stealing meals from other water birds such as cormorants.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Feeding",
+   "quote": "The Australian pelican is an occasional kleptoparasite of other water birds, such as cormorants."
+  },
+  {
+   "id": "pelecanus-conspicillatus-63ea9a",
+   "text": "It takes other birds such as silver gulls, Australian white ibis and grey teal, sometimes pinning them underwater and drowning them.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Feeding",
+   "quote": "This pelican also takes other birds with some frequency, such as silver gulls, Australian white ibis and grey teal, including eggs, nestlings, fledglings and adults, which they may kill by pinning them underwater and drowning them."
+  },
+  {
+   "id": "pelecanus-conspicillatus-d42f4d",
+   "text": "When the chicks are around 25 days old, feeding pods are formed within the colonies.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Breeding",
+   "quote": "Feeding pods are formed within colonies when the chicks are around 25 days."
+  },
+  {
+   "id": "pelecanus-conspicillatus-d2a914",
+   "text": "In places like Monkey Mia in Western Australia, pelicans may associate with humans and even beg for hand-outs.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Australian_pelican#Status",
+   "quote": "In several areas, such as the beach at Monkey Mia, Western Australia and at The Entrance, New South Wales, pelicans may associate with humans and may even beg for hand-outs, but they are quite sensitive to human disturbances while nesting."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1371952605
+ }
+}

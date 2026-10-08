@@ -1,0 +1,131 @@
+{
+ "sci": "Myiagra rubecula",
+ "com": "Leaden Flycatcher",
+ "slug": "myiagra-rubecula",
+ "wikipedia": {
+  "title": "Leaden flycatcher",
+  "url": "https://en.wikipedia.org/wiki/Leaden_flycatcher",
+  "revid": 1315096416
+ },
+ "ala": {
+  "name": "Myiagra (Myiagra) rubecula",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   1996,
+   994,
+   417,
+   64,
+   5,
+   1,
+   0,
+   4,
+   62,
+   2159,
+   1584,
+   1324
+  ],
+  "total": 8672,
+  "share": 0.0021132
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Nov",
+   "Dec"
+  ],
+  "low": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "rel": [
+   2.26,
+   1.66,
+   0.73,
+   0.1,
+   0.01,
+   0.0,
+   0.0,
+   0.01,
+   0.1,
+   2.41,
+   2.56,
+   2.16
+  ]
+ },
+ "facts": [
+  {
+   "id": "myiagra-rubecula-693045",
+   "text": "The male leaden flycatcher is a lustrous azure bird with white underparts, while the female wears a leaden head and back with a rufous throat and breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher",
+   "quote": "Around 15 cm (6 in) in length, the male is lustrous azure with white underparts, while the female possesses leaden head, mantle and back and rufous throat and breast."
+  },
+  {
+   "id": "myiagra-rubecula-44adcc",
+   "text": "It catches insects on the wing, hopping actively between branches as it hunts.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Behaviour",
+   "quote": "As its name suggests, the leaden flycatcher is insectivorous. A very active and agile bird, it hops between branches and catches insects in flight."
+  },
+  {
+   "id": "myiagra-rubecula-cbffdc",
+   "text": "Around Sydney the bird is known as the frogbird, a name derived from its guttural call.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Taxonomy_and_systematics",
+   "quote": "A local name around Sydney is frogbird, derived from its guttural call."
+  },
+  {
+   "id": "myiagra-rubecula-3d805c",
+   "text": "The nest is a deep cup of bark strips and dry grass, woven with spider webs and decorated with lichen, placed 5-10 m up on a small branch away from the trunk.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Breeding",
+   "quote": "The nest is a deep cup made of strips of bark and dry grass, woven together with spider webs and decorated with lichen, generally sited on a small branch well away from the trunk of a sizeable tree some 5–10 m above the ground."
+  },
+  {
+   "id": "myiagra-rubecula-13513c",
+   "text": "Its two or three bluish, greyish or lavender-tinted white eggs have an unusual swollen oval shape.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Breeding",
+   "quote": "Two or three white eggs tinted bluish, greyish or lavender and splotched with dark grey-brown are laid measuring 17 mm x 14 mm. They have an unusual swollen oval shape."
+  },
+  {
+   "id": "myiagra-rubecula-35d757",
+   "text": "Both parents incubate the eggs and brood the chicks, though the female does slightly more and alone incubates at night.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Breeding",
+   "quote": "Both sexes incubate the eggs and brood the chicks, although the female undertakes slightly more of the duties and also incubates at night."
+  },
+  {
+   "id": "myiagra-rubecula-758629",
+   "text": "Nesting is risky business: only 23% of nests successfully fledge a chick.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Breeding",
+   "quote": "Nesting success is low, with only 23% of nests successfully fledging a chick."
+  },
+  {
+   "id": "myiagra-rubecula-00e036",
+   "text": "The brush cuckoo parasitises the leaden flycatcher, laying its eggs in the flycatcher's nest.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Breeding",
+   "quote": "The species is parasitised by the brush cuckoo (Cacomantis variolosus)."
+  },
+  {
+   "id": "myiagra-rubecula-6d8972",
+   "text": "It is highly migratory, moving from northwestern Australia across the Top End and Cape York and down the east coast to central-southern Victoria.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Leaden_flycatcher#Distribution_and_habitat",
+   "quote": "The leaden flycatcher is found from King Sound in northwestern Australia, across the Top End to Cape York, and then down the east coast to central-southern Victoria. It is rare in Tasmania. It is highly migratory within this range."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1315096416
+ }
+}

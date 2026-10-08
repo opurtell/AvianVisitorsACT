@@ -1,0 +1,138 @@
+{
+ "sci": "Synoicus ypsilophorus",
+ "com": "Brown Quail",
+ "slug": "synoicus-ypsilophorus",
+ "wikipedia": {
+  "title": "Brown quail",
+  "url": "https://en.wikipedia.org/wiki/Brown_quail",
+  "revid": 1369463305
+ },
+ "ala": {
+  "name": "Synoicus ypsilophora",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   423,
+   221,
+   178,
+   146,
+   172,
+   165,
+   135,
+   125,
+   146,
+   266,
+   221,
+   200
+  ],
+  "total": 2434,
+  "share": 0.0005931
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Apr",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   1.5,
+   1.16,
+   0.97,
+   0.74,
+   1.06,
+   1.15,
+   0.9,
+   0.73,
+   0.73,
+   0.93,
+   1.12,
+   1.02
+  ]
+ },
+ "facts": [
+  {
+   "id": "synoicus-ypsilophorus-1635d4",
+   "text": "The brown quail is also known as the swamp quail, silver quail and Tasmanian quail.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail",
+   "quote": "The brown quail (Synoicus ypsilophorus), also known as the swamp quail, silver quail and Tasmanian quail, is an Australasian true quail of the family Phasianidae."
+  },
+  {
+   "id": "synoicus-ypsilophorus-4c9d8a",
+   "text": "This plump, stocky bird grows up to 17 to 22 centimetres long and weighs 75 to 140 grams.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Description",
+   "quote": "The brown quail is a plump, stocky bird which can grow up to a length of 17 to 22 centimetres (6+1⁄2 to 8+1⁄2 in) and weight of 75 to 140 grams (2+3⁄4 to 5 oz)."
+  },
+  {
+   "id": "synoicus-ypsilophorus-23c209",
+   "text": "The male is reddish-brown speckled with black on the head and upper neck, with black chevron-shaped barring on its underparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Description",
+   "quote": "The male is reddish-brown speckled with black on the head and upper neck and mainly reddish-brown on back and wings. The underparts range from buff or rufous to brown, but always with fine black chevron-shaped barring."
+  },
+  {
+   "id": "synoicus-ypsilophorus-2c03ac",
+   "text": "The female is paler than the male, with small black spots on her shoulder and dark chevron-shaped markings on her upperparts.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Description",
+   "quote": "The female is similar but rather paler. There are small black spots on the shoulder of the female and the upperparts are barred with dark chevron-shaped markings."
+  },
+  {
+   "id": "synoicus-ypsilophorus-52d984",
+   "text": "Brown quails communicate with shrill calls as they move through dense vegetation, including a double whistle whose second note ascends.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Description",
+   "quote": "The voice consists of a variety of shrill calls with which the birds communicate as they move through dense vegetation.  One call is a double whistle, the latter note ascending."
+  },
+  {
+   "id": "synoicus-ypsilophorus-abfc4c",
+   "text": "When a group of brown quails is startled into the air, they scatter in different directions and regroup once the danger has passed.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Biology",
+   "quote": "If the group is startled and take to the air, the birds scatter by flying in different directions, regrouping when the danger has passed."
+  },
+  {
+   "id": "synoicus-ypsilophorus-6f6879",
+   "text": "Brown quail are ground-dwellers that would rather hide or run than fly, and feed on grasses, seeds, shoots and small invertebrates.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Biology",
+   "quote": "The brown quail is a ground-dwelling bird that prefers to hide or run rather than fly. It is found in small groups and feeds on grasses, seeds, shoots and small invertebrates."
+  },
+  {
+   "id": "synoicus-ypsilophorus-f516ef",
+   "text": "Brown quails nest on the ground in a shallow scrape lined with grasses, often hidden in a grass tussock or shrubby bush.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Biology",
+   "quote": "clutches of half a dozen or more eggs being laid in a shallow scraped nest lined with grasses on the ground, often concealed in a grass tussock or shrubby bush"
+  },
+  {
+   "id": "synoicus-ypsilophorus-20379a",
+   "text": "The female incubates the eggs for three weeks, and after two weeks the male takes over chick care so she can start the next clutch.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#Biology",
+   "quote": "These are incubated by the female for the three-week incubation period. The newly hatched chicks are precocial and are cared for by both parents for a while, with the male taking on the caring role after two weeks to allow the female to start on the next clutch of eggs."
+  },
+  {
+   "id": "synoicus-ypsilophorus-b576bd",
+   "text": "The Kunwinjku people of western Arnhem Land call this bird djirndih, djiribbidj or merhmerh.",
+   "topic": "people",
+   "source_url": "https://en.wikipedia.org/wiki/Brown_quail#In_Aboriginal_language_and_culture",
+   "quote": "The Kunwinjku people of western Arnhem Land call this bird djirndih, djiribbidj or merhmerh (all quails)."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1369463305
+ }
+}

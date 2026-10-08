@@ -1,0 +1,124 @@
+{
+ "sci": "Turnix varius",
+ "com": "Painted Buttonquail",
+ "slug": "turnix-varius",
+ "wikipedia": {
+  "title": "Painted buttonquail",
+  "url": "https://en.wikipedia.org/wiki/Painted_buttonquail",
+  "revid": 1314682855
+ },
+ "ala": {
+  "name": "Turnix (Austroturnix) varius",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   65,
+   48,
+   32,
+   36,
+   30,
+   20,
+   37,
+   27,
+   55,
+   71,
+   28,
+   49
+  ],
+  "total": 500,
+  "share": 0.0001218
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Aug",
+   "Sep"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jul"
+  ],
+  "rel": [
+   1.11,
+   1.21,
+   0.85,
+   0.88,
+   0.9,
+   0.68,
+   1.2,
+   0.76,
+   1.32,
+   1.2,
+   0.68,
+   1.21
+  ]
+ },
+ "facts": [
+  {
+   "id": "turnix-varius-596c58",
+   "text": "The painted buttonquail is about 19 to 20 cm long and spends its life on the ground.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Description",
+   "quote": "The painted buttonquail is about 19 to 20 cm (7.5 to 7.9 in) long. It is a ground-dwelling bird"
+  },
+  {
+   "id": "turnix-varius-5641f4",
+   "text": "The female is the showier sex, with red eyes and white-flecked crown, face and breast.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Description",
+   "quote": "The female is the more brightly coloured of the sexes.  Her eyes are red, and her crown, face and breast are flecked with white."
+  },
+  {
+   "id": "turnix-varius-d040da",
+   "text": "The male is slightly smaller and duller in colour than the female.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Description",
+   "quote": "The male is slightly smaller and duller in colour."
+  },
+  {
+   "id": "turnix-varius-f97117",
+   "text": "In a role reversal, the male incubates the eggs for a fortnight and then cares for the young.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Description",
+   "quote": "the males incubate the eggs for a fortnight and then care for the young"
+  },
+  {
+   "id": "turnix-varius-822efa",
+   "text": "Painted buttonquails live in grassy forests and woodlands.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Description",
+   "quote": "It is a ground-dwelling bird and is found in grassy forests and woodlands."
+  },
+  {
+   "id": "turnix-varius-6982cb",
+   "text": "The species ranges across eastern and southern Australia, from Queensland to Tasmania, with a separate population in southwestern Western Australia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Distribution_and_habitat",
+   "quote": "Its range extends from Queensland southwards to New South Wales, Victoria, South Australia and Tasmania. A separate population is present in the southwestern part of Western Australia."
+  },
+  {
+   "id": "turnix-varius-a42df0",
+   "text": "Painted buttonquails became established on Rottnest Island around 2002.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Distribution_and_habitat",
+   "quote": "The painted buttonquail became established on Rottnest Island around 2002."
+  },
+  {
+   "id": "turnix-varius-89dbb1",
+   "text": "Although numbers are suspected to be in decline, the IUCN lists the painted buttonquail as being of Least Concern.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Painted_buttonquail#Status",
+   "quote": "numbers are suspected to be in decline. It is said to be common in suitable habitat in some areas and uncommon in others. The IUCN has listed it as being of \"Least Concern\"."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1314682855
+ }
+}

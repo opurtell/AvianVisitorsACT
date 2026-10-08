@@ -1,0 +1,138 @@
+{
+ "sci": "Numenius phaeopus",
+ "com": "Whimbrel",
+ "slug": "numenius-phaeopus",
+ "wikipedia": {
+  "title": "Eurasian whimbrel",
+  "url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel",
+  "revid": 1376523784
+ },
+ "ala": {
+  "name": "Numenius (Phaeopus) phaeopus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "total": 2,
+  "share": 5e-07
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Mar"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.0,
+   12.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "numenius-phaeopus-9d8839",
+   "text": "The whimbrel has a long curved beak with a distinctive kink rather than a smooth curve.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Description",
+   "quote": "a long curved beak with a kink rather than a smooth curve"
+  },
+  {
+   "id": "numenius-phaeopus-7032f3",
+   "text": "Its usual call is a rippling whistle, prolonged into a trill for the song.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Description",
+   "quote": "The usual call is a rippling whistle, prolonged into a trill for the song."
+  },
+  {
+   "id": "numenius-phaeopus-e09ee1",
+   "text": "The English name 'whimbrel' imitates the sound of the bird's call.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Taxonomy",
+   "quote": "The English name \"whimbrel\" is imitative of the bird's call."
+  },
+  {
+   "id": "numenius-phaeopus-981f83",
+   "text": "It feeds by probing soft mud for small invertebrates and picking small crabs off the surface.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Food_and_feeding",
+   "quote": "feeds by probing soft mud for small invertebrates and by picking small crabs and similar prey off the surface"
+  },
+  {
+   "id": "numenius-phaeopus-25f331",
+   "text": "Before migration, berries become an important part of its diet, and it has even been seen catching blue tiger butterflies.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Food_and_feeding",
+   "quote": "Before migration, berries become an important part of its diet. It has also been observed taking insects, specifically blue tiger butterflies."
+  },
+  {
+   "id": "numenius-phaeopus-cccedb",
+   "text": "The nest is a bare scrape on tundra or Arctic moorland, where three to five eggs are laid.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Breeding",
+   "quote": "The nest is a bare scrape on tundra or Arctic moorland, often in low vegetation or moss but rarely in deep grass or marshland. Three to five eggs are laid."
+  },
+  {
+   "id": "numenius-phaeopus-79ecc1",
+   "text": "A mother whimbrel stays motionless until danger nears, then lures it away by flying off and making noises.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Breeding",
+   "quote": "The mother remains motionless until a potential threat draws too close, then flies off a short distance and walks around making noises to try to lure the threat away."
+  },
+  {
+   "id": "numenius-phaeopus-910449",
+   "text": "Chicks are fluffy, yellow and black, and become quite mobile on the ground within a couple weeks of hatching.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Breeding",
+   "quote": "The chicks are fluffy, yellow and black, with a short beak (unlike the adults) and strong scaly grey legs. Within a couple weeks of hatching they become quite mobile on the ground"
+  },
+  {
+   "id": "numenius-phaeopus-b131ed",
+   "text": "It breeds in Scotland, around Shetland, Orkney and the Outer Hebrides, and winters on coasts in Africa, South Asia and Australasia.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Distribution_and_migration",
+   "quote": "it breeds in Scotland, particularly around Shetland, Orkney, the Outer Hebrides as well as the mainland at Sutherland and Caithness. lt is a migratory bird wintering on coasts in Africa, South Asia and Australasia"
+  },
+  {
+   "id": "numenius-phaeopus-f35210",
+   "text": "Iceland holds one-third of the world's breeding population, but whimbrel numbers there are crashing, likely due to development.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Eurasian_whimbrel#Conservation",
+   "quote": "In Iceland, home to one-third of the world's breeding population, the populations are crashing in most areas. Development is considered the most likely cause."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1376523784
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Cacomantis pallidus",
+ "com": "Pallid Cuckoo",
+ "slug": "cacomantis-pallidus",
+ "wikipedia": {
+  "title": "Pallid cuckoo",
+  "url": "https://en.wikipedia.org/wiki/Pallid_cuckoo",
+  "revid": 1372179878
+ },
+ "ala": {
+  "name": "Heteroscenes pallidus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   76,
+   74,
+   61,
+   6,
+   1,
+   8,
+   2,
+   59,
+   356,
+   722,
+   207,
+   109
+  ],
+  "total": 1698,
+  "share": 0.0004138
+ },
+ "seasonality": {
+  "class": "summer migrant",
+  "confidence": "high",
+  "peak": [
+   "Sep",
+   "Oct",
+   "Nov"
+  ],
+  "low": [
+   "Apr",
+   "May",
+   "Jun"
+  ],
+  "rel": [
+   0.44,
+   0.63,
+   0.55,
+   0.05,
+   0.01,
+   0.09,
+   0.02,
+   0.56,
+   2.9,
+   4.13,
+   1.71,
+   0.91
+  ]
+ },
+ "facts": [
+  {
+   "id": "cacomantis-pallidus-503fd6",
+   "text": "The pallid cuckoo grows to between 28 and 33 cm long, with a dark bill, a gold eye-ring and olive grey feet.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo",
+   "quote": "It is between 28 and 33 cm (11 and 13 in) in size, with distinctive markings such as a dark bill, a dark eye with a gold eye-ring and olive grey feet"
+  },
+  {
+   "id": "cacomantis-pallidus-8d9700",
+   "text": "Its silhouette resembles a falcon, and this shape often triggers alarm calls from passerines.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Description",
+   "quote": "Its silhouette resembles a falcon and often triggers alarm calls from passerines."
+  },
+  {
+   "id": "cacomantis-pallidus-fb8e85",
+   "text": "In flight it shows conspicuous white and dark bars across its long tail.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Description",
+   "quote": "In flight, there are conspicuous white and dark bars across the long tail."
+  },
+  {
+   "id": "cacomantis-pallidus-0d9161",
+   "text": "It is a brood parasite that lays its eggs in the nests of other species and leaves the host to raise its chick.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Breeding",
+   "quote": "Brood parasites lay their eggs in the nests of other species, abandoning their egg and leaving it to the care of the host bird whose nest it is in."
+  },
+  {
+   "id": "cacomantis-pallidus-e89563",
+   "text": "It has been recorded exploiting more than 100 different species of passerines as hosts.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Breeding",
+   "quote": "The pallid cuckoo is recorded to have exploited over 100 different species of passerines, though not all of these have been observed to raise chicks to fledgling."
+  },
+  {
+   "id": "cacomantis-pallidus-1a1e93",
+   "text": "Breeding takes place between July and December.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Breeding",
+   "quote": "Breeding of the pallid cuckoo occurs between July and December."
+  },
+  {
+   "id": "cacomantis-pallidus-c2e8c6",
+   "text": "It winters in central inland Australia and the Northern Territory, then migrates to south-east Australia's coast and Tasmania around September or October.",
+   "topic": "range",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Distribution_and_habitat",
+   "quote": "It spends the winter months in central inland Australia and the Northern Territory. The cuckoo then migrates to South East Australia's coastal region and Tasmania, arriving generally around September or October, sometimes earlier."
+  },
+  {
+   "id": "cacomantis-pallidus-cd67b5",
+   "text": "One of its common names, brain-fever bird, comes from its monotonous repetitive call.",
+   "topic": "name",
+   "source_url": "https://en.wikipedia.org/wiki/Pallid_cuckoo#Taxonomy",
+   "quote": "Other common names include unadorned cuckoo, semitone-bird, scale-bird, and brain-fever bird—from its monotonous repetitive call."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372179878
+ }
+}

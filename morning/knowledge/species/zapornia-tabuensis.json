@@ -1,0 +1,124 @@
+{
+ "sci": "Zapornia tabuensis",
+ "com": "Spotless Crake",
+ "slug": "zapornia-tabuensis",
+ "wikipedia": {
+  "title": "Spotless crake",
+  "url": "https://en.wikipedia.org/wiki/Spotless_crake",
+  "revid": 1350718808
+ },
+ "ala": {
+  "name": "Zapornia tabuensis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   296,
+   216,
+   205,
+   104,
+   129,
+   129,
+   64,
+   96,
+   150,
+   211,
+   145,
+   197
+  ],
+  "total": 1942,
+  "share": 0.0004732
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jan",
+   "Feb",
+   "Dec"
+  ],
+  "low": [
+   "Jul",
+   "Aug",
+   "Sep"
+  ],
+  "rel": [
+   1.29,
+   1.39,
+   1.38,
+   0.65,
+   0.98,
+   1.11,
+   0.53,
+   0.69,
+   0.92,
+   0.91,
+   0.9,
+   1.24
+  ]
+ },
+ "facts": [
+  {
+   "id": "zapornia-tabuensis-ca0f06",
+   "text": "The spotless crake's deep red eyes contrast sharply with its bluish-grey slate head.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Description",
+   "quote": "Its bill is black, and its eyes are a deep red which contrast sharply with the head."
+  },
+  {
+   "id": "zapornia-tabuensis-a9e087",
+   "text": "Its song is a rapid series of roughly 25 notes per second, making it the bird's loudest call.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Description",
+   "quote": "This call is made up of a rapid series of notes which are roughly 25 per second,  making it its loudest call."
+  },
+  {
+   "id": "zapornia-tabuensis-002e26",
+   "text": "Spotless crakes eat a hugely varied omnivorous diet, from seeds and fruits to spiders, mollusks and carrion.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Food_and_feeding",
+   "quote": "Their diet consists of seeds, fruits, shoots of grasses, leaves of aquatic plants, adult and larval insects, mollusks, crustaceans, spiders, carrion, worms, beetles, and other insects."
+  },
+  {
+   "id": "zapornia-tabuensis-abbbea",
+   "text": "Nests are interwoven grasses built within tussock sedge and raupo, sitting 30 to 50 centimetres above the water.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Breeding",
+   "quote": "Nests are made up of interwoven grasses within patches of tussock sedge and raupo. They usually breed in large, dense, and tall stands of reeds, rushes, sedges, and grass tussocks. Their nests are found between 30 – 50 cm above the water"
+  },
+  {
+   "id": "zapornia-tabuensis-59cec2",
+   "text": "Clutch sizes grow as the season progresses, from three eggs in August and September to five by December.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Breeding",
+   "quote": "It is believed there is evidence to suggest that clutch size increases as the season progresses; from 3 egg clutches in August and September to 5 egg clutches in December."
+  },
+  {
+   "id": "zapornia-tabuensis-faeccc",
+   "text": "Spotless crake chicks can catch live prey from just three days old.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Breeding",
+   "quote": "After hatching, the chicks remain in the nest for up to four days, and have the ability to catch live prey from three days old."
+  },
+  {
+   "id": "zapornia-tabuensis-984014",
+   "text": "Though usually shy wetland birds, on some small islands they live and forage in dry forest where wetlands are sparse.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Distribution_and_habitat",
+   "quote": "On some small offshore islands, where wetlands are sparse, they have been known to live and forage in dry forest."
+  },
+  {
+   "id": "zapornia-tabuensis-65d10d",
+   "text": "Parent crakes may feign injury to distract predators such as cats, dogs, mustelids and rats.",
+   "topic": "conservation",
+   "source_url": "https://en.wikipedia.org/wiki/Spotless_crake#Threats",
+   "quote": "Due to the introduction of mammalian predators, the spotless crake is vulnerable to predation. Predators include cats, dogs, mustelids, and rats. The major predator threat appear to be cats. Parents may feign injury to distract predators if they are present."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1350718808
+ }
+}

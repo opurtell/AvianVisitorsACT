@@ -1,0 +1,131 @@
+{
+ "sci": "Ptilonorhynchus violaceus",
+ "com": "Satin Bowerbird",
+ "slug": "ptilonorhynchus-violaceus",
+ "wikipedia": {
+  "title": "Satin bowerbird",
+  "url": "https://en.wikipedia.org/wiki/Satin_bowerbird",
+  "revid": 1372547314
+ },
+ "ala": {
+  "name": "Ptilonorhynchus violaceus",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   2105,
+   1386,
+   1331,
+   1670,
+   1459,
+   1397,
+   1508,
+   1748,
+   1430,
+   1938,
+   1231,
+   1536
+  ],
+  "total": 20025,
+  "share": 0.0048797
+ },
+ "seasonality": {
+  "class": "resident",
+  "confidence": "high",
+  "peak": [
+   "Jun",
+   "Jul",
+   "Aug"
+  ],
+  "low": [
+   "Oct",
+   "Nov",
+   "Dec"
+  ],
+  "rel": [
+   0.92,
+   0.89,
+   0.9,
+   1.04,
+   1.11,
+   1.2,
+   1.24,
+   1.25,
+   0.88,
+   0.83,
+   0.77,
+   0.97
+  ]
+ },
+ "facts": [
+  {
+   "id": "ptilonorhynchus-violaceus-2c1d3a",
+   "text": "The satin bowerbird's glossy black male feathers catch the light to look a deep, almost metallic shiny blue.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Description",
+   "quote": "light diffraction by the surface texture of the feathers results in an almost metallic sheen giving a deep shiny blue appearance"
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-1b583a",
+   "text": "Both adult males and females have striking violet-blue eyes.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Description",
+   "quote": "Mature males have violet-blue eyes"
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-c3ede1",
+   "text": "Young satin bowerbirds as chicks are fed largely on beetles, grasshoppers and cicadas.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Diet",
+   "quote": "As nestlings, however, they are largely fed on beetles, grasshoppers and cicadas until they can fly."
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-08f0d5",
+   "text": "Satin bowerbirds happily eat introduced weeds and help spread plants like camphor laurel, European olive and privet.",
+   "topic": "diet",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Diet",
+   "quote": "they are a major dispersal agent for a number of weedy plants, such as camphor laurel, the European olive and various species of privet"
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-ad4403",
+   "text": "Males build and decorate stick bowers with blue, yellow and shiny objects, including berries, flowers, snail shells and plastic items such as clothes pegs.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Courtship",
+   "quote": "Males build specialised stick structures, called bowers, which they decorate with blue, yellow, and shiny objects, including berries, flowers, snail shells, and plastic items such as ballpoint pens, drinking straws and clothes pegs"
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-1e90b8",
+   "text": "Males perform intense dances to woo females, but the displays can be mistaken by females for threats.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Courtship",
+   "quote": "males carry out intense behavioural displays called dances to woo their mates, but these can be treated as threat displays by the females"
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-76dc76",
+   "text": "Male bowerbirds sabotage rivals by destroying and stealing from each other's bowers.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Courtship",
+   "quote": "Male satin bowerbirds are known to destroy and steal from the bowers of one another."
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-aee02c",
+   "text": "The satin bowerbird's eggs are unusually large at around 19 grams and hatch after 21 days of incubation.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Nesting_and_life_cycle",
+   "quote": "The eggs are cream but streaked with brown, and are much larger than typical for a bird of its size at around 19 grams (0.67 oz); they are laid every other day and hatch asynchronously after 21 days of incubation."
+  },
+  {
+   "id": "ptilonorhynchus-violaceus-3d6b55",
+   "text": "A wild satin bowerbird has lived twenty-six years, the greatest longevity recorded for any banded songbird.",
+   "topic": "other",
+   "source_url": "https://en.wikipedia.org/wiki/Satin_bowerbird#Nesting_and_life_cycle",
+   "quote": "the record longevity in the wild of twenty-six years is the greatest for any banded passerine."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1372547314
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "sci": "Melithreptus gularis",
+ "com": "Black-chinned Honeyeater",
+ "slug": "melithreptus-gularis",
+ "wikipedia": {
+  "title": "Black-chinned honeyeater",
+  "url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater",
+  "revid": 1346796410
+ },
+ "ala": {
+  "name": "Melithreptus (Eidopsarus) gularis",
+  "years": [
+   2006,
+   2025
+  ],
+  "months": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   11,
+   8,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  "total": 21,
+  "share": 5.1e-06
+ },
+ "seasonality": {
+  "class": "rare visitor",
+  "confidence": "low",
+  "peak": [
+   "May",
+   "Jun",
+   "Jul"
+  ],
+  "low": [
+   "Jan",
+   "Sep",
+   "Dec"
+  ],
+  "rel": [
+   0.0,
+   0.0,
+   0.47,
+   0.0,
+   0.0,
+   6.63,
+   4.6,
+   0.0,
+   0.0,
+   0.3,
+   0.0,
+   0.0
+  ]
+ },
+ "facts": [
+  {
+   "id": "melithreptus-gularis-ba3a39",
+   "text": "The black-chinned honeyeater is a mid-sized honeyeater with olive-brown upperparts, a buff underside and a black head and throat.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Description",
+   "quote": "A mid-sized honeyeater ranging from 14 to 16 cm (5.6–6.4 in) in length, it is olive-brown above and buff below, with a black head, nape and throat"
+  },
+  {
+   "id": "melithreptus-gularis-a94318",
+   "text": "It has a striking bluish patch of bare skin over the eye and a white crescent-shaped patch on the nape.",
+   "topic": "appearance",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Description",
+   "quote": "with a bluish patch of bare skin over the eye and a white crescent-shaped patch on the nape"
+  },
+  {
+   "id": "melithreptus-gularis-789ba1",
+   "text": "It makes a scratchy creep-creep-creep call as well as a more musical one.",
+   "topic": "voice",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Description",
+   "quote": "It makes a scratchy creep-creep-creep call, as well as a more musical one."
+  },
+  {
+   "id": "melithreptus-gularis-de53a9",
+   "text": "It forages by probing into the bark of tree trunks and branches, like its close relatives the brown-headed and strong-billed honeyeaters.",
+   "topic": "behaviour",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Feeding",
+   "quote": "like its close relatives, the brown-headed and strong-billed honeyeaters, the black-chinned honeyeater forages by probing in the bark of trunks and branches of trees."
+  },
+  {
+   "id": "melithreptus-gularis-6f60c2",
+   "text": "It may nest from July to December, breeding once or twice in that period.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Breeding",
+   "quote": "Black-chinned honeyeaters may nest from July to December, breeding once or twice during this time."
+  },
+  {
+   "id": "melithreptus-gularis-4d64de",
+   "text": "Its nest is a thick-walled bowl of grasses and bark, hidden in the outer foliage of a tall tree, usually a eucalypt.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Breeding",
+   "quote": "The nest is a thick-walled bowl of grasses and bits of bark, lined with softer plant material, hidden in the outer foliage of a tall tree, usually a eucalypt."
+  },
+  {
+   "id": "melithreptus-gularis-1fceac",
+   "text": "It usually lays two shiny, buff-pink eggs sparsely spotted with red-brown.",
+   "topic": "breeding",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Breeding",
+   "quote": "One or (more commonly) two eggs are laid, 22 × 16 mm in size, and shiny, buff-pink, sparsely spotted with red-brown"
+  },
+  {
+   "id": "melithreptus-gularis-7f7ff4",
+   "text": "It lives in open woodland and dry sclerophyll forest, often near watercourses.",
+   "topic": "habitat",
+   "source_url": "https://en.wikipedia.org/wiki/Black-chinned_honeyeater#Distribution_and_habitat",
+   "quote": "It lives in open woodland and dry sclerophyll forest, often near watercourses."
+  }
+ ],
+ "facts_built": {
+  "model": "glm-5.3-flash",
+  "date": "2026-10-08",
+  "wikipedia_revid": 1346796410
+ }
+}
