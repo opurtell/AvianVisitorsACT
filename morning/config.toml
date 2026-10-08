@@ -1,0 +1,29 @@
+# The Dawn Chorus — single source of truth for the morning edition.
+# After changing [schedule], run:  python3 deploy/apply-schedule.py
+
+[schedule]
+run_time = "08:30"                 # local Canberra time, HH:MM
+timezone = "Australia/Sydney"
+
+[source]
+# ssh alias for the Pi. On greg it points at the Pi's tailnet address and
+# the restricted snapshot key; on the Mac, the LAN alias works as-is.
+ssh_host = "birdnet-pi"
+snapshot_command = "bin/birds-snapshot"
+db_path = "data/birds.db"          # relative to morning/
+
+[windows]
+lookback_hours = 24                # ends at the moment the run starts
+dawn_start = "civil_dawn"
+dawn_end_after_sunrise_min = 90    # clamped to run_time
+
+[credibility]
+min_confidence = 0.75              # or…
+min_detections = 3                 # …this many, to be headlined
+
+[llm]
+model = "glm-5.3-flash"
+attempts = 3
+
+[publish]
+target = "github-pages"

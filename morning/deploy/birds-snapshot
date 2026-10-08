@@ -1,0 +1,13 @@
+#!/bin/sh
+# Stream a consistent copy of the BirdNET detections DB to stdout.
+#
+# Installed on the Pi as ~/bin/birds-snapshot. greg's key in the Pi's
+# ~/.ssh/authorized_keys is forced to run only this script, so greg can
+# read the DB and nothing else. A plain copy isn't safe while BirdNET is
+# writing; .backup takes a consistent snapshot through SQLite.
+set -eu
+DB="$HOME/BirdNET-Pi/scripts/birds.db"
+TMP=$(mktemp /tmp/birds-snap.XXXXXX)
+trap 'rm -f "$TMP"' EXIT
+sqlite3 -readonly "$DB" ".backup '$TMP'"
+cat "$TMP"

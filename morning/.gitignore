@@ -1,0 +1,4 @@
+# DB snapshots and run state stay on the host
+data/
+state/
+editions/
