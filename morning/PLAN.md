@@ -6,7 +6,8 @@ short stories about specific birds (rare ones first, common ones in rotation)
 and sourced fun facts. Prose is written by `glm-5.3-flash` from facts the
 pipeline computes; the model never supplies numbers or facts of its own.
 
-Status: phases 0–3 done 2026-10-09; phase 4 (deploy on greg) next. Decided 2026-10-09:
+Status: phases 0–4 done 2026-10-09; live at https://opurtell.github.io/dawnchorus/,
+published by greg daily at 08:30. Phase 5 (optional extras) is next. Decided 2026-10-09:
 public on GitHub Pages; the Pi joins the tailnet for greg's DB fetch.
 
 ## Constraints this must respect
@@ -354,13 +355,19 @@ that phrase was banned). Changes from the plan above:
   backtests only. Phase 4 runs it on greg, where `glm.env` reads
   `~/.hermes/.env`.
 
-**For Oscar — credibility, before going public.** The Caspian Tern led
+**Resolved 2026-10-09 (phase 4): stricter bar for suspect species.** The Caspian Tern led
 6 Oct as "a rare visitor to the ACT" (ALA: 243 ACT records in 20 years), yet
 this station has "heard" it on 26 of 48 days. That pattern looks like a
 BirdNET misidentification rather than a resident tern. The prose now says
 only what the brief says, but the brief inherits the analysis: consider a
 higher confidence bar for species that are rare regionally yet frequent at
 the station (phase 1's credibility gate), or excluding the tern.
+Done as the first option: a species with regional rarity ≥ 0.6 heard on
+≥ 30% of station days is `suspect` and is headlined only with ≥ 2 calls at
+≥ 0.9 in the window (`[credibility] suspect_*` in `config.toml`). The tern
+has 50 calls over 29 days, one or two a day at any hour (one at 22:19),
+mean confidence 0.80; the rule holds it back on 8 of its last 9 days. No
+other species is affected.
 
 ### 4 · Deploy on greg
 
@@ -374,6 +381,36 @@ the station (phase 1's credibility gate), or excluding the tern.
 - Log to `~/backups/dawnchorus.log`. Optionally add a "Dawn Chorus:" line to
   paramedicpapers' `morning-health-check.py`.
 - Add a short section to the project `CLAUDE.md`.
+
+Progress (2026-10-09): done.
+
+- [x] `dawnchorus/publish.py` + `run.py --publish`: `editions/` on greg is a
+      clone of the public `opurtell/dawnchorus`; each run commits and pushes
+      (nothing changed → no commit). Pages serves `main` at
+      https://opurtell.github.io/dawnchorus/ (`.nojekyll` written).
+- [x] Push auth: a repo-scoped read-write deploy key on greg
+      (`~/.ssh/dawnchorus_deploy`, ssh alias `github-dawnchorus`). Commits are
+      authored "The Dawn Chorus" with Oscar's GitHub noreply address, so
+      greg's own git identity never appears in the public repo.
+- [x] Code on greg: `~/AvianVisitorsACT` (public clone, https, read-only),
+      venv in `morning/.venv`. Update with `git pull`. The ad-hoc
+      `~/dawnchorus-kb/` copy from phase 2 is now redundant (left in place).
+- [x] `deploy/apply-schedule.py` writes `dawnchorus.{service,timer}` from
+      `config.toml` (service is a template in `deploy/`). Timer:
+      `OnCalendar=*-*-* 08:30:00 Australia/Sydney`, `Persistent=true`, user
+      linger already on. Log: `~/backups/dawnchorus.log`.
+- [x] **Stale data:** a live run whose newest detection is older than
+      `stale_hours` (12) puts a "No birds reached the paper this morning"
+      front page up, naming the last call and linking the last edition. No
+      dated page, no archive entry; the next good run replaces it.
+- [x] First publish: `run.py --backtest 7 --publish` on greg (3–9 Oct;
+      4 of 7 in GLM prose, the rest template after 3 rejected drafts).
+      A `systemd-run --user` dry run confirmed the Pi fetch over the tailnet
+      and the GLM key work in systemd's environment. 53 tests pass on the Mac
+      (greg: 52 + 1 skipped, the cached-sources quote test).
+- [ ] Not done: a "Dawn Chorus:" line in paramedicpapers'
+      `morning-health-check.py` (optional; that script lives on greg in the
+      other project).
 
 ### 5 · Later, optional
 

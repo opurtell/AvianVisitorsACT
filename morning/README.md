@@ -1,7 +1,8 @@
 # The Dawn Chorus
 
 A newspaper-style morning edition of what the ACT station heard in the last
-24 hours. Plan, phases and safety rules: [PLAN.md](PLAN.md).
+24 hours, at https://opurtell.github.io/dawnchorus/. Plan, phases and safety
+rules: [PLAN.md](PLAN.md).
 
 ## Run it
 
@@ -72,3 +73,23 @@ the top of `dawnchorus/analyse.py`.
    `GLM_API_KEY`, `GLM_BASE_URL` (environment or `~/.hermes/.env`).
    `--no-llm` skips the model.
 5. `render.py`: Jinja2 page, scrub check, archive, index.
+
+## Deployment (greg)
+
+greg runs it daily at `[schedule] run_time` (08:30 Canberra) from
+`~/AvianVisitorsACT/morning`, via the systemd user timer `dawnchorus.timer`.
+`editions/` there is a clone of the public Pages repo `opurtell/dawnchorus`,
+pushed with a repo-scoped deploy key (ssh alias `github-dawnchorus`).
+
+```bash
+ssh greg
+cd ~/AvianVisitorsACT && git pull                  # ship code changes
+cd morning && python3 deploy/apply-schedule.py     # after editing [schedule]
+systemctl --user list-timers dawnchorus.timer      # next run
+tail -50 ~/backups/dawnchorus.log                  # last runs
+systemctl --user start dawnchorus.service          # run now (publishes)
+```
+
+If the newest detection is older than `[source] stale_hours`, the live run
+publishes a "no edition" front page instead of leaving yesterday's up.
+Never push to `opurtell/dawnchorus` from the Mac: greg's next push would fail.
