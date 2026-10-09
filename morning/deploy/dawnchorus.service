@@ -1,0 +1,15 @@
+# The Dawn Chorus: fetch, write, render and publish one edition.
+# Template: deploy/apply-schedule.py fills in the checkout path and installs this as
+# ~/.config/systemd/user/dawnchorus.service. Don't edit the installed copy.
+[Unit]
+Description=The Dawn Chorus morning edition
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory={root}
+ExecStart={root}/.venv/bin/python run.py --publish
+StandardOutput=append:%h/backups/dawnchorus.log
+StandardError=append:%h/backups/dawnchorus.log
+TimeoutStartSec=20min

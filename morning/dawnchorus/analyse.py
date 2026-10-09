@@ -69,6 +69,8 @@ class SpeciesDay:
     regional_occ: float = None         # BirdNET occurrence score, act-species-canberra.csv
     regional_rarity: float = 0.5       # 0 = commonest in the ACT set, 1 = rarest
     rarity: float = 0.0
+    strong_n: int = 0                  # calls at >= suspect_min_confidence in the window
+    suspect: bool = False              # rare regionally yet frequent here: stricter bar
     credible: bool = False
 
     @property
@@ -258,6 +260,7 @@ def analyse(db_path, end, cfg, regional=None):
             s = species[d.sci] = SpeciesDay(d.sci, kb.display_name(d.sci, d.com), slugify(d.sci))
         s.n += 1
         s.best_conf = max(s.best_conf, d.conf)
+        s.strong_n += d.conf >= cred["suspect_min_confidence"]
         s.first_at = s.first_at or d.at
         s.last_at = d.at
         s.hourly[d.at.hour] += 1
@@ -283,7 +286,15 @@ def analyse(db_path, end, cfg, regional=None):
         if s.sci in regional:
             s.regional_occ, s.regional_rarity = regional[s.sci]
         s.rarity = (1 - w_site) * s.regional_rarity + w_site * (1 - s.site_freq)
-        s.credible = s.best_conf >= cred["min_confidence"] or s.n >= cred["min_detections"]
+        # A bird that's rare in the ACT but turns up here most days is more
+        # likely a recurring misidentification than a resident (the Caspian
+        # Tern: 1–2 calls a day at any hour). It needs repeated strong calls.
+        s.suspect = (s.regional_rarity >= cred["suspect_regional_rarity"]
+                     and s.site_freq >= cred["suspect_site_freq"])
+        if s.suspect:
+            s.credible = s.strong_n >= cred["suspect_min_strong"]
+        else:
+            s.credible = s.best_conf >= cred["min_confidence"] or s.n >= cred["min_detections"]
 
     ranked = sorted(species.values(), key=lambda s: (-s.n, s.com))
 

@@ -17,6 +17,7 @@ longitude = 149.13
 ssh_host = "birdnet-pi"
 snapshot_command = "bin/birds-snapshot"
 db_path = "data/birds.db"          # relative to morning/
+stale_hours = 12                   # no detection this recent -> "no edition" front page
 
 [windows]
 lookback_hours = 24                # ends at the moment the run starts
@@ -26,6 +27,13 @@ dawn_end_after_sunrise_min = 90    # clamped to run_time
 [credibility]
 min_confidence = 0.75              # or…
 min_detections = 3                 # …this many, to be headlined
+# Rare in the ACT (regional rarity percentile) yet heard on this share of
+# station days: likely a recurring false positive, so instead it needs
+# suspect_min_strong calls at suspect_min_confidence in the window.
+suspect_regional_rarity = 0.6
+suspect_site_freq = 0.3
+suspect_min_confidence = 0.9
+suspect_min_strong = 2
 
 [llm]
 model = "glm-5.3-flash"

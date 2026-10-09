@@ -66,6 +66,19 @@ def test_credibility_gate(tmp_path):
     assert ed.lead.sci == MAGPIE
 
 
+def test_regionally_rare_but_frequent_here_needs_repeated_strong_calls(tmp_path):
+    # Boobook is rare in REGIONAL (0.7) but "heard" one call a day here: suspect.
+    nightly = [(datetime(2026, 9, 1, 22) + timedelta(days=k), BOOBOOK, 0.8) for k in range(37)]
+    one_strong = daily_magpies(39) + nightly + [(datetime(2026, 10, 9, 6, 0), BOOBOOK, 0.97)]
+    ed = edition(tmp_path, one_strong, DAY)
+    boobook = next(s for s in ed.species if s.sci == BOOBOOK)
+    assert boobook.suspect and not boobook.credible
+
+    two_strong = one_strong + [(datetime(2026, 10, 9, 6, 5), BOOBOOK, 0.91)]
+    ed = edition(tmp_path, two_strong, DAY)
+    assert next(s for s in ed.species if s.sci == BOOBOOK).credible
+
+
 def test_first_ever_leads_and_is_an_arrival(tmp_path):
     rows = daily_magpies(39) + [(datetime(2026, 10, 9, 6, 40), ORIOLE, 0.9)]
     ed = edition(tmp_path, rows, DAY)

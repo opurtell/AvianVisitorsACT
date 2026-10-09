@@ -130,3 +130,18 @@ def render_edition(ed, prose, out_dir):
     latest = next(iter(index))
     shutil.copy(out_dir / f"{latest}.html", out_dir / "index.html")
     return out_dir / name
+
+
+def render_stale(today, latest, out_dir):
+    """Front page for a morning with no fresh data: says so instead of
+    leaving yesterday's edition up. No dated page and no archive entry,
+    so the next good run puts a real edition back on index.html."""
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    index = load_index(out_dir)
+    html = env().get_template("stale.html.j2").render(
+        today=today, latest=latest, last_edition=next(iter(index), None))
+    scrub.check(html)
+    shutil.copy(TEMPLATES / "styles.css", out_dir / "styles.css")
+    (out_dir / "index.html").write_text(html)
+    return out_dir / "index.html"
